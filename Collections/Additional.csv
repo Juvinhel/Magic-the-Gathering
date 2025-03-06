@@ -1,4 +1,4 @@
-Name,Set code,Set name,Collector number,Foil,Rarity,Quantity,ManaBox ID,Scryfall ID,Language,Added date
-Deserted Beach,INR,Innistrad Remastered,276,normal,rare,1,102774,c819de09-dac2-407a-98c8-775865e9bdf8,de,04.03.2025
-Glacial Fortress,BLC,Bloomburrow Commander,307,normal,rare,1,96356,805ce12b-58eb-4584-a02e-d55ce3e527ce,en,04.03.2025
-Lonely Arroyo,OTJ,Outlaws of Thunder Junction,260,normal,common,4,93150,4b778b63-e5fc-4d63-a93b-4372f32cade2,de,04.03.2025
+Name,Set code,Language,Quantity
+Deserted Beach,INR,de,1
+Glacial Fortress,BLC,en,1
+Lonely Arroyo,OTJ,de,4
