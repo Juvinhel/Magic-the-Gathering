@@ -40,10 +40,12 @@ Cackling Prowler,FDN,de,2
 Campus Guide,FDN,de,2
 Cancel,FDN,de,1
 Carnelian Orb of Dragonkind,FDN,de,1
+Cat,TFDN,de,1
 Cat Collector,FDN,de,1
-Cathar Commando,FDN,de,1
+Cathar Commando,INR,de,1
 Cemetery Recruitment,FDN,de,1
 Clinquant Skymage,FDN,de,1
+Condemn,SPG,de,1
 Consuming Aberration,FDN,de,1
 Corsair Captain,FDN,de,1
 Courageous Goblin,FDN,de,1
@@ -66,8 +68,9 @@ Dreadwing Scavenger,FDN,de,1
 Dropkick Bomber,FDN,de,1
 Druid of the Cowl,FDN,de,1
 Dwynen's Elite,FDN,de,2
-Eaten Alive,FDN,de,2
+Eaten Alive,INR,de,2
 Eaten by Piranhas,FDN,de,1
+Elf Warrior,TFDN,de,1
 Elspeth's Smite,FDN,de,1
 Elvish Archdruid,FDN,de,1
 Elvish Regrower,FDN,de,1
@@ -76,6 +79,7 @@ Erudite Wizard,FDN,de,2
 Exclusion Mage,FDN,de,1
 Exsanguinate,FDN,de,2
 Faebloom Trick,FDN,de,1
+Faerie,TFDN,de,3
 Fake Your Own Death,FDN,de,1
 Fanatical Firebrand,FDN,de,1
 Felidar Savior,FDN,de,2
@@ -84,14 +88,17 @@ Fiery Annihilation,FDN,de,2
 Fire Elemental,FDN,de,1
 Firebrand Archer,FDN,de,1
 Firespitter Whelp,FDN,de,3
+Fish,TFDN,de,1
 Fishing Pole,FDN,de,1
 Fleeting Distraction,FDN,de,4
 Fleeting Flight,FDN,de,1
+Food,TFDN,de,2
 Frenzied Goblin,FDN,de,2
 "Giada, Font of Hope",FDN,de,1
 Giant Growth,FDN,de,2
 Gleaming Barrier,FDN,de,2
 Gnarlid Colony,FDN,de,1
+Goblin,TFDN,de,2
 Goblin Boarders,FDN,de,2
 Goblin Firebomb,FDN,de,1
 Goblin Negotiation,FDN,de,1
@@ -112,12 +119,14 @@ Hero's Downfall,FDN,de,2
 Heroic Reinforcements,FDN,de,1
 Highborn Vampire,FDN,de,1
 Hinterland Sanctifier,FDN,de,1
+Human,TFDN,de,2
 Hungry Ghoul,FDN,de,2
 Icewind Elemental,FDN,de,1
-Imprisoned in the Moon,FDN,de,1
+Imprisoned in the Moon,INR,de,1
 Incinerating Blast,FDN,de,2
 Infestation Sage,FDN,de,1
 Ingenious Leonin,FDN,de,1
+Insect,TFDN,de,1
 Inspiring Call,FDN,de,1
 Inspiring Overseer,FDN,de,1
 Into the Roil,FDN,de,1
@@ -128,6 +137,7 @@ Jungle Hollow,FDN,de,1
 Kargan Dragonrider,FDN,de,1
 Kindled Fury,FDN,de,1
 Kitesail Corsair,FDN,de,1
+Knight,TFDN,de,2
 "Kykar, Zephyr Awakener",FDN,de,1
 "Lathril, Blade of the Elves",FDN,de,1
 Leonin Skyhunter,FDN,de,1
@@ -158,12 +168,14 @@ Painful Quandary,FDN,de,1
 Perforating Artist,FDN,de,1
 Pilfer,FDN,de,1
 Pirate's Cutlass,FDN,de,1
+Powerstone,TBRO,de,1
 Prayer of Binding,FDN,de,1
 Preposterous Proportions,FDN,de,1
 Prideful Parent,FDN,de,2
 Quakestrider Ceratops,FDN,de,1
 Quick Study,FDN,de,1
 Quick-Draw Katana,FDN,de,3
+Rabbit,TFDN,de,1
 Raging Redcap,FDN,de,1
 Rapacious Dragon,FDN,de,1
 Ravenous Amulet,FDN,de,1
@@ -185,6 +197,8 @@ Skeleton Archer,FDN,de,1
 Skyraker Giant,FDN,de,1
 Skyship Buccaneer,FDN,de,1
 Snakeskin Veil,FDN,de,1
+Soldier,TBRO,de,1
+Soldier,TFDN,de,1
 Sower of Chaos,FDN,de,1
 Spectral Sailor,FDN,de,1
 Spitfire Lagac,FDN,de,3
@@ -202,12 +216,13 @@ Swiftwater Cliffs,FDN,de,1
 Sylvan Scavenging,FDN,de,2
 Tajuru Pathwarden,FDN,de,1
 Terror of Mount Velus,FDN,de,1
-Think Twice,FDN,de,1
+Think Twice,INR,de,1
 Thornweald Archer,FDN,de,1
 Thrashing Brontodon,FDN,de,1
 Thrill of Possibility,FDN,de,1
 Tolarian Terror,FDN,de,2
 Tragic Banshee,FDN,de,1
+Treasure,TFDN,de,4
 Treetop Snarespinner,FDN,de,2
 Twinblade Paladin,FDN,de,1
 Uncharted Haven,FDN,de,10
@@ -226,19 +241,5 @@ Wildwood Scourge,FDN,de,1
 Wind-Scarred Crag,FDN,de,2
 Witness Protection,FDN,de,2
 Youthful Valkyrie,FDN,de,1
+Zombie,TINR,de,3
 "Zul Ashur, Lich Lord",FDN,de,1
-Condemn,SPG,de,1
-Powerstone,TBRO,de,1
-Cat,TFDN,de,1
-Elf Warrior,TFDN,de,1
-Faerie,TFDN,de,3
-Fish,TFDN,de,1
-Food,TFDN,de,2
-Goblin,TFDN,de,2
-Human,TFDN,de,2
-Insect,TFDN,de,1
-Knight,TFDN,de,2
-Rabbit,TFDN,de,1
-Soldier,TFDN,de,2
-Treasure,TFDN,de,4
-Zombie,TFDN,de,3

@@ -1,5 +1,4 @@
 Name,Set code,Language,Quantity
-Leather Armor,AFR,de,1
 Aarakocra Sneak,CLB,de,1
 "Abdel Adrian, Gorion's Ward",CLB,de,2
 Acolyte of Bahamut,CLB,de,1
@@ -25,6 +24,7 @@ Bane's Contingency,CLB,de,1
 Beckoning Will-o'-Wisp,CLB,de,1
 "Bhaal, Lord of Murder",CLB,de,1
 Bhaal's Invoker,CLB,de,1
+"Bjorna, Nightfall Alchemist",SLX,de,1
 Black Dragon Gate,CLB,de,1
 Blade of Selves,CLB,de,1
 Blessed Hippogriff // Tyr's Blessing,CLB,de,2
@@ -61,6 +61,7 @@ Descent into Avernus,CLB,de,2
 Displacer Kitten,CLB,de,1
 Draconic Lore,CLB,de,1
 Draconic Muralists,CLB,de,2
+Dragon,TCMM,de,1
 Dragon Cultist,CLB,de,2
 Dragonborn Looter,CLB,de,2
 Dream Fracture,CLB,de,1
@@ -78,6 +79,7 @@ Emerald Dragon // Dissonant Wave,CLB,de,1
 "Erinis, Gloom Stalker",CLB,de,2
 Evolving Wilds,CLB,de,2
 Faceless One,CLB,de,1
+Faerie Dragon,TCLB,de,2
 Fang Dragon // Forktail Sweep,CLB,de,1
 Far Traveler,CLB,de,1
 Feywild Caretaker,CLB,de,1
@@ -112,10 +114,12 @@ Javelin of Lightning,CLB,de,1
 Juvenile Mist Dragon,CLB,de,1
 "Kagha, Shadow Archdruid",CLB,de,3
 "Karlach, Fury of Avernus",CLB,de,1
+Knight,TCLB,de,2
 "Korlessa, Scale Singer",CLB,de,1
 "Lae'zel, Vlaakith's Champion",CLB,de,1
 Lantern of Revealing,CLB,de,2
 Lapis Orb of Dragonkind,CLB,de,1
+Leather Armor,AFR,de,1
 Lightning Bolt,CLB,de,2
 "Livaan, Cultist of Tiamat",CLB,de,1
 "Lulu, Loyal Hollyphant",CLB,de,3
@@ -130,6 +134,7 @@ Master Chef,CLB,de,3
 "Mazzy, Truesword Paladin",CLB,de,1
 "Miirym, Sentinel Wyrm",CLB,de,1
 Mind Stone,CLB,de,1
+Mindmoil,RAV,de,1
 Minimus Containment,CLB,de,1
 "Minthara, Merciless Soul",CLB,de,3
 Modify Memory,CLB,de,1
@@ -167,11 +172,13 @@ Sailors' Bane,CLB,de,1
 Sapphire Dragon // Psionic Pulse,CLB,de,1
 Scaled Nurturer,CLB,de,1
 Scion of Halaster,CLB,de,2
+Search the City,RTR,de,1
 "Shadowheart, Dark Justiciar",CLB,de,1
 Shameless Charlatan,CLB,de,1
 Sharpshooter Elf,CLB,de,1
 Sigil of Myrkul,CLB,de,1
 "Sivriss, Nightmare Speaker",CLB,de,2
+Skeleton,TCLB,de,2
 Skullport Merchant,CLB,de,1
 Skullwinder,CLB,de,1
 Sky Diamond,CLB,de,1
@@ -193,6 +200,7 @@ Thieves' Tools,CLB,de,1
 Thrakkus the Butcher,CLB,de,1
 Topaz Dragon // Entropic Cloud,CLB,de,1
 Trailblazer's Torch,CLB,de,1
+Treasure,TCLB,de,1
 Treasure Keeper,CLB,de,1
 Two-Handed Axe // Sweeping Cleave,CLB,de,1
 Underdark Explorer,CLB,de,1
@@ -219,11 +227,3 @@ Young Blue Dragon // Sand Augury,CLB,de,2
 Young Red Dragon // Bathe in Gold,CLB,de,1
 Your Temple Is Under Attack,CLB,de,1
 Zhentarim Bandit,CLB,de,1
-Mindmoil,RAV,de,1
-Search the City,RTR,de,1
-"Bjorna, Nightfall Alchemist",SLX,de,1
-Dragon,TCLB,de,1
-Faerie Dragon,TCLB,de,2
-Knight,TCLB,de,2
-Skeleton,TCLB,de,2
-Treasure,TCLB,de,1
