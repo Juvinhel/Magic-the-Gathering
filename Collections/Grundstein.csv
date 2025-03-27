@@ -42,7 +42,7 @@ Cancel,FDN,de,1
 Carnelian Orb of Dragonkind,FDN,de,1
 Cat,TFDN,de,1
 Cat Collector,FDN,de,1
-Cathar Commando,INR,de,1
+Cathar Commando,FDN,de,1
 Cemetery Recruitment,FDN,de,1
 Clinquant Skymage,FDN,de,1
 Condemn,SPG,de,1
@@ -68,7 +68,7 @@ Dreadwing Scavenger,FDN,de,1
 Dropkick Bomber,FDN,de,1
 Druid of the Cowl,FDN,de,1
 Dwynen's Elite,FDN,de,2
-Eaten Alive,INR,de,2
+Eaten Alive,FDN,de,2
 Eaten by Piranhas,FDN,de,1
 Elf Warrior,TFDN,de,1
 Elspeth's Smite,FDN,de,1
@@ -122,7 +122,7 @@ Hinterland Sanctifier,FDN,de,1
 Human,TFDN,de,2
 Hungry Ghoul,FDN,de,2
 Icewind Elemental,FDN,de,1
-Imprisoned in the Moon,INR,de,1
+Imprisoned in the Moon,FDN,de,1
 Incinerating Blast,FDN,de,2
 Infestation Sage,FDN,de,1
 Ingenious Leonin,FDN,de,1
@@ -197,8 +197,7 @@ Skeleton Archer,FDN,de,1
 Skyraker Giant,FDN,de,1
 Skyship Buccaneer,FDN,de,1
 Snakeskin Veil,FDN,de,1
-Soldier,TBRO,de,1
-Soldier,TFDN,de,1
+Soldier,TFDN,de,2
 Sower of Chaos,FDN,de,1
 Spectral Sailor,FDN,de,1
 Spitfire Lagac,FDN,de,3
@@ -216,7 +215,7 @@ Swiftwater Cliffs,FDN,de,1
 Sylvan Scavenging,FDN,de,2
 Tajuru Pathwarden,FDN,de,1
 Terror of Mount Velus,FDN,de,1
-Think Twice,INR,de,1
+Think Twice,FDN,de,1
 Thornweald Archer,FDN,de,1
 Thrashing Brontodon,FDN,de,1
 Thrill of Possibility,FDN,de,1
@@ -241,5 +240,5 @@ Wildwood Scourge,FDN,de,1
 Wind-Scarred Crag,FDN,de,2
 Witness Protection,FDN,de,2
 Youthful Valkyrie,FDN,de,1
-Zombie,TINR,de,3
+Zombie,TFDN,de,3
 "Zul Ashur, Lich Lord",FDN,de,1
