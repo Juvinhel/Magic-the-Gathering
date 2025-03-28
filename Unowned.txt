@@ -1,5 +1,8 @@
 1 Abandoned Campground
 1 Akroma, Vision of Ixidor
+1 Archangel Elspeth
+1 Bastion of Remembrance
+1 Benalish Commander
 1 Blackcleave Cliffs
 1 Blazemire Verge
 1 Bleachbone Verge
@@ -12,6 +15,7 @@
 1 Cascade Bluffs
 1 Celestial Colonnade
 1 Commercial District
+1 Company Commander
 1 Concealed Courtyard
 1 Copperline Gorge
 1 Creeping Tar Pit
@@ -19,18 +23,24 @@
 1 Danitha, New Benalia's Light
 1 Darkmoss Bridge
 1 Darkslick Shores
+1 Dawn of a New Age
+1 Dawn of Hope
 1 Deathcap Glade
 1 Dragonskull Summit
 1 Dreamroot Cascade
 1 Drowned Catacomb
 1 Elegant Parlor
+1 Elspeth, Sun's Champion
+1 Elspeth, Sun's Nemesis
 1 Emmara, Soul of the Accord
 1 Enlightened Tutor
 1 Eroded Canyon
 1 Etched Cornfield
+1 Faramir, Field Commander
 1 Ferrous Lake
 1 Festering Gulch
 1 Fetid Pools
+1 Finale of Glory
 1 Fire-Lit Thicket
 1 Flooded Grove
 1 Floodfarm Verge
@@ -44,6 +54,7 @@
 1 Hedge Maze
 1 Hinterland Harbor
 1 Hissing Quagmire
+1 Horn of Valhalla // Ysgard's Call
 1 Hushwood Verge
 1 Inspiring Vantage
 1 Irrigated Farmland
@@ -52,14 +63,18 @@
 1 Kuldotha Forgemaster
 1 Lakeside Shack
 1 Lavaclaw Reaches
+1 Lossarnach Captain
 1 Lumbering Falls
 1 Lush Oasis
 1 Lush Portico
+1 Martial Coup
 1 Meticulous Archive
 1 Morphic Pool
 1 Mossfire Valley
 1 Murky Sewer
+1 Myrel, Shield of Argive
 1 Mystic Gate
+1 Nahiri, the Lithomancer
 1 Needle Spires
 1 Neglected Manor
 1 Nimbus Maze
@@ -67,6 +82,7 @@
 1 Overflowing Basin
 1 Overgrown Farmland
 1 Peculiar Lighthouse
+1 Prava of the Steel Legion
 1 Privileged Position
 1 Raging Ravine
 1 Raucous Carnival
@@ -74,6 +90,7 @@
 1 Razortrap Gorge
 1 Razorverge Thicket
 1 Rejuvenating Springs
+1 Rescue Retriever
 1 Restless Anchorage
 1 Restless Bivouac
 1 Restless Cottage
@@ -84,6 +101,7 @@
 1 Restless Spire
 1 Restless Vents
 1 Restless Vinestalk
+1 Reverent Hoplite
 1 Rhys the Redeemed
 1 Ring of Three Wishes
 1 Riverpyre Verge
@@ -100,8 +118,10 @@
 1 Sheltered Thicket
 1 Shineshadow Snarl
 1 Shipwreck Marsh
+1 Siege Veteran
 1 Sigarda, Font of Blessings
 1 Sigarda, Host of Herons
+1 Silvar, Devourer of the Free
 1 Slagwoods Bridge
 1 Soured Springs
 1 Spectator Seating
@@ -126,15 +146,23 @@
 1 Thornglint Bridge
 1 Thornspire Verge
 1 Thornwood Falls
+1 Thousand Moons Smithy // Barracks of the Thousand
 1 Thundering Falls
 1 Training Center
 1 Tree of Perdition
+1 Trynn, Champion of Freedom
 1 Twilight Mire
+1 Undercellar Sweep
 1 Undercity Sewers
 1 Underground Mortuary
 1 Undergrowth Stadium
+1 Valiant Rescuer
+1 Valiant Veteran
+1 Vault 101: Birthday Party
 1 Vault of Champions
 1 Vault of the Archangel
+1 Veteran Armorsmith
+1 Veteran Swordsmith
 1 Viridescent Bog
 1 Wandering Fumarole
 1 Wastewood Verge
