@@ -196,7 +196,7 @@ Brainspoil,RAV,de,1
 Brainstorm,CST,de,3
 Bramble Sovereign,CLB,de,1
 Bramblewood Paragon,MOR,de,1
-Brandywine Farmer,LTR,de,1
+Brandywine Farmer,LTR,de,2
 Brass's Bounty,FDN,de,1
 Breath of Fury,C16,de,1
 Breath Weapon,CLB,de,1
@@ -230,6 +230,7 @@ Cackling Prowler,FDN,de,2
 "Cadira, Caller of the Small",CLB,de,1
 "Caelorna, Coral Tyrant",DFT,de,2
 Cage of Hands,CMR,de,2
+Call of the Ring,LTR,de,1
 Call to Glory,CHK,de,4
 Callous Deceiver,CHK,de,2
 Camera Launcher,DFT,de,3
@@ -277,10 +278,12 @@ Circle of Affliction,PLC,de,2
 Circle of Protection: Black,9ED,de,1
 Circle of Protection: Red,9ED,de,1
 Circle of the Land Druid,CLB,de,1
+Cirith Ungol Patrol,LTR,de,1
 Citadel Gate,CLB,de,2
 Citanul Stalwart,BRO,de,1
 Citanul Woodreaders,TSR,de,1
 Civic Wayfinder,DDR,de,2
+Claim the Precious,LTR,de,1
 Clamorous Ironclad,DFT,de,2
 Clawing Torment,NEO,en,1
 Cliffgate,CLB,de,1
@@ -474,7 +477,7 @@ Echoing Decay,DST,de,1
 Echoing Ruin,DST,de,2
 Echoing Truth,DMC,de,2
 Eiganjo Exemplar,NEO,en,2
-Elanor Gardner,LTR,de,1
+Elanor Gardner,LTR,de,2
 Elder Brain,CLB,de,1
 Eldrazi,TBRC,de,1
 Eldritch Pact,CLB,de,1
@@ -508,6 +511,7 @@ Engine Rat,DFT,de,3
 Enigma Eidolon,DIS,de,3
 Enormous Baloth,M10,de,2
 Enrage,DPA,de,1
+Enraged Huorn,LTR,de,1
 Enslave,TSR,de,1
 Ent's Fury,LTR,de,1
 Entropic Eidolon,DIS,de,1
@@ -631,6 +635,7 @@ Furnace Dragon,DST,de,1
 Fury Charm,IMA,de,1
 Futurist Sentinel,NEO,en,1
 Gaddock Teeg,UMA,de,1
+Galadhrim Bow,LTR,de,1
 Gale Force,CHK,de,1
 Galvanic Arc,RAV,de,1
 "Ganax, Astral Hunter",CLB,de,2
@@ -700,9 +705,12 @@ Goldmeadow Harrier,DDF,de,1
 Goldmire Bridge,BRC,de,1
 Golem-Skin Gauntlets,2XM,de,1
 Golgari Rotwurm,MM3,de,1
+"Gollum, Patient Plotter",LTR,de,1
+Gollum's Bite,LTR,de,1
 Gorehorn Raider,FDN,de,1
 "Gorion, Wise Mentor",CLB,de,1
 Gossamer Phantasm,TSR,de,2
+"Gothmog, Morgul Lieutenant",LTR,de,1
 Graceful Adept,CHK,de,2
 Grappling Kraken,FDN,de,1
 Grave Peril,C15,de,1
@@ -927,6 +935,7 @@ Lantern of Revealing,CLB,de,2
 Lapis Orb of Dragonkind,CLB,de,1
 Lash Out,CMD,de,1
 Last Gasp,RVR,de,1
+Last March of the Ents,LTR,de,1
 Lat-Nam Adept,BRO,de,1
 Lat-Nam's Legacy,CST,de,2
 Latchkey Faerie,ZNC,de,1
@@ -1026,7 +1035,7 @@ Memory Sluice,SHM,de,1
 "Mendicant Core, Guidelight",DFT,de,1
 Mending Hands,9ED,de,2
 Merfolk Thaumaturgist,PLC,de,1
-Meriadoc Brandybuck,LTR,de,1
+Meriadoc Brandybuck,LTR,de,2
 Metal Fatigue,DST,de,2
 Metalwork Colossus,BRC,de,1
 Midnight Covenant,CHK,de,1
@@ -1082,6 +1091,7 @@ Moonglove Changeling,MOR,de,1
 Moonglove Extract,IMA,de,1
 Moonlight Bargain,C18,de,1
 Moonrise Cleric,BLB,de,1
+Mordor Muster,LTR,de,1
 Mosquito Guard,DDF,de,1
 Moss Diamond,CLB,de,1
 Moss Kami,CHK,de,2
@@ -1103,9 +1113,11 @@ Myriad Landscape,BRC,de,1
 Mystic Archaeologist,FDN,de,1
 Mystic Melting,CSP,de,1
 Mystic Restraints,CHK,de,3
+Nasty End,LTR,de,1
 Naturalize,9ED,de,1
 Nature's Lore,CLB,de,1
 Navigation Orb,CLB,de,1
+Nazgûl,LTR,de,1
 Necrogen Spellbomb,MRD,de,1
 Nectar Faerie,LRW,de,1
 Needlepeak Spider,TSR,de,2
@@ -1198,6 +1210,7 @@ Peerless Samurai,NEO,en,1
 Pegasus Guardian // Rescue the Foal,CLB,de,1
 Pelargir Survivor,LTR,de,1
 Penregon Strongbull,BRO,de,1
+Peregrin Took,LTR,de,1
 Perforating Artist,FDN,de,1
 Perilous Snare,DFT,de,1
 Persistent Marshstalker,BLB,de,1
@@ -1215,6 +1228,7 @@ Pillory of the Sleepless,GPT,de,1
 Pilot,TDFT,de,3
 Pinecrest Ridge,CHK,de,1
 Pious Kitsune,CHK,de,2
+Pippin's Bravery,LTR,de,1
 Piracy Charm,TSR,de,1
 Pirate's Cutlass,FDN,de,1
 Pit Automaton,DFT,de,1
@@ -1265,7 +1279,7 @@ Quakestrider Ceratops,FDN,de,1
 Quarrel's End,LTR,de,1
 Quick Study,FDN,de,1
 Quick-Draw Katana,FDN,de,3
-"Quickbeam, Upstart Ent",LTR,de,1
+"Quickbeam, Upstart Ent",LTR,de,2
 Quickchange,RAV,de,3
 Quiet Purity,CHK,de,1
 Qumulox,MM2,de,2
@@ -1330,11 +1344,12 @@ Return to Action,NEO,en,1
 Revel of the Fallen God,JOU,en,1
 Revenge of the Rats,FDN,de,1
 Reverse Damage,9ED,de,1
-Revive the Shire,LTR,de,1
+Revive the Shire,LTR,de,2
 Ride's End,DFT,de,2
 Ridged Kusite,TSR,de,1
 Righteous Authority,C18,en,1
 Rimebound Dead,CSP,de,2
+Ringwraiths,LTR,de,1
 Riot Spikes,GK2,de,3
 Ripclaw Wrangler,DFT,de,2
 Rise from the Wreck,DFT,de,2
@@ -1448,6 +1463,7 @@ Sharding Sphinx,BRC,de,1
 Sharpshooter Elf,CLB,de,1
 Sharuum the Hegemon,BRC,de,1
 Shefet Archfiend,DFT,de,1
+Shelob's Ambush,LTR,de,1
 Shimmer Dragon,BRC,de,1
 "Shisato, Whispering Hunter",CHK,de,1
 Shivan Dragon,FDN,de,1
@@ -1580,6 +1596,7 @@ Steel Overseer,BRC,de,1
 Steeling Stance,DIS,de,4
 Steelshaper's Gift,CMM,de,1
 Stern Lesson,BRO,de,1
+Stew the Coneys,LTR,de,1
 Stinkweed Imp,RAV,de,1
 Stoic Ephemera,GK2,de,2
 Stone Rain,9ED,de,2
@@ -1776,6 +1793,7 @@ Unsummon,FDN,de,5
 Unswerving Sloth,DFT,de,1
 Untamed Hunger,FDN,de,1
 Ur-Golem's Eye,C14,de,3
+Uruk-hai Berserker,LTR,de,1
 "Urza, Chief Artificer",BRC,de,2
 "Urza, Powerstone Prodigy",BRO,de,1
 "Urza, Prince of Kroog",BRO,de,2
@@ -1898,6 +1916,7 @@ Wondrous Crucible,BRC,de,1
 Woodwraith Strangler,RAV,de,1
 Word of Command,2ED,de,1
 Workshop Elders,BRC,de,1
+Wose Pathfinder,LTR,de,1
 Wrap in Vigor,CNS,de,1
 Wrathful Red Dragon,CLB,de,1
 Wreck Hunter,BRC,de,1
