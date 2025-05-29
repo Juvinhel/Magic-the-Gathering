@@ -132,7 +132,6 @@
 1 Temple of Triumph
 1 Thornglint Bridge
 1 Thornspire Verge
-1 Thornwood Falls
 1 Thousand Moons Smithy // Barracks of the Thousand
 1 Thundering Falls
 1 Training Center
