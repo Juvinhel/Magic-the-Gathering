@@ -42,7 +42,6 @@
 1 General Ferrous Rokiric
 1 Ghalta and Mavren
 1 Gloomlake Verge
-1 Graven Cairns
 1 Haunt of the Dead Marshes
 1 Hedge Maze
 1 Hinterland Harbor
@@ -61,7 +60,6 @@
 1 Lush Portico
 1 Meticulous Archive
 1 Morphic Pool
-1 Mossfire Valley
 1 Murky Sewer
 1 Myrel, Shield of Argive
 1 Mystic Gate
@@ -95,17 +93,12 @@
 1 Ring of Three Wishes
 1 Riverpyre Verge
 1 Rockfall Vale
-1 Rootbound Crag
-1 Rugged Prairie
 1 Rustvale Bridge
 1 Sanitarium Skeleton
-1 Scattered Groves
 1 Sea of Clouds
 1 Seachrome Coast
 1 Shambling Vent
 1 Shattered Sanctum
-1 Sheltered Thicket
-1 Shineshadow Snarl
 1 Siege Veteran
 1 Sigarda, Font of Blessings
 1 Sigarda, Host of Herons
@@ -117,19 +110,13 @@
 1 Stirring Wildwood
 1 Strangled Cemetery
 1 Sulfur Falls
-1 Sungrass Prairie
 1 Sunken Ruins
-1 Sunpetal Grove
-1 Sunscorched Divide
 1 Tainted Isle
 1 Tainted Peak
 1 Tainted Wood
 1 Tanglepool Bridge
-1 Temple of Abandon
 1 Temple of Malady
 1 Temple of Mystery
-1 Temple of Plenty
-1 Temple of Triumph
 1 Thornglint Bridge
 1 Thornspire Verge
 1 Thousand Moons Smithy // Barracks of the Thousand
@@ -144,7 +131,6 @@
 1 Undergrowth Stadium
 1 Valiant Rescuer
 1 Valiant Veteran
-1 Vault 101: Birthday Party
 1 Vault of Champions
 1 Vault of the Archangel
 1 Veteran Swordsmith
