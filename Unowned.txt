@@ -1,5 +1,7 @@
 1 Abandoned Campground
+1 Aether Syphon
 1 Akroma, Vision of Ixidor
+1 Amonkhet Raceway
 1 Angel's Feather
 1 Archangel Elspeth
 1 Bastion of Remembrance
@@ -7,12 +9,14 @@
 1 Blazemire Verge
 1 Bleachbone Verge
 1 Bleeding Woods
+1 Blinkmoth Urn
 1 Blooming Marsh
 1 Botanical Sanctum
 1 Brilliant Restoration
 1 Bristling Backwoods
 1 Cascade Bluffs
 1 Celestial Colonnade
+1 Cephalopod Sentry
 1 Commercial District
 1 Company Commander
 1 Concealed Courtyard
@@ -24,13 +28,16 @@
 1 Dawn of a New Age
 1 Dawn of Hope
 1 Deathcap Glade
+1 Diversion Unit
 1 Dragon's Claw
 1 Dreamroot Cascade
+1 Dutiful Replicator
 1 Elegant Parlor
 1 Elspeth, Sun's Nemesis
 1 Emmara, Soul of the Accord
 1 Enlightened Tutor
 1 Eroded Canyon
+1 Esoteric Duplicator
 1 Etched Cornfield
 1 Faramir, Field Commander
 1 Ferrous Lake
@@ -42,35 +49,48 @@
 1 General Ferrous Rokiric
 1 Ghalta and Mavren
 1 Gloomlake Verge
+1 Gold-Forged Thopteryx
+1 Guidelight Synergist
 1 Haunt of the Dead Marshes
 1 Hedge Maze
 1 Hinterland Harbor
 1 Hissing Quagmire
 1 Horn of Valhalla // Ysgard's Call
 1 Hushwood Verge
+1 Illustrious Wanderglyph
 1 Inspiring Vantage
+1 Intelligence Bobblehead
 1 Irrigated Farmland
 1 Jagged Barrens
 1 Kaheera, the Orphanguard
+1 Kappa Cannoneer
 1 Kuldotha Forgemaster
 1 Lakeside Shack
 1 Lossarnach Captain
 1 Lumbering Falls
 1 Lush Oasis
 1 Lush Portico
+1 Marketback Walker
 1 Meticulous Archive
+1 Moonsilver Key
 1 Morphic Pool
 1 Murky Sewer
+1 Myr Retriever
+1 Myr Turbine
 1 Myrel, Shield of Argive
 1 Mystic Gate
 1 Needle Spires
 1 Neglected Manor
+1 Nesting Bot
 1 Nimbus Maze
 1 Oswald Fiddlebender
 1 Overflowing Basin
 1 Overgrown Farmland
 1 Peculiar Lighthouse
+1 Power Depot
 1 Privileged Position
+1 Prowler's Helm
+1 Racers' Scoreboard
 1 Raging Ravine
 1 Raucous Carnival
 1 Raucous Theater
@@ -95,10 +115,15 @@
 1 Rockfall Vale
 1 Rustvale Bridge
 1 Sanitarium Skeleton
+1 Scourglass
+1 Scrap Trawler
+1 Scythe of the Wretched
 1 Sea of Clouds
 1 Seachrome Coast
+1 Shambling Suit
 1 Shambling Vent
 1 Shattered Sanctum
+1 Shimmer Myr
 1 Siege Veteran
 1 Sigarda, Font of Blessings
 1 Sigarda, Host of Herons
@@ -111,6 +136,7 @@
 1 Strangled Cemetery
 1 Sulfur Falls
 1 Sunken Ruins
+1 Suspicious Bookcase
 1 Tainted Isle
 1 Tainted Peak
 1 Tainted Wood
@@ -121,8 +147,11 @@
 1 Thornspire Verge
 1 Thousand Moons Smithy // Barracks of the Thousand
 1 Thundering Falls
+1 Trailblazer's Boots
 1 Training Center
+1 Transmutation Font
 1 Tree of Perdition
+1 Trophy Mage
 1 Trynn, Champion of Freedom
 1 Twilight Mire
 1 Undercellar Sweep
@@ -135,6 +164,7 @@
 1 Vault of the Archangel
 1 Veteran Swordsmith
 1 Viridescent Bog
+1 Voltaic Key
 1 Wandering Fumarole
 1 Wastewood Verge
 1 Wooded Bastion
