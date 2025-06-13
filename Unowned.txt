@@ -21,7 +21,10 @@
 1 Company Commander
 1 Concealed Courtyard
 1 Copperline Gorge
+1 Counterspell
 1 Creosote Heath
+1 Cyberdrive Awakener
+1 Cyclonic Rift
 1 Danitha, New Benalia's Light
 1 Darkmoss Bridge
 1 Darkslick Shores
@@ -29,6 +32,7 @@
 1 Dawn of Hope
 1 Deathcap Glade
 1 Diversion Unit
+1 Dovin's Veto
 1 Dragon's Claw
 1 Dreamroot Cascade
 1 Dutiful Replicator
@@ -39,12 +43,14 @@
 1 Eroded Canyon
 1 Esoteric Duplicator
 1 Etched Cornfield
+1 Ethersworn Canonist
 1 Faramir, Field Commander
 1 Ferrous Lake
 1 Festering Gulch
 1 Fire-Lit Thicket
 1 Flooded Grove
 1 Floodfarm Verge
+1 Forensic Gadgeteer
 1 Fortified Beachhead
 1 General Ferrous Rokiric
 1 Ghalta and Mavren
@@ -53,6 +59,7 @@
 1 Guidelight Synergist
 1 Haunt of the Dead Marshes
 1 Hedge Maze
+1 Herald of Eternal Dawn
 1 Hinterland Harbor
 1 Hissing Quagmire
 1 Horn of Valhalla // Ysgard's Call
@@ -83,6 +90,8 @@
 1 Neglected Manor
 1 Nesting Bot
 1 Nimbus Maze
+1 Oltec Matterweaver
+1 Organic Extinction
 1 Oswald Fiddlebender
 1 Overflowing Basin
 1 Overgrown Farmland
@@ -128,12 +137,14 @@
 1 Sigarda, Font of Blessings
 1 Sigarda, Host of Herons
 1 Silvar, Devourer of the Free
+1 Skrelv, Defector Mite
 1 Slagwoods Bridge
 1 Soured Springs
 1 Spectator Seating
 1 Spirebluff Canal
 1 Stirring Wildwood
 1 Strangled Cemetery
+1 Stridehangar Automaton
 1 Sulfur Falls
 1 Sunken Ruins
 1 Suspicious Bookcase
@@ -158,12 +169,14 @@
 1 Undercity Sewers
 1 Underground Mortuary
 1 Undergrowth Stadium
+1 Unwinding Clock
 1 Valiant Rescuer
 1 Valiant Veteran
 1 Vault of Champions
 1 Vault of the Archangel
 1 Veteran Swordsmith
 1 Viridescent Bog
+1 Vnwxt, Verbose Host
 1 Voltaic Key
 1 Wandering Fumarole
 1 Wastewood Verge

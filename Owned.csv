@@ -752,7 +752,7 @@ Fang-Druid Summoner,DFT,de,1
 Far Traveler,CLB,de,1
 Farhaven Elf,KHC,de,1
 "Farid, Enterprising Salvager",BRC,de,1
-Farseek,FIC,de,1
+Farseek,FCA,de,1
 Farseek,RVR,de,2
 Farsight Mask,PCA,de,1
 Fate of the Sun-Cryst,FIN,de,1
@@ -1698,7 +1698,7 @@ Reito Lantern,CNS,de,1
 Rejoin the Fight,FIC,de,1
 Relic of Progenitus,BRC,de,1
 Reliquary Tower,BRC,de,1
-Reliquary Tower,WHO,de,1
+Reliquary Tower,DSC,de,1
 Remove Soul,10E,de,5
 "Renari, Merchant of Marvels",CLB,de,1
 Rend Spirit,CHK,de,1
@@ -1734,7 +1734,7 @@ Risky Shortcut,DFT,de,2
 Rite of Renewal,TDM,de,1
 River Kaijin,CHK,de,4
 River of Tears,BRC,de,1
-River of Tears,WHO,de,1
+River of Tears,MKC,de,1
 River's Grasp,SHM,de,1
 "Rix Maadi, Dungeon Palace",C19,de,1
 Roadside Assistance,DFT,de,1
@@ -1859,8 +1859,8 @@ Sewerdreg,RAV,de,1
 Shadow Lance,GPT,de,1
 "Shadow, Mysterious Assassin",FIC,de,1
 Shadowblood Ridge,BRC,de,1
+Shadowblood Ridge,DSC,de,1
 Shadowblood Ridge,FIC,de,1
-Shadowblood Ridge,WHO,de,1
 "Shadowheart, Dark Justiciar",CLB,de,1
 Shadowy Backstreet,MKM,de,1
 Shameless Charlatan,CLB,de,1
@@ -1874,7 +1874,7 @@ Shelob's Ambush,LTR,de,1
 Sheltered Thicket,PIP,de,1
 Shimmer Dragon,BRC,de,1
 Shineshadow Snarl,FIC,de,1
-Shipwreck Marsh,WHO,de,1
+Shipwreck Marsh,INR,de,1
 "Shisato, Whispering Hunter",CHK,de,1
 Shivan Dragon,FDN,de,1
 Shock,9ED,de,4
@@ -1948,25 +1948,25 @@ Slith Bloodletter,MRD,de,1
 "Slobad, Goblin Tinkerer",BRC,de,1
 Smelting Vat,BRC,de,1
 Smoldering Marsh,BRC,de,1
+Smoldering Marsh,DSC,de,1
 Smoldering Marsh,FIC,de,1
-Smoldering Marsh,WHO,de,1
 Snakeskin Veil,FDN,de,1
 Snapping Drake,10E,de,2
 Snort,FIC,de,1
 Snowmelt Stag,TDM,de,2
-Snuff Out,WHO,de,1
+Snuff Out,GVL,de,1
 Soilshaper,CHK,de,3
 Sokenzan Bruiser,CHK,de,2
 Sol Ring,BRC,de,2
+Sol Ring,DRC,de,1
 Sol Ring,FIC,de,1
 Sol Ring,PIP,de,1
-Sol Ring,WHO,de,1
 Soldier,TFDN,de,2
 Soldier,TTDM,de,2
 Soldier Replica,MRD,de,1
 Solemn Simulacrum,BRC,de,1
+Solemn Simulacrum,DRC,de,1
 Solemn Simulacrum,FIC,de,1
-Solemn Simulacrum,WHO,de,1
 Somber Hoverguard,MM2,de,2
 Sonic Screwdriver,WHO,en,1
 Sontaran General,WHO,de,1
@@ -2049,8 +2049,7 @@ Stonespeaker Crystal,CLB,de,2
 Storm Crow,9ED,de,1
 Storm Fleet Spy,FDN,de,1
 Storm King's Thunder,CLB,de,1
-Stormcarved Coast,INR,de,1
-Stormcarved Coast,WHO,de,1
+Stormcarved Coast,INR,de,2
 Stormchaser's Talent,BLB,de,1
 Stormplain Detainment,TDM,de,1
 Storyweave,NEO,en,1
@@ -2088,7 +2087,7 @@ Sunforger,CMR,de,1
 Sungrass Prairie,PIP,de,1
 "Sunhome, Fortress of the Legion",OTC,de,1
 Sunken Hollow,BRC,de,1
-Sunken Hollow,WHO,de,1
+Sunken Hollow,DRC,de,1
 Sunlance,TSR,de,1
 Sunlit Marsh,FIC,de,1
 Sunpetal Grove,PIP,de,1
@@ -2135,9 +2134,9 @@ Taj-Nar Swordsmith,C17,de,1
 Tajuru Pathwarden,FDN,de,1
 Take Flight,BRO,de,1
 Talisman of Conviction,FIC,de,1
-Talisman of Dominance,WHO,de,1
+Talisman of Dominance,DRC,de,1
+Talisman of Indulgence,DSC,de,1
 Talisman of Indulgence,FIC,de,1
-Talisman of Indulgence,WHO,de,1
 Talisman of Progress,M3C,de,1
 Tangle Asp,5DN,de,1
 Tangle Golem,DST,de,1
@@ -2159,18 +2158,18 @@ Tempered Steel,BRC,de,1
 Tempest Hawk,TDM,de,1
 Temple of Abandon,PIP,de,1
 Temple of Deceit,BRC,de,2
-Temple of Deceit,WHO,de,1
+Temple of Deceit,DRC,de,1
 Temple of Enlightenment,BRC,de,1
 Temple of Epiphany,BRC,de,1
-Temple of Epiphany,WHO,de,1
+Temple of Epiphany,DRC,de,1
 Temple of Malice,BRC,de,1
-Temple of Malice,WHO,de,1
+Temple of Malice,FDN,de,1
 Temple of Plenty,PIP,de,1
 Temple of Silence,BRC,de,1
 Temple of Silence,DRC,de,1
 Temple of the Dragon Queen,AFR,de,1
+Temple of the False God,DSC,de,1
 Temple of the False God,PIP,de,1
-Temple of the False God,WHO,de,1
 Temple of Triumph,PIP,de,1
 Temur Battlecrier,TDM,de,1
 Temur Monument,TDM,de,1
@@ -2182,8 +2181,8 @@ Terisiare's Devastation,BRC,de,1
 "Terra, Herald of Hope",FIC,de,1
 Terraformer,RAV,de,1
 Terramorphic Expanse,BRC,de,1
+Terramorphic Expanse,DRC,de,1
 Terramorphic Expanse,PIP,de,1
-Terramorphic Expanse,WHO,de,1
 "Terrian, World Tyrant",DFT,de,1
 Territorial Gorger,KLD,en,1
 Terror of Mount Velus,FDN,de,1
@@ -2235,7 +2234,7 @@ Thornwood Falls,TDM,de,1
 Thought Monitor,BRC,de,1
 Thought Prison,MRD,de,1
 Thought Vessel,BRC,de,1
-Thought Vessel,WHO,de,1
+Thought Vessel,DSC,de,1
 Thoughtbind,CHK,de,2
 Thoughtcast,BRC,de,1
 Thrakkus the Butcher,CLB,de,1
@@ -2248,7 +2247,7 @@ Thraxodemon,BRO,de,1
 Three Tree Mascot,BLB,de,1
 Thrill of Possibility,FDN,de,1
 Thrive,2X2,de,2
-Thriving Moor,WHO,de,1
+Thriving Moor,DSC,de,1
 Thunderhead Gunner,DFT,de,1
 Thunderheads,GK1,de,2
 Thundersong Trumpeter,MM3,de,1
@@ -2440,7 +2439,7 @@ Wasteland Survival Guide,TPIP,de,1
 Wayfarer's Bauble,BRC,de,1
 Wayfarer's Bauble,CLB,de,2
 Wayfarer's Bauble,FIC,de,1
-Wayfarer's Bauble,WHO,de,1
+Wayfarer's Bauble,M3C,de,1
 Weakstone's Subjugation,BRO,de,2
 Wear Away,CHK,de,2
 Weaver of Blossoms // Blossom-Clad Werewolf,VOW,de,1
@@ -2500,7 +2499,7 @@ Word of Command,2ED,de,1
 Workshop Elders,BRC,de,1
 Worthy Cost,TDM,de,1
 Wose Pathfinder,LTR,de,1
-Wound Reflection,WHO,de,1
+Wound Reflection,2XM,de,1
 Wrap in Vigor,CNS,de,1
 Wrathful Red Dragon,CLB,de,1
 Wreck Hunter,BRC,de,1
