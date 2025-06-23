@@ -1,0 +1,176 @@
+name: Multicolor Lands
+description: ""
+main:
+  - 1 Cascade Bluffs
+  - 1 Clifftop Retreat
+  - 1 Darkwater Catacombs
+  - 1 Desolate Mire
+  - 1 Dragonskull Summit
+  - 1 Drowned Catacomb
+  - 1 Ferrous Lake
+  - 1 Fetid Heath
+  - 1 Fire-Lit Thicket
+  - 1 Flooded Grove
+  - 1 Glacial Fortress
+  - 1 Graven Cairns
+  - 1 Hinterland Harbor
+  - 1 Isolated Chapel
+  - 1 Mossfire Valley
+  - 1 Mystic Gate
+  - 1 Overflowing Basin
+  - 1 Rootbound Crag
+  - 1 Rugged Prairie
+  - 1 Shadowblood Ridge
+  - 1 Skycloud Expanse
+  - 1 Sulfur Falls
+  - 1 Sungrass Prairie
+  - 1 Sunken Ruins
+  - 1 Sunpetal Grove
+  - 1 Sunscorched Divide
+  - 1 Twilight Mire
+  - 1 Viridescent Bog
+  - 1 Wooded Bastion
+  - 1 Woodland Cemetery
+  - gain 1 life:
+      - 1 Bloodfell Caves
+      - 1 Blossoming Sands
+      - 1 Dismal Backwater
+      - 1 Jungle Hollow
+      - 1 Rugged Highlands
+      - 1 Scoured Barrens
+      - 1 Swiftwater Cliffs
+      - 1 Thornwood Falls
+      - 1 Tranquil Cove
+      - 1 Wind-Scarred Crag
+  - deal 1 damage:
+      - 1 Abraded Bluffs
+      - 1 Bristling Backwoods
+      - 1 Creosote Heath
+      - 1 Eroded Canyon
+      - 1 Festering Gulch
+      - 1 Forlorn Flats
+      - 1 Jagged Barrens
+      - 1 Lonely Arroyo
+      - 1 Lush Oasis
+      - 1 Soured Springs
+  - 2 or fewer lands:
+      - 1 Blackcleave Cliffs
+      - 1 Blooming Marsh
+      - 1 Botanical Sanctum
+      - 1 Concealed Courtyard
+      - 1 Copperline Gorge
+      - 1 Darkslick Shores
+      - 1 Inspiring Vantage
+      - 1 Razorverge Thicket
+      - 1 Seachrome Coast
+      - 1 Spirebluff Canal
+  - 2 or more lands:
+      - 1 Deathcap Glade
+      - 1 Deserted Beach
+      - 1 Dreamroot Cascade
+      - 1 Haunted Ridge
+      - 1 Overgrown Farmland
+      - 1 Rockfall Vale
+      - 1 Shattered Sanctum
+      - 1 Shipwreck Marsh
+      - 1 Stormcarved Coast
+      - 1 Sundown Pass
+  - surveil 1:
+      - 1 Commercial District
+      - 1 Elegant Parlor
+      - 1 Hedge Maze
+      - 1 Lush Portico
+      - 1 Meticulous Archive
+      - 1 Raucous Theater
+      - 1 Shadowy Backstreet
+      - 1 Thundering Falls
+      - 1 Undercity Sewers
+      - 1 Underground Mortuary
+  - scry 1:
+      - 1 Temple of Epiphany
+      - 1 Temple of Malady
+      - 1 Temple of Malice
+      - 1 Temple of Mystery
+      - 1 Temple of Plenty
+      - 1 Temple of Silence
+      - 1 Temple of Triumph
+      - 1 Temple of Abandon
+      - 1 Temple of Deceit
+      - 1 Temple of Enlightenment
+  - 2 or more opponents:
+      - 1 Bountiful Promenade
+      - 1 Luxury Suite
+      - 1 Morphic Pool
+      - 1 Rejuvenating Springs
+      - 1 Sea of Clouds
+      - 1 Spectator Seating
+      - 1 Spire Garden
+      - 1 Training Center
+      - 1 Undergrowth Stadium
+      - 1 Vault of Champions
+  - 13 or less life:
+      - 1 Abandoned Campground
+      - 1 Bleeding Woods
+      - 1 Etched Cornfield
+      - 1 Lakeside Shack
+      - 1 Murky Sewer
+      - 1 Neglected Manor
+      - 1 Peculiar Lighthouse
+      - 1 Raucous Carnival
+      - 1 Razortrap Gorge
+      - 1 Strangled Cemetery
+  - indestructible artifact:
+      - 1 Thornglint Bridge
+      - 1 Darkmoss Bridge
+      - 1 Drossforge Bridge
+      - 1 Goldmire Bridge
+      - 1 Mistvault Bridge
+      - 1 Razortide Bridge
+      - 1 Rustvale Bridge
+      - 1 Silverbluff Bridge
+      - 1 Slagwoods Bridge
+      - 1 Tanglepool Bridge
+  - creatures:
+      - 1 Celestial Colonnade
+      - 1 Restless Anchorage
+      - 1 Creeping Tar Pit
+      - 1 Restless Reef
+      - 1 Lavaclaw Reaches
+      - 1 Restless Vents
+      - 1 Raging Ravine
+      - 1 Restless Ridgeline
+      - 1 Restless Prairie
+      - 1 Stirring Wildwood
+      - 1 Restless Fortress
+      - 1 Shambling Vent
+      - 1 Restless Spire
+      - 1 Wandering Fumarole
+      - 1 Hissing Quagmire
+      - 1 Restless Cottage
+      - 1 Needle Spires
+      - 1 Restless Bivouac
+      - 1 Lumbering Falls
+      - 1 Restless Vinestalk
+  - no regularity:
+      - 1 Blazemire Verge
+      - 1 Bleachbone Verge
+      - 1 Floodfarm Verge
+      - 1 Gloomlake Verge
+      - 1 Hushwood Verge
+      - 1 Nimbus Maze
+      - 1 Riverpyre Verge
+      - 1 Sunbillow Verge
+      - 1 Tainted Field
+      - 1 Tainted Isle
+      - 1 Tainted Peak
+      - 1 Tainted Wood
+      - 1 Thornspire Verge
+      - 1 Wastewood Verge
+      - 1 Willowrush Verge
+      - 1 Canyon Slough
+      - 1 Fetid Pools
+      - 1 Irrigated Farmland
+      - 1 Scattered Groves
+      - 1 Sheltered Thicket
+side: null
+maybe: null
