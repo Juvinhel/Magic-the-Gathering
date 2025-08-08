@@ -11,6 +11,7 @@ Acolyte of Bahamut,CLB,de,1
 Acquire,5DN,de,1
 Acquired Mutation,PIP,de,1
 Adamant Will,FDN,de,1
+Adarkar Wastes,EOC,de,1
 Adder-Staff Boggart,LRW,de,1
 Adelbert Steiner,FIN,de,1
 Adorned Crocodile,TDM,de,2
@@ -50,6 +51,7 @@ Alaundo the Seer,CLB,de,2
 Alchemist's Greeting,INR,de,1
 "Alela, Artful Provocateur",BRC,de,1
 "Alesha, Who Laughs at Fate",FDN,de,1
+"Alibou, Ancient Witness",EOC,de,1
 Alien Angel,TWHO,de,4
 Alisaie Leveilleur,FIC,en,1
 All That Glitters,PIP,de,1
@@ -70,9 +72,11 @@ Ancestor Dragon,FDN,de,1
 Ancestral Anger,INR,de,1
 Ancient Den,BRC,de,1
 Ancient Den,C21,de,2
+Ancient Den,EOC,de,1
 Ancient Vendetta,DFT,de,1
 Angel of Mercy,9ED,de,2
 Angel of the Ruins,BRC,de,1
+Angel of the Ruins,EOC,de,1
 Angel of the Ruins,FIC,de,1
 Angel's Tomb,INR,de,1
 Angelic Captain,BFZ,en,1
@@ -91,6 +95,7 @@ Arcane Sanctum,BRC,de,1
 Arcane Sanctum,FIC,en,1
 Arcane Signet,BRC,de,2
 Arcane Signet,CLB,de,1
+Arcane Signet,EOC,de,1
 Arcane Signet,FIC,de,1
 Arcane Signet,FIC,en,1
 Arcane Signet,PIP,de,1
@@ -131,6 +136,7 @@ Assault on Osgiliath,LTR,de,1
 Assault Zeppelid,DIS,de,2
 "Astarion, the Decadent",CLB,de,3
 Astral Confrontation,CLB,de,1
+Astral Cornucopia,EOC,de,1
 Astrologian's Planisphere,FIN,en,1
 Audacious Reshapers,BRC,de,1
 "Aurelia, the Law Above",MKM,de,1
@@ -147,6 +153,7 @@ Autarch Mammoth,DFT,de,1
 Authority of the Consuls,FDN,de,2
 Authority of the Consuls,FIC,en,1
 Auton Soldier,WHO,de,1
+Auxiliary Boosters,EOE,de,1
 Avacynian Priest,INR,de,1
 Aven Augur,FUT,de,1
 Aven Fisher,DMR,de,3
@@ -193,6 +200,7 @@ Battle-Rattle Shaman,FDN,de,1
 Battle-Scarred Goblin,LTR,de,1
 Battlefield Butcher,BRO,de,1
 Battlefield Forge,BLC,de,1
+Battlefield Forge,EOC,de,1
 Battlefield Forge,FIC,de,1
 Battlesong Berserker,FDN,de,1
 Beacon Hawk,DIS,de,5
@@ -221,6 +229,7 @@ Bill the Pony,LTR,de,1
 Billowing Shriekmass,FDN,de,1
 Binding Grasp,CST,de,1
 Biogenic Upgrade,FDN,de,1
+Bird,TEOC,de,1
 Bird,TFIN,de,1
 Bird,TFIN,en,2
 Bishop's Soldier,FDN,de,1
@@ -293,6 +302,7 @@ Breath of Fury,C16,de,1
 Breath Weapon,CLB,de,1
 Brightfield Glider,DFT,de,4
 Brightfield Mustang,DFT,de,1
+Brightspear Zealot,EOE,de,1
 Brineborn Cutthroat,FDN,de,1
 Broadcast Rambler,DFT,de,3
 Broken Wings,DFT,de,3
@@ -310,6 +320,7 @@ Bulwark Ox,DFT,de,1
 Burden of Greed,DST,de,1
 Burglar Rat,FDN,de,2
 Buried Ruin,BRC,de,1
+Buried Ruin,EOC,de,1
 Buried Ruin,PIP,de,1
 Burn Trail,SHM,de,1
 Burner Rocket,DFT,de,3
@@ -347,6 +358,7 @@ Carom,RVR,de,2
 Carrion Locust,BRO,de,1
 Carrot Cake,BLB,de,1
 Carry Away,DST,de,1
+Cascade Bluffs,EOC,de,1
 "Cass, Hand of Vengeance",PIP,de,1
 Cat,TDFT,de,1
 Cat,TFDN,de,1
@@ -357,6 +369,7 @@ Caves of Chaos Adventurer,CLB,de,1
 "Celes, Rune Knight",FIC,de,1
 Cemetery Recruitment,FDN,de,1
 Centaur Safeguard,RAV,de,2
+Chain Reaction,EOC,de,1
 "Chainer, Nightmare Adept",MH2,de,1
 Champion's Helm,PIP,de,1
 Champions from Beyond,FIC,en,1
@@ -366,6 +379,7 @@ Changeling Sentinel,MOR,de,1
 Channel the Suns,5DN,de,1
 Chant of Vitu-Ghazi,MOC,de,1
 Chaos Warp,BRC,de,1
+Chaos Warp,EOC,de,1
 Chaos Warp,PIP,de,1
 Charcoal Diamond,CLB,de,2
 Chardalyn Dragon,CLB,de,1
@@ -384,6 +398,7 @@ Chorus of the Conclave,CMD,de,1
 Chromatic Sphere,MRD,de,3
 Chromatic Star,BRR,de,1
 Chrome Courier,BRC,de,1
+Chrome Host Seedshark,EOC,de,1
 Cinder Glade,PIP,de,1
 Cinderhaze Wretch,SHM,de,1
 Cindering Cutthroat,BLB,de,1
@@ -403,6 +418,7 @@ Clattering Skeletons,AFR,de,1
 Clawing Torment,NEO,en,1
 Cleansing Nova,FIC,en,1
 Cliffgate,CLB,de,1
+Clifftop Retreat,EOC,de,1
 Clifftop Retreat,FIC,de,1
 Clifftop Retreat,ISD,en,1
 Clifftop Retreat,PIP,de,1
@@ -415,9 +431,11 @@ Cloakwood Swarmkeeper,CLB,de,1
 Clockwork Droid,WHO,de,1
 Clockwork Fox,CLB,de,1
 Cloud Elemental,MM2,de,1
+Cloud Key,EOC,de,1
 Cloud Key,TSR,de,1
 Cloudbound Moogle,FIN,de,1
 Cloudpost,M3C,de,1
+Cloudsculpt Technician,EOE,de,1
 Cloudspire Captain,DFT,de,2
 Cloudspire Skycycle,DFT,de,2
 Cloudsteel Kirin,NEO,de,4
@@ -426,6 +444,7 @@ Clue,TWHO,de,2
 Coalhauler Swine,RAV,de,1
 Coastal Hornclaw,8ED,de,1
 Cobbled Lancer,VOW,de,1
+Codecracker Hound,EOE,de,1
 "Codsworth, Handy Helper",PIP,de,1
 Coiling Oracle,BLC,de,1
 Coin of Fate,FIC,de,1
@@ -434,8 +453,10 @@ Collective Brutality,INR,de,1
 Collision Course,DFT,de,2
 Combat Courier,BRO,de,1
 Combustible Gearhulk,FIC,de,1
+Command Bridge,EOE,de,1
 Command Tower,BRC,de,2
 Command Tower,CLB,de,2
+Command Tower,EOC,de,1
 Command Tower,FIC,de,1
 Command Tower,FIC,en,1
 Command Tower,PIP,de,1
@@ -470,6 +491,7 @@ Copy,TPIP,de,2
 Copy,TWHO,de,2
 Coral Eel,9ED,de,2
 Coral Sword,FIN,de,1
+Coretapper,EOC,de,1
 Cornered by Black Mages,FIN,de,2
 Coronation of Chaos,CLB,de,2
 Corsair Captain,FDN,de,1
@@ -501,10 +523,12 @@ Crushing Pain,CHK,de,1
 Crux of Fate,FIC,en,1
 Cry of Contrition,GPT,de,2
 Cryoclasm,10E,de,1
+Cryoshatter,EOE,de,1
 Crypt Champion,GK2,de,1
 Crypt Feaster,FDN,de,1
 Cryptothrall,40K,en,1
 Crystal Dragon // Rob the Hoard,CLB,de,1
+Crystalline Crawler,EOC,de,1
 Cult of Skaro,WHO,de,1
 Cultist of the Absolute,CLB,de,1
 Curate,BRO,de,1
@@ -512,8 +536,10 @@ Cursecloth Wrappings,DFT,de,2
 Cursed Mirror,BRC,de,1
 Cut a Deal,CLB,de,1
 Cut a Deal,FIC,en,1
+Cut Propulsion,EOE,de,1
 "Cyan, Vengeful Samurai",FIC,de,1
 Cyber Conversion,WHO,de,1
+Cyberdrive Awakener,EOC,de,1
 Cyberman,TWHO,de,3
 Cyberman Patrol,WHO,de,1
 Cybermat,WHO,de,1
@@ -532,12 +558,14 @@ Dancer's Chakrams,FIC,en,1
 Daring Mechanic,DFT,de,2
 Daring Waverider,BLB,de,1
 Dark Confidant,FIN,de,1
+Dark Endurance,EOE,de,1
 Darkstar,TFIN,de,1
 Darksteel Citadel,BRC,de,1
 Darksteel Citadel,C21,de,2
 Darksteel Colossus,FDN,de,1
 Darksteel Juggernaut,BRC,de,1
 Darksteel Pendant,DST,de,1
+Darksteel Reactor,EOC,de,1
 Darkwater Catacombs,BRC,de,1
 Darkwater Catacombs,FIC,en,1
 Darkwater Catacombs,WHO,de,1
@@ -563,6 +591,7 @@ Debris Beetle,DFT,de,1
 Debtors' Knell,C21,de,1
 Decanter of Endless Water,CLB,de,3
 Deepfire Elemental,C13,de,1
+Deepglow Skate,EOC,de,1
 Deeptread Merrow,LRW,de,1
 Dehydration,10E,de,1
 Delete,WHO,de,1
@@ -572,9 +601,11 @@ Delver of Secrets // Insectile Aberration,INR,de,1
 Demolition Field,FIC,de,1
 Demolition Field,FIC,en,1
 Demon's Horn,DVD,de,1
+Depthshaker Titan,EOC,de,1
 Descendant of Storms,TDM,de,1
 Descent into Avernus,CLB,de,2
 Deserted Beach,INR,de,1
+Deserted Temple,EOS,de,1
 Desolate Lighthouse,WHO,de,1
 Desolate Mire,FIC,de,1
 Desolate Mire,FIC,en,1
@@ -594,6 +625,7 @@ Dimir Guildmage,CLU,de,1
 Dimir House Guard,RVR,de,1
 Dimir Signet,BRC,de,2
 Dinosaur Dragon,TDFT,de,1
+Diplomatic Relations,EOE,de,1
 Dire Undercurrents,SHM,de,1
 Diregraf Ghoul,FDN,de,1
 Diresight,BLB,de,1
@@ -604,13 +636,16 @@ Disenchant,CST,de,1
 Dismal Backwater,DFT,de,3
 Dismal Backwater,FDN,de,1
 Dismal Backwater,TDM,de,1
+Dispatch,EOC,de,1
 Dispelling Exhale,TDM,de,1
 Displacer Kitten,CLB,de,1
 Disruptive Stormbrood // Petty Revenge,TDM,de,1
 Distress,10E,de,2
+Divert Disaster,EOE,de,1
 Divine Resilience,FDN,de,1
 Diving Griffin,8ED,de,2
 Dizzy Spell,RAV,de,3
+Dockworker Drone,EOE,de,1
 "Dogmeat, Ever Loyal",PIP,de,1
 Dogpile,RAV,de,1
 Dokuchi Silencer,NEO,en,1
@@ -675,6 +710,7 @@ Dungeoneer's Pack,CLB,de,2
 Dust Corona,PLC,de,1
 Dwarven Forge-Chanter,BRO,de,1
 Dwynen's Elite,FDN,de,2
+"Dyadrine, Synthesis Amalgam",EOE,de,1
 "Dynaheir, Invoker Adept",CLB,de,1
 Dynamite Diver,DFT,de,3
 Eager Cadet,8ED,de,1
@@ -719,12 +755,15 @@ Embalmed Ascendant,DFT,de,2
 Ember-Fist Zubera,CHK,de,1
 Embermouth Sentinel,TDM,de,1
 Emberstrike Duo,SHM,de,1
+Embrace Oblivion,EOE,de,1
 Emerald Dragon // Dissonant Wave,CLB,de,1
 Emergency Weld,BRO,de,1
 Emet-Selch of the Third Seat,FIC,en,1
 Emissary of Despair,DST,de,1
+Empowered Autogenerator,EOC,de,1
 Empyrean Eagle,FDN,de,1
 "Emry, Lurker of the Loch",BRC,de,1
+"Emry, Lurker of the Loch",EOC,de,1
 Endrider Catalyzer,DFT,de,3
 Endrider Spikespitter,DFT,de,1
 Endurance Bobblehead,PIP,en,1
@@ -738,6 +777,7 @@ Enraged Huorn,LTR,de,1
 Enslave,TSR,de,1
 Ensnared by the Mara,WHO,de,1
 Ent's Fury,LTR,de,1
+Enthusiastic Mechanaut,EOC,de,1
 Entropic Eidolon,DIS,de,1
 "Éomer, Marshal of Rohan",LTR,de,1
 Erebor Flamesmith,LTR,de,1
@@ -748,15 +788,19 @@ Espers to Magicite,FIC,de,1
 Essence Drain,DST,de,3
 Estinien Varlineau,FIC,en,1
 Etched Champion,BRC,de,1
+Etched Oracle,EOC,de,1
 Ethereal Haze,CHK,de,1
 Ethereal Usher,RAV,de,1
 Etherium Sculptor,BRC,de,1
+Etherium Sculptor,EOC,de,1
 Ethersworn Adjudicator,BRC,de,1
 Evangel of Synthesis,BRO,de,1
 Everbark Shaman,MOR,de,1
+Everflowing Chalice,EOC,de,1
 Evolution Charm,TSR,de,1
 Evolving Wilds,BRO,de,2
 Evolving Wilds,CLB,de,2
+Evolving Wilds,EOC,de,1
 Evolving Wilds,FIC,de,1
 Evolving Wilds,FIC,en,1
 Evolving Wilds,PIP,de,1
@@ -766,10 +810,12 @@ Exclusion Mage,FDN,de,1
 "Exdeath, Void Warlock // Neo Exdeath, Dimension's End",FIN,de,1
 Executioner's Capsule,BRC,de,1
 Exotic Orchard,BRC,de,2
+Exotic Orchard,EOC,de,1
 Exotic Orchard,FIC,de,1
 Exotic Orchard,FIC,en,1
 Exotic Orchard,PIP,de,1
 Exotic Orchard,WHO,de,1
+Experimental Augury,EOC,de,1
 Explorer's Scope,PIP,de,1
 Expressive Iteration,BRC,de,1
 Exsanguinate,FDN,de,2
@@ -806,7 +852,7 @@ Fang-Druid Summoner,DFT,de,1
 Far Traveler,CLB,de,1
 Farhaven Elf,KHC,de,1
 "Farid, Enterprising Salvager",BRC,de,1
-Farseek,FIC,de,1
+Farseek,FCA,de,1
 Farseek,RVR,de,2
 Farsight Mask,PCA,de,1
 Fate of the Sun-Cryst,FIN,de,3
@@ -817,6 +863,7 @@ Feast of Worms,CHK,de,1
 Feed the Swarm,BRC,de,1
 Feed the Swarm,WHO,de,1
 Felidar Savior,FDN,de,2
+Fell Gravship,EOE,de,1
 Felling Blow,FDN,de,1
 Fellwar Stone,BRC,de,1
 Fencer's Magemark,GPT,de,1
@@ -886,6 +933,7 @@ Fountainport Bell,BLB,de,1
 Fractured Loyalty,MRD,de,1
 Frazzle,GPT,de,2
 Freewind Equenaut,DDL,de,3
+Frenzied Baloth,EOE,de,1
 Frenzied Devils,VOW,de,1
 Frenzied Goblin,FDN,de,2
 Frenzied Goblin,GK1,de,1
@@ -897,6 +945,7 @@ Frostboil Snarl,WHO,de,1
 Frostling,BOK,de,1
 Frostweb Spider,CSP,de,1
 Fugitive Wizard,9ED,de,1
+Fumigate,EOC,de,1
 Furnace Dragon,DST,de,1
 Fury Charm,IMA,de,1
 Furycalm Snarl,FIC,de,1
@@ -904,6 +953,7 @@ Futurist Sentinel,NEO,en,1
 "G'raha Tia, Scion Reborn",FIC,en,1
 Gaddock Teeg,UMA,de,1
 Gaelicat,FIN,de,1
+Galactic Wayfarer,EOE,de,1
 Galadhrim Bow,LTR,de,1
 Gale Force,CHK,de,1
 Gallifrey Council Chamber,WHO,de,1
@@ -917,6 +967,7 @@ Gastal Raider,DFT,de,2
 Gastal Thrillseeker,DFT,de,1
 Gather the Townsfolk,INR,de,1
 "Gau, Feral Youth",FIC,de,1
+Gavel of the Righteous,EOC,de,1
 Gearseeker Serpent,DFT,de,4
 Gelectrode,GK1,de,1
 Gelid Shackles,CSP,de,1
@@ -939,6 +990,7 @@ Giant Octopus,9ED,de,3
 Giantbaiting,MM3,de,1
 Gibbering Kami,CHK,de,2
 Gift of Strands,LTR,de,1
+Gigastorm Titan,EOE,de,1
 Gilded Ghoda,DFT,de,2
 "Gilgamesh, Master-at-Arms",FIN,de,2
 "Gimli, Counter of Kills",LTR,de,1
@@ -948,6 +1000,7 @@ Githzerai Monk,CLB,de,1
 Gix's Caress,BRO,de,1
 Gixian Skullflayer,BRO,de,1
 Glacial Fortress,BLC,en,1
+Glacial Fortress,EOC,de,1
 Glacial Fortress,FIC,en,1
 Glacial Plating,CSP,de,1
 Glacial Ray,MMA,de,2
@@ -955,6 +1008,7 @@ Gleaming Barrier,FDN,de,2
 Glint Raker,BRC,de,1
 Glint-Eye Nephilim,DMC,de,1
 Glitch Ghost Surveyor,DFT,de,1
+Glittering Massif,EOC,de,1
 Glorious Anthem,10E,de,1
 Glorious Gale,LTR,de,1
 Glory Seeker,9ED,de,3
@@ -962,6 +1016,7 @@ Gloryheath Lynx,DFT,de,1
 Gluttonous Guest,VOW,de,1
 Gnarlid Colony,FDN,de,1
 Gnat Alley Creeper,DIS,de,1
+Gnome,TEOC,de,2
 Goat,TBRC,de,1
 Goblin,TDFT,de,1
 Goblin,TFDN,de,2
@@ -979,6 +1034,7 @@ Goblin Rimerunner,CSP,de,1
 Goblin Smuggler,FDN,de,1
 Goblin Surprise,FDN,de,1
 Goblin Surveyor,DFT,de,1
+Godless Shrine,EOE,de,1
 Godless Shrine,RVR,de,1
 "Godo, Bandit Warlord",CMM,de,1
 Goggles of Night,CLB,de,2
@@ -988,6 +1044,8 @@ Golden-Tail Disciple,NEO,en,1
 Goldmeadow Dodger,LRW,de,1
 Goldmeadow Harrier,DDF,de,1
 Goldmire Bridge,BRC,de,1
+Golem,TEOC,de,4
+Golem Foundry,EOC,de,1
 Golem-Skin Gauntlets,2XM,de,1
 Golgari Rotwurm,MM3,de,1
 "Gollum, Patient Plotter",LTR,de,1
@@ -998,12 +1056,15 @@ Gossamer Phantasm,TSR,de,2
 "Gothmog, Morgul Lieutenant",LTR,de,1
 Graceful Adept,CHK,de,2
 Grappling Kraken,FDN,de,1
+Gravblade Heavy,EOE,de,1
 Grave Peril,C15,de,1
 Gravedigger,M19,de,1
 Graven Cairns,FIC,de,1
+Gravpack Monoist,EOE,de,1
 Graypelt Refuge,C19,en,1
 Grayscaled Gharial,RAV,de,1
 Great Furnace,BRC,de,1
+Great Furnace,EOC,de,1
 Great Intelligence's Plan,WHO,de,1
 Greater Mossdog,RVR,de,1
 Greenbelt Guardian,DFT,de,1
@@ -1048,6 +1109,7 @@ Hallow,DST,de,1
 "Halsin, Emerald Archdruid",CLB,de,1
 Hammers of Moradin,CLB,de,1
 Hana Kami,MMA,de,4
+Hangarback Walker,EOC,de,1
 Hardened Tactician,TDM,de,1
 Hare Apparent,FDN,de,2
 Harmonize,TSR,de,1
@@ -1127,6 +1189,7 @@ Hraesvelgr of the First Brood,FIC,en,1
 Hulldrifter,DFT,de,2
 Human,TFDN,de,2
 Human,TINR,de,1
+Human Soldier,TEOE,de,3
 Human Soldier,TFIC,en,2
 Human Soldier,TINR,de,2
 Human Soldier,TPIP,de,1
@@ -1136,6 +1199,7 @@ Hypervolt Grasp,GPT,de,1
 Hypnotic Sprite // Mesmeric Glare,FIC,en,1
 Ian the Reckless,PIP,de,1
 Ice Flan,FIN,de,1
+Icecave Crasher,EOE,de,1
 Iceridge Serpent,TDM,de,1
 Icewind Elemental,FDN,de,1
 Icewind Stalwart,CLB,de,1
@@ -1151,6 +1215,7 @@ Imprisoned in the Moon,INR,de,1
 Imskir Iron-Eater,MH3,en,1
 "Iname, Death Aspect",CHK,de,1
 Incinerating Blast,FDN,de,2
+Incubator // Phyrexian,TEOC,de,2
 Indentured Oaf,RAV,de,1
 Index,M13,de,1
 Indomitable Archangel,BRC,de,1
@@ -1164,10 +1229,12 @@ Ingenious Leonin,FDN,de,1
 Inkling,TBRC,de,2
 Insect,TDFT,de,2
 Insect,TFDN,de,1
+Insight Engine,EOC,de,1
 "Insomnia, Crown City",FIN,de,2
 Inspiring Call,FDN,de,1
 Inspiring Leader,CLB,de,2
 Inspiring Overseer,FDN,de,1
+"Inspirit, Flagship Vessel",EOC,de,1
 Instant Ramen,FIN,de,1
 "Interceptor, Shadow's Hound",FIC,de,1
 Interface Ace,DFT,de,5
@@ -1175,9 +1242,11 @@ Into the North,CSP,de,1
 Into the Roil,FDN,de,1
 Into the Story,FIC,en,1
 Intrepid Rabbit,BLB,de,1
+Intrepid Tenderfoot,EOE,de,1
 Inventory Management,PIP,de,1
 Involuntary Employment,FDN,de,1
 Iron Giant,FIN,de,2
+Irrigated Farmland,EOC,de,1
 Isolated Chapel,DRC,de,1
 Isolated Chapel,FIC,de,1
 Isolated Chapel,FIC,en,1
@@ -1200,6 +1269,7 @@ Jazal Goldmane,FDN,de,1
 Jeskai Brushmaster,TDM,de,1
 Jeskai Devotee,TDM,de,1
 "Jhoira, Weatherlight Captain",BRC,de,1
+"Jhoira, Weatherlight Captain",EOC,de,1
 Jibbirik Omnivore,DFT,de,2
 Jodah's Avenger,TSR,de,1
 Joiner Adept,5DN,de,1
@@ -1226,10 +1296,13 @@ Kami of the Hunt,CHK,de,2
 Kami of the Palace Fields,CHK,de,1
 Kami of the Waning Moon,CHK,de,2
 Kami of Twisted Reflection,CHK,de,2
+Kappa Cannoneer,EOC,de,1
 Kargan Dragonrider,FDN,de,1
 "Karlach, Fury of Avernus",CLB,de,1
+Karn's Bastion,EOC,de,1
 Karplusan Wolverine,CSP,de,1
 Karstoderm,DST,de,1
+Kavaron Skywarden,EOE,de,1
 Kayla's Music Box,BRC,de,1
 Kazandu Refuge,C19,en,1
 Keen Buccaneer,DFT,de,1
@@ -1238,6 +1311,7 @@ Keen Buccaneer,DFT,de,1
 Key to the City,FIC,de,1
 Kickoff Celebrations,DFT,de,1
 Kill-Suit Cultist,DIS,de,1
+"Kilo, Apogee Mind",EOC,de,1
 Kin-Tree Nurturer,TDM,de,1
 Kindled Fury,FDN,de,1
 Kindly Ancestor // Ancestor's Embrace,VOW,de,1
@@ -1283,6 +1357,7 @@ Krydle of Baldur's Gate,AFR,de,1
 Lace with Moonglove,CN2,de,1
 "Lae'zel, Vlaakith's Champion",CLB,de,1
 Lammastide Weave,LRW,de,1
+Lander,TEOE,de,3
 Lantern Bearer // Lanterns' Lift,INR,de,1
 Lantern Kami,CHK,de,1
 Lantern of Revealing,CLB,de,2
@@ -1334,8 +1409,10 @@ Loaming Shaman,RVR,de,1
 Locust Spray,DFT,de,2
 "Lolth, Spider Queen",AFR,de,1
 Lonely Arroyo,OTJ,de,4
+Lonely Sandbar,EOC,de,1
 Long River Lurker,BLB,de,1
 Long-Forgotten Gohei,MM2,de,1
+Long-Range Sensor,EOC,de,1
 Looming Shade,M10,de,2
 "Loot, the Pathfinder",DFT,de,1
 Loran's Escape,BRO,de,1
@@ -1355,6 +1432,8 @@ Lure,8ED,de,1
 Lure,IMA,de,1
 Lurebound Scarecrow,SHM,de,1
 Lurking Green Dragon,CLB,de,1
+Lux Artillery,EOC,de,1
+Lux Cannon,EOC,de,1
 Luxury Suite,CLB,de,1
 Lyse Hext,FIC,en,1
 Maalfeld Twins,FDN,de,1
@@ -1406,6 +1485,7 @@ Masterwork of Ingenuity,PIP,de,1
 Maximum Overdrive,DFT,de,2
 "Mazzy, Truesword Paladin",CLB,de,1
 Mechanized Production,PIP,en,1
+Mechanozoa,EOE,de,1
 Medicine Runner,SHM,de,1
 Megaton's Fate,PIP,de,1
 Megrim,DPA,de,1
@@ -1440,6 +1520,7 @@ Mind Stone,CLB,de,1
 Mind Stone,FIC,de,1
 Mind Stone,WHO,de,1
 Mindblaze,CHK,de,1
+Mindless Automaton,EOC,de,1
 Mindmoil,RAV,de,1
 Mine Worker,BRO,de,1
 Minimus Containment,CLB,de,1
@@ -1480,6 +1561,7 @@ Moment of Triumph,FDN,de,1
 Momentum Breaker,DFT,de,1
 Monastery Messenger,TDM,de,2
 Monk's Fist,FIN,de,2
+Monoist Circuit-Feeder,EOE,de,1
 Monument to Endurance,DFT,de,1
 Moogle,TFIN,de,8
 Moogle,TFIN,en,2
@@ -1496,6 +1578,7 @@ Moss Kami,CHK,de,2
 Mossfire Valley,PIP,de,1
 Mothrider Samurai,CHK,de,2
 Mourning Thrull,RVR,de,1
+Moxite Refinery,EOC,de,1
 "Mu Yanling, Wind Rider",DFT,de,1
 Mudflat Village,BLB,de,1
 Muraganda Raceway,DFT,de,1
@@ -1514,6 +1597,7 @@ Myriad Landscape,BRC,de,1
 Mysidian Elder,FIN,de,1
 Mystic Archaeologist,FDN,de,1
 Mystic Melting,CSP,de,1
+Mystic Monastery,EOC,de,1
 Mystic Monastery,TDM,de,1
 Mystic Restraints,CHK,de,3
 "Nahiri, the Lithomancer",CMM,en,1
@@ -1588,6 +1672,8 @@ Opt,FDN,de,1
 "Oran-Rief, the Vastwood",BLC,en,1
 Orcish Artillery,8ED,de,1
 Order of the Sacred Bell,9ED,de,1
+Oreplate Pangolin,EOE,de,1
+Organic Extinction,EOC,de,1
 Ornithopter,10E,de,2
 Ornithopter,BRR,de,1
 Orochi Ranger,CHK,de,1
@@ -1631,6 +1717,7 @@ Path of Ancestry,FIC,en,1
 Path of Ancestry,PIP,de,1
 Path of Ancestry,WHO,de,1
 Path to Exile,PIP,de,1
+Patrolling Peacemaker,EOC,de,1
 Pearl of Wisdom,BLB,de,1
 Pearl Shard,MRD,de,1
 Pedal to the Metal,DFT,de,1
@@ -1639,6 +1726,7 @@ Peerless Samurai,NEO,en,1
 Pegasus Guardian // Rescue the Foal,CLB,de,1
 Pelargir Survivor,LTR,de,1
 Penregon Strongbull,BRO,de,1
+Pentad Prism,EOC,de,1
 Perception Bobblehead,PIP,de,1
 Peregrin Took,LTR,de,1
 Perforating Artist,FDN,de,1
@@ -1651,6 +1739,7 @@ Phantom Warrior,BBD,de,2
 Phantom Wings,BOK,de,2
 Phobian Phantasm,CSP,de,1
 Phoenix Down,FIN,de,1
+Phyrexian Metamorph,EOC,de,1
 Phyrexian Myr,TBRC,de,1
 Phyrexian Rebirth,BRC,de,1
 Piercing Exhale,TDM,de,1
@@ -1660,6 +1749,7 @@ Pillar of the Paruns,2X2,de,1
 Pillory of the Sleepless,GPT,de,1
 Pilot,TDFT,de,3
 Pinecrest Ridge,CHK,de,1
+Pinnacle Starcage,EOE,de,1
 Pious Kitsune,CHK,de,2
 Pip-Boy 3000,PIP,de,1
 Pippin's Bravery,LTR,de,1
@@ -1712,8 +1802,10 @@ Psychic Whorl,BLB,de,2
 Psychotic Fury,DIS,de,2
 Psychotrope Thallid,PLC,de,1
 Pteron Ghost,DST,de,1
+Pull from Tomorrow,EOC,de,1
 Pull Under,CHK,de,4
 Pulling Teeth,MOR,de,1
+Pulsar Squadron Ace,EOE,de,1
 Puppeteer,9ED,de,2
 PuPu UFO,FIN,de,1
 Pure // Simple,DIS,de,1
@@ -1734,6 +1826,7 @@ Qumulox,MM2,de,2
 Rabbit,TFDN,de,1
 "Radha, Heir to Keld",TSR,de,1
 Radiant Lotus,DFT,de,1
+Radiant Summit,EOC,de,1
 Radiation,TPIP,de,4
 Rag Dealer,CHK,de,1
 Ragged Veins,CHK,de,2
@@ -1764,6 +1857,7 @@ Razor Barrier,DDF,de,1
 Razor Golem,DST,de,1
 Razorgrass Screen,5DN,de,1
 Razortide Bridge,BRC,de,1
+Razortide Bridge,EOC,de,1
 Reach Through Mists,DDS,de,2
 Reality Acid,TSR,de,1
 Reanimate,FIC,de,1
@@ -1779,6 +1873,7 @@ Reckoner's Bargain,NEO,en,1
 Recruitment Drive,CLB,de,1
 Recruitment Officer,BRO,de,1
 Red Dragon,AFR,de,2
+Red Tiger Mechan,EOE,de,1
 Rediscover the Way,TDM,de,2
 Reef Roads,DFT,de,1
 Reflex Sliver,TSR,de,1
@@ -1796,6 +1891,7 @@ Relic of Progenitus,BRC,de,1
 Reliquary Tower,BRC,de,1
 Reliquary Tower,WHO,de,1
 Relm's Sketching,FIN,de,1
+Remnant Elemental,EOE,de,1
 Remove Soul,10E,de,5
 "Renari, Merchant of Marvels",CLB,de,1
 Rend Spirit,CHK,de,1
@@ -1806,6 +1902,7 @@ Reprieve,LTR,de,1
 Reputable Merchant,TDM,de,1
 Reroute,RAV,de,1
 Resolute Reinforcements,FDN,de,1
+Resourceful Defense,EOC,de,1
 Restless Bones,GPT,de,1
 Retract,DST,de,1
 Retrieve the Esper,FIN,de,1
@@ -1817,6 +1914,7 @@ Reverse Damage,9ED,de,1
 Revive the Shire,LTR,de,2
 Ride's End,DFT,de,2
 Ridged Kusite,TSR,de,1
+Rig for War,EOE,de,1
 Righteous Authority,C18,en,1
 Riling Dawnbreaker // Signaling Roar,TDM,de,1
 Rimebound Dead,CSP,de,2
@@ -1825,6 +1923,7 @@ Ring of the Lucii,FIN,de,1
 Ringwraiths,LTR,de,1
 Riot Spikes,GK2,de,3
 Ripclaw Wrangler,DFT,de,2
+Ripples of Potential,EOC,de,1
 Rise from the Tides,INR,de,1
 Rise from the Wreck,DFT,de,2
 Rise of the Dark Realms,FIC,de,1
@@ -1863,6 +1962,7 @@ Rough // Tumble,TSR,de,1
 Rug of Smothering,CLB,de,1
 Rugged Highlands,DFT,de,3
 Rugged Highlands,FDN,de,1
+Rugged Prairie,EOC,de,1
 Rugged Prairie,FIC,de,1
 Ruin Grinder,FIC,de,1
 Ruinous Ultimatum,FIC,de,1
@@ -1873,6 +1973,7 @@ Run Over,DFT,de,1
 Rune Snag,UMA,de,2
 Runeboggle,GPT,de,3
 Rust Goliath,BRO,de,1
+Rustvale Bridge,EOC,de,1
 Ruthless Negotiation,BLB,de,1
 "Sab-Sunen, Luxa Embodied",DFT,de,1
 Sabertooth Alley Cat,RAV,de,1
@@ -1942,8 +2043,11 @@ Search the City,RTR,de,1
 Seasoned Marshal,DDF,de,1
 Seat of the Synod,BRC,de,2
 Seat of the Synod,C18,de,2
+Seat of the Synod,EOC,de,1
 Secluded Courtyard,FDN,de,1
+Secluded Steppe,EOC,de,1
 Second Sight,DST,de,1
+Seedship Impact,EOE,de,1
 Seize the Spoils,FDN,de,1
 Seize the Storm,INR,de,1
 Sejiri Refuge,KHC,en,1
@@ -1986,6 +2090,7 @@ Shinra Reinforcements,FIN,de,1
 Shipwreck Marsh,WHO,de,1
 "Shisato, Whispering Hunter",CHK,de,1
 Shivan Dragon,FDN,de,1
+Shivan Reef,EOC,de,1
 Shock,9ED,de,4
 Shoot Down,BRO,de,1
 Shore Up,BLB,de,1
@@ -2010,6 +2115,7 @@ Silver Myr,NEC,de,1
 Silver Shroud Costume,PIP,de,1
 Silver-Fur Master,NEO,en,1
 Silverbluff Bridge,BRC,de,1
+Silverbluff Bridge,EOC,de,1
 Simian Spirit Guide,A25,de,2
 Simic Basilisk,DIS,de,1
 Simic Growth Chamber,DSC,de,1
@@ -2036,6 +2142,7 @@ Sky Diamond,CLB,de,1
 Sky Hussar,RVR,de,2
 Skybox Ferry,DFT,de,2
 Skycloud Expanse,BRC,de,1
+Skycloud Expanse,EOC,de,1
 Skycloud Expanse,FIC,en,1
 Skycloud Expanse,NCC,de,1
 Skycrash,DFT,de,1
@@ -2072,10 +2179,12 @@ Snuff Out,WHO,de,1
 Soilshaper,CHK,de,3
 Sokenzan Bruiser,CHK,de,2
 Sol Ring,BRC,de,2
+Sol Ring,EOC,de,1
 Sol Ring,FIC,de,1
 Sol Ring,FIC,en,1
 Sol Ring,PIP,de,1
 Sol Ring,WHO,de,1
+Solar Array,EOC,de,1
 Soldier,TFDN,de,2
 Soldier,TTDM,de,2
 Soldier Replica,MRD,de,1
@@ -2093,9 +2202,11 @@ Soratami Seer,CHK,de,1
 Sorceress's Schemes,FIN,de,1
 Soul of Magma,CHK,de,2
 Soul Warden,MM3,de,1
+Soul-Guide Lantern,EOC,de,1
 Soulcipher Board // Cipherbound Spirit,INR,de,1
 Soulsworn Jury,DIS,de,6
 Sower of Chaos,FDN,de,1
+Space-Time Anomaly,EOE,de,2
 Sparkmage Apprentice,RAV,de,1
 Spawnwrithe,DDM,en,1
 Specter's Shroud,DST,de,1
@@ -2116,6 +2227,7 @@ Spire Garden,CLB,de,1
 Spire Golem,JVC,de,1
 Spire Mechcycle,DFT,de,2
 Spire of Industry,BRC,de,1
+Spire of Industry,EOC,de,1
 Spirit,TFIC,en,2
 Spirit,TINR,de,1
 Spirit,TTDM,de,6
@@ -2141,6 +2253,7 @@ Stalking Vengeance,RVR,de,1
 Stall Out,DFT,de,1
 Stampeding Scurryfoot,DFT,de,2
 Stand Together,DST,de,1
+Starfighter Pilot,EOE,de,1
 Starlight Snare,FDN,de,1
 Starry-Eyed Skyrider,TDM,de,1
 Static Net,BRO,de,1
@@ -2151,6 +2264,7 @@ Steamcore Weird,DDJ,de,1
 Steel Exemplar,BRO,de,1
 Steel Hellkite,BRC,de,1
 Steel Overseer,BRC,de,1
+Steel Overseer,EOC,de,1
 Steelclad Spirit,VOW,de,1
 Steeling Stance,DIS,de,4
 Steelshaper's Gift,CMM,de,1
@@ -2189,6 +2303,7 @@ Stuck in Summoner's Sanctum,FIN,de,1
 "Student of Elements // Tobita, Master of Winds",CHK,de,2
 Stunning Strike,CLB,de,1
 Sublime Epiphany,FIC,en,1
+Sulfur Falls,EOC,de,1
 Sulfurous Springs,FIC,de,1
 Sultai Devotee,TDM,de,1
 Summit Intimidator,TDM,de,3
@@ -2224,10 +2339,12 @@ Sunpetal Grove,PIP,de,1
 Sunscorched Divide,FIC,de,1
 Sunscorched Divide,PIP,de,1
 Sunset Strikemaster,TDM,de,1
+Sunstar Expansionist,EOE,de,1
 Suntail Hawk,9ED,de,3
 Super Mutant Scavenger,PIP,de,1
 Suplex,FIN,de,2
 Sure Strike,FDN,de,1
+Surge Conductor,EOC,de,1
 Surging Aether,CSP,de,6
 Surging Dementia,CSP,de,1
 Surging Sentinels,CSP,de,4
@@ -2237,6 +2354,7 @@ Suspicious Shambler,FDN,de,1
 Swab Goblin,FDN,de,1
 Swallowed by Leviathan,FIN,de,1
 Swallowing Plague,CHK,de,2
+Swan Song,EOC,de,1
 Swarming of Moria,LTR,de,1
 Swell of Courage,DDF,de,1
 Swift Silence,DIS,de,1
@@ -2251,6 +2369,7 @@ Swiftwater Cliffs,TDM,de,2
 Sword Coast Sailor,CLB,de,2
 Swords to Plowshares,BRC,de,1
 Swords to Plowshares,CST,de,1
+Swords to Plowshares,EOC,de,1
 Swords to Plowshares,FIC,en,1
 Sycorax Commander,WHO,de,1
 Sylvan Scavenging,FDN,de,2
@@ -2286,6 +2405,7 @@ Tavern Brawler,CLB,de,2
 "Tawnos, Solemn Survivor",BRC,de,1
 Teardrop Kami,BOK,de,3
 Tears of Rage,DST,de,1
+"Tekuthal, Inquiry Dominus",EOC,de,1
 Tel-Jilad Chosen,MRD,de,1
 Tel-Jilad Lifebreather,5DN,de,1
 Tel-Jilad Outrider,DST,de,1
@@ -2299,7 +2419,9 @@ Temple of Abandon,PIP,de,1
 Temple of Deceit,BRC,de,2
 Temple of Deceit,WHO,de,1
 Temple of Enlightenment,BRC,de,1
+Temple of Enlightenment,EOC,de,1
 Temple of Epiphany,BRC,de,1
+Temple of Epiphany,EOC,de,1
 Temple of Epiphany,WHO,de,1
 Temple of Malice,BRC,de,1
 Temple of Malice,WHO,de,1
@@ -2310,6 +2432,7 @@ Temple of the Dragon Queen,AFR,de,1
 Temple of the False God,FIC,en,1
 Temple of the False God,PIP,de,1
 Temple of the False God,WHO,de,1
+Temple of Triumph,EOC,de,1
 Temple of Triumph,PIP,de,1
 Temur Battlecrier,TDM,de,1
 Temur Monument,TDM,de,1
@@ -2329,7 +2452,9 @@ Terror of Mount Velus,FDN,de,1
 Tersa Lightshatter,TDM,de,1
 "Teshar, Ancestor's Apostle",BRC,de,1
 Test of Faith,MMA,de,1
+Tezzeret's Gambit,EOC,de,1
 Thancred Waters,FIC,en,1
+Thawbringer,EOE,de,1
 "The Beast, Deathless Prince",WHO,de,1
 The Blackjack,TFIC,de,2
 The Cyber-Controller,WHO,de,1
@@ -2346,6 +2471,7 @@ The Masamune,FIN,de,1
 "The Master, Multiplied",WHO,de,1
 The Mightstone and Weakstone,BRO,de,1
 The Monarch,TFIC,de,2
+The Mycosynth Gardens,EOC,de,1
 The Prima Vista,FIN,de,1
 The Rani,WHO,de,1
 The Second Doctor,WHO,de,1
@@ -2366,15 +2492,18 @@ Think Twice,FDN,de,1
 Think Twice,INR,de,1
 Third Path Savant,BRO,de,1
 Thirst for Knowledge,BRC,de,1
+Thirst for Knowledge,EOC,de,1
 This Is How It Ends,WHO,de,1
 Thopter,TBRC,de,4
 Thopter,TDFT,de,4
+Thopter,TEOC,de,1
 Thopter Fabricator,DFT,de,1
 Thopter Shop,BRC,de,1
 Thopter Spy Network,BRC,de,1
 Thornweald Archer,FDN,de,2
 Thornwood Falls,TDM,de,1
 Thought Monitor,BRC,de,1
+Thought Monitor,EOC,de,1
 Thought Prison,MRD,de,1
 Thought Vessel,BRC,de,1
 Thought Vessel,FIC,en,1
@@ -2389,9 +2518,11 @@ Thrashing Brontodon,FDN,de,1
 Thraxodemon,BRO,de,1
 "Three Dog, Galaxy News DJ",PIP,de,1
 Three Tree Mascot,BLB,de,1
+Threefold Thunderhulk,EOC,de,1
 Thrill of Possibility,FDN,de,1
 Thrive,2X2,de,2
 Thriving Moor,WHO,de,1
+Thrummingbird,EOC,de,1
 Thunderhead Gunner,DFT,de,1
 Thunderheads,GK1,de,2
 Thundersong Trumpeter,MM3,de,1
@@ -2404,6 +2535,7 @@ Tidewater Minion,RAV,de,3
 Tifa's Limit Break,FIN,de,1
 Time Reaper,WHO,de,1
 Tin Street Hooligan,GPT,de,1
+Titan Forge,EOC,de,1
 Titania's Command,BRO,de,1
 Titanium Golem,MRD,de,1
 To Arms!,RVR,de,2
@@ -2486,6 +2618,7 @@ Unforge,DST,de,1
 Unholy Strength,9ED,de,1
 United Battlefront,TDM,de,1
 Universal Solvent,CLB,de,1
+Universal Surveillance,EOC,de,1
 Unleash Shell,BRO,de,1
 Unnatural Speed,CHK,de,1
 Unsummon,FDN,de,5
@@ -2501,6 +2634,7 @@ Urza's Armor,8ED,de,1
 Urza's Rebuff,BRO,de,1
 Urza's Ruinous Blast,BRC,de,1
 Urza's Tower,M3C,de,1
+Uthros Research Craft,EOC,de,1
 Utopia Mycon,TSR,de,1
 Utopia Sprawl,RVR,de,2
 Utvara Scalper,CLU,de,2
@@ -2567,6 +2701,7 @@ Vislor Turlough,WHO,de,1
 Vivid Marsh,C17,de,1
 Vizzerdrix,9ED,de,2
 Void Rend,FIC,en,1
+Voidforged Titan,EOE,de,1
 Volcanic Hammer,9ED,de,1
 Voldaren Duelist,INR,de,1
 Voldaren Epicure,INR,de,1
@@ -2574,12 +2709,14 @@ Volley Veteran,FDN,de,1
 "Volo, Itinerant Scholar",CLB,de,1
 Vorrac Battlehorns,MRD,de,1
 Votary of the Conclave,RAV,de,2
+Vote Out,EOE,de,1
 Voyage Home,DFT,de,1
 Voyager Quickwelder,DFT,de,1
 "Vren, the Relentless",BLB,de,1
 Vulshok Berserker,DDI,de,1
 Vulshok Gauntlets,2XM,de,1
 Vulshok Morningstar,DDI,de,2
+Wake the Past,EOC,de,1
 Wakestone Gargoyle,CNS,de,1
 Waking Nightmare,MM2,de,1
 Walker of Secret Ways,PCA,de,1
@@ -2604,6 +2741,7 @@ Weaver of Blossoms // Blossom-Clad Werewolf,VOW,de,1
 Wedding Invitation,VOW,de,1
 Wee Dragonauts,GRN,de,3
 Weeping Angel,WHO,de,1
+Weftstalker Ardent,EOE,de,1
 Well of Lost Dreams,C21,de,1
 Well Rested,PIP,de,1
 Whip-Spine Drake,TSR,de,1
@@ -2696,7 +2834,7 @@ Zhentarim Bandit,CLB,de,1
 "Zidane, Tantalus Thief",FIN,de,2
 Zo-Zu the Punisher,CHK,de,1
 Zoetic Cavern,MKC,de,1
-Zombie,TDFT,de,2
+Zombie,TDRC,de,2
 Zombie,TFDN,de,3
 Zombie,TFIC,en,1
 Zombie Druid,TTDM,de,1
