@@ -5,108 +5,124 @@ commanders:
 main:
   - 1 Giada, Font of Hope
   - Creatures:
-      - 1 Lightstall Inquisitor
-      - 1 Dazzling Angel
-      - 1 Segovian Angel
-      - 1 Angel of Vitality
-      - 1 Youthful Valkyrie
-      - 1 Herald of War
-      - 1 Sigarda's Vanguard
-      - 1 Righteous Valkyrie
-      - 1 Serra Angel
-      - 1 Resplendent Marshal
-      - 1 Serra's Guardian
-      - 1 Wojek Investigator
-      - 1 Patron of the Valiant
-      - 1 Angelic Curator
-      - 1 Angel of Serenity
-      - 1 Starnheim Aspirant
-      - 1 Emancipation Angel
-      - 1 Herald of the Host
-      - 1 Metropolis Reformer
-      - 1 Valkyrie Harbinger
-      - 1 Boon-Bringer Valkyrie
-      - 1 Angel of the Dire Hour
-      - 1 Angelic Field Marshal
-      - 1 Shattered Angel
-      - 1 Angelic Page
-      - 1 Seraph of Dawn
-      - 1 Angelic Sleuth
-      - 1 Speaker of the Heavens
-      - 1 Breathkeeper Seraph
-      - 1 Resplendent Angel
-      - 1 Herald of Eternal Dawn
-      - 1 Angel of Sanctions
+      - 1 Angel of Destiny
       - 1 Angel of Invention
-      - 1 Steel Seraph
+      - 1 Angel of Jubilation
+      - 1 Angel of Sanctions
+      - 1 Angel of Serenity
+      - 1 Angel of Vitality
+      - 1 Angel of the Dire Hour
+      - 1 Angelic Curator
+      - 1 Angelic Field Marshal
+      - 1 Angelic Page
       - 1 Angelic Skirmisher
+      - 1 Angelic Sleuth
+      - 1 Archangel of Thune
       - 1 Archangel of Tithes
+      - 1 Boon-Bringer Valkyrie
+      - 1 Breathkeeper Seraph
+      - 1 Dazzling Angel
+      - 1 Emancipation Angel
+      - 1 Herald of Eternal Dawn
+      - 1 Herald of War
+      - 1 Herald of the Host
+      - 1 Lightstall Inquisitor
+      - 1 Metropolis Reformer
+      - 1 Patron of the Valiant
+      - 1 Resplendent Angel
+      - 1 Resplendent Marshal
+      - 1 Righteous Valkyrie
+      - 1 Segovian Angel
+      - 1 Seraph of Dawn
+      - 1 Serra Angel
+      - 1 Serra's Guardian
+      - 1 Shattered Angel
+      - 1 Sigarda's Vanguard
+      - 1 Speaker of the Heavens
+      - 1 Starnheim Aspirant
+      - 1 Steel Seraph
+      - 1 Valkyrie Harbinger
+      - 1 Wojek Investigator
+      - 1 Youthful Valkyrie
   - Planeswalkers:
       - 1 Elspeth Resplendent
       - 1 Serra the Benevolent
   - Instants:
-      - 1 Unbreakable Formation
       - 1 Brave the Elements
+      - 1 Divine Resilience
       - 1 Make a Stand
       - 1 Stroke of Midnight
-      - 1 Divine Resilience
+      - 1 Unbreakable Formation
   - Sorceries:
       - 1 Cleansing Nova
+      - 1 Defy Death
       - 1 Entreat the Angels
       - 1 Ravnica at War
-      - 1 Defy Death
-      - 1 Starnheim Unleashed
       - 1 Requisition Raid
       - 1 Sanctify
+      - 1 Starnheim Unleashed
   - Enchantments:
-      - 1 Angelic Accord
-      - 1 Court of Grace
-      - 1 Sigarda's Splendor
       - 1 Always Watching
-      - 1 Folk Hero
-      - 1 Cleric Class
+      - 1 Angelic Accord
       - 1 Angelic Renewal
       - 1 Authority of the Consuls
-      - 1 Rally the Ranks
+      - 1 Cleric Class
+      - 1 Court of Grace
+      - 1 Folk Hero
       - 1 Leyline of Hope
+      - 1 Rally the Ranks
+      - 1 Sigarda's Splendor
   - Other:
       - 1 Invasion of Dominaria // Serra Faithkeeper
-  - Ramp:
-      - 1 The Wind Crystal
+  - Artifacts:
+      - 1 Herald's Horn
       - 1 Heraldic Banner
-      - 1 Commander's Sphere
-      - 1 Everflowing Chalice
+      - 1 Lightning Greaves
+      - 1 Mind Stone
+      - 1 Oketra's Monument
       - 1 Patchwork Banner
+      - 1 Pearl Medallion
       - 1 Pristine Talisman
+      - 1 Sol Ring
+      - 1 The Book of Exalted Deeds
+      - 1 The Wind Crystal
+      - 1 Vanquisher's Banner
   - Lands:
-      - 1 Sejiri Shelter // Sejiri Glacier
       - 1 Kabira Takedown // Kabira Plateau
-      - 1 Razorgrass Ambush // Razorgrass Field
-      - 1 Seraph Sanctuary
       - 1 Minas Tirith
       - 1 New Benalia
+      - 1 Razorgrass Ambush // Razorgrass Field
+      - 1 Sejiri Shelter // Sejiri Glacier
+      - 1 Seraph Sanctuary
 side:
   - 1 Angel of Finality
   - 1 Kindred Boon
 maybe:
-  - 1 Windbrisk Heights
-  - 1 Secluded Steppe
-  - 1 Idyllic Grange
-  - 1 Radiant Fountain
-  - 1 Hidden Courtyard
-  - 1 Monumental Henge
-  - 1 Destroy Evil
-  - 1 Decree of Justice
-  - 1 Empyrial Storm
-  - 1 Finale of Glory
-  - 1 Farewell
-  - 1 Emeria Angel
-  - 1 Sanctuary Warden
-  - 1 Stalwart Valkyrie
+  - 1 Avacyn, Angel of Hope
   - 1 Baneslayer Angel
+  - 1 Battle Angels of Tyr
   - 1 Bishop of Wings
-  - 1 Firemane Commando
-  - 1 Guardian of Ghirapur
+  - 1 Bishop of Wings
   - 1 Bruna, the Fading Light
+  - 1 Commander's Sphere
+  - 1 Decree of Justice
+  - 1 Destroy Evil
+  - 1 Emeria Angel
+  - 1 Empyrial Storm
+  - 1 Farewell
+  - 1 Finale of Glory
+  - 1 Firemane Commando
   - 1 Gisela, the Broken Blade
   - 1 Guardian Seraph
+  - 1 Guardian of Ghirapur
+  - 1 Hidden Courtyard
+  - 1 Idyllic Grange
+  - 1 Monumental Henge
+  - 1 Radiant Fountain
+  - 1 Sanctuary Warden
+  - 1 Secluded Steppe
+  - 1 Stalwart Valkyrie
+  - 1 Sword of the Animist
+  - 1 Urza's Incubator
+  - 1 Windbrisk Heights
+  - 1 Everflowing Chalice
