@@ -1,9 +1,11 @@
 Name,Set code,Language,Quantity
-Adelbert Steiner,FIN,de,1
+A Realm Reborn,FIN,de,1
+Adelbert Steiner,FIN,de,2
+Adventurer's Airship,FIN,de,1
 Adventurer's Inn,FIN,de,2
 Aerith Gainsborough,FIN,de,1
-Aerith Rescue Mission,FIN,de,1
-Al Bhed Salvagers,FIN,de,1
+Aerith Rescue Mission,FIN,de,2
+Al Bhed Salvagers,FIN,de,2
 Alisaie Leveilleur,FIC,en,1
 Alphinaud Leveilleur,FIC,de,1
 Alphinaud Leveilleur,FIC,en,1
@@ -22,18 +24,19 @@ Ash Barrens,FIC,en,1
 Astrologian's Planisphere,FIN,en,1
 Auron's Inspiration,FIN,de,2
 Authority of the Consuls,FIC,en,1
-Balamb T-Rexaur,FIN,de,1
+Balamb T-Rexaur,FIN,de,2
 Baleful Strix,FIC,en,1
 "Banon, the Returners' Leader",FIC,de,1
-"Baron, Airship Kingdom",FIN,de,2
+"Baron, Airship Kingdom",FIN,de,3
 Bastion of Remembrance,FIC,en,1
 Battlefield Forge,FIC,de,1
 Bedevil,FIC,de,1
 Big Score,FIC,de,1
 Bird,TFIN,de,1
 Bird,TFIN,en,2
-Black Mage's Rod,FIN,de,4
+Black Mage's Rod,FIN,de,5
 Black Waltz No. 3,FIN,de,1
+Blitzball,FIN,de,1
 Blitzball Shot,FIN,de,2
 Blue Mage's Cane,FIC,en,1
 Capital City,FIN,de,1
@@ -41,10 +44,12 @@ Capital City,FIN,de,1
 Champions from Beyond,FIC,en,1
 Chocobo Kick,FIN,de,1
 Chocobo Knights,FIC,de,1
+Chocobo Racetrack,FIN,de,1
 Choked Estuary,FIC,en,1
 Circle of Power,FIN,en,1
 Cleansing Nova,FIC,en,1
 Clifftop Retreat,FIC,de,1
+Cloud of Darkness,FIN,de,1
 Cloudbound Moogle,FIN,de,1
 Coin of Fate,FIC,de,1
 Coliseum Behemoth,FIN,de,3
@@ -56,16 +61,18 @@ Commune with Beavers,FIN,de,1
 Contaminated Aquifer,FIC,en,1
 Copy,TFIN,de,4
 Coral Sword,FIN,de,1
-Cornered by Black Mages,FIN,de,2
+Cornered by Black Mages,FIN,de,3
 Coveted Jewel,FIC,en,1
 Crackling Doom,FIC,de,1
 Crux of Fate,FIC,en,1
+Crystal Fragments // Summon: Alexander,FIN,de,1
 Cut a Deal,FIC,en,1
 "Cyan, Vengeful Samurai",FIC,de,1
 Dancer's Chakrams,FIC,en,1
 Dark Confidant,FIN,de,1
 Darkstar,TFIN,de,1
 Darkwater Catacombs,FIC,en,1
+Delivery Moogle,FIN,de,1
 Demolition Field,FIC,de,1
 Demolition Field,FIC,en,1
 Desolate Mire,FIC,de,1
@@ -73,22 +80,24 @@ Desolate Mire,FIC,en,1
 Dig Through Time,FIC,en,1
 Dragonskull Summit,FIC,de,1
 Dragoon's Lance,FIN,de,1
+Dragoon's Wyvern,FIN,de,1
 Drowned Catacomb,FIC,en,1
 "Edgar, Master Machinist",FIC,de,1
+Eject,FIN,de,1
 Emet-Selch of the Third Seat,FIC,en,1
 Espers to Magicite,FIC,de,1
 Estinien Varlineau,FIC,en,1
 Evolving Wilds,FIC,de,1
 Evolving Wilds,FIC,en,1
-"Exdeath, Void Warlock // Neo Exdeath, Dimension's End",FIN,de,1
+"Exdeath, Void Warlock // Neo Exdeath, Dimension's End",FIN,de,2
 Exotic Orchard,FIC,de,1
 Exotic Orchard,FIC,en,1
 Exsanguinate,FIC,en,1
 Eye of Nidhogg,FIC,en,1
 "Fandaniel, Telophoroi Ascian",FIC,en,1
-"Fang, Fearless l'Cie",FIN,de,1
+"Fang, Fearless l'Cie",FIN,de,2
 Farseek,FIC,de,1
-Fate of the Sun-Cryst,FIN,de,3
+Fate of the Sun-Cryst,FIN,de,4
 Fetid Heath,FIC,de,1
 Fetid Heath,FIC,en,1
 Fight On!,FIN,de,2
@@ -97,8 +106,10 @@ Flayer of the Hatebound,FIC,de,1
 Foreboding Ruins,FIC,de,1
 Freya Crescent,FIN,de,1
 Furycalm Snarl,FIC,de,1
+"Fynn, the Fangbearer",FCA,en,1
 "G'raha Tia, Scion Reborn",FIC,en,1
-Gaelicat,FIN,de,1
+Gaelicat,FIN,de,2
+Galuf's Final Act,FIN,de,1
 "Garland, Knight of Cornelia // Chaos, the Endless",FIN,de,1
 "Gau, Feral Youth",FIC,de,1
 General Leo Cristophe,FIC,de,1
@@ -108,12 +119,13 @@ Geothermal Bog,FIC,de,1
 Glacial Fortress,FIC,en,1
 "Gogo, Mysterious Mime",FIC,de,1
 "Gohn, Town of Ruin",FIN,de,1
+Gran Pulse Ochu,FIN,de,1
 Graven Cairns,FIC,de,1
 "Guadosalam, Farplane Gateway",FIN,de,1
-Gysahl Greens,FIN,de,1
+Gysahl Greens,FIN,de,2
 Haste Magic,FIN,de,1
 "Hermes, Overseer of Elpis",FIC,en,1
-Hero,TFIN,de,3
+Hero,TFIN,de,5
 Hero,TFIN,en,8
 High Market,FIC,de,1
 Hildibrand Manderville // Gentleman's Rise,FIC,en,1
@@ -124,13 +136,13 @@ Hypnotic Sprite // Mesmeric Glare,FIC,en,1
 Ice Flan,FIN,de,1
 Idyllic Beachfront,FIC,en,1
 "Insomnia, Crown City",FIN,de,2
-Instant Ramen,FIN,de,1
+Instant Ramen,FIN,de,2
 "Interceptor, Shadow's Hound",FIC,de,1
 Into the Story,FIC,en,1
 Iron Giant,FIN,de,2
 Isolated Chapel,FIC,de,1
 Isolated Chapel,FIC,en,1
-Item Shopkeep,FIN,de,1
+Item Shopkeep,FIN,de,2
 "Jecht, Reluctant Guardian // Braska's Final Aeon",FIN,de,1
 "Kefka, Dancing Mad",FIC,de,1
 Key to the City,FIC,de,1
@@ -139,13 +151,17 @@ Krile Baldesion,FIC,en,2
 Laughing Mad,FIN,de,1
 Legions to Ashes,FIC,de,1
 Lethal Scheme,FIC,en,1
+Light of Judgment,FIN,de,1
 Lingering Souls,FIC,en,1
 "Locke, Treasure Hunter",FIC,de,1
+Loporrit Scout,FIN,de,1
 Lyse Hext,FIC,en,1
-Magic Damper,FIN,de,3
+Magic Damper,FIN,de,4
+Magic Pot,FIN,de,1
 Magitek Armor,FIN,de,1
 Magitek Infantry,FIN,de,4
-Malboro,FIN,de,1
+Malboro,FIN,de,2
+"Matoya, Archon Elder",FIN,de,1
 Memories Returning,FIN,de,1
 Meteor Golem,FIC,de,1
 Millikin,FIC,de,1
@@ -158,7 +174,7 @@ Moogle,TFIN,en,2
 Morbid Opportunist,FIC,de,1
 Mortify,FIC,de,1
 Murderous Rider // Swift End,FIC,en,1
-Mysidian Elder,FIN,de,1
+Mysidian Elder,FIN,de,2
 Namazu Trader,FIN,de,1
 Night's Whisper,FIC,de,1
 Nomad Outpost,FIC,de,1
@@ -173,10 +189,11 @@ Pitiless Plunderer,FIC,de,1
 Port Town,FIC,en,1
 Prairie Stream,FIC,en,1
 Priest of Fell Rites,FIC,de,1
-Prishe's Wanderings,FIN,de,4
+Prishe's Wanderings,FIN,de,5
 Propaganda,FIC,en,1
 PuPu UFO,FIN,de,1
 "Rabanastre, Royal City",FIN,de,1
+Random Encounter,FIN,de,1
 Reanimate,FIC,de,1
 Reaper's Scythe,FIC,en,1
 Rejoin the Fight,FIC,de,1
@@ -190,27 +207,29 @@ Rise of the Dark Realms,FIC,de,1
 Rite of Replication,FIC,en,1
 Robot Warrior,TFIN,de,1
 Rogue's Passage,FIC,de,1
-Rook Turret,FIN,de,3
+Rook Turret,FIN,de,4
 Rugged Prairie,FIC,de,1
 Ruin Grinder,FIC,de,1
 Ruinous Ultimatum,FIC,de,1
 "Sabin, Master Monk",FIC,de,1
 Sacred Peaks,FIC,de,1
-Sage's Nouliths,FIN,de,1
+Sage's Nouliths,FIN,de,2
 Sahagin,FIN,en,1
 Samurai's Katana,FIN,de,1
 Scavenger Grounds,FIC,en,1
-Scorpion Sentinel,FIN,de,2
+Scorpion Sentinel,FIN,de,3
 "Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",FIN,de,1
 "Sephiroth, One-Winged Angel Emblem",TFIN,de,1
 Sepulchral Primordial,FIC,de,1
+Serah Farron // Crystallized Serah,FIN,de,1
 "Setzer, Wandering Gambler",FIC,de,1
 "Shadow, Mysterious Assassin",FIC,de,1
 Shadowblood Ridge,FIC,de,1
+"Shantotto, Tactician Magician",FIN,de,1
 "Sharlayan, Nation of Scholars",FIN,de,1
 Shineshadow Snarl,FIC,de,1
 Shineshadow Snarl,FIC,en,1
-Shinra Reinforcements,FIN,de,1
+Shinra Reinforcements,FIN,de,2
 Sidequest: Catch a Fish // Cooking Campsite,FIN,de,1
 "Sidequest: Play Blitzball // World Champion, Celestial Weapon",FIN,de,1
 "Siegfried, Famed Swordsman",FIC,de,1
@@ -225,7 +244,7 @@ Sol Ring,FIC,en,1
 Solemn Simulacrum,FIC,de,1
 Sorceress's Schemes,FIN,de,1
 Spirit,TFIC,en,2
-"Squall, SeeD Mercenary",FIN,de,1
+"Squall, SeeD Mercenary",FIN,de,2
 Stitch Together,FIC,de,1
 Stitcher's Supplier,FIC,de,1
 Strago and Relm,FIC,de,1
@@ -233,13 +252,14 @@ Stuck in Summoner's Sanctum,FIN,de,1
 Sublime Epiphany,FIC,en,1
 Sulfurous Springs,FIC,de,1
 Summon: Anima,FIN,de,1
-Summon: Choco/Mog,FIN,de,1
+Summon: Choco/Mog,FIN,de,2
 Summon: Esper Ramuh,FIN,de,1
 Summon: Esper Valigarmanda,FIC,de,1
-Summon: Fat Chocobo,FIN,de,1
+Summon: Fat Chocobo,FIN,de,2
 Summon: G.F. Ifrit,FIN,de,2
 Summon: Good King Mog XII,FIC,en,1
 Summon: Primal Garuda,FIN,de,1
+Summon: Primal Odin,FIN,de,1
 Summon: Shiva,FIN,de,1
 Summon: Shiva,FIN,en,1
 Summoner's Sending,FIC,en,1
@@ -276,7 +296,7 @@ The Wandering Minstrel,FIN,de,2
 The Warring Triad,FIC,de,1
 Thought Vessel,FIC,en,1
 "Tidus, Blitzball Star",FIN,de,1
-Tifa's Limit Break,FIN,de,1
+Tifa's Limit Break,FIN,de,2
 Tome of Legends,FIC,en,1
 Tonberry,FIN,de,1
 "Torgal, A Fine Hound",FIN,de,2
@@ -284,23 +304,26 @@ Torrential Gearhulk,FIC,en,1
 Town Greeter,FIN,de,2
 Tragic Arrogance,FIC,de,1
 Transpose,FIC,en,1
-Treasure,TFIN,de,6
+Treasure,TFIN,de,7
 Treasure,TFIN,en,1
-"Ultros, Obnoxious Octopus",FIN,de,1
+"Ultros, Obnoxious Octopus",FIN,de,2
 "Umaro, Raging Yeti",FIC,de,1
 Undercity Dire Rat,FIN,de,1
 Underground River,FIC,en,1
+Unexpected Request,FIN,de,1
 Urianger Augurelt,FIC,en,1
+"Vaan, Street Thief",FIN,de,1
 "Venser, Shaper Savant",FCA,de,1
-Vincent's Limit Break,FIN,de,1
+Vincent's Limit Break,FIN,de,2
 Vindicate,FIC,en,1
 Void Rend,FIC,en,1
-Warrior's Sword,FIN,de,4
+Wall of Omens,FCA,en,1
+Warrior's Sword,FIN,de,5
 Wayfarer's Bauble,FIC,de,1
 Weapons Vendor,FIN,de,1
 White Auracite,FIN,en,1
-Wizard,TFIN,de,1
+Wizard,TFIN,de,2
 Wizard,TFIN,en,2
 "Y'shtola, Night's Blessed",FIC,en,1
-"Zidane, Tantalus Thief",FIN,de,2
+"Zidane, Tantalus Thief",FIN,de,3
 Zombie,TFIC,en,1
