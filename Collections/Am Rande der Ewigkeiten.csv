@@ -1,18 +1,18 @@
 Name,Set code,Language,Quantity
 "Adagia, Windswept Bastion",EOE,de,2
-Adarkar Wastes,EOC,de,1
-"Alibou, Ancient Witness",EOC,de,1
+Adarkar Wastes,TDC,de,1
+"Alibou, Ancient Witness",C21,de,1
 All-Fates Scroll,EOE,de,2
 "Alpharael, Dreaming Acolyte",EOE,de,2
 "Alpharael, Stonechosen",EOE,de,1
-Ancient Den,EOC,de,1
+Ancient Den,C21,de,1
 Ancient Tomb,EOS,de,1
-Angel of the Ruins,EOC,de,1
+Angel of the Ruins,BLC,de,1
 Annul,EOE,de,1
 Anticausal Vestige,EOE,de,1
 Arcane Signet,EOC,de,1
 Archenemy's Charm,EOE,de,1
-Astral Cornucopia,EOC,de,1
+Astral Cornucopia,CM2,de,1
 Atomic Microsizer,EOE,de,1
 Auxiliary Boosters,EOE,de,3
 Banishing Light,EOE,de,3
@@ -28,15 +28,15 @@ Blooming Stinger,EOE,de,2
 Bombard,EOE,de,3
 Brightspear Zealot,EOE,de,5
 Broodguard Elite,EOE,de,1
-Buried Ruin,EOC,de,1
+Buried Ruin,ONC,de,1
 Bygone Colossus,EOE,de,1
-Cascade Bluffs,EOC,de,1
+Cascade Bluffs,TDC,de,1
 Cerebral Download,EOE,de,1
-Chain Reaction,EOC,de,1
+Chain Reaction,ONC,de,1
 Chaos Warp,EOC,de,1
 Chrome Companion,EOE,de,3
-Chrome Host Seedshark,EOC,de,1
-Clifftop Retreat,EOC,de,1
+Chrome Host Seedshark,MOM,de,1
+Clifftop Retreat,TDC,de,1
 Close Encounter,EOE,de,1
 Cloud Key,EOC,de,1
 Cloudsculpt Technician,EOE,de,4
@@ -45,26 +45,26 @@ Comet Crawler,EOE,de,3
 Command Bridge,EOE,de,5
 Command Tower,EOC,de,1
 Consult the Star Charts,EOE,de,1
-Coretapper,EOC,de,1
+Coretapper,2XM,de,1
 Cryogen Relic,EOE,de,3
 Cryoshatter,EOE,de,3
-Crystalline Crawler,EOC,de,1
+Crystalline Crawler,CM2,de,1
 Cut Propulsion,EOE,de,1
-Cyberdrive Awakener,EOC,de,1
+Cyberdrive Awakener,NEC,de,1
 Dark Endurance,EOE,de,4
-Darksteel Reactor,EOC,de,1
+Darksteel Reactor,DST,de,1
 Dauntless Scrapbot,EOE,de,1
 Dawnstrike Vanguard,EOE,de,2
 Debris Field Crusher,EOE,de,1
 Decode Transmissions,EOE,de,4
-Deepglow Skate,EOC,de,1
+Deepglow Skate,CMM,de,1
 Depressurize,EOE,de,3
 Depthshaker Titan,EOC,de,1
 Desculpting Blast,EOE,de,1
 Deserted Temple,EOS,de,1
 Devastating Onslaught,EOE,de,1
 Diplomatic Relations,EOE,de,4
-Dispatch,EOC,de,1
+Dispatch,NEC,de,1
 Divert Disaster,EOE,de,4
 Dockworker Drone,EOE,de,3
 Drill Too Deep,EOE,de,3
@@ -78,21 +78,21 @@ Edge Rover,EOE,de,1
 Eldrazi Temple,EOS,de,1
 Embrace Oblivion,EOE,de,4
 Emergency Eject,EOE,de,1
-Empowered Autogenerator,EOC,de,1
-"Emry, Lurker of the Loch",EOC,de,1
+Empowered Autogenerator,C19,de,1
+"Emry, Lurker of the Loch",NEC,de,1
 Endless Sands,EOS,de,1
-Enthusiastic Mechanaut,EOC,de,1
+Enthusiastic Mechanaut,NEO,de,1
 Entropic Battlecruiser,EOE,de,1
-Etched Oracle,EOC,de,1
-Etherium Sculptor,EOC,de,1
+Etched Oracle,C16,de,1
+Etherium Sculptor,NEC,de,1
 Eumidian Terrabotanist,EOE,de,2
 Eusocial Engineering,EOE,de,1
-Everflowing Chalice,EOC,de,1
-Evolving Wilds,EOC,de,1
+Everflowing Chalice,M3C,de,1
+Evolving Wilds,DRC,de,1
 Exalted Sunborn,EOE,de,1
 Exosuit Savior,EOE,de,3
-Exotic Orchard,EOC,de,1
-Experimental Augury,EOC,de,1
+Exotic Orchard,TDC,de,1
+Experimental Augury,ONE,de,1
 Extinguisher Battleship,EOE,de,1
 Faller's Faithful,EOE,de,1
 Fell Gravship,EOE,de,2
@@ -101,7 +101,7 @@ Focus Fire,EOE,de,3
 Frenzied Baloth,EOE,de,1
 Frontline War-Rager,EOE,de,3
 Full Bore,EOE,de,2
-Fumigate,EOC,de,1
+Fumigate,FDN,de,1
 Fungal Colossus,EOE,de,4
 Galactic Wayfarer,EOE,de,4
 Galvanizing Sawship,EOE,de,1
@@ -110,20 +110,21 @@ Gene Pollinator,EOE,de,3
 Genemorph Imago,EOE,de,1
 Germinating Wurm,EOE,de,2
 Gigastorm Titan,EOE,de,2
-Glacial Fortress,EOC,de,1
+Glacial Fortress,TDC,de,1
 Glacier Godmaw,EOE,de,2
 Glittering Massif,EOC,de,1
-Gnome,TEOC,de,2
+Gnome,TLCI,de,2
 Godless Shrine,EOE,de,2
-Golem,TEOC,de,4
-Golem Foundry,EOC,de,1
+Golem,TEOC,de,2
+Golem,TMBS,de,2
+Golem Foundry,SOM,de,1
 Gravblade Heavy,EOE,de,3
 Gravkill,EOE,de,2
 Gravpack Monoist,EOE,de,5
-Great Furnace,EOC,de,1
+Great Furnace,C21,de,1
 "Haliya, Ascendant Cadet",EOE,de,1
 "Haliya, Guided by Light",EOE,de,1
-Hangarback Walker,EOC,de,1
+Hangarback Walker,CMM,de,1
 Harmonious Grovestrider,EOE,de,1
 Honor,EOE,de,2
 Honored Knight-Captain,EOE,de,1
@@ -136,7 +137,7 @@ Icetill Explorer,EOE,de,1
 Illvoi Galeblade,EOE,de,3
 Illvoi Light Jammer,EOE,de,4
 Illvoi Operative,EOE,de,3
-Incubator // Phyrexian,TEOC,de,2
+Incubator // Phyrexian,TMOM,de,2
 Infinite Guideline Station,EOE,de,1
 Insatiable Skittermaw,EOE,de,3
 Insight Engine,EOC,de,1
@@ -144,10 +145,10 @@ Insight Engine,EOC,de,1
 Interceptor Mechan,EOE,de,1
 Intrepid Tenderfoot,EOE,de,3
 Invasive Maneuvers,EOE,de,2
-Irrigated Farmland,EOC,de,1
-"Jhoira, Weatherlight Captain",EOC,de,1
-Kappa Cannoneer,EOC,de,1
-Karn's Bastion,EOC,de,1
+Irrigated Farmland,TDC,de,1
+"Jhoira, Weatherlight Captain",2XM,de,1
+Kappa Cannoneer,MH3,de,1
+Karn's Bastion,RVR,de,1
 Kav Landseeker,EOE,de,4
 Kavaron Harrier,EOE,de,1
 Kavaron Skywarden,EOE,de,3
@@ -159,11 +160,11 @@ Larval Scoutlander,EOE,de,1
 Lashwhip Predator,EOE,de,3
 Lightstall Inquisitor,EOE,de,1
 Lithobraking,EOE,de,1
-Lonely Sandbar,EOC,de,1
+Lonely Sandbar,MKC,de,1
 Long-Range Sensor,EOC,de,1
 Lost in Space,EOE,de,3
-Lux Artillery,EOC,de,1
-Lux Cannon,EOC,de,1
+Lux Artillery,ONC,de,1
+Lux Cannon,2XM,de,1
 Luxknight Breacher,EOE,de,3
 Mechan Assembler,EOE,de,2
 Mechan Navigator,EOE,de,2
@@ -175,7 +176,7 @@ Meltstrider's Gear,EOE,de,2
 Meltstrider's Resolve,EOE,de,1
 Memorial Team Leader,EOE,de,1
 Mental Modulation,EOE,de,3
-Mindless Automaton,EOC,de,1
+Mindless Automaton,MOC,de,1
 "Mm'menon, Uthros Exile",EOE,de,1
 Molecular Modifier,EOE,de,2
 Monoist Circuit-Feeder,EOE,de,2
@@ -184,7 +185,7 @@ Moonlit Meditation,EOE,de,1
 Moxite Refinery,EOC,de,1
 Munitions,TEOE,de,4
 Mutinous Massacre,EOE,de,1
-Mystic Monastery,EOC,de,1
+Mystic Monastery,TDM,de,1
 Mystifying Maze,EOS,de,1
 Nanoform Sentinel,EOE,de,2
 Nebula Dragon,EOE,de,4
@@ -192,72 +193,72 @@ Nova Hellkite,EOE,de,1
 Nutrient Block,EOE,de,2
 Orbital Plunge,EOE,de,3
 Oreplate Pangolin,EOE,de,3
-Organic Extinction,EOC,de,1
+Organic Extinction,MKC,de,1
 Pain for All,EOE,de,1
 Patrolling Peacemaker,EOC,de,1
 Pentad Prism,EOC,de,1
 Perigee Beckoner,EOE,de,3
-Phyrexian Metamorph,EOC,de,1
+Phyrexian Metamorph,MKC,de,1
 Pinnacle Emissary,EOE,de,1
 Pinnacle Kill-Ship,EOE,de,3
 Pinnacle Starcage,EOE,de,1
 Plasma Bolt,EOE,de,3
-Pull from Tomorrow,EOC,de,1
+Pull from Tomorrow,DRC,de,1
 Pull Through the Weft,EOE,de,2
 Pulsar Squadron Ace,EOE,de,3
 Radiant Strike,EOE,de,3
 Radiant Summit,EOC,de,1
 "Ragost, Deft Gastronaut",EOE,de,1
 Rayblade Trooper,EOE,de,1
-Razortide Bridge,EOC,de,1
+Razortide Bridge,MH2,de,1
 Red Tiger Mechan,EOE,de,3
 Remnant Elemental,EOE,de,2
 Reroute Systems,EOE,de,1
 Rescue Skiff,EOE,de,1
-Resourceful Defense,EOC,de,1
+Resourceful Defense,NCC,de,1
 Rig for War,EOE,de,3
-Ripples of Potential,EOC,de,1
+Ripples of Potential,LCC,de,1
 Robot,TEOE,de,24
 Roving Actuator,EOE,de,1
-Rugged Prairie,EOC,de,1
+Rugged Prairie,TDC,de,1
 Ruinous Rampage,EOE,de,2
 Rust Harvester,EOE,de,1
-Rustvale Bridge,EOC,de,1
+Rustvale Bridge,MH2,de,1
 "Sami, Ship's Engineer",EOE,de,1
 Sami's Curiosity,EOE,de,3
 Scour for Scrap,EOE,de,2
 Scout for Survivors,EOE,de,1
 Scrounge for Eternity,EOE,de,1
 Seam Rip,EOE,de,2
-Seat of the Synod,EOC,de,1
+Seat of the Synod,C18,de,1
 Secluded Starforge,EOE,de,1
-Secluded Steppe,EOC,de,1
+Secluded Steppe,MKC,de,1
 Seedship Agrarian,EOE,de,2
 Seedship Impact,EOE,de,3
 Selfcraft Mechan,EOE,de,2
 Shattered Wings,EOE,de,3
-Shivan Reef,EOC,de,1
-Silverbluff Bridge,EOC,de,1
+Shivan Reef,TDC,de,1
+Silverbluff Bridge,MH2,de,1
 Sinister Cryologist,EOE,de,4
-Skycloud Expanse,EOC,de,1
+Skycloud Expanse,TDC,de,1
 Skystinger,EOE,de,3
 Slagdrill Scrapper,EOE,de,3
 Sliver,TEOE,de,3
 Sol Ring,EOC,de,1
 Solar Array,EOC,de,1
-Soul-Guide Lantern,EOC,de,1
+Soul-Guide Lantern,FDN,de,1
 Space-Time Anomaly,EOE,de,3
 Specimen Freighter,EOE,de,1
-Spire of Industry,EOC,de,1
+Spire of Industry,DRC,de,1
 Squire's Lightblade,EOE,de,4
 Starbreach Whale,EOE,de,2
 Starfield Vocalist,EOE,de,1
 Starfighter Pilot,EOE,de,3
 Starport Security,EOE,de,3
 Station Monitor,EOE,de,1
-Steel Overseer,EOC,de,1
+Steel Overseer,C21,de,1
 Steelswarm Operator,EOE,de,2
-Sulfur Falls,EOC,de,1
+Sulfur Falls,TDC,de,1
 Sunstar Chaplain,EOE,de,1
 Sunstar Expansionist,EOE,de,3
 Sunstar Lightsmith,EOE,de,1
@@ -273,10 +274,10 @@ Synthesizer Labship,EOE,de,1
 Systems Override,EOE,de,1
 "Tannuk, Memorial Ensign",EOE,de,1
 Tapestry Warden,EOE,de,1
-"Tekuthal, Inquiry Dominus",EOC,de,1
-Temple of Enlightenment,EOC,de,1
-Temple of Epiphany,EOC,de,1
-Temple of Triumph,EOC,de,1
+"Tekuthal, Inquiry Dominus",ONE,de,1
+Temple of Enlightenment,TDC,de,1
+Temple of Epiphany,TDC,de,1
+Temple of Triumph,TDC,de,1
 Temporal Intervention,EOE,de,3
 Terminal Velocity,EOE,de,1
 Terrapact Intimidator,EOE,de,1
@@ -287,18 +288,18 @@ Tezzeret's Gambit,EOC,de,1
 Thaumaton Torpedo,EOE,de,2
 Thawbringer,EOE,de,4
 The Eternity Elevator,EOE,de,1
-The Mycosynth Gardens,EOC,de,1
+The Mycosynth Gardens,ONE,de,1
 Thirst for Knowledge,EOC,de,1
-Thopter,TEOC,de,1
-Thought Monitor,EOC,de,1
-Threefold Thunderhulk,EOC,de,1
-Thrummingbird,EOC,de,1
+Thopter,TTDC,de,1
+Thought Monitor,MKC,de,1
+Threefold Thunderhulk,LCI,de,1
+Thrummingbird,ONE,de,1
 Timeline Culler,EOE,de,1
-Titan Forge,EOC,de,1
+Titan Forge,MBS,de,1
 Tractor Beam,EOE,de,1
 Tragic Trajectory,EOE,de,1
 Umbral Collar Zealot,EOE,de,2
-Universal Surveillance,EOC,de,1
+Universal Surveillance,NEC,de,1
 Unravel,EOE,de,1
 Uthros Psionicist,EOE,de,1
 Uthros Research Craft,EOC,de,1
@@ -307,7 +308,7 @@ Virulent Silencer,EOE,de,1
 Virus Beetle,EOE,de,3
 Voidforged Titan,EOE,de,2
 Vote Out,EOE,de,2
-Wake the Past,EOC,de,1
+Wake the Past,C21,de,1
 Warmaker Gunship,EOE,de,1
 Watery Grave,EOE,de,1
 Weapons Manufacturing,EOE,de,1

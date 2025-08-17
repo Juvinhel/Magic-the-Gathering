@@ -44,7 +44,7 @@ Cancel,FDN,de,1
 Carnelian Orb of Dragonkind,FDN,de,1
 Cat,TFDN,de,1
 Cat Collector,FDN,de,1
-Cathar Commando,FDN,de,1
+Cathar Commando,INR,de,1
 Cemetery Recruitment,FDN,de,1
 Clinquant Skymage,FDN,de,1
 Condemn,SPG,de,1
@@ -209,7 +209,8 @@ Skeleton Archer,FDN,de,1
 Skyraker Giant,FDN,de,1
 Skyship Buccaneer,FDN,de,1
 Snakeskin Veil,FDN,de,1
-Soldier,TFDN,de,3
+Soldier,TBRO,de,1
+Soldier,TFDN,de,2
 Soul-Shackled Zombie,FDN,de,1
 Sower of Chaos,FDN,de,2
 Spectral Sailor,FDN,de,1
@@ -257,6 +258,6 @@ Wildwood Scourge,FDN,de,2
 Wind-Scarred Crag,FDN,de,2
 Witness Protection,FDN,de,2
 Youthful Valkyrie,FDN,de,2
-Zombie,TFDN,de,3
+Zombie,TINR,de,3
 Zombify,FDN,de,1
 "Zul Ashur, Lich Lord",FDN,de,1
