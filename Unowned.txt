@@ -11,7 +11,6 @@
 1 Angel's Feather
 1 Angelic Renewal
 1 Angelic Skirmisher
-1 Angelic Sleuth
 1 Archangel Elspeth
 1 Archangel of Thune
 1 Archangel of Tithes
@@ -26,7 +25,6 @@
 1 Blinkmoth Urn
 1 Blooming Marsh
 1 Bonders' Enclave
-1 Boon-Bringer Valkyrie
 1 Botanical Sanctum
 1 Brave the Elements
 1 Breathkeeper Seraph
