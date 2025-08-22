@@ -2,23 +2,31 @@ name: Suche
 description: Karten die ich haben möchte
 main:
   - 1 Abandoned Campground
+  - 1 Absolute Virtue
+  - 1 Aettir and Priwen
   - 1 Akroma, Vision of Ixidor
   - 1 Angel's Feather
   - 1 Archangel Elspeth
+  - 1 Black Waltz No. 3
   - 1 Bleachbone Verge
   - 1 Brilliant Restoration
+  - 1 Capital City
+  - 1 Clive's Hideaway
   - 1 Company Commander
   - 1 Concealed Courtyard
   - 1 Counterspell
   - 1 Cyclonic Rift
   - 1 Danitha, New Benalia's Light
-  - 1 Dawn of Hope
   - 1 Dawn of a New Age
+  - 1 Dawn of Hope
+  - 1 Dion, Bahamut's Dominant // Bahamut, Warden of Light
   - 1 Dovin's Veto
   - 1 Dragon's Claw
+  - 1 Eden, Seat of the Sanctum
   - 1 Elspeth, Sun's Nemesis
   - 1 Emmara, Soul of the Accord
   - 1 Enlightened Tutor
+  - 1 Enter the Infinite
   - 1 Ethersworn Canonist
   - 1 Faramir, Field Commander
   - 1 Floodfarm Verge
@@ -30,13 +38,18 @@ main:
   - 1 Haunt of the Dead Marshes
   - 1 Herald of Eternal Dawn
   - 1 Horn of Valhalla // Ysgard's Call
-  - 1 Kaheera, the Orphanguard
+  - 1 Infinite Reflection
+  - 1 Ishgard, the Holy See // Faith & Grief
+  - 1 Jidoor, Aristocratic Capital // Overture
   - 1 Kuldotha Forgemaster
+  - 1 Lindblum, Industrial Regency // Mage Siege
   - 1 Lossarnach Captain
+  - 1 Midgar, City of Mako // Reactor Raid
   - 1 Myrel, Shield of Argive
   - 1 Mystic Gate
   - 1 Neglected Manor
   - 1 Nimbus Maze
+  - 1 Noctis, Prince of Lucis
   - 1 Oltec Matterweaver
   - 1 Oswald Fiddlebender
   - 1 Privileged Position
@@ -45,6 +58,8 @@ main:
   - 1 Reverent Hoplite
   - 1 Rhys the Redeemed
   - 1 Ring of Three Wishes
+  - 1 Rosa, Resolute White Mage
+  - 1 Rydia, Summoner of Mist
   - 1 Sanitarium Skeleton
   - 1 Seachrome Coast
   - 1 Shambling Vent
@@ -54,10 +69,19 @@ main:
   - 1 Sigarda, Font of Blessings
   - 1 Sigarda, Host of Herons
   - 1 Silvar, Devourer of the Free
+  - 1 Sin, Spira's Punishment
   - 1 Skrelv, Defector Mite
+  - 1 Starting Town
   - 1 Stridehangar Automaton
+  - 1 Terra, Magical Adept // Esper Terra
+  - 1 The Darkness Crystal
+  - 1 The Earth Crystal
+  - 1 The Fire Crystal
+  - 1 The Water Crystal
   - 1 Thousand Moons Smithy // Barracks of the Thousand
+  - 1 Traveling Chocobo
   - 1 Tree of Perdition
+  - 1 Triple Triad
   - 1 Trynn, Champion of Freedom
   - 1 Undercellar Sweep
   - 1 Unwinding Clock
@@ -65,10 +89,24 @@ main:
   - 1 Valiant Veteran
   - 1 Vault of Champions
   - 1 Vault of the Archangel
+  - 1 Venat, Heart of Hydaelyn // Hydaelyn, the Mothercrystal
   - 1 Veteran Swordsmith
+  - 1 Vivi Ornitier
   - 1 Vnwxt, Verbose Host
   - 1 Wurm's Tooth
-  - 1 Infinite Reflection
-  - 1 Enter the Infinite
+  - 1 Y'shtola Rhul
+  - 1 Yuna, Hope of Spira
+  - 1 Zanarkand, Ancient Metropolis // Lasting Fayth
+  - Companion:
+      - 1 Gyruda, Doom of Depths
+      - 1 Jegantha, the Wellspring
+      - 1 Kaheera, the Orphanguard
+      - 1 Keruga, the Macrosage
+      - 1 Lurrus of the Dream-Den
+      - 1 Lutri, the Spellchaser
+      - 1 Obosh, the Preypiercer
+      - 1 Umori, the Collector
+      - 1 Yorion, Sky Nomad
+      - 1 Zirda, the Dawnwaker
 side: null
 maybe: null
