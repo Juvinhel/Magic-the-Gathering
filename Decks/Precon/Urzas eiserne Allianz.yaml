@@ -1,7 +1,7 @@
 name: Urzas eiserne Allianz
 description: ""
 commanders:
-  - "Urza, Chief Artificer "
+  - Urza, Chief Artificer
 main:
   - 1 Alela, Artful Provocateur
   - 1 Ancient Den
@@ -94,6 +94,6 @@ main:
   - 1 Whirler Rogue
   - 1 Wire Surgeons
   - 1 Wreck Hunter
-  - "1 Urza, Chief Artificer "
+  - 1 Urza, Chief Artificer
 side: null
 maybe: null

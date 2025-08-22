@@ -1,7 +1,7 @@
 name: Meister des Bösen
 description: ""
 commanders:
-  - "Davros, Dalek Creator "
+  - Davros, Dalek Creator
 main:
   - 1 Arcane Signet
   - 1 Ashad, the Lone Cyberman
@@ -24,7 +24,7 @@ main:
   - 1 Dalek Drone
   - 1 Dalek Squadron
   - 1 Darkwater Catacombs
-  - "1 Davros, Dalek Creator "
+  - 1 Davros, Dalek Creator
   - 1 Day of the Moon
   - 1 Death in Heaven
   - 1 Delete

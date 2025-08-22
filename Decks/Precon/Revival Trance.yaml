@@ -1,7 +1,7 @@
 name: Revival Trance
 description: ""
 commanders:
-  - "Terra, Herald of Hope "
+  - Terra, Herald of Hope
 main:
   - 1 Angel of the Ruins
   - 1 Anger
@@ -90,7 +90,7 @@ main:
   - 1 Swiftfoot Boots
   - 1 Talisman of Conviction
   - 1 Talisman of Indulgence
-  - "1 Terra, Herald of Hope "
+  - 1 Terra, Herald of Hope
   - 1 The Falcon, Airship Restored
   - 1 The Warring Triad
   - 1 Tragic Arrogance

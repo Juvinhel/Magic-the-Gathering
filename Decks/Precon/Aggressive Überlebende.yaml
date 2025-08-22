@@ -1,7 +1,7 @@
 name: Aggressive Überlebende
 description: ""
 commanders:
-  - "Dogmeat, Ever Loyal "
+  - Dogmeat, Ever Loyal
 main:
   - 1 Preston Garvey, Minuteman
   - 1 Codsworth, Handy Helper
@@ -93,6 +93,6 @@ main:
   - 4 Mountain
   - 4 Forest
   - 4 Plains
-  - "1 Dogmeat, Ever Loyal "
+  - 1 Dogmeat, Ever Loyal
 side: null
 maybe: null

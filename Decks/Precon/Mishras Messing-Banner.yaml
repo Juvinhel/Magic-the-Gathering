@@ -1,7 +1,7 @@
 name: Mishras Messing-Banner
 description: ""
 commanders:
-  - "Mishra, Eminent One "
+  - Mishra, Eminent One
 main:
   - 1 Abrade
   - 1 Arcane Signet
@@ -50,7 +50,7 @@ main:
   - 1 Metalwork Colossus
   - 1 Mind Stone
   - 1 Mirrorworks
-  - "1 Mishra, Eminent One "
+  - 1 Mishra, Eminent One
   - 1 Mistvault Bridge
   - 1 Mnemonic Sphere
   - 4 Mountain
