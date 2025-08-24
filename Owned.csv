@@ -337,6 +337,7 @@ Brightspear Zealot,EOE,de,5
 Brineborn Cutthroat,FDN,de,3
 Broadcast Rambler,DFT,de,3
 Broken Wings,DFT,de,3
+Broken Wings,DFT,en,1
 Broken Wings,FDN,de,1
 Bronze Guardian,BRC,de,1
 Bronze Walrus,CLB,de,2
@@ -815,6 +816,7 @@ Elves of Deep Shadow,GK1,de,1
 Elvish Archdruid,FDN,de,1
 Elvish Bard,9ED,de,1
 Elvish Mariner,LTR,de,1
+Elvish Refueler,DFT,en,1
 Elvish Regrower,FDN,de,1
 Elvish Warrior,EVG,de,2
 Emancipation Angel,UMA,en,1
@@ -930,7 +932,7 @@ Fang-Druid Summoner,DFT,de,1
 Far Traveler,CLB,de,1
 Farhaven Elf,KHC,de,1
 "Farid, Enterprising Salvager",BRC,de,1
-Farseek,FCA,de,1
+Farseek,FIC,de,1
 Farseek,RVR,de,2
 Farsight Mask,PCA,de,1
 Fate of the Sun-Cryst,FIN,de,4
@@ -2680,6 +2682,7 @@ Thaumaton Torpedo,EOE,de,2
 Thawbringer,EOE,de,4
 "The Beast, Deathless Prince",WHO,de,1
 The Blackjack,TFIC,de,2
+The Book of Exalted Deeds,AFR,en,1
 The Cyber-Controller,WHO,de,1
 The Dalek Emperor,WHO,de,1
 The Earth Crystal,FIN,de,1
@@ -3080,7 +3083,7 @@ Zhentarim Bandit,CLB,de,1
 "Zidane, Tantalus Thief",FIN,de,3
 Zo-Zu the Punisher,CHK,de,1
 Zoetic Cavern,MKC,de,1
-Zombie,TDFT,de,2
+Zombie,TDRC,de,2
 Zombie,TFDN,de,3
 Zombie,TFIC,en,1
 Zombie Druid,TTDM,de,1

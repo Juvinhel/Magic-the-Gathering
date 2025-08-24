@@ -1,8 +1,9 @@
 1 Abandoned Campground
-1 Aether Syphon
+1 Absolute Virtue
+1 Aettir and Priwen
 1 Akroma, Vision of Ixidor
 1 Always Watching
-1 Amonkhet Raceway
+1 Anara, Wolvid Familiar
 1 Angel of Destiny
 1 Angel of Finality
 1 Angel of Invention
@@ -22,7 +23,6 @@
 1 Blazemire Verge
 1 Bleachbone Verge
 1 Bleeding Woods
-1 Blinkmoth Urn
 1 Blooming Marsh
 1 Bonders' Enclave
 1 Botanical Sanctum
@@ -32,8 +32,8 @@
 1 Bristling Backwoods
 1 Bruna, the Fading Light
 1 Celestial Colonnade
-1 Cephalopod Sentry
 1 Cleric Class
+1 Clive's Hideaway
 1 Commercial District
 1 Company Commander
 1 Concealed Courtyard
@@ -44,19 +44,17 @@
 1 Danitha, New Benalia's Light
 1 Darkmoss Bridge
 1 Darkslick Shores
-1 Davros, Dalek Creator 
 1 Dawn of a New Age
 1 Dawn of Hope
 1 Deathcap Glade
 1 Decree of Justice
 1 Defy Death
 1 Destroy Evil
-1 Diversion Unit
-1 Dogmeat, Ever Loyal 
+1 Dion, Bahamut's Dominant // Bahamut, Warden of Light
 1 Dovin's Veto
 1 Dragon's Claw
 1 Dreamroot Cascade
-1 Dutiful Replicator
+1 Eden, Seat of the Sanctum
 1 Elegant Parlor
 1 Elspeth Resplendent
 1 Elspeth, Sun's Nemesis
@@ -66,7 +64,6 @@
 1 Enlightened Tutor
 1 Enter the Infinite
 1 Eroded Canyon
-1 Esoteric Duplicator
 1 Etched Cornfield
 1 Ethersworn Canonist
 1 Faramir, Field Commander
@@ -87,7 +84,7 @@
 1 Gold-Forged Thopteryx
 1 Guardian of Ghirapur
 1 Guardian Seraph
-1 Guidelight Synergist
+1 Gyruda, Doom of Depths
 1 Haunt of the Dead Marshes
 1 Hedge Maze
 1 Herald of Eternal Dawn
@@ -98,49 +95,49 @@
 1 Horn of Valhalla // Ysgard's Call
 1 Hushwood Verge
 1 Idyllic Grange
-1 Illustrious Wanderglyph
 1 Infinite Reflection
 1 Inspiring Vantage
-1 Intelligence Bobblehead
+1 Ishai, Ojutai Dragonspeaker
+1 Ishgard, the Holy See // Faith & Grief
 1 Jagged Barrens
+1 Jegantha, the Wellspring
+1 Jidoor, Aristocratic Capital // Overture
 1 Kaheera, the Orphanguard
+1 Keruga, the Macrosage
 1 Kindred Boon
 1 Kuldotha Forgemaster
 1 Lakeside Shack
 1 Leyline of Hope
+1 Lindblum, Industrial Regency // Mage Siege
+1 Livio, Oathsworn Sentinel
 1 Lossarnach Captain
 1 Lumbering Falls
+1 Lurrus of the Dream-Den
 1 Lush Oasis
 1 Lush Portico
-1 Marketback Walker
-1 Mendicant Core, Guidelight 
+1 Lutri, the Spellchaser
 1 Meticulous Archive
 1 Metropolis Reformer
+1 Midgar, City of Mako // Reactor Raid
 1 Minas Tirith
-1 Mishra, Eminent One 
 1 Monumental Henge
-1 Moonsilver Key
 1 Morphic Pool
 1 Murky Sewer
-1 Myr Retriever
-1 Myr Turbine
 1 Myrel, Shield of Argive
 1 Mystic Gate
 1 Needle Spires
 1 Neglected Manor
-1 Nesting Bot
 1 New Benalia
 1 Nimbus Maze
+1 Noctis, Prince of Lucis
 1 Nykthos, Shrine to Nyx
+1 Obosh, the Preypiercer
 1 Oltec Matterweaver
 1 Oswald Fiddlebender
 1 Overflowing Basin
 1 Overgrown Farmland
 1 Peculiar Lighthouse
-1 Power Depot
 1 Privileged Position
-1 Prowler's Helm
-1 Racers' Scoreboard
 1 Radiant Fountain
 1 Raging Ravine
 1 Rally the Ranks
@@ -165,16 +162,17 @@
 1 Restless Vents
 1 Restless Vinestalk
 1 Reverent Hoplite
+1 Reyhan, Last of the Abzan
 1 Rhys the Redeemed
 1 Righteous Valkyrie
 1 Ring of Three Wishes
 1 Riverpyre Verge
 1 Rockfall Vale
+1 Rograkh, Son of Rohgahh
+1 Rosa, Resolute White Mage
+1 Rydia, Summoner of Mist
 1 Sanctuary Warden
 1 Sanitarium Skeleton
-1 Scourglass
-1 Scrap Trawler
-1 Scythe of the Wretched
 1 Sea of Clouds
 1 Seachrome Coast
 1 Segovian Angel
@@ -182,20 +180,20 @@
 1 Serra Angel
 1 Serra the Benevolent
 1 Serra's Guardian
-1 Shambling Suit
 1 Shambling Vent
 1 Shattered Angel
 1 Shattered Sanctum
 1 Shimmer Myr
 1 Siege Veteran
 1 Sigarda, Font of Blessings
-1 Sigarda, Font of Blessings 
 1 Sigarda, Host of Herons
 1 Sigarda's Splendor
 1 Sigarda's Vanguard
 1 Silvar, Devourer of the Free
+1 Sin, Spira's Punishment
 1 Skrelv, Defector Mite
 1 Slagwoods Bridge
+1 Slurrk, All-Ingesting
 1 Soured Springs
 1 Speaker of the Heavens
 1 Spectator Seating
@@ -203,11 +201,11 @@
 1 Stalwart Valkyrie
 1 Starnheim Aspirant
 1 Starnheim Unleashed
+1 Starting Town
 1 Steel Seraph
 1 Stirring Wildwood
 1 Strangled Cemetery
 1 Stridehangar Automaton
-1 Suspicious Bookcase
 1 Sword of the Animist
 1 Tainted Isle
 1 Tainted Peak
@@ -215,26 +213,28 @@
 1 Tanglepool Bridge
 1 Temple of Malady
 1 Temple of Mystery
-1 Terra, Herald of Hope 
-1 The Book of Exalted Deeds
+1 Terra, Magical Adept // Esper Terra
+1 The Darkness Crystal
+1 The Fire Crystal
+1 The Water Crystal
 1 The Wind Crystal
 1 Thornglint Bridge
 1 Thornspire Verge
 1 Thousand Moons Smithy // Barracks of the Thousand
 1 Thundering Falls
-1 Trailblazer's Boots
+1 Toggo, Goblin Weaponsmith
 1 Training Center
-1 Transmutation Font
+1 Traveling Chocobo
 1 Tree of Perdition
-1 Trophy Mage
+1 Triple Triad
 1 Trynn, Champion of Freedom
 1 Twilight Mire
+1 Umori, the Collector
 1 Undercellar Sweep
 1 Undercity Sewers
 1 Underground Mortuary
 1 Undergrowth Stadium
 1 Unwinding Clock
-1 Urza, Chief Artificer 
 1 Urza's Incubator
 1 Valiant Rescuer
 1 Valiant Veteran
@@ -242,10 +242,12 @@
 1 Vanquisher's Banner
 1 Vault of Champions
 1 Vault of the Archangel
+1 Venat, Heart of Hydaelyn // Hydaelyn, the Mothercrystal
 1 Veteran Swordsmith
+1 Vial Smasher the Fierce
 1 Viridescent Bog
+1 Vivi Ornitier
 1 Vnwxt, Verbose Host
-1 Voltaic Key
 1 Wandering Fumarole
 1 Wastewood Verge
 1 Windbrisk Heights
@@ -253,3 +255,9 @@
 1 Wooded Bastion
 1 Woodland Cemetery
 1 Wurm's Tooth
+1 Y'shtola Rhul
+1 Yorion, Sky Nomad
+1 Yoshimaru, Ever Faithful
+1 Yuna, Hope of Spira
+1 Zanarkand, Ancient Metropolis // Lasting Fayth
+1 Zirda, the Dawnwaker
