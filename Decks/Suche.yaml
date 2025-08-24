@@ -8,10 +8,8 @@ main:
   - 1 Anara, Wolvid Familiar
   - 1 Angel's Feather
   - 1 Archangel Elspeth
-  - 1 Black Waltz No. 3
   - 1 Bleachbone Verge
   - 1 Brilliant Restoration
-  - 1 Capital City
   - 1 Clive's Hideaway
   - 1 Company Commander
   - 1 Concealed Courtyard
@@ -56,7 +54,6 @@ main:
   - 1 Noctis, Prince of Lucis
   - 1 Oltec Matterweaver
   - 1 Oswald Fiddlebender
-  - 1 Prava of the Steel Legion
   - 1 Privileged Position
   - 1 Rescue Retriever
   - 1 Restless Fortress
@@ -83,7 +80,6 @@ main:
   - 1 Stridehangar Automaton
   - 1 Terra, Magical Adept // Esper Terra
   - 1 The Darkness Crystal
-  - 1 The Earth Crystal
   - 1 The Fire Crystal
   - 1 The Water Crystal
   - 1 Thousand Moons Smithy // Barracks of the Thousand
@@ -119,5 +115,10 @@ main:
       - 1 Umori, the Collector
       - 1 Yorion, Sky Nomad
       - 1 Zirda, the Dawnwaker
-side: null
+side:
+  - Owned:
+      - 1 Black Waltz No. 3
+      - 1 Capital City
+      - 1 Prava of the Steel Legion
+      - 1 The Earth Crystal
 maybe: null
