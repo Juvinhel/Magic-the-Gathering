@@ -7,10 +7,7 @@ main:
   - Creatures:
       - 1 Angel of Destiny
       - 1 Angel of Invention
-      - 1 Angel of Sanctions
       - 1 Angel of Serenity
-      - 1 Angel of Vitality
-      - 1 Angel of the Dire Hour
       - 1 Angelic Field Marshal
       - 1 Angelic Page
       - 1 Angelic Sleuth
@@ -18,23 +15,18 @@ main:
       - 1 Boon-Bringer Valkyrie
       - 1 Breathkeeper Seraph
       - 1 Dazzling Angel
-      - 1 Emancipation Angel
       - 1 Herald of Eternal Dawn
-      - 1 Herald of War
       - 1 Herald of the Host
+      - 1 Herald of War
       - 1 Lightstall Inquisitor
-      - 1 Metropolis Reformer
       - 1 Patron of the Valiant
       - 1 Resplendent Angel
       - 1 Resplendent Marshal
       - 1 Righteous Valkyrie
       - 1 Segovian Angel
-      - 1 Seraph of Dawn
-      - 1 Serra Angel
       - 1 Serra's Guardian
       - 1 Shattered Angel
       - 1 Sigarda's Vanguard
-      - 1 Speaker of the Heavens
       - 1 Steel Seraph
       - 1 Valkyrie Harbinger
       - 1 Wojek Investigator
@@ -95,7 +87,14 @@ main:
       - 1 Seraph Sanctuary
 side:
   - 1 Angel of Finality
+  - 1 Angel of Sanctions
+  - 1 Angel of the Dire Hour
+  - 1 Angel of Vitality
+  - 1 Emancipation Angel
   - 1 Kindred Boon
+  - 1 Metropolis Reformer
+  - 1 Seraph of Dawn
+  - 1 Serra Angel
 maybe:
   - 1 Always Watching
   - 1 Angelic Renewal
@@ -115,8 +114,8 @@ maybe:
   - 1 Finale of Glory
   - 1 Firemane Commando
   - 1 Gisela, the Broken Blade
-  - 1 Guardian Seraph
   - 1 Guardian of Ghirapur
+  - 1 Guardian Seraph
   - 1 Hidden Courtyard
   - 1 Idyllic Grange
   - 1 Monumental Henge
@@ -125,13 +124,14 @@ maybe:
   - 1 Rally the Ranks
   - 1 Sanctuary Warden
   - 1 Secluded Steppe
+  - 1 Speaker of the Heavens
   - 1 Stalwart Valkyrie
   - 1 Sword of the Animist
   - 1 Urza's Incubator
   - 1 Windbrisk Heights
   - To Expensive:
-      - 1 Nykthos, Shrine to Nyx
-      - 1 Archangel of Thune
       - 1 Angel of Jubilation
       - 1 Angelic Skirmisher
+      - 1 Archangel of Thune
+      - 1 Nykthos, Shrine to Nyx
       - 1 Starnheim Aspirant
