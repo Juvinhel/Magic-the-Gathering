@@ -2,6 +2,7 @@ name: Catmage
 description: ""
 commanders:
   - Y'shtola, Night's Blessed
+  - G'raha Tia, Scion Reborn
 main:
   - 1 Y'shtola, Night's Blessed
   - Creatures:
@@ -100,4 +101,92 @@ main:
       - 1 Temple of the False God
       - 1 Underground River
 side: null
-maybe: null
+maybe:
+  - 1 Aetherflux Reservoir
+  - 1 An Offer You Can't Refuse
+  - 1 Ancient Tomb
+  - 1 Anguished Unmaking
+  - 1 Archenemy's Charm
+  - 1 Beyond the Quiet
+  - 1 Black Mage's Rod
+  - 1 Black Market Connections
+  - 1 Blind Obedience
+  - 1 Bloodchief Ascension
+  - 1 Bolas's Citadel
+  - 1 Cornered by Black Mages
+  - 1 Counterspell
+  - 1 Curiosity
+  - 1 Cyclonic Rift
+  - 1 Deadly Rollick
+  - 1 Demonic Tutor
+  - 1 Disallow
+  - 1 Dismember
+  - 1 Dovin's Veto
+  - 1 Enlightened Tutor
+  - 1 Exquisite Blood
+  - 1 Fierce Guardianship
+  - 1 Flawless Maneuver
+  - 1 Flusterstorm
+  - 1 Force of Negation
+  - 1 Force of Will
+  - 1 Frantic Search
+  - 1 Ghostly Prison
+  - 1 Godless Shrine
+  - 1 Grand Arbiter Augustin IV
+  - 1 Hallowed Fountain
+  - 1 Helm of the Ghastlord
+  - 1 Imperial Seal
+  - 1 Inkshield
+  - 1 Irenicus's Vile Duplication
+  - 1 Ishgard, the Holy See // Faith & Grief
+  - 1 Kambal, Consul of Allocation
+  - 1 Lightning Greaves
+  - 1 Mana Vault
+  - 1 Midgar, City of Mako // Reactor Raid
+  - 1 Misdirection
+  - 1 Misleading Signpost
+  - 1 Mithril Coat
+  - 1 Mortify
+  - 1 Mystic Remora
+  - 1 Mystical Tutor
+  - 1 Narset, Parter of Veils
+  - 1 Necropotence
+  - 1 Norn's Annex
+  - 1 Ophidian Eye
+  - 1 Orcish Bowmasters
+  - 1 Otawara, Soaring City
+  - 1 Overkill
+  - 1 Painful Quandary
+  - 1 Path to Exile
+  - 1 Phyrexian Arena
+  - 1 Press the Enemy
+  - 1 Professor Onyx
+  - 1 Quantum Misalignment
+  - 1 Reliquary Tower
+  - 1 Render Silent
+  - 1 Rhystic Study
+  - 1 Risky Shortcut
+  - 1 Sanguine Bond
+  - 1 Sevinne's Reclamation
+  - 1 Singularity Rupture
+  - 1 Smothering Tithe
+  - 1 Snuff Out
+  - 1 Space-Time Anomaly
+  - 1 Stock Up
+  - 1 Stroke of Midnight
+  - 1 Swiftfoot Boots
+  - 1 Takenuma, Abandoned Mire
+  - 1 Teferi's Protection
+  - 1 Teferi, Time Raveler
+  - 1 The Darkness Crystal
+  - 1 The One Ring
+  - 1 The Wind Crystal
+  - 1 Toxic Deluge
+  - 1 Undermine
+  - 1 Unwind
+  - 1 Urborg, Tomb of Yawgmoth
+  - 1 Urza's Saga
+  - 1 Uthros Psionicist
+  - 1 Vampiric Tutor
+  - 1 Waterlogged Teachings // Inundated Archive
+  - 1 Watery Grave
