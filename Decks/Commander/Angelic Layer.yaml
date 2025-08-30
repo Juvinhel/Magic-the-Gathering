@@ -10,10 +10,10 @@ main:
       - 1 Angel of Serenity
       - 1 Angelic Field Marshal
       - 1 Angelic Page
+      - 1 Angelic Skirmisher
       - 1 Angelic Sleuth
       - 1 Archangel of Tithes
       - 1 Boon-Bringer Valkyrie
-      - 1 Breathkeeper Seraph
       - 1 Dazzling Angel
       - 1 Herald of Eternal Dawn
       - 1 Herald of the Host
@@ -129,9 +129,10 @@ maybe:
   - 1 Sword of the Animist
   - 1 Urza's Incubator
   - 1 Windbrisk Heights
+  - Recommended:
+      - 1 Breathkeeper Seraph
   - To Expensive:
       - 1 Angel of Jubilation
-      - 1 Angelic Skirmisher
       - 1 Archangel of Thune
       - 1 Nykthos, Shrine to Nyx
       - 1 Starnheim Aspirant
