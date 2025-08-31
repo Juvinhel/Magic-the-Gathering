@@ -5,7 +5,6 @@ commanders:
 main:
   - 1 Giada, Font of Hope
   - Creatures:
-      - 1 Angel of Destiny
       - 1 Angel of Invention
       - 1 Angel of Serenity
       - 1 Angelic Field Marshal
@@ -15,6 +14,7 @@ main:
       - 1 Archangel of Tithes
       - 1 Boon-Bringer Valkyrie
       - 1 Dazzling Angel
+      - 1 Exalted Sunborn
       - 1 Herald of Eternal Dawn
       - 1 Herald of the Host
       - 1 Herald of War
@@ -86,15 +86,7 @@ main:
       - 1 Sejiri Shelter // Sejiri Glacier
       - 1 Seraph Sanctuary
 side:
-  - 1 Angel of Finality
-  - 1 Angel of Sanctions
-  - 1 Angel of the Dire Hour
-  - 1 Angel of Vitality
-  - 1 Emancipation Angel
-  - 1 Kindred Boon
-  - 1 Metropolis Reformer
-  - 1 Seraph of Dawn
-  - 1 Serra Angel
+  - 1 Angel of Destiny
 maybe:
   - 1 Always Watching
   - 1 Angelic Renewal
@@ -116,19 +108,11 @@ maybe:
   - 1 Gisela, the Broken Blade
   - 1 Guardian of Ghirapur
   - 1 Guardian Seraph
-  - 1 Hidden Courtyard
-  - 1 Idyllic Grange
-  - 1 Monumental Henge
-  - 1 New Benalia
-  - 1 Radiant Fountain
   - 1 Rally the Ranks
   - 1 Sanctuary Warden
-  - 1 Secluded Steppe
-  - 1 Speaker of the Heavens
   - 1 Stalwart Valkyrie
   - 1 Sword of the Animist
   - 1 Urza's Incubator
-  - 1 Windbrisk Heights
   - Recommended:
       - 1 Angel of Sanctions
       - 1 Angel of the Dire Hour
@@ -136,12 +120,25 @@ maybe:
       - 1 Angelic Curator
       - 1 Breathkeeper Seraph
       - 1 Emancipation Angel
+      - 1 Kindred Boon
       - 1 Metropolis Reformer
       - 1 Seraph of Dawn
       - 1 Serra Angel
       - 1 Speaker of the Heavens
+  - Lands:
+      - 1 Eiganjo Castle
+      - 1 Eiganjo, Seat of the Empire
+      - 1 Hidden Courtyard
+      - 1 Idyllic Grange
+      - 1 Kor Haven
+      - 1 Monumental Henge
+      - 1 Nykthos, Shrine to Nyx
+      - 1 Radiant Fountain
+      - 1 Secluded Steppe
+      - 1 The Grey Havens
+      - 1 Three Tree City
+      - 1 Windbrisk Heights
   - To Expensive:
       - 1 Angel of Jubilation
       - 1 Archangel of Thune
-      - 1 Nykthos, Shrine to Nyx
       - 1 Starnheim Aspirant
