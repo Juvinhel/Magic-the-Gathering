@@ -676,6 +676,7 @@ Demon's Horn,DVD,de,1
 Depressurize,EOE,de,3
 Depthshaker Titan,EOC,de,1
 Descendant of Storms,TDM,de,1
+Descendant of Storms,TDM,en,1
 Descent into Avernus,CLB,de,2
 Desculpting Blast,EOE,de,1
 Deserted Beach,INR,de,1
@@ -958,12 +959,13 @@ Fang Guardian,DFT,de,1
 Fang of Shigeki,NEO,en,1
 Fang-Druid Summoner,DFT,de,1
 "Fang, Fearless l'Cie",FIN,de,2
+Fangkeeper's Familiar,TDM,en,1
 "Far Fortune, End Boss",DFT,de,1
 Far Traveler,CLB,de,1
 Farhaven Elf,KHC,de,1
 "Farid, Enterprising Salvager",BRC,de,1
 "Farideh, Devil's Chosen",AFR,en,1
-Farseek,FCA,de,1
+Farseek,FIC,de,1
 Farseek,RVR,de,2
 Farsight Mask,PCA,de,1
 Fate of the Sun-Cryst,FIN,de,4
@@ -1046,6 +1048,7 @@ Foray of Orcs,LTR,en,1
 Foreboding Ruins,FIC,de,1
 Foreboding Ruins,WHO,de,1
 Forlorn Flats,OTJ,de,1
+Fortress Kin-Guard,TDM,en,1
 Foundry Inspector,BRR,de,1
 Fountainport Bell,BLB,de,1
 Fractured Loyalty,MRD,de,1
@@ -1350,6 +1353,7 @@ Ian the Reckless,PIP,de,1
 Ice Flan,FIN,de,1
 Icecave Crasher,EOE,de,3
 Iceridge Serpent,TDM,de,1
+Iceridge Serpent,TDM,en,1
 Icetill Explorer,EOE,de,1
 Icewind Elemental,FDN,de,1
 Icewind Stalwart,CLB,de,1
@@ -1478,6 +1482,7 @@ Kickoff Celebrations,DFT,de,1
 Kill-Suit Cultist,DIS,de,1
 "Kilo, Apogee Mind",EOC,de,1
 Kin-Tree Nurturer,TDM,de,1
+Kin-Tree Nurturer,TDM,en,1
 Kindled Fury,FDN,de,1
 Kindly Ancestor // Ancestor's Embrace,VOW,de,1
 King Cheetah,9ED,de,1
@@ -1763,6 +1768,7 @@ Moment of Craving,FDN,de,1
 Moment of Triumph,FDN,de,1
 Momentum Breaker,DFT,de,1
 Monastery Messenger,TDM,de,2
+Monastery Messenger,TDM,en,1
 Monk's Fist,FIN,de,2
 Monoist Circuit-Feeder,EOE,de,2
 Monoist Sentry,EOE,de,1
@@ -1814,6 +1820,7 @@ Mystifying Maze,EOS,de,1
 Namazu Trader,FIN,de,1
 Nanoform Sentinel,EOE,de,2
 "Narset, Jeskai Waymaster",TDM,de,1
+"Narset, Jeskai Waymaster",TDM,en,1
 Narset's Rebuke,TDM,de,1
 Nasty End,LTR,de,1
 Naturalize,9ED,de,1
@@ -2196,6 +2203,7 @@ Rod of Ruin,9ED,de,1
 Rod of Ruin,M14,de,1
 Rogue's Passage,FIC,de,1
 Rogue's Passage,PIP,de,1
+Roiling Dragonstorm,TDM,en,1
 Rolling Spoil,RAV,de,1
 Ronin Warclub,BOK,de,2
 Ronom Hulk,CSP,de,1
@@ -2236,6 +2244,7 @@ Sacred Peaks,FIC,de,1
 Saddle of the Cavalier,CLB,de,1
 "Safana, Calimport Cutthroat",CLB,de,1
 Sage Aven,9ED,de,2
+Sage of the Fang,TDM,en,1
 Sage Owl,10E,de,2
 Sage Owl,8ED,de,1
 Sage's Dousing,MOR,de,1
@@ -2470,6 +2479,7 @@ Sol Ring,WHO,de,1
 Solar Array,EOC,de,1
 Soldier,TFDN,de,3
 Soldier,TTDM,de,2
+Soldier,TTDM,en,2
 Soldier of the Grey Host,LTR,en,1
 Soldier Replica,MRD,de,1
 Solemn Simulacrum,BRC,de,1
@@ -2605,7 +2615,10 @@ Sublime Epiphany,FIC,en,1
 Sulfur Falls,YEOE,de,1
 Sulfurous Springs,FIC,de,1
 Sultai Devotee,TDM,de,1
+Sultai Devotee,TDM,en,1
+Sultai Monument,TDM,en,1
 Summit Intimidator,TDM,de,3
+Summit Intimidator,TDM,en,1
 Summon Undead,CLB,de,2
 Summon: Anima,FIN,de,1
 Summon: Choco/Mog,FIN,de,2
@@ -2891,6 +2904,7 @@ Train of Thought,DDJ,de,6
 Trained Armodon,DPA,de,1
 Tranquil Cove,DFT,de,1
 Tranquil Cove,FDN,de,1
+Tranquil Cove,TDM,en,1
 Transguild Courier,DMC,de,1
 Transit Mage,DFT,de,2
 Transmogrant's Crown,BRO,de,1
@@ -2916,6 +2930,7 @@ Trip Up,DFT,de,2
 Trophy Hunter,RAV,de,1
 Tundra Wolves,10E,de,2
 Tune Up,DFT,de,1
+Twin Bolt,TDM,en,1
 Twinblade Blessing,FDN,de,1
 Twinblade Geist // Twinblade Invocation,INR,de,1
 Twinblade Paladin,FDN,de,1
@@ -3189,7 +3204,7 @@ Zhentarim Bandit,CLB,de,1
 "Zidane, Tantalus Thief",FIN,de,3
 Zo-Zu the Punisher,CHK,de,1
 Zoetic Cavern,MKC,de,1
-Zombie,TDFT,de,2
+Zombie,TDRC,de,2
 Zombie,TFDN,de,3
 Zombie,TFIC,en,1
 Zombie Druid,TTDM,de,1

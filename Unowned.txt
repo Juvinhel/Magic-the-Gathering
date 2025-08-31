@@ -10,6 +10,9 @@
 1 Anara, Wolvid Familiar
 1 Angel of Finality
 1 Angel of Jubilation
+1 Angel of Sanctions
+1 Angel of the Dire Hour
+1 Angel of Vitality
 1 Angel's Feather
 1 Angelic Renewal
 1 Anguished Unmaking
@@ -73,6 +76,7 @@
 1 Eiganjo, Seat of the Empire
 1 Elegant Parlor
 1 Elspeth, Sun's Nemesis
+1 Emancipation Angel
 1 Emeria Angel
 1 Emmara, Soul of the Accord
 1 Empyrial Storm
@@ -166,6 +170,7 @@
 1 Lutri, the Spellchaser
 1 Mana Vault
 1 Meticulous Archive
+1 Metropolis Reformer
 1 Midgar, City of Mako // Reactor Raid
 1 Minamo, School at Water's Edge
 1 Minas Morgul, Dark Fortress
@@ -253,6 +258,8 @@
 1 Sea of Clouds
 1 Seachrome Coast
 1 Seedborn Muse
+1 Seraph of Dawn
+1 Serra Angel
 2 Serra's Sanctum
 1 Sevinne's Reclamation
 1 Shambling Vent
@@ -273,6 +280,7 @@
 2 Smothering Tithe
 1 Sokenzan, Crucible of Defiance
 1 Soured Springs
+1 Speaker of the Heavens
 1 Spectator Seating
 1 Spirebluff Canal
 1 Stalwart Valkyrie

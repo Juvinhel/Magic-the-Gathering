@@ -10,6 +10,7 @@ Armament Dragon,TDM,de,1
 Bloodfell Caves,TDM,de,3
 Coordinated Maneuver,TDM,de,1
 Descendant of Storms,TDM,de,1
+Descendant of Storms,TDM,en,1
 Devoted Duelist,TDM,de,1
 Dirgur Island Dragon // Skimming Strike,TDM,de,1
 Dismal Backwater,TDM,de,1
@@ -23,8 +24,10 @@ Dragonologist,TDM,de,1
 Dragonstorm Forecaster,TDM,de,1
 Elephant,TTDM,de,1
 Embermouth Sentinel,TDM,de,1
+Fangkeeper's Familiar,TDM,en,1
 Flamehold Grappler,TDM,de,1
 Focus the Mind,TDM,de,1
+Fortress Kin-Guard,TDM,en,1
 Frontline Rush,TDM,de,1
 Goblin,TTDM,de,1
 Gurmag Nightwatch,TDM,de,1
@@ -33,10 +36,12 @@ Hardened Tactician,TDM,de,1
 Highspire Bell-Ringer,TDM,de,2
 Host of the Hereafter,TDM,de,1
 Iceridge Serpent,TDM,de,1
+Iceridge Serpent,TDM,en,1
 Jade-Cast Sentinel,TDM,de,1
 Jeskai Brushmaster,TDM,de,1
 Jeskai Devotee,TDM,de,1
 Kin-Tree Nurturer,TDM,de,1
+Kin-Tree Nurturer,TDM,en,1
 Kishla Trawlers,TDM,de,1
 Krotiq Nestguard,TDM,de,1
 Lightfoot Technique,TDM,de,1
@@ -44,8 +49,10 @@ Mammoth Bellow,TDM,de,1
 Mardu Devotee,TDM,de,1
 Meticulous Artisan,TDM,de,3
 Monastery Messenger,TDM,de,2
+Monastery Messenger,TDM,en,1
 Mystic Monastery,TDM,de,1
 "Narset, Jeskai Waymaster",TDM,de,1
+"Narset, Jeskai Waymaster",TDM,en,1
 Narset's Rebuke,TDM,de,1
 Nature's Rhythm,TDM,de,1
 Nomad Outpost,TDM,de,1
@@ -60,6 +67,8 @@ Reverberating Summons,TDM,de,1
 Riling Dawnbreaker // Signaling Roar,TDM,de,1
 Rite of Renewal,TDM,de,1
 Roamer's Routine,TDM,de,1
+Roiling Dragonstorm,TDM,en,1
+Sage of the Fang,TDM,en,1
 Sagu Pummeler,TDM,de,1
 Sagu Wildling // Roost Seek,TDM,de,1
 Sandskitter Outrider,TDM,de,1
@@ -67,12 +76,16 @@ Sibsig Appraiser,TDM,de,2
 Sinkhole Surveyor,TDM,de,1
 Snowmelt Stag,TDM,de,2
 Soldier,TTDM,de,2
+Soldier,TTDM,en,2
 Spirit,TTDM,de,6
 Starry-Eyed Skyrider,TDM,de,1
 Static Snare,TDM,de,1
 Stormplain Detainment,TDM,de,1
 Sultai Devotee,TDM,de,1
+Sultai Devotee,TDM,en,1
+Sultai Monument,TDM,en,1
 Summit Intimidator,TDM,de,3
+Summit Intimidator,TDM,en,1
 Sunset Strikemaster,TDM,de,1
 Swiftwater Cliffs,TDM,de,2
 Tempest Hawk,TDM,de,1
@@ -81,7 +94,9 @@ Temur Monument,TDM,de,1
 Tersa Lightshatter,TDM,de,1
 Thornwood Falls,TDM,de,1
 Trade Route Envoy,TDM,de,1
+Tranquil Cove,TDM,en,1
 Treasure,TTDM,de,2
+Twin Bolt,TDM,en,1
 Twinmaw Stormbrood // Charring Bite,TDM,de,2
 Underfoot Underdogs,TDM,de,2
 Undergrowth Leopard,TDM,de,1
