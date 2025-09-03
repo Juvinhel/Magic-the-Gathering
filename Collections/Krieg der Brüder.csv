@@ -1,10 +1,10 @@
 Name,Set code,Language,Quantity
 Abrade,BRC,de,1
 Aeronaut's Wings,BRO,de,1
-"Alela, Artful Provocateur",BRC,de,1
+"Alela, Artful Provocateur",NCC,de,1
 Ambush Paratrooper,BRO,de,1
 Ancient Den,BRC,de,1
-Angel of the Ruins,BRC,de,1
+Angel of the Ruins,BLC,de,1
 Arcane Sanctum,BRC,de,1
 Arcane Signet,BRC,de,2
 "Armix, Filigree Thrasher",BRC,de,1
@@ -13,19 +13,19 @@ Ashnod the Uncaring,BRC,de,1
 Ashnod's Harvester,BRO,de,1
 Ashnod's Intervention,BRO,de,1
 Audacious Reshapers,BRC,de,1
-Austere Command,BRC,de,1
+Austere Command,M3C,de,1
 Azorius Chancery,BRC,de,1
 Azorius Signet,BRC,de,1
-Baleful Strix,BRC,de,1
+Baleful Strix,OTC,de,1
 Battlefield Butcher,BRO,de,1
 Bedevil,BRC,de,1
-Bident of Thassa,BRC,de,1
+Bident of Thassa,BLC,de,1
 Blasphemous Act,BRC,de,1
 Blast-Furnace Hellkite,BRC,de,1
-Bojuka Bog,BRC,de,1
+Bojuka Bog,DSC,de,1
 Bone Saw,BRR,de,1
 Boulderbranch Golem,BRO,de,1
-Bronze Guardian,BRC,de,1
+Bronze Guardian,C21,de,1
 "Brudiclad, Telchor Engineer",BRC,de,1
 Buried Ruin,BRC,de,1
 Carrion Locust,BRO,de,1
@@ -35,21 +35,21 @@ Chromatic Star,BRR,de,1
 Chrome Courier,BRC,de,1
 Citanul Stalwart,BRO,de,1
 Combat Courier,BRO,de,1
-Command Tower,BRC,de,2
+Command Tower,M3C,de,2
 Commander's Sphere,BRC,de,1
 Construct,TBRC,de,4
-Copy,TBRC,de,4
+Copy,TBLC,de,4
 Cradle Clearcutter,BRO,de,1
 Cranial Plating,BRC,de,1
 Crumbling Necropolis,BRC,de,1
 Curate,BRO,de,1
 Cursed Mirror,BRC,de,1
 Darksteel Citadel,BRC,de,1
-Darksteel Juggernaut,BRC,de,1
+Darksteel Juggernaut,C18,de,1
 Darkwater Catacombs,BRC,de,1
 Deadly Riposte,BRO,de,1
 Despark,BRC,de,1
-Digsite Engineer,BRC,de,1
+Digsite Engineer,C21,de,1
 Dimir Aqueduct,BRC,de,2
 Dimir Signet,BRC,de,2
 Disenchant,BRO,de,1
@@ -62,14 +62,15 @@ Eldrazi,TBRC,de,1
 Emergency Weld,BRO,de,1
 "Emry, Lurker of the Loch",BRC,de,1
 Energy Refractor,BRO,de,1
-Etched Champion,BRC,de,1
+Etched Champion,MM2,de,1
 Etherium Sculptor,BRC,de,1
-Ethersworn Adjudicator,BRC,de,1
+Ethersworn Adjudicator,MOC,de,1
 Evangel of Synthesis,BRO,de,1
-Evolving Wilds,BRO,de,2
+Evolving Wilds,BRO,de,1
+Evolving Wilds,DSC,de,1
 Excavation Explosion,BRO,de,1
 Executioner's Capsule,BRC,de,1
-Exotic Orchard,BRC,de,2
+Exotic Orchard,DRC,de,2
 Expressive Iteration,BRC,de,1
 Fact or Fiction,BRC,de,1
 Faerie,TBRC,de,2
@@ -93,7 +94,7 @@ Gixian Skullflayer,BRO,de,1
 Glint Raker,BRC,de,1
 Goat,TBRC,de,1
 Goblin Firebomb,BRO,de,1
-Goldmire Bridge,BRC,de,1
+Goldmire Bridge,MOC,de,1
 Great Furnace,BRC,de,1
 "Gwenna, Eyes of Gaea",BRO,de,1
 Hedron Archive,BRC,de,1
@@ -104,7 +105,7 @@ Hoarding Recluse,BRO,de,1
 Horror,TCMR,de,1
 Ichor Wellspring,BRC,de,1
 Idol of Oblivion,BRC,de,1
-Indomitable Archangel,BRC,de,1
+Indomitable Archangel,NEC,de,1
 Inkling,TBRC,de,2
 Ivory Tower,BRR,de,1
 Izzet Boilerworks,BRC,de,1
@@ -115,11 +116,11 @@ Liquimetal Coating,BRR,de,1
 Liquimetal Torque,BRC,de,1
 Lithoform Engine,BRC,de,1
 Loran's Escape,BRO,de,1
-"Losheel, Clockwork Scholar",BRC,de,1
+"Losheel, Clockwork Scholar",CMM,de,1
 Machine God's Effigy,BRC,de,1
 March of Progress,BRC,de,1
-Marionette Master,BRC,de,1
-Master of Etherium,BRC,de,1
+Marionette Master,AFC,de,1
+Master of Etherium,MOC,de,1
 Master Transmuter,BRC,de,1
 Metalwork Colossus,BRC,de,1
 Mightstone's Animation,BRO,de,1
@@ -133,44 +134,44 @@ Mishra's Juggernaut,BRO,de,1
 Mishra's Onslaught,BRO,de,1
 Mishra's Research Desk,BRO,de,1
 Mishra's Warform,TBRC,de,1
-Mistvault Bridge,BRC,de,2
+Mistvault Bridge,MH2,de,2
 Mnemonic Sphere,BRC,de,1
 "Muzzio, Visionary Architect",BRC,de,1
 Mycosynth Wellspring,BRC,de,1
 Myr,TBRC,de,5
-Myr Battlesphere,BRC,de,1
+Myr Battlesphere,M3C,de,1
 Myriad Landscape,BRC,de,1
 Nihil Spellbomb,BRC,de,1
-Noxious Gearhulk,BRC,de,1
+Noxious Gearhulk,DSC,de,1
 Oblivion Stone,BRC,de,1
-One with the Machine,BRC,de,1
+One with the Machine,DRC,de,1
 Oni-Cult Anvil,BRC,de,1
 Ornithopter,BRR,de,1
 Orzhov Basilica,BRC,de,1
 Orzhov Signet,BRC,de,1
 Overwhelming Remorse,BRO,de,1
 "Padeem, Consul of Innovation",BRC,de,1
-Path of Ancestry,BRC,de,2
+Path of Ancestry,DRC,de,2
 Penregon Strongbull,BRO,de,1
 Phalanx Vanguard,BRO,de,1
 Phyrexian Myr,TBRC,de,1
-Phyrexian Rebirth,BRC,de,1
+Phyrexian Rebirth,MOC,de,1
 Powerstone,TBRO,de,7
 Powerstone Fracture,BRO,de,1
-Prairie Stream,BRC,de,1
+Prairie Stream,DRC,de,1
 Preordain,BRC,de,1
 Prophetic Prism,BRC,de,1
 Rakdos Carnarium,BRC,de,1
 Rakdos Signet,BRC,de,1
 Raze to the Ground,BRO,de,1
-Razortide Bridge,BRC,de,1
+Razortide Bridge,MH2,de,1
 Recruitment Officer,BRO,de,1
 Relic of Progenitus,BRC,de,1
 Reliquary Tower,BRC,de,1
-River of Tears,BRC,de,1
+River of Tears,MKC,de,1
 Roc Hunter,BRO,de,1
 Rust Goliath,BRO,de,1
-"Sai, Master Thopterist",BRC,de,1
+"Sai, Master Thopterist",DRC,de,1
 "Sanwell, Avenger Ace",BRC,de,1
 Scavenged Brawler,BRC,de,1
 Scholar of New Horizons,BRC,de,1
@@ -181,28 +182,28 @@ Seat of the Synod,BRC,de,2
 Servo,TBRC,de,6
 Servo Schematic,BRC,de,1
 Shadowblood Ridge,BRC,de,1
-Sharding Sphinx,BRC,de,1
-Sharuum the Hegemon,BRC,de,1
-Shimmer Dragon,BRC,de,1
+Sharding Sphinx,MOC,de,1
+Sharuum the Hegemon,2XM,de,1
+Shimmer Dragon,MKC,de,1
 Shoot Down,BRO,de,1
 Sigil of Valor,BRR,de,1
 "Silas Renn, Seeker Adept",BRC,de,1
 Silverbluff Bridge,BRC,de,1
 Skullclamp,BRC,de,1
-Skycloud Expanse,BRC,de,1
+Skycloud Expanse,CMM,de,1
 "Slobad, Goblin Tinkerer",BRC,de,1
 Smelting Vat,BRC,de,1
 Smoldering Marsh,BRC,de,1
 Sol Ring,BRC,de,2
-Solemn Simulacrum,BRC,de,1
+Solemn Simulacrum,DSC,de,1
 Sphinx's Revelation,BRC,de,1
 Spine of Ish Sah,BRC,de,1
-Spire of Industry,BRC,de,1
+Spire of Industry,DRC,de,1
 Spotter Thopter,BRO,de,1
 Static Net,BRO,de,1
 Steel Exemplar,BRO,de,1
-Steel Hellkite,BRC,de,1
-Steel Overseer,BRC,de,1
+Steel Hellkite,FDN,de,1
+Steel Overseer,C21,de,1
 Stern Lesson,BRO,de,1
 Strionic Resonator,BRC,de,1
 Sunken Hollow,BRC,de,1
@@ -212,7 +213,7 @@ Swiftgear Drake,BRO,de,1
 Swords to Plowshares,BRC,de,1
 Take Flight,BRO,de,1
 "Tawnos, Solemn Survivor",BRC,de,1
-Tempered Steel,BRC,de,1
+Tempered Steel,2XM,de,1
 Temple of Deceit,BRC,de,2
 Temple of Enlightenment,BRC,de,1
 Temple of Epiphany,BRC,de,1
@@ -221,14 +222,14 @@ Temple of Silence,BRC,de,1
 Terisian Mindbreaker,BRO,de,1
 Terisiare's Devastation,BRC,de,1
 Terramorphic Expanse,BRC,de,1
-"Teshar, Ancestor's Apostle",BRC,de,1
+"Teshar, Ancestor's Apostle",CMM,de,1
 The Mightstone and Weakstone,BRO,de,1
 Third Path Savant,BRO,de,1
 Thirst for Knowledge,BRC,de,1
 Thopter,TBRC,de,4
 Thopter Shop,BRC,de,1
-Thopter Spy Network,BRC,de,1
-Thought Monitor,BRC,de,1
+Thopter Spy Network,DRC,de,1
+Thought Monitor,MKC,de,1
 Thought Vessel,BRC,de,1
 Thoughtcast,BRC,de,1
 Thran Dynamo,BRC,de,1
@@ -243,15 +244,15 @@ Trading Post,BRC,de,1
 Transmogrant's Crown,BRO,de,1
 "Traxos, Scourge of Kroog",BRC,de,1
 Trench Stalker,BRO,de,1
-Unbreakable Formation,BRC,de,1
+Unbreakable Formation,RVR,de,1
 Unleash Shell,BRO,de,1
 "Urza, Chief Artificer",BRC,de,1
 "Urza, Powerstone Prodigy",BRO,de,1
 "Urza, Prince of Kroog",BRO,de,2
 Urza's Rebuff,BRO,de,1
-Urza's Ruinous Blast,BRC,de,1
+Urza's Ruinous Blast,CMM,de,1
 Vault of Whispers,BRC,de,2
-Vedalken Humiliator,BRC,de,1
+Vedalken Humiliator,MOC,de,1
 Vindicate,BRC,de,1
 Wayfarer's Bauble,BRC,de,1
 Weakstone's Subjugation,BRO,de,2
