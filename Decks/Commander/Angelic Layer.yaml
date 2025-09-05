@@ -81,12 +81,15 @@ main:
       - 1 Kabira Takedown // Kabira Plateau
       - 1 Minas Tirith
       - 1 Path of Ancestry
-      - 27 Plains
-      - 1 Razorgrass Ambush // Razorgrass Field
+      - 25 Plains
       - 1 Sejiri Shelter // Sejiri Glacier
       - 1 Seraph Sanctuary
+      - 1 Kor Haven
+      - 1 Idyllic Grange
+      - 1 Eiganjo Castle
 side:
   - 1 Angel of Destiny
+  - 1 Razorgrass Ambush // Razorgrass Field
 maybe:
   - 1 Always Watching
   - 1 Angelic Cub
