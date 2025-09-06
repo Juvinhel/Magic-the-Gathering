@@ -1,76 +1,78 @@
 name: Leitlicht
-description: My new deck
+description: Artifact Copy Deck
 commanders:
   - Mendicant Core, Guidelight
 main:
   - 1 Mendicant Core, Guidelight
-  - 1 Agility Bobblehead
-  - 1 Arcane Signet
-  - 1 Basilisk Collar
-  - 1 Bident of Thassa
-  - 1 Bloodforged Battle-Axe
-  - 1 Bronze Guardian
-  - 1 Charisma Bobblehead
-  - 1 Chief of the Foundry
-  - 1 Clockwork Droid
-  - 1 Cloud Key
-  - 1 Cloudsteel Kirin
-  - 1 Cryptothrall
-  - 1 Cyberman Patrol
-  - 1 Cybermat
-  - 1 Cybermen Squadron
-  - 1 Cybership
-  - 1 Darksteel Juggernaut
-  - 1 Endurance Bobblehead
-  - 1 Etched Champion
-  - 1 Etherium Sculptor
-  - 1 Foundry Inspector
-  - 1 General's Kabuto
-  - 1 Gleaming Barrier
-  - 1 Guidelight Optimizer
-  - 1 Guidelight Pathmaker
-  - 1 Heirloom Epic
-  - 1 Interface Ace
-  - 1 Lantern of Revealing
-  - 1 Lightning Greaves
-  - 1 Lithoform Engine
-  - 1 Manifold Key
-  - 1 Master Transmuter
-  - 1 Master of Etherium
-  - 1 Masterwork of Ingenuity
-  - 1 Metalwork Colossus
-  - 1 Mind Stone
-  - 1 Mirrorworks
-  - 1 Neurok Stealthsuit
-  - 1 Perception Bobblehead
-  - 1 Perilous Snare
-  - 1 Salvation Engine
-  - 1 Scrap Compactor
-  - 1 Sculpting Steel
-  - 1 Sharding Sphinx
-  - 1 Silver Myr
-  - 1 Skullclamp
-  - 1 Skullmead Cauldron
-  - 1 Sol Ring
-  - 1 Sonic Screwdriver
-  - 1 Steel Overseer
-  - 1 Strength Bobblehead
-  - 1 Strionic Resonator
-  - 1 Thopter Fabricator
-  - 1 Thopter Shop
-  - 1 Transit Mage
-  - 1 Trinket Mage
-  - 1 Twinning Staff
-  - 1 Vorrac Battlehorns
-  - 1 Voyager Quickwelder
-  - 1 Walking Sarcophagus
-  - 1 Whispersilk Cloak
-  - 1 Wondrous Crucible
-  - 1 Darksteel Citadel
+  - Creatures:
+      - 1 Bronze Guardian
+      - 1 Chief of the Foundry
+      - 1 Clockwork Droid
+      - 1 Cloudsteel Kirin
+      - 1 Cryptothrall
+      - 1 Cyberman Patrol
+      - 1 Cybermat
+      - 1 Cybermen Squadron
+      - 1 Darksteel Juggernaut
+      - 1 Etched Champion
+      - 1 Etherium Sculptor
+      - 1 Foundry Inspector
+      - 1 Gleaming Barrier
+      - 1 Guidelight Optimizer
+      - 1 Interface Ace
+      - 1 Master of Etherium
+      - 1 Master Transmuter
+      - 1 Metalwork Colossus
+      - 1 Sharding Sphinx
+      - 1 Silver Myr
+      - 1 Steel Overseer
+      - 1 Transit Mage
+      - 1 Trinket Mage
+      - 1 Voyager Quickwelder
+      - 1 Walking Sarcophagus
+  - Artifacts & Enchantments:
+      - 1 Agility Bobblehead
+      - 1 Arcane Signet
+      - 1 Basilisk Collar
+      - 1 Bident of Thassa
+      - 1 Bloodforged Battle-Axe
+      - 1 Charisma Bobblehead
+      - 1 Cloud Key
+      - 1 Cybership
+      - 1 Endurance Bobblehead
+      - 1 General's Kabuto
+      - 1 Guidelight Pathmaker
+      - 1 Heirloom Epic
+      - 1 Lantern of Revealing
+      - 1 Lightning Greaves
+      - 1 Lithoform Engine
+      - 1 Manifold Key
+      - 1 Masterwork of Ingenuity
+      - 1 Mind Stone
+      - 1 Mirrorworks
+      - 1 Neurok Stealthsuit
+      - 1 Perception Bobblehead
+      - 1 Perilous Snare
+      - 1 Salvation Engine
+      - 1 Scrap Compactor
+      - 1 Sculpting Steel
+      - 1 Skullclamp
+      - 1 Skullmead Cauldron
+      - 1 Sol Ring
+      - 1 Sonic Screwdriver
+      - 1 Strength Bobblehead
+      - 1 Strionic Resonator
+      - 1 Thopter Fabricator
+      - 1 Thopter Shop
+      - 1 Twinning Staff
+      - 1 Vorrac Battlehorns
+      - 1 Whispersilk Cloak
+      - 1 Wondrous Crucible
   - Lands:
       - 1 Ancient Den
       - 1 Avishkar Raceway
       - 1 Command Tower
+      - 1 Darksteel Citadel
       - 14 Island
       - 1 Muraganda Raceway
       - 14 Plains
@@ -79,4 +81,18 @@ main:
       - 1 Seat of the Synod
       - 1 Temple of Enlightenment
 side: null
-maybe: null
+maybe:
+  - Creatures:
+      - 1 Nesting Bot
+  - Artifacts & Enchantments:
+      - 1 Aether Syphon
+      - 1 Artificer Class
+      - 1 Assimilation Aegis
+      - 1 Auton Soldier
+      - 1 Back from the Brink
+      - 1 Blue Mage's Cane
+      - 1 Copy Land
+      - 1 Court of Vantress
+      - 1 Racers' Scoreboard
+  - Lands:
+      - 1 Adagia, Windswept Bastion
