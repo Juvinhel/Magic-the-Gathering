@@ -34,59 +34,58 @@ main:
   - Planeswalkers:
       - 1 Elspeth Resplendent
       - 1 Serra the Benevolent
-  - Instants:
+  - Spells:
       - 1 Brave the Elements
+      - 1 Cleansing Nova
+      - 1 Contraband Livestock
+      - 1 Defy Death
       - 1 Divine Resilience
+      - 1 Entreat the Angels
       - 1 Flawless Maneuver
       - 1 Make a Stand
       - 1 Path to Exile
-      - 1 Stroke of Midnight
-      - 1 Swords to Plowshares
-      - 1 Unbreakable Formation
-  - Sorceries:
-      - 1 Cleansing Nova
-      - 1 Defy Death
-      - 1 Entreat the Angels
-      - 1 Ravnica at War
       - 1 Requisition Raid
       - 1 Sanctify
       - 1 Starnheim Unleashed
-  - Enchantments:
+      - 1 Stroke of Midnight
+      - 1 Swords to Plowshares
+      - 1 Unbreakable Formation
+  - Artifacts & Enchantments:
       - 1 Angelic Accord
       - 1 Authority of the Consuls
       - 1 Cleric Class
       - 1 Court of Grace
       - 1 Folk Hero
-      - 1 Leyline of Hope
-      - 1 Luminarch Ascension
-      - 1 Sigarda's Splendor
-  - Other:
-      - 1 Invasion of Dominaria // Serra Faithkeeper
-  - Artifacts:
       - 1 Herald's Horn
       - 1 Heraldic Banner
+      - 1 Leyline of Hope
       - 1 Lightning Greaves
+      - 1 Luminarch Ascension
       - 1 Mind Stone
       - 1 Oketra's Monument
       - 1 Patchwork Banner
       - 1 Pearl Medallion
       - 1 Pristine Talisman
+      - 1 Sigarda's Splendor
       - 1 Sol Ring
       - 1 The Book of Exalted Deeds
       - 1 The Wind Crystal
       - 1 Vanquisher's Banner
+  - Other:
+      - 1 Invasion of Dominaria // Serra Faithkeeper
   - Lands:
       - 1 Bonders' Enclave
+      - 1 Eiganjo Castle
       - 1 Emeria, the Sky Ruin
+      - 1 Idyllic Grange
       - 1 Kabira Takedown // Kabira Plateau
+      - 1 Kor Haven
       - 1 Minas Tirith
       - 1 Path of Ancestry
-      - 25 Plains
+      - 24 Plains
       - 1 Sejiri Shelter // Sejiri Glacier
       - 1 Seraph Sanctuary
-      - 1 Kor Haven
-      - 1 Idyllic Grange
-      - 1 Eiganjo Castle
+      - 1 Three Tree City
 side:
   - 1 Angel of Destiny
   - 1 Razorgrass Ambush // Razorgrass Field
@@ -101,14 +100,9 @@ maybe:
   - 1 Blinding Angel
   - 1 Bruna, the Fading Light
   - 1 Commander's Sphere
-  - 1 Decree of Justice
-  - 1 Destroy Evil
   - 1 Emeria Angel
-  - 1 Empyrial Storm
   - 1 Enduring Angel // Angelic Enforcer
   - 1 Everflowing Chalice
-  - 1 Farewell
-  - 1 Finale of Glory
   - 1 Firemane Commando
   - 1 Gisela, the Broken Blade
   - 1 Guardian of Ghirapur
@@ -129,6 +123,31 @@ maybe:
   - 1 Sword of the Animist
   - 1 Urza's Incubator
   - 1 Victory's Herald
+  - Spells:
+      - 1 Akroma's Will
+      - 1 And They Shall Know No Fear
+      - 1 Ascend from Avernus
+      - 1 Clever Concealment
+      - 1 Dawn's Truce
+      - 1 Decree of Justice
+      - 1 Destroy Evil
+      - 1 Dismantling Wave
+      - 1 Empyrial Storm
+      - 1 Everybody Lives!
+      - 1 Everything Comes to Dust
+      - 1 Farewell
+      - 1 Fateful Absence
+      - 1 Finale of Glory
+      - 1 Flare of Fortitude
+      - 1 Galadriel's Dismissal
+      - 1 Get Lost
+      - 1 Heliod's Intervention
+      - 1 Rebuff the Wicked
+      - 1 Restoration Magic
+      - 1 Silence
+      - 1 Split Up
+      - 1 Vanquish the Horde
+      - 1 Winds of Abandon
   - Recommended:
       - 1 Angel of Sanctions
       - 1 Angel of the Dire Hour
@@ -142,17 +161,13 @@ maybe:
       - 1 Serra Angel
       - 1 Speaker of the Heavens
   - Lands:
-      - 1 Eiganjo Castle
       - 1 Eiganjo, Seat of the Empire
       - 1 Hidden Courtyard
-      - 1 Idyllic Grange
-      - 1 Kor Haven
       - 1 Monumental Henge
       - 1 Nykthos, Shrine to Nyx
       - 1 Radiant Fountain
       - 1 Secluded Steppe
       - 1 The Grey Havens
-      - 1 Three Tree City
       - 1 Windbrisk Heights
   - To Expensive:
       - 1 Angel of Jubilation
