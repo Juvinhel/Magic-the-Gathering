@@ -5,9 +5,11 @@ commanders:
 main:
   - 1 Giada, Font of Hope
   - Creatures:
+      - 1 Angel of Destiny
       - 1 Angel of Invention
       - 1 Angelic Skirmisher
       - 1 Angelic Sleuth
+      - 1 Archangel of Thune
       - 1 Archangel of Tithes
       - 1 Battle Angels of Tyr
       - 1 Boon-Bringer Valkyrie
@@ -17,7 +19,6 @@ main:
       - 1 Firemane Commando
       - 1 Herald of War
       - 1 Lightstall Inquisitor
-      - 1 Patron of the Valiant
       - 1 Resplendent Angel
       - 1 Resplendent Marshal
       - 1 Righteous Valkyrie
@@ -75,7 +76,6 @@ main:
   - Lands:
       - 1 Bonders' Enclave
       - 1 Eiganjo Castle
-      - 1 Fountainport
       - 1 Idyllic Grange
       - 1 Kabira Takedown // Kabira Plateau
       - 1 Kor Haven
@@ -87,24 +87,19 @@ main:
       - 1 Seraph Sanctuary
       - 1 Three Tree City
 side:
-  - 1 Angel of Destiny
   - 1 Angel of Serenity
   - 1 Angelic Field Marshal
-  - 1 Angelic Page
   - 1 Avacyn, Angel of Hope
   - 1 Caretaker's Talent
   - 1 Cosmos Elixir
   - 1 Dawn of a New Age
   - 1 Dawn of Hope
   - 1 Herald of Eternal Dawn
-  - 1 Herald of the Host
   - 1 Linvala, Keeper of Silence
   - 1 Lyra Dawnbringer
+  - 1 Patron of the Valiant
   - 1 Ravnica at War
-  - 1 Razorgrass Ambush // Razorgrass Field
   - 1 Serra's Guardian
-  - 1 Shattered Angel
-  - 1 Sigarda's Vanguard
   - 1 Wedding Ring
 maybe:
   - Creatures:
@@ -114,7 +109,7 @@ maybe:
       - 1 Angel of Vitality
       - 1 Angelic Cub
       - 1 Angelic Curator
-      - 1 Archangel of Thune
+      - 1 Angelic Page
       - 1 Baneslayer Angel
       - 1 Bishop of Wings
       - 1 Blinding Angel
@@ -126,6 +121,7 @@ maybe:
       - 1 Gisela, the Broken Blade
       - 1 Guardian of Ghirapur
       - 1 Guardian Seraph
+      - 1 Herald of the Host
       - 1 Legion Angel
       - 1 Light of the Legion
       - 1 Metropolis Reformer
@@ -135,6 +131,8 @@ maybe:
       - 1 Serra Angel
       - 1 Serra Avenger
       - 1 Serra Paragon
+      - 1 Shattered Angel
+      - 1 Sigarda's Vanguard
       - 1 Speaker of the Heavens
       - 1 Stalwart Valkyrie
       - 1 Starfield Shepherd
@@ -177,6 +175,7 @@ maybe:
       - 1 Get Lost
       - 1 Heliod's Intervention
       - 1 Make a Stand
+      - 1 Razorgrass Ambush // Razorgrass Field
       - 1 Rebuff the Wicked
       - 1 Restoration Magic
       - 1 Silence
@@ -187,6 +186,7 @@ maybe:
   - Lands:
       - 1 Eiganjo, Seat of the Empire
       - 1 Emeria, the Sky Ruin
+      - 1 Fountainport
       - 1 Hidden Courtyard
       - 1 Mikokoro, Center of the Sea
       - 1 Monumental Henge
