@@ -6,17 +6,15 @@ main:
   - 1 Giada, Font of Hope
   - Creatures:
       - 1 Angel of Invention
-      - 1 Angel of Serenity
-      - 1 Angelic Field Marshal
-      - 1 Angelic Page
       - 1 Angelic Skirmisher
       - 1 Angelic Sleuth
       - 1 Archangel of Tithes
+      - 1 Battle Angels of Tyr
       - 1 Boon-Bringer Valkyrie
       - 1 Dazzling Angel
       - 1 Exalted Sunborn
-      - 1 Herald of Eternal Dawn
-      - 1 Herald of the Host
+      - 1 Exemplar of Light
+      - 1 Firemane Commando
       - 1 Herald of War
       - 1 Lightstall Inquisitor
       - 1 Patron of the Valiant
@@ -24,9 +22,8 @@ main:
       - 1 Resplendent Marshal
       - 1 Righteous Valkyrie
       - 1 Segovian Angel
-      - 1 Serra's Guardian
-      - 1 Shattered Angel
-      - 1 Sigarda's Vanguard
+      - 1 Sephara, Sky's Blade
+      - 1 Seraph of the Masses
       - 1 Steel Seraph
       - 1 Valkyrie Harbinger
       - 1 Wojek Investigator
@@ -37,22 +34,24 @@ main:
   - Spells:
       - 1 Brave the Elements
       - 1 Cleansing Nova
+      - 1 Clever Concealment
       - 1 Contraband Livestock
       - 1 Defy Death
-      - 1 Divine Resilience
+      - 1 Enlightened Tutor
       - 1 Entreat the Angels
+      - 1 Everybody Lives!
+      - 1 Everything Comes to Dust
       - 1 Flawless Maneuver
-      - 1 Make a Stand
       - 1 Path to Exile
       - 1 Requisition Raid
       - 1 Sanctify
       - 1 Starnheim Unleashed
       - 1 Stroke of Midnight
       - 1 Swords to Plowshares
-      - 1 Unbreakable Formation
   - Artifacts & Enchantments:
       - 1 Angelic Accord
       - 1 Authority of the Consuls
+      - 1 Buster Sword
       - 1 Cleric Class
       - 1 Court of Grace
       - 1 Folk Hero
@@ -76,10 +75,11 @@ main:
   - Lands:
       - 1 Bonders' Enclave
       - 1 Eiganjo Castle
-      - 1 Emeria, the Sky Ruin
+      - 1 Fountainport
       - 1 Idyllic Grange
       - 1 Kabira Takedown // Kabira Plateau
       - 1 Kor Haven
+      - 1 Mariposa Military Base
       - 1 Minas Tirith
       - 1 Path of Ancestry
       - 24 Plains
@@ -88,54 +88,87 @@ main:
       - 1 Three Tree City
 side:
   - 1 Angel of Destiny
-  - 1 Ravnica at War
-  - 1 Razorgrass Ambush // Razorgrass Field
-maybe:
-  - 1 Always Watching
-  - 1 Angelic Cub
-  - 1 Angelic Renewal
+  - 1 Angel of Serenity
+  - 1 Angelic Field Marshal
+  - 1 Angelic Page
   - 1 Avacyn, Angel of Hope
-  - 1 Baneslayer Angel
-  - 1 Battle Angels of Tyr
-  - 1 Bishop of Wings
-  - 1 Blinding Angel
-  - 1 Bruna, the Fading Light
-  - 1 Commander's Sphere
-  - 1 Emeria Angel
-  - 1 Enduring Angel // Angelic Enforcer
-  - 1 Everflowing Chalice
-  - 1 Firemane Commando
-  - 1 Gisela, the Broken Blade
-  - 1 Guardian of Ghirapur
-  - 1 Guardian Seraph
-  - 1 Legion Angel
-  - 1 Light of the Legion
+  - 1 Caretaker's Talent
+  - 1 Cosmos Elixir
+  - 1 Dawn of a New Age
+  - 1 Dawn of Hope
+  - 1 Herald of Eternal Dawn
+  - 1 Herald of the Host
   - 1 Linvala, Keeper of Silence
   - 1 Lyra Dawnbringer
-  - 1 Rally the Ranks
-  - 1 Reya Dawnbringer
-  - 1 Sanctuary Warden
-  - 1 Sephara, Sky's Blade
-  - 1 Seraph of the Masses
-  - 1 Serra Avenger
-  - 1 Serra Paragon
-  - 1 Stalwart Valkyrie
-  - 1 Starfield Shepherd
-  - 1 Sword of the Animist
-  - 1 Urza's Incubator
-  - 1 Victory's Herald
+  - 1 Ravnica at War
+  - 1 Razorgrass Ambush // Razorgrass Field
+  - 1 Serra's Guardian
+  - 1 Shattered Angel
+  - 1 Sigarda's Vanguard
+  - 1 Wedding Ring
+maybe:
+  - Creatures:
+      - 1 Angel of Jubilation
+      - 1 Angel of Sanctions
+      - 1 Angel of the Dire Hour
+      - 1 Angel of Vitality
+      - 1 Angelic Cub
+      - 1 Angelic Curator
+      - 1 Archangel of Thune
+      - 1 Baneslayer Angel
+      - 1 Bishop of Wings
+      - 1 Blinding Angel
+      - 1 Breathkeeper Seraph
+      - 1 Bruna, the Fading Light
+      - 1 Emancipation Angel
+      - 1 Emeria Angel
+      - 1 Enduring Angel // Angelic Enforcer
+      - 1 Gisela, the Broken Blade
+      - 1 Guardian of Ghirapur
+      - 1 Guardian Seraph
+      - 1 Legion Angel
+      - 1 Light of the Legion
+      - 1 Metropolis Reformer
+      - 1 Reya Dawnbringer
+      - 1 Sanctuary Warden
+      - 1 Seraph of Dawn
+      - 1 Serra Angel
+      - 1 Serra Avenger
+      - 1 Serra Paragon
+      - 1 Speaker of the Heavens
+      - 1 Stalwart Valkyrie
+      - 1 Starfield Shepherd
+      - 1 Starnheim Aspirant
+      - 1 Towashi Guide-Bot
+      - 1 Victory's Herald
+  - Artifacts & Enchantments:
+      - 1 Always Watching
+      - 1 Angelic Renewal
+      - 1 Commander's Sphere
+      - 1 Everflowing Chalice
+      - 1 Halo Fountain
+      - 1 Heirloom Epic
+      - 1 Idol of Oblivion
+      - 1 Illuminated Folio
+      - 1 Kindred Boon
+      - 1 Rally the Ranks
+      - 1 Stormbeacon Blade
+      - 1 Strength-Testing Hammer
+      - 1 Sword of the Animist
+      - 1 The Celestus
+      - 1 The Immortal Sun
+      - 1 Urza's Incubator
   - Spells:
+      - 1 Abeyance
       - 1 Akroma's Will
       - 1 And They Shall Know No Fear
       - 1 Ascend from Avernus
-      - 1 Clever Concealment
       - 1 Dawn's Truce
       - 1 Decree of Justice
       - 1 Destroy Evil
       - 1 Dismantling Wave
+      - 1 Divine Resilience
       - 1 Empyrial Storm
-      - 1 Everybody Lives!
-      - 1 Everything Comes to Dust
       - 1 Farewell
       - 1 Fateful Absence
       - 1 Finale of Glory
@@ -143,34 +176,23 @@ maybe:
       - 1 Galadriel's Dismissal
       - 1 Get Lost
       - 1 Heliod's Intervention
+      - 1 Make a Stand
       - 1 Rebuff the Wicked
       - 1 Restoration Magic
       - 1 Silence
       - 1 Split Up
+      - 1 Unbreakable Formation
       - 1 Vanquish the Horde
       - 1 Winds of Abandon
-  - Recommended:
-      - 1 Angel of Sanctions
-      - 1 Angel of the Dire Hour
-      - 1 Angel of Vitality
-      - 1 Angelic Curator
-      - 1 Breathkeeper Seraph
-      - 1 Emancipation Angel
-      - 1 Kindred Boon
-      - 1 Metropolis Reformer
-      - 1 Seraph of Dawn
-      - 1 Serra Angel
-      - 1 Speaker of the Heavens
   - Lands:
       - 1 Eiganjo, Seat of the Empire
+      - 1 Emeria, the Sky Ruin
       - 1 Hidden Courtyard
+      - 1 Mikokoro, Center of the Sea
       - 1 Monumental Henge
       - 1 Nykthos, Shrine to Nyx
       - 1 Radiant Fountain
       - 1 Secluded Steppe
       - 1 The Grey Havens
+      - 1 War Room
       - 1 Windbrisk Heights
-  - To Expensive:
-      - 1 Angel of Jubilation
-      - 1 Archangel of Thune
-      - 1 Starnheim Aspirant
