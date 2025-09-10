@@ -20,6 +20,7 @@ main:
   - 1 Concealed Courtyard
   - 1 Counterspell
   - 1 Counterspell
+  - 1 Cryptic Gateway
   - 1 Cyclonic Rift
   - 1 Danitha, New Benalia's Light
   - 1 Dawn of a New Age
@@ -46,12 +47,15 @@ main:
   - 1 Fortified Beachhead
   - 1 Frantic Search
   - 1 General Ferrous Rokiric
+  - 1 Genji Glove
   - 1 Ghalta and Mavren
   - 1 Gold-Forged Thopteryx
   - 1 Grand Arbiter Augustin IV
+  - 1 Halo Fountain
   - 1 Haunt of the Dead Marshes
   - 1 Herald of Eternal Dawn
   - 1 Horn of Valhalla // Ysgard's Call
+  - 1 Immovable Rod
   - 1 Imperial Seal
   - 1 Infinite Reflection
   - 1 Inkshield
@@ -258,6 +262,23 @@ main:
       - 1 Winota, Joiner of Forces
       - 1 Worldly Tutor
       - 1 Yuriko, the Tiger's Shadow
+  - Green & White:
+      - 1 Argothian Elder
+      - 1 Curse of Bounty
+      - 1 Dazzling Theater // Prop Room
+      - 1 Drumbellower
+      - 1 Gauntlets of Light
+      - 1 Instill Energy
+      - 1 Jandor's Saddlebags
+      - 1 Magewright's Stone
+      - 1 Nature's Chosen
+      - 1 Patriar's Seal
+      - 1 Seeker of Skybreak
+      - 1 Sting, the Glinting Dagger
+      - 1 Thousand-Year Elixir
+      - 1 Virtue of Loyalty // Ardenvale Fealty
+      - 1 Well Rested
+      - 1 Wirewood Lodge
 side:
   - Owned:
       - 1 Black Waltz No. 3
