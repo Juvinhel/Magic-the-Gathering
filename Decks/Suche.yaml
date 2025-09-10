@@ -279,6 +279,17 @@ main:
       - 1 Virtue of Loyalty // Ardenvale Fealty
       - 1 Well Rested
       - 1 Wirewood Lodge
+  - Flip Lands:
+      - 1 Barkchannel Pathway // Tidechannel Pathway
+      - 1 Blightstep Pathway // Searstep Pathway
+      - 1 Branchloft Pathway // Boulderloft Pathway
+      - 1 Brightclimb Pathway // Grimclimb Pathway
+      - 1 Clearwater Pathway // Murkwater Pathway
+      - 1 Cragcrown Pathway // Timbercrown Pathway
+      - 1 Darkbore Pathway // Slitherbore Pathway
+      - 1 Hengegate Pathway // Mistgate Pathway
+      - 1 Needleverge Pathway // Pillarverge Pathway
+      - 1 Riverglide Pathway // Lavaglide Pathway
 side:
   - Owned:
       - 1 Black Waltz No. 3
