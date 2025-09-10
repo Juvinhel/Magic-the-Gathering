@@ -73,12 +73,15 @@ main:
       - 1 The Battle of Bywater
   - Lands:
       - 1 Access Tunnel
+      - 1 Branchloft Pathway // Boulderloft Pathway
+      - 1 Brightclimb Pathway // Grimclimb Pathway
       - 1 Brushland
       - 1 Canopy Vista
       - 1 Command Tower
+      - 1 Darkbore Pathway // Slitherbore Pathway
       - 1 Evolving Wilds
       - 1 Exotic Orchard
-      - 3 Forest
+      - 2 Forest
       - 1 Fortified Village
       - 1 Gaea's Cradle
       - 1 Ghost Quarter
@@ -87,7 +90,7 @@ main:
       - 1 Murmuring Bosk
       - 1 Necroblossom Snarl
       - 1 Path of Ancestry
-      - 5 Plains
+      - 4 Plains
       - 1 Rogue's Passage
       - 1 Sandsteppe Citadel
       - 1 Scattered Groves
@@ -95,7 +98,7 @@ main:
       - 1 Shineshadow Snarl
       - 1 Shire Terrace
       - 1 Sunpetal Grove
-      - 3 Swamp
+      - 2 Swamp
       - 1 The Shire
       - 1 Urborg, Tomb of Yawgmoth
       - 1 Woodland Cemetery
