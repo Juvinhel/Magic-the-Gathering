@@ -8,7 +8,6 @@ main:
       - 1 Alibou, Ancient Witness
       - 1 Coretapper
       - 1 Crystalline Crawler
-      - 1 Cyberdrive Awakener
       - 1 Deepglow Skate
       - 1 Dreamtide Whale
       - 1 Emry, Lurker of the Loch
@@ -25,12 +24,12 @@ main:
       - 1 Tekuthal, Inquiry Dominus
       - 1 Thought Monitor
       - 1 Thrummingbird
+      - 1 Urza, Lord High Artificer
       - 1 Walking Ballista
   - Planeswalker:
       - 1 Tezzeret the Seeker
       - 1 Tezzeret, Cruel Captain
   - Artifacts & Enchantments:
-      - 1 Arcane Signet
       - 1 Astral Cornucopia
       - 1 Aura of Dominion
       - 1 Clock of Omens
@@ -53,6 +52,7 @@ main:
       - 1 Resourceful Defense
       - 1 Sol Ring
       - 1 Solar Array
+      - 1 Sonic Screwdriver
       - 1 Unwinding Clock
       - 1 Uthros Research Craft
   - Spells:
@@ -60,18 +60,19 @@ main:
       - 1 Chaos Warp
       - 1 Counterspell
       - 1 Dispatch
+      - 1 Enlightened Tutor
       - 1 Experimental Augury
+      - 1 Fierce Guardianship
       - 1 Organic Extinction
       - 1 Path to Exile
       - 1 Prologue to Phyresis
       - 1 Ripples of Potential
-      - 1 Swan Song
       - 1 Swords to Plowshares
       - 1 Tezzeret's Gambit
-      - 1 Thirst for Knowledge
       - 1 Universal Surveillance
       - 1 Wake the Past
   - Lands:
+      - 1 Adagia, Windswept Bastion
       - 1 Adarkar Wastes
       - 1 Ancient Den
       - 1 Battlefield Forge
@@ -79,6 +80,7 @@ main:
       - 1 Cascade Bluffs
       - 1 Clifftop Retreat
       - 1 Command Tower
+      - 1 Dawnsire, Sunstar Dreadnought
       - 1 Exotic Orchard
       - 1 Glacial Fortress
       - 1 Great Furnace
@@ -89,7 +91,7 @@ main:
       - 2 Mountain
       - 1 Mystic Monastery
       - 1 Needleverge Pathway // Pillarverge Pathway
-      - 2 Plains
+      - 1 Plains
       - 1 Radiant Summit
       - 1 Razortide Bridge
       - 1 Riverglide Pathway // Lavaglide Pathway
@@ -105,4 +107,22 @@ main:
       - 1 The Mycosynth Gardens
       - 1 Uthros, Titanic Godcore
 side: null
-maybe: null
+maybe:
+  - Creatures:
+      - 1 Cyberdrive Awakener
+      - 1 Virulent Silencer
+  - Artifacts & Enchantments:
+      - 1 Arcane Signet
+      - 1 Lumen-Class Frigate
+      - 1 Pinnacle Kill-Ship
+      - 1 Rescue Skiff
+      - 1 Specimen Freighter
+      - 1 Synthesizer Labship
+      - 1 The Seriema
+      - 1 Uthros Scanship
+      - 1 Warmaker Gunship
+      - 1 Wedgelight Rammer
+  - Planeswalker: null
+  - Spells:
+      - 1 Swan Song
+  - Lands: null
