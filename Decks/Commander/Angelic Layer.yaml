@@ -32,23 +32,6 @@ main:
   - Planeswalkers:
       - 1 Elspeth Resplendent
       - 1 Serra the Benevolent
-  - Spells:
-      - 1 Brave the Elements
-      - 1 Cleansing Nova
-      - 1 Clever Concealment
-      - 1 Contraband Livestock
-      - 1 Defy Death
-      - 1 Enlightened Tutor
-      - 1 Entreat the Angels
-      - 1 Everybody Lives!
-      - 1 Everything Comes to Dust
-      - 1 Flawless Maneuver
-      - 1 Path to Exile
-      - 1 Requisition Raid
-      - 1 Sanctify
-      - 1 Starnheim Unleashed
-      - 1 Stroke of Midnight
-      - 1 Swords to Plowshares
   - Artifacts & Enchantments:
       - 1 Angelic Accord
       - 1 Authority of the Consuls
@@ -71,6 +54,23 @@ main:
       - 1 The Book of Exalted Deeds
       - 1 The Wind Crystal
       - 1 Vanquisher's Banner
+  - Spells:
+      - 1 Brave the Elements
+      - 1 Cleansing Nova
+      - 1 Clever Concealment
+      - 1 Contraband Livestock
+      - 1 Defy Death
+      - 1 Enlightened Tutor
+      - 1 Entreat the Angels
+      - 1 Everybody Lives!
+      - 1 Everything Comes to Dust
+      - 1 Flawless Maneuver
+      - 1 Path to Exile
+      - 1 Requisition Raid
+      - 1 Sanctify
+      - 1 Starnheim Unleashed
+      - 1 Stroke of Midnight
+      - 1 Swords to Plowshares
   - Other:
       - 1 Invasion of Dominaria // Serra Faithkeeper
   - Lands:
@@ -93,13 +93,14 @@ side:
   - 1 Caretaker's Talent
   - 1 Cosmos Elixir
   - 1 Dawn of a New Age
-  - 1 Dawn of Hope
+  - 1 Emeria, the Sky Ruin
   - 1 Herald of Eternal Dawn
   - 1 Linvala, Keeper of Silence
   - 1 Lyra Dawnbringer
   - 1 Patron of the Valiant
   - 1 Ravnica at War
   - 1 Serra's Guardian
+  - 1 Sigarda's Vanguard
   - 1 Wedding Ring
 maybe:
   - Creatures:
@@ -132,7 +133,6 @@ maybe:
       - 1 Serra Avenger
       - 1 Serra Paragon
       - 1 Shattered Angel
-      - 1 Sigarda's Vanguard
       - 1 Speaker of the Heavens
       - 1 Stalwart Valkyrie
       - 1 Starfield Shepherd
@@ -144,6 +144,7 @@ maybe:
       - 1 Angelic Renewal
       - 1 Commander's Sphere
       - 1 Conqueror's Flail
+      - 1 Dawn of Hope
       - 1 Everflowing Chalice
       - 1 Halo Fountain
       - 1 Heirloom Epic
@@ -188,7 +189,6 @@ maybe:
       - 1 Winds of Abandon
   - Lands:
       - 1 Eiganjo, Seat of the Empire
-      - 1 Emeria, the Sky Ruin
       - 1 Fountainport
       - 1 Hidden Courtyard
       - 1 Mikokoro, Center of the Sea
