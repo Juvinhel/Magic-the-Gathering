@@ -1,17 +1,19 @@
 1 Abandoned Campground
-1 Abeyance
 1 Absolute Virtue
 1 Abstergo Entertainment
+1 Academy Manufactor
 1 Academy Ruins
+1 Access Tunnel
 1 Ad Nauseam
-1 Aether Syphon
-1 Aetherflux Reservoir
+2 Aether Syphon
 1 Aettir and Priwen
 1 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
 1 Ajani, the Greathearted
 1 Akroma, Vision of Ixidor
 1 Akroma's Will
+1 All Will Be One
 1 Always Watching
+1 Amonkhet Raceway
 1 Anara, Wolvid Familiar
 1 And They Shall Know No Fear
 1 Angel of Jubilation
@@ -22,25 +24,33 @@
 1 Anguished Unmaking
 1 Animal Sanctuary
 1 Anointed Procession
+1 Arcane Lighthouse
+1 Arch of Orazca
 1 Archangel Elspeth
-1 Archangel of Thune
-1 Artificer Class
+1 Archway of Innovation
+1 Argothian Elder
+2 Artificer Class
+1 Assassin's Trophy
+1 Assemble the Entmoot
 1 Assimilation Aegis
+1 Aura of Dominion
 1 Aura Shards
 1 Avacyn, Angel of Hope
 1 Back from the Brink
 1 Baneslayer Angel
-1 Battle Angels of Tyr
+1 Banquet Guests
+1 Barkchannel Pathway // Tidechannel Pathway
 1 Beast Within
 1 Beastmaster Ascension
-1 Beyond the Quiet
+1 Bilbo, Birthday Celebrant
+1 Birds of Paradise
 1 Bishop of Wings
 1 Black Market Connections
 1 Blackcleave Cliffs
 1 Blazemire Verge
 1 Bleachbone Verge
 1 Bleeding Woods
-1 Blind Obedience
+1 Blightstep Pathway // Searstep Pathway
 1 Blinding Angel
 1 Bloodchief Ascension
 1 Blooming Marsh
@@ -49,41 +59,52 @@
 1 Boseiju, Who Endures
 1 Botanical Sanctum
 1 Braids, Cabal Minion
+1 Branchloft Pathway // Boulderloft Pathway
+1 Brightclimb Pathway // Grimclimb Pathway
 1 Brilliant Restoration
 1 Brimaz, King of Oreskos
 1 Bristling Backwoods
 1 Bruna, the Fading Light
-1 Buster Sword
+1 Brushland
 1 Calamity's Wake
 1 Caretaker's Talent
 1 Cathars' Crusade
-1 Caves of Koilos
 1 Celestial Colonnade
+1 Cephalopod Sentry
+1 Chromatic Lantern
 1 Chrome Mox
-1 Clever Concealment
+1 Clearwater Pathway // Murkwater Pathway
 1 Clive's Hideaway
+1 Clock of Omens
 1 Coalition Victory
 1 Commercial District
 1 Company Commander
 1 Concealed Courtyard
-1 Conqueror's Flail
+1 Conqueror's Galleon // Conqueror's Foothold
 1 Consecrated Sphinx
 1 Copperline Gorge
 1 Copy Land
 1 Cosmos Elixir
 2 Counterspell
 1 Court of Vantress
+1 Cragcrown Pathway // Timbercrown Pathway
 1 Creosote Heath
 1 Crib Swap
+1 Crypt Incursion
+1 Cryptic Gateway
 1 Cultivate
 1 Curiosity
+1 Curse of Bounty
 2 Cyclonic Rift
 1 Danitha, New Benalia's Light
+1 Darkbore Pathway // Slitherbore Pathway
 1 Darkmoss Bridge
 1 Darkslick Shores
 1 Dawn of a New Age
 1 Dawn of Hope
 1 Dawn's Truce
+1 Dawnsire, Sunstar Dreadnought
+1 Dazzling Theater // Prop Room
 1 Deadly Rollick
 1 Deathcap Glade
 1 Decree of Justice
@@ -91,15 +112,20 @@
 1 Delney, Streetwise Lookout
 2 Demonic Tutor
 1 Destroy Evil
+1 Detection Tower
 1 Dion, Bahamut's Dominant // Bahamut, Warden of Light
 1 Disallow
 1 Dismantling Wave
 1 Dismember
 1 Doubling Season
 2 Dovin's Veto
+1 Dowsing Dagger // Lost Vale
 1 Dragon's Claw
 1 Drannith Magistrate
 1 Dreamroot Cascade
+1 Dreamtide Whale
+1 Drumbellower
+1 Dusk // Dawn
 1 Eden, Seat of the Sanctum
 1 Elegant Parlor
 1 Elspeth, Sun's Nemesis
@@ -112,42 +138,48 @@
 1 Enter the Infinite
 1 Eroded Canyon
 1 Esika's Chariot
+1 Esper Sentinel
+1 Essence Warden
 1 Etched Cornfield
 1 Ethersworn Canonist
-1 Everybody Lives!
-1 Everything Comes to Dust
-1 Exemplar of Light
+1 Ethersworn Sphinx
+1 Evendo, Waking Haven
 1 Expropriate
-1 Exquisite Blood
 1 Eye of Ugin
 1 Faramir, Field Commander
 1 Farewell
+1 Farmer Cotton
 1 Fateful Absence
+1 Feasting Hobbit
 1 Felidar Retreat
 1 Feline Sovereign
 1 Fell the Profane // Fell Mire
 1 Ferrous Lake
 1 Festering Gulch
 1 Field of the Dead
+1 Field-Tested Frying Pan
 1 Fierce Guardianship
 1 Fire-Lit Thicket
-1 Firemane Commando
 1 Flagstones of Trokair
 1 Flare of Fortitude
 1 Flooded Grove
 1 Flooded Strand
 1 Floodfarm Verge
-1 Flusterstorm
 1 Food Chain
 1 Force of Negation
 2 Force of Will
 1 Forensic Gadgeteer
 1 Fortified Beachhead
+1 Fortified Village
 1 Fountainport
 1 Frantic Search
+1 Freed from the Real
+1 Frodo, Adventurous Hobbit
+1 Frodo, Sauron's Bane
 2 Gaea's Cradle
 1 Galadriel's Dismissal
 1 Gamble
+1 Gauntlets of Light
 1 Gavony Township
 1 Geier Reach Sanitarium
 1 Gemstone Caverns
@@ -155,23 +187,35 @@
 1 Generous Gift
 1 Get Lost
 1 Ghalta and Mavren
+1 Ghost Quarter
 1 Ghostly Prison
 1 Gifts Ungiven
+1 Gilded Goose
+1 Gingerbrute
 1 Gisela, the Broken Blade
 1 Glacial Chasm
+1 Glasspool Mimic // Glasspool Shore
 1 Gloomlake Verge
+1 Go for the Throat
+1 Gold Myr
 1 Gold-Forged Thopteryx
+1 Golden Guardian // Gold-Forge Garrison
+1 Gollum, Obsessed Stalker
 2 Grand Arbiter Augustin IV
 1 Grim Monolith
 1 Guardian of Ghirapur
 1 Guardian Seraph
+1 Guidelight Synergist
+1 Gwaihir, Greatest of the Eagles
 1 Gyruda, Doom of Depths
+1 Hall of Tagsin
 1 Hallowed Fountain
 1 Halo Fountain
 1 Havengul Laboratory // Havengul Mystery
 1 Hedge Maze
 1 Heliod's Intervention
 1 Helm of the Ghastlord
+1 Hengegate Pathway // Mistgate Pathway
 1 Hidden Courtyard
 1 Hinterland Harbor
 1 Hissing Quagmire
@@ -180,24 +224,30 @@
 1 Hungry Lynx
 1 Hushwood Verge
 1 Illuminated Folio
+1 Illustrious Wanderglyph
+1 Immovable Rod
 1 Impact Tremors
 2 Imperial Seal
 1 Infinite Reflection
 1 Inkshield
 1 Inspiring Vantage
+1 Instill Energy
 1 Intuition
 1 Inventors' Fair
 1 Irenicus's Vile Duplication
 1 Ishai, Ojutai Dragonspeaker
 1 Ishgard, the Holy See // Faith & Grief
 1 Jagged Barrens
+1 Jandor's Saddlebags
 1 Jeska's Will
 1 Jetmir, Nexus of Revels
 1 Jetmir's Garden
+1 Jhoira's Familiar
 1 Jidoor, Aristocratic Capital // Overture
 1 Jin-Gitaxias, Core Augur
 1 Jinnie Fay, Jetmir's Second
 1 Joshua, Phoenix's Dominant // Phoenix, Warden of Fire
+1 K-9, Mark I
 1 Kaheera, the Orphanguard
 1 Kambal, Consul of Allocation
 1 Karn, Legacy Reforged
@@ -217,20 +267,24 @@
 1 Linvala, Keeper of Silence
 1 Lion's Eye Diamond
 1 Livio, Oathsworn Sentinel
+1 Lobelia, Defender of Bag End
 1 Lossarnach Captain
 1 Loyal Warhound
 1 Lumbering Falls
+1 Lumen-Class Frigate
 1 Lurrus of the Dream-Den
 1 Lush Oasis
 1 Lush Portico
 1 Lutri, the Spellchaser
 1 Lyra Dawnbringer
 1 Mana Vault
-1 Mariposa Military Base
+1 Many Partings
 1 Marisi, Breaker of the Coil
 1 Marsh Flats
 1 Masked Vandal
 1 Maskwood Nexus
+1 Mentor of the Meek
+1 Merry, Warden of Isengard
 1 Meticulous Archive
 1 Midgar, City of Mako // Reactor Raid
 1 Mikokoro, Center of the Sea
@@ -238,56 +292,69 @@
 1 Minas Morgul, Dark Fortress
 1 Mines of Moria
 1 Miren, the Moaning Well
+1 Mirkwood Bats
+1 Mirrex
 1 Mirri, Weatherlight Duelist
 1 Mirror Entity
-1 Misdirection
+1 Mirrorpool
 1 Mishra's Workshop
-1 Misleading Signpost
-1 Mithril Coat
+1 Mistrise Village
+1 Mm'menon, the Right Hand
 1 Monumental Henge
 1 Morphic Pool
+1 Motivated Pony
 1 Mount Doom
 1 Mox Diamond
 1 Murky Sewer
+1 Murmuring Bosk
 1 Myrel, Shield of Argive
+1 Mystic Forge
 1 Mystic Gate
-1 Mystic Remora
 2 Mystical Tutor
 1 Narset, Parter of Veils
+1 Nature's Chosen
+1 Necroblossom Snarl
 2 Necropotence
 1 Needle Spires
+1 Needleverge Pathway // Pillarverge Pathway
 1 Neglected Manor
-1 Nesting Bot
+2 Nesting Bot
+1 Night of the Sweets' Revenge
 1 Nimbus Maze
 1 Noctis, Prince of Lucis
-1 Norn's Annex
 1 Notion Thief
+1 Nuka-Cola Vending Machine
 1 Nykthos, Shrine to Nyx
 1 Oboro, Palace in the Clouds
 1 Obosh, the Preypiercer
 1 Ocelot Pride
+1 Of Herbs and Stewed Rabbit
 1 Okina, Temple to the Grandfathers
 1 Oltec Matterweaver
 1 Ophidian Eye
 1 Opposition Agent
 2 Orcish Bowmasters
+1 Ornithopter of Paradise
 1 Oswald Fiddlebender
 1 Otawara, Soaring City
 1 Overflowing Basin
 1 Overgrown Farmland
-1 Overkill
 1 Pack Leader
 1 Panoptic Mirror
 1 Parallel Lives
+1 Patriar's Seal
 1 Peculiar Lighthouse
+1 Pemmin's Aura
 1 Pendelhaven
-1 Phyrexian Arena
 1 Phyrexian Tower
+1 Pippin, Warden of Isengard
 1 Polluted Delta
-1 Press the Enemy
+1 Power Depot
 1 Pride Sovereign
 1 Privileged Position
-1 Professor Onyx
+1 Prize Pig
+1 Prologue to Phyresis
+1 Prosperous Innkeeper
 1 Prowling Serpopard
 1 Qasali Slingers
 1 Quantum Misalignment
@@ -296,6 +363,7 @@
 1 Raffine's Tower
 1 Raging Ravine
 1 Rally the Ranks
+1 Rapacious Guest
 1 Raucous Carnival
 1 Raucous Theater
 1 Razortrap Gorge
@@ -303,8 +371,8 @@
 1 Realmwalker
 1 Regal Caracal
 1 Rejuvenating Springs
-1 Render Silent
 1 Rescue Retriever
+1 Research Thief
 1 Restless Anchorage
 1 Restless Bivouac
 1 Restless Cottage
@@ -323,48 +391,58 @@
 1 Rhys the Redeemed
 2 Rhystic Study
 1 Ring of Three Wishes
+2 Riptide Gearhulk
 1 Rivendell
+1 Riverglide Pathway // Lavaglide Pathway
 1 Riverpyre Verge
 1 Rockfall Vale
 1 Rograkh, Son of Rohgahh
 1 Rosa, Resolute White Mage
+1 Ruins of Oran-Rief
 1 Rydia, Summoner of Mist
 1 Sacred Foundry
+1 Sam, Loyal Attendant
+1 Samwise Gamgee
 1 Sanctuary Warden
+1 Sanctum of Ugin
+1 Sandsteppe Citadel
 1 Sanguine Bond
 1 Sanitarium Skeleton
+1 Savvy Hunter
+1 Scrawling Crawler
 1 Sea of Clouds
 1 Seachrome Coast
+1 Search for Azcanta // Azcanta, the Sunken Ruin
 1 Second Harvest
 1 Seedborn Muse
+1 Seeker of Skybreak
 1 Selfless Savior
-1 Sephara, Sky's Blade
-1 Seraph of the Masses
 1 Serra Avenger
 1 Serra Paragon
 2 Serra's Sanctum
-1 Sevinne's Reclamation
 1 Shamanic Revelation
 1 Shambling Vent
 1 Shattered Sanctum
 1 Sheoldred, the Apocalypse
 1 Shimmer Myr
 1 Shinka, the Bloodsoaked Keep
+1 Shire Terrace
 1 Shivan Gorge
 1 Shizo, Death's Storehouse
+1 Shorikai, Genesis Engine
+1 Shrine of the Forsaken Gods
 1 Siege Veteran
 1 Sigarda, Font of Blessings
 1 Sigarda, Host of Herons
-1 Silence
 1 Silvar, Devourer of the Free
 1 Sin, Spira's Punishment
-1 Singularity Rupture
 1 Sink into Stupor // Soporific Springs
 1 Skrelv, Defector Mite
 1 Slagwoods Bridge
 1 Slurrk, All-Ingesting
 2 Smothering Tithe
 1 Soured Springs
+1 Spark Double
 1 Spectator Seating
 1 Spirebluff Canal
 1 Split Up
@@ -372,13 +450,17 @@
 1 Starfield Shepherd
 1 Starnheim Aspirant
 1 Starting Town
+1 Sting, the Glinting Dagger
 1 Stirring Wildwood
-1 Stock Up
 1 Stomping Ground
 1 Stormbeacon Blade
 1 Strangled Cemetery
 1 Strength-Testing Hammer
 1 Stridehangar Automaton
+1 Study
+1 Sunken Citadel
+1 Sunken Palace
+1 Suppression Ray // Orderly Plaza
 1 Survival of the Fittest
 1 Sway of the Stars
 1 Sword of the Animist
@@ -387,6 +469,7 @@
 1 Tainted Wood
 1 Takenuma, Abandoned Mire
 1 Talion, the Kindly Lord
+1 Talon Gates of Madara
 1 Tanglepool Bridge
 1 Taurean Mauler
 1 Teferi, Time Raveler
@@ -394,31 +477,45 @@
 1 Temple Garden
 1 Temple of Malady
 1 Temple of Mystery
+1 Tendo Ice Bridge
 1 Tergrid, God of Fright // Tergrid's Lantern
 1 Terra, Magical Adept // Esper Terra
+1 Tezzeret the Seeker
 1 Thassa's Oracle
+1 Thaumatic Compass // Spires of Orazca
+1 The Battle of Bywater
 1 The Black Gate
 1 The Celestus
 1 The Darkness Crystal
+1 The Everflowing Well // The Myriad Pools
 1 The Fire Crystal
+1 The Gaffer
 1 The Grey Havens
 1 The Immortal Sun
 2 The One Ring
+1 The Reality Chip
+1 The Seriema
 1 The Shire
 2 The Tabernacle at Pendrell Vale
 1 The Water Crystal
 1 Thornglint Bridge
 1 Thornspire Verge
-1 Thousand Moons Smithy // Barracks of the Thousand
+2 Thousand Moons Smithy // Barracks of the Thousand
+1 Thousand-Year Elixir
 1 Three Visits
 1 Thundering Falls
+1 Tireless Provisioner
 1 Toggo, Goblin Weaponsmith
+1 Tolaria West
+1 Tomb of the Spirit Dragon
 1 Tomb of Urami
 1 Towashi Guide-Bot
 1 Toxic Deluge
 1 Training Center
 1 Traveling Chocobo
+1 Treasure Map // Treasure Cove
 1 Tree of Perdition
+1 Treebeard, Gracious Host
 1 Trenzalore Clocktower
 1 Triple Triad
 1 Trynn, Champion of Freedom
@@ -426,6 +523,7 @@
 1 Umori, the Collector
 1 Undercellar Sweep
 1 Undercity Sewers
+1 Underdark Rift
 1 Underground Mortuary
 1 Undergrowth Stadium
 1 Undermine
@@ -435,24 +533,33 @@
 1 Urborg
 1 Urborg, Tomb of Yawgmoth
 1 Urza, Lord High Artificer
+1 Urza's Factory
 1 Urza's Incubator
-1 Urza's Saga
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Workshop
+1 Uthros Scanship
+1 Uthros, Titanic Godcore
 1 Valiant Rescuer
 1 Valiant Veteran
 2 Vampiric Tutor
 1 Vanquish the Horde
 1 Vault of Champions
 1 Vault of the Archangel
+1 Vedalken Archmage
 1 Venat, Heart of Hydaelyn // Hydaelyn, the Mothercrystal
+1 Vesuva
 1 Veteran Swordsmith
 1 Vial Smasher the Fierce
 1 Victory's Herald
 1 Viridescent Bog
+1 Virtue of Loyalty // Ardenvale Fealty
 1 Vito, Thorn of the Dusk Rose
 1 Vivi Ornitier
 1 Vnwxt, Verbose Host
 1 Volrath's Stronghold
 1 Vorinclex, Voice of Hunger
+1 Walking Ballista
 1 Wandering Fumarole
 1 War Room
 1 Warleader's Call
@@ -464,6 +571,8 @@
 1 Windbrisk Heights
 1 Winds of Abandon
 1 Winota, Joiner of Forces
+1 Wirewood Lodge
+1 Witch Enchanter // Witch-Blessed Meadow
 1 Wooded Bastion
 1 Woodland Cemetery
 1 Worldwalker Helm

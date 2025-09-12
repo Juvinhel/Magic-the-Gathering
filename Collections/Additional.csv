@@ -1,4 +1,5 @@
 Name,Set code,Language,Quantity
+Abeyance,WTH,de,1
 Abraded Bluffs,OTJ,de,1
 Akoum Refuge,C19,en,1
 Angel of Destiny,ZNR,en,1
@@ -12,9 +13,11 @@ Angelic Curator,ULG,de,1
 Angelic Field Marshal,CMM,en,1
 Angelic Skirmisher,GTC,de,1
 Angelic Sleuth,NCC,de,1
+Archangel of Thune,2XM,en,1
 Archangel of Tithes,OTJ,en,1
 "Aurelia, the Law Above",MKM,de,1
 "Aurelia, the Warleader",MUL,de,1
+Battle Angels of Tyr,CLB,en,1
 Benalish Commander,TSR,en,1
 Blade Historian,STX,de,1
 Bloodforged Battle-Axe,MOC,de,1
@@ -23,12 +26,15 @@ Boon-Bringer Valkyrie,MOM,en,1
 "Braids, Arisen Nightmare",DSC,de,1
 Brave the Elements,C14,de,1
 Breathkeeper Seraph,VOC,en,1
+Buster Sword,FIN,de,1
 "Chainer, Nightmare Adept",MH2,de,1
 Charisma Bobblehead,PIP,en,1
 Cleric Class,AFR,de,1
+Clever Concealment,FIC,de,1
 Clifftop Retreat,ISD,en,1
 Cloud Key,TSR,de,1
 Cloudsteel Kirin,NEO,de,4
+Conqueror's Flail,FIC,de,1
 Court of Grace,ONC,en,1
 Crop Rotation,DMR,en,1
 Cryptothrall,40K,en,1
@@ -45,11 +51,16 @@ Emancipation Angel,UMA,en,1
 Endurance Bobblehead,PIP,en,1
 Enlightened Tutor,6ED,en,1
 Entreat the Angels,DSC,en,1
+Everybody Lives!,WHO,de,1
+Everything Comes to Dust,WHO,de,1
+Exemplar of Light,FDN,en,1
 Fetid Heath,OTC,de,1
 Finale of Glory,CLU,en,1
+Firemane Commando,MOC,de,1
 Flawless Maneuver,CMM,en,1
 Folk Hero,CLB,en,1
 Forlorn Flats,OTJ,de,1
+"Giada, Font of Hope",SLD,ja,1
 Glacial Fortress,BLC,en,1
 Graypelt Refuge,C19,en,1
 Herald of Eternal Dawn,FDN,en,1
@@ -70,6 +81,7 @@ Luminarch Ascension,A25,en,1
 Luminous Broodmoth,BLC,de,1
 Make a Stand,CMR,en,1
 March from the Tomb,BFZ,de,1
+Mariposa Military Base,PIP,en,1
 Martial Coup,BLC,en,1
 Metropolis Reformer,MAT,en,1
 Minas Tirith,LTR,en,1
@@ -94,7 +106,9 @@ Segovian Angel,MH1,en,1
 Sejiri Refuge,KHC,en,1
 Sejiri Shelter // Sejiri Glacier,ZNR,en,1
 Selfless Spirit,TDC,de,1
+"Sephara, Sky's Blade",CMM,en,1
 Seraph of Dawn,CMR,en,1
+Seraph of the Masses,MOC,en,1
 Seraph Sanctuary,DDQ,de,1
 Serra Angel,FDN,en,1
 Serra the Benevolent,MH1,en,1
@@ -103,6 +117,7 @@ Shadowy Backstreet,MKM,de,1
 Shattered Angel,MOC,en,1
 Sigarda's Splendor,MID,en,1
 Sigarda's Vanguard,MIC,en,1
+Silence,M14,en,1
 Skycloud Expanse,NCC,de,1
 Sonic Screwdriver,WHO,en,1
 Speaker of the Heavens,M21,en,1
