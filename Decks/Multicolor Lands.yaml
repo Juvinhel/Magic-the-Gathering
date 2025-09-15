@@ -31,6 +31,62 @@ main:
   - 1 Viridescent Bog
   - 1 Wooded Bastion
   - 1 Woodland Cemetery
+  - Tri Cycle Lands:
+      - 1 Indatha Triome
+      - 1 Jetmir's Garden
+      - 1 Ketria Triome
+      - 1 Raffine's Tower
+      - 1 Raugrin Triome
+      - 1 Savai Triome
+      - 1 Spara's Headquarters
+      - 1 Xander's Lounge
+      - 1 Zagoth Triome
+      - 1 Ziatora's Proving Ground
+  - Tri Lands:
+      - 1 Arcane Sanctum
+      - 1 Crumbling Necropolis
+      - 1 Frontier Bivouac
+      - 1 Jungle Shrine
+      - 1 Mystic Monastery
+      - 1 Nomad Outpost
+      - 1 Opulent Palace
+      - 1 Sandsteppe Citadel
+      - 1 Savage Lands
+      - 1 Seaside Citadel
+  - Tri Lair Lands:
+      - 1 Crosis's Catacombs
+      - 1 Darigaaz's Caldera
+      - 1 Dromar's Cavern
+      - 1 Rith's Grove
+      - 1 Treva's Ruins
+  - Triple Fetch Land:
+      - 1 Brokers Hideout
+      - 1 Cabaretti Courtyard
+      - 1 Maestros Theater
+      - 1 Obscura Storefront
+      - 1 Riveteers Overlook
+  - Flip Lands:
+      - 1 Barkchannel Pathway // Tidechannel Pathway
+      - 1 Blightstep Pathway // Searstep Pathway
+      - 1 Branchloft Pathway // Boulderloft Pathway
+      - 1 Brightclimb Pathway // Grimclimb Pathway
+      - 1 Clearwater Pathway // Murkwater Pathway
+      - 1 Cragcrown Pathway // Timbercrown Pathway
+      - 1 Darkbore Pathway // Slitherbore Pathway
+      - 1 Hengegate Pathway // Mistgate Pathway
+      - 1 Needleverge Pathway // Pillarverge Pathway
+      - 1 Riverglide Pathway // Lavaglide Pathway
+  - Pay 2 Life:
+      - 1 Blood Crypt
+      - 1 Breeding Pool
+      - 1 Godless Shrine
+      - 1 Hallowed Fountain
+      - 1 Overgrown Tomb
+      - 1 Sacred Foundry
+      - 1 Steam Vents
+      - 1 Stomping Ground
+      - 1 Temple Garden
+      - 1 Watery Grave
   - gain 1 life:
       - 1 Bloodfell Caves
       - 1 Blossoming Sands
@@ -87,6 +143,9 @@ main:
       - 1 Undercity Sewers
       - 1 Underground Mortuary
   - scry 1:
+      - 1 Temple of Abandon
+      - 1 Temple of Deceit
+      - 1 Temple of Enlightenment
       - 1 Temple of Epiphany
       - 1 Temple of Malady
       - 1 Temple of Malice
@@ -94,9 +153,6 @@ main:
       - 1 Temple of Plenty
       - 1 Temple of Silence
       - 1 Temple of Triumph
-      - 1 Temple of Abandon
-      - 1 Temple of Deceit
-      - 1 Temple of Enlightenment
   - 2 or more opponents:
       - 1 Bountiful Promenade
       - 1 Luxury Suite
@@ -120,7 +176,6 @@ main:
       - 1 Razortrap Gorge
       - 1 Strangled Cemetery
   - indestructible artifact:
-      - 1 Thornglint Bridge
       - 1 Darkmoss Bridge
       - 1 Drossforge Bridge
       - 1 Goldmire Bridge
@@ -130,35 +185,41 @@ main:
       - 1 Silverbluff Bridge
       - 1 Slagwoods Bridge
       - 1 Tanglepool Bridge
+      - 1 Thornglint Bridge
   - creatures:
       - 1 Celestial Colonnade
-      - 1 Restless Anchorage
       - 1 Creeping Tar Pit
-      - 1 Restless Reef
-      - 1 Lavaclaw Reaches
-      - 1 Restless Vents
-      - 1 Raging Ravine
-      - 1 Restless Ridgeline
-      - 1 Restless Prairie
-      - 1 Stirring Wildwood
-      - 1 Restless Fortress
-      - 1 Shambling Vent
-      - 1 Restless Spire
-      - 1 Wandering Fumarole
       - 1 Hissing Quagmire
-      - 1 Restless Cottage
-      - 1 Needle Spires
-      - 1 Restless Bivouac
+      - 1 Lavaclaw Reaches
       - 1 Lumbering Falls
+      - 1 Needle Spires
+      - 1 Raging Ravine
+      - 1 Restless Anchorage
+      - 1 Restless Bivouac
+      - 1 Restless Cottage
+      - 1 Restless Fortress
+      - 1 Restless Prairie
+      - 1 Restless Reef
+      - 1 Restless Ridgeline
+      - 1 Restless Spire
+      - 1 Restless Vents
       - 1 Restless Vinestalk
+      - 1 Shambling Vent
+      - 1 Stirring Wildwood
+      - 1 Wandering Fumarole
   - no regularity:
       - 1 Blazemire Verge
       - 1 Bleachbone Verge
+      - 1 Canyon Slough
+      - 1 Fetid Pools
       - 1 Floodfarm Verge
       - 1 Gloomlake Verge
       - 1 Hushwood Verge
+      - 1 Irrigated Farmland
       - 1 Nimbus Maze
       - 1 Riverpyre Verge
+      - 1 Scattered Groves
+      - 1 Sheltered Thicket
       - 1 Sunbillow Verge
       - 1 Tainted Field
       - 1 Tainted Isle
@@ -167,10 +228,5 @@ main:
       - 1 Thornspire Verge
       - 1 Wastewood Verge
       - 1 Willowrush Verge
-      - 1 Canyon Slough
-      - 1 Fetid Pools
-      - 1 Irrigated Farmland
-      - 1 Scattered Groves
-      - 1 Sheltered Thicket
 side: null
 maybe: null
