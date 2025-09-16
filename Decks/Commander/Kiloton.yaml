@@ -30,6 +30,7 @@ main:
       - 1 Uthros Research Craft
       - 1 Walking Ballista
   - Planeswalker:
+      - 1 Teferi, Who Slows the Sunset
       - 1 Tezzeret the Seeker
       - 1 Tezzeret, Cruel Captain
       - 1 The Aetherspark
@@ -58,7 +59,6 @@ main:
       - 1 Strixhaven Stadium
       - 1 Unwinding Clock
   - Spells:
-      - 1 Chain Reaction
       - 1 Chaos Warp
       - 1 Counterspell
       - 1 Dispatch
@@ -126,8 +126,23 @@ maybe:
       - 1 Uthros Scanship
       - 1 Warmaker Gunship
       - 1 Wedgelight Rammer
-  - Planeswalker: null
+  - Planeswalker:
+      - 1 Chandra, Awakened Inferno
+      - 1 Elspeth Resplendent
+      - 1 Elspeth, Knight-Errant
+      - 1 Gideon, Champion of Justice
+      - 1 Huatli, Warrior Poet
+      - 1 Jace, Memory Adept
+      - 1 Jace, Mirror Mage
+      - 1 Karn, Scion of Urza
+      - 1 Karn, the Great Creator
+      - 1 Narset Transcendent
+      - 1 Ral Zarek
+      - 1 Saheeli, Filigree Master
+      - 1 Tezzeret, Artifice Master
+      - 1 The Wanderer
   - Spells:
+      - 1 Angelfire Ignition
       - 1 Swan Song
   - Lands:
       - 1 Hall
