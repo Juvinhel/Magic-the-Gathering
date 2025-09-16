@@ -2,33 +2,33 @@ name: Multicolor Lands
 description: ""
 main:
   - Tri Cycle Lands:
-      - 1 Indatha Triome
-      - 1 Jetmir's Garden
-      - 1 Ketria Triome
       - 1 Raffine's Tower
       - 1 Raugrin Triome
-      - 1 Savai Triome
       - 1 Spara's Headquarters
+      - 1 Savai Triome
+      - 1 Indatha Triome
+      - 1 Jetmir's Garden
       - 1 Xander's Lounge
       - 1 Zagoth Triome
+      - 1 Ketria Triome
       - 1 Ziatora's Proving Ground
   - Tri Lands:
       - 1 Arcane Sanctum
-      - 1 Crumbling Necropolis
-      - 1 Frontier Bivouac
-      - 1 Jungle Shrine
       - 1 Mystic Monastery
-      - 1 Nomad Outpost
-      - 1 Opulent Palace
-      - 1 Sandsteppe Citadel
-      - 1 Savage Lands
       - 1 Seaside Citadel
+      - 1 Nomad Outpost
+      - 1 Sandsteppe Citadel
+      - 1 Jungle Shrine
+      - 1 Crumbling Necropolis
+      - 1 Opulent Palace
+      - 1 Frontier Bivouac
+      - 1 Savage Lands
   - Tri Lair Lands:
+      - 1 Dromar's Cavern
+      - 1 Treva's Ruins
+      - 1 Rith's Grove
       - 1 Crosis's Catacombs
       - 1 Darigaaz's Caldera
-      - 1 Dromar's Cavern
-      - 1 Rith's Grove
-      - 1 Treva's Ruins
   - Triple Fetch Land:
       - 1 Brokers Hideout
       - 1 Cabaretti Courtyard
@@ -36,168 +36,168 @@ main:
       - 1 Obscura Storefront
       - 1 Riveteers Overlook
   - Flip Lands:
+      - 1 Hengegate Pathway // Mistgate Pathway
+      - 1 Brightclimb Pathway // Grimclimb Pathway
+      - 1 Needleverge Pathway // Pillarverge Pathway
+      - 1 Branchloft Pathway // Boulderloft Pathway
+      - 1 Clearwater Pathway // Murkwater Pathway
+      - 1 Riverglide Pathway // Lavaglide Pathway
       - 1 Barkchannel Pathway // Tidechannel Pathway
       - 1 Blightstep Pathway // Searstep Pathway
-      - 1 Branchloft Pathway // Boulderloft Pathway
-      - 1 Brightclimb Pathway // Grimclimb Pathway
-      - 1 Clearwater Pathway // Murkwater Pathway
-      - 1 Cragcrown Pathway // Timbercrown Pathway
       - 1 Darkbore Pathway // Slitherbore Pathway
-      - 1 Hengegate Pathway // Mistgate Pathway
-      - 1 Needleverge Pathway // Pillarverge Pathway
-      - 1 Riverglide Pathway // Lavaglide Pathway
+      - 1 Cragcrown Pathway // Timbercrown Pathway
   - Pay 2 Life:
-      - 1 Blood Crypt
-      - 1 Breeding Pool
-      - 1 Godless Shrine
       - 1 Hallowed Fountain
-      - 1 Overgrown Tomb
+      - 1 Godless Shrine
       - 1 Sacred Foundry
-      - 1 Steam Vents
-      - 1 Stomping Ground
       - 1 Temple Garden
       - 1 Watery Grave
+      - 1 Steam Vents
+      - 1 Breeding Pool
+      - 1 Blood Crypt
+      - 1 Overgrown Tomb
+      - 1 Stomping Ground
   - Pay {C}:
-      - 1 Darkwater Catacombs
+      - 1 Skycloud Expanse
       - 1 Desolate Mire
+      - 1 Sunscorched Divide
+      - 1 Sungrass Prairie
+      - 1 Darkwater Catacombs
       - 1 Ferrous Lake
-      - 1 Mossfire Valley
       - 1 Overflowing Basin
       - 1 Shadowblood Ridge
-      - 1 Skycloud Expanse
-      - 1 Sungrass Prairie
-      - 1 Sunscorched Divide
       - 1 Viridescent Bog
+      - 1 Mossfire Valley
   - Pay Mixed Mana:
-      - 1 Cascade Bluffs
+      - 1 Mystic Gate
       - 1 Fetid Heath
-      - 1 Fire-Lit Thicket
+      - 1 Rugged Prairie
+      - 1 Wooded Bastion
+      - 1 Sunken Ruins
+      - 1 Cascade Bluffs
       - 1 Flooded Grove
       - 1 Graven Cairns
-      - 1 Mystic Gate
-      - 1 Rugged Prairie
-      - 1 Sunken Ruins
       - 1 Twilight Mire
-      - 1 Wooded Bastion
+      - 1 Fire-Lit Thicket
   - 2 or more opponents:
-      - 1 Bountiful Promenade
-      - 1 Luxury Suite
-      - 1 Morphic Pool
-      - 1 Rejuvenating Springs
       - 1 Sea of Clouds
-      - 1 Spectator Seating
-      - 1 Spire Garden
-      - 1 Training Center
-      - 1 Undergrowth Stadium
       - 1 Vault of Champions
+      - 1 Spectator Seating
+      - 1 Bountiful Promenade
+      - 1 Morphic Pool
+      - 1 Training Center
+      - 1 Rejuvenating Springs
+      - 1 Luxury Suite
+      - 1 Undergrowth Stadium
+      - 1 Spire Garden
   - 2 or more lands:
-      - 1 Deathcap Glade
       - 1 Deserted Beach
-      - 1 Dreamroot Cascade
-      - 1 Haunted Ridge
-      - 1 Overgrown Farmland
-      - 1 Rockfall Vale
       - 1 Shattered Sanctum
+      - 1 Sundown Pass
+      - 1 Overgrown Farmland
       - 1 Shipwreck Marsh
       - 1 Stormcarved Coast
-      - 1 Sundown Pass
+      - 1 Dreamroot Cascade
+      - 1 Haunted Ridge
+      - 1 Deathcap Glade
+      - 1 Rockfall Vale
   - 2 or fewer lands:
-      - 1 Blackcleave Cliffs
-      - 1 Blooming Marsh
-      - 1 Botanical Sanctum
+      - 1 Seachrome Coast
       - 1 Concealed Courtyard
-      - 1 Copperline Gorge
-      - 1 Darkslick Shores
       - 1 Inspiring Vantage
       - 1 Razorverge Thicket
-      - 1 Seachrome Coast
+      - 1 Darkslick Shores
       - 1 Spirebluff Canal
+      - 1 Botanical Sanctum
+      - 1 Blackcleave Cliffs
+      - 1 Blooming Marsh
+      - 1 Copperline Gorge
   - gain 1 life:
-      - 1 Bloodfell Caves
+      - 1 Tranquil Cove
+      - 1 Scoured Barrens
+      - 1 Wind-Scarred Crag
       - 1 Blossoming Sands
       - 1 Dismal Backwater
-      - 1 Jungle Hollow
-      - 1 Rugged Highlands
-      - 1 Scoured Barrens
       - 1 Swiftwater Cliffs
       - 1 Thornwood Falls
-      - 1 Tranquil Cove
-      - 1 Wind-Scarred Crag
+      - 1 Bloodfell Caves
+      - 1 Jungle Hollow
+      - 1 Rugged Highlands
   - deal 1 damage:
-      - 1 Abraded Bluffs
-      - 1 Bristling Backwoods
-      - 1 Creosote Heath
-      - 1 Eroded Canyon
-      - 1 Festering Gulch
-      - 1 Forlorn Flats
-      - 1 Jagged Barrens
       - 1 Lonely Arroyo
-      - 1 Lush Oasis
+      - 1 Forlorn Flats
+      - 1 Abraded Bluffs
+      - 1 Creosote Heath
       - 1 Soured Springs
+      - 1 Eroded Canyon
+      - 1 Lush Oasis
+      - 1 Jagged Barrens
+      - 1 Festering Gulch
+      - 1 Bristling Backwoods
   - surveil 1:
-      - 1 Commercial District
-      - 1 Elegant Parlor
-      - 1 Hedge Maze
-      - 1 Lush Portico
       - 1 Meticulous Archive
-      - 1 Raucous Theater
       - 1 Shadowy Backstreet
-      - 1 Thundering Falls
+      - 1 Elegant Parlor
+      - 1 Lush Portico
       - 1 Undercity Sewers
+      - 1 Thundering Falls
+      - 1 Hedge Maze
+      - 1 Raucous Theater
       - 1 Underground Mortuary
+      - 1 Commercial District
   - scry 1:
-      - 1 Temple of Abandon
-      - 1 Temple of Deceit
       - 1 Temple of Enlightenment
-      - 1 Temple of Epiphany
-      - 1 Temple of Malady
-      - 1 Temple of Malice
-      - 1 Temple of Mystery
-      - 1 Temple of Plenty
       - 1 Temple of Silence
       - 1 Temple of Triumph
+      - 1 Temple of Plenty
+      - 1 Temple of Deceit
+      - 1 Temple of Epiphany
+      - 1 Temple of Mystery
+      - 1 Temple of Malice
+      - 1 Temple of Malady
+      - 1 Temple of Abandon
   - 13 or less life:
       - 1 Abandoned Campground
-      - 1 Bleeding Woods
-      - 1 Etched Cornfield
-      - 1 Lakeside Shack
-      - 1 Murky Sewer
       - 1 Neglected Manor
-      - 1 Peculiar Lighthouse
       - 1 Raucous Carnival
+      - 1 Etched Cornfield
+      - 1 Murky Sewer
+      - 1 Peculiar Lighthouse
+      - 1 Lakeside Shack
       - 1 Razortrap Gorge
       - 1 Strangled Cemetery
+      - 1 Bleeding Woods
   - indestructible artifact:
-      - 1 Darkmoss Bridge
-      - 1 Drossforge Bridge
-      - 1 Goldmire Bridge
-      - 1 Mistvault Bridge
       - 1 Razortide Bridge
+      - 1 Goldmire Bridge
       - 1 Rustvale Bridge
-      - 1 Silverbluff Bridge
-      - 1 Slagwoods Bridge
-      - 1 Tanglepool Bridge
       - 1 Thornglint Bridge
+      - 1 Mistvault Bridge
+      - 1 Silverbluff Bridge
+      - 1 Tanglepool Bridge
+      - 1 Drossforge Bridge
+      - 1 Darkmoss Bridge
+      - 1 Slagwoods Bridge
   - creatures:
       - 1 Celestial Colonnade
-      - 1 Creeping Tar Pit
-      - 1 Hissing Quagmire
-      - 1 Lavaclaw Reaches
-      - 1 Lumbering Falls
-      - 1 Needle Spires
-      - 1 Raging Ravine
       - 1 Restless Anchorage
-      - 1 Restless Bivouac
-      - 1 Restless Cottage
       - 1 Restless Fortress
-      - 1 Restless Prairie
-      - 1 Restless Reef
-      - 1 Restless Ridgeline
-      - 1 Restless Spire
-      - 1 Restless Vents
-      - 1 Restless Vinestalk
       - 1 Shambling Vent
+      - 1 Needle Spires
+      - 1 Restless Bivouac
+      - 1 Restless Prairie
       - 1 Stirring Wildwood
+      - 1 Creeping Tar Pit
+      - 1 Restless Reef
+      - 1 Restless Spire
       - 1 Wandering Fumarole
+      - 1 Lumbering Falls
+      - 1 Restless Vinestalk
+      - 1 Lavaclaw Reaches
+      - 1 Restless Vents
+      - 1 Hissing Quagmire
+      - 1 Restless Cottage
+      - 1 Raging Ravine
+      - 1 Restless Ridgeline
 side: null
 maybe: null
