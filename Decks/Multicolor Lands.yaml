@@ -1,36 +1,6 @@
 name: Multicolor Lands
 description: ""
 main:
-  - 1 Cascade Bluffs
-  - 1 Clifftop Retreat
-  - 1 Darkwater Catacombs
-  - 1 Desolate Mire
-  - 1 Dragonskull Summit
-  - 1 Drowned Catacomb
-  - 1 Ferrous Lake
-  - 1 Fetid Heath
-  - 1 Fire-Lit Thicket
-  - 1 Flooded Grove
-  - 1 Glacial Fortress
-  - 1 Graven Cairns
-  - 1 Hinterland Harbor
-  - 1 Isolated Chapel
-  - 1 Mossfire Valley
-  - 1 Mystic Gate
-  - 1 Overflowing Basin
-  - 1 Rootbound Crag
-  - 1 Rugged Prairie
-  - 1 Shadowblood Ridge
-  - 1 Skycloud Expanse
-  - 1 Sulfur Falls
-  - 1 Sungrass Prairie
-  - 1 Sunken Ruins
-  - 1 Sunpetal Grove
-  - 1 Sunscorched Divide
-  - 1 Twilight Mire
-  - 1 Viridescent Bog
-  - 1 Wooded Bastion
-  - 1 Woodland Cemetery
   - Tri Cycle Lands:
       - 1 Indatha Triome
       - 1 Jetmir's Garden
@@ -87,6 +57,61 @@ main:
       - 1 Stomping Ground
       - 1 Temple Garden
       - 1 Watery Grave
+  - Pay {C}:
+      - 1 Darkwater Catacombs
+      - 1 Desolate Mire
+      - 1 Ferrous Lake
+      - 1 Mossfire Valley
+      - 1 Overflowing Basin
+      - 1 Shadowblood Ridge
+      - 1 Skycloud Expanse
+      - 1 Sungrass Prairie
+      - 1 Sunscorched Divide
+      - 1 Viridescent Bog
+  - Pay Mixed Mana:
+      - 1 Cascade Bluffs
+      - 1 Fetid Heath
+      - 1 Fire-Lit Thicket
+      - 1 Flooded Grove
+      - 1 Graven Cairns
+      - 1 Mystic Gate
+      - 1 Rugged Prairie
+      - 1 Sunken Ruins
+      - 1 Twilight Mire
+      - 1 Wooded Bastion
+  - 2 or more opponents:
+      - 1 Bountiful Promenade
+      - 1 Luxury Suite
+      - 1 Morphic Pool
+      - 1 Rejuvenating Springs
+      - 1 Sea of Clouds
+      - 1 Spectator Seating
+      - 1 Spire Garden
+      - 1 Training Center
+      - 1 Undergrowth Stadium
+      - 1 Vault of Champions
+  - 2 or more lands:
+      - 1 Deathcap Glade
+      - 1 Deserted Beach
+      - 1 Dreamroot Cascade
+      - 1 Haunted Ridge
+      - 1 Overgrown Farmland
+      - 1 Rockfall Vale
+      - 1 Shattered Sanctum
+      - 1 Shipwreck Marsh
+      - 1 Stormcarved Coast
+      - 1 Sundown Pass
+  - 2 or fewer lands:
+      - 1 Blackcleave Cliffs
+      - 1 Blooming Marsh
+      - 1 Botanical Sanctum
+      - 1 Concealed Courtyard
+      - 1 Copperline Gorge
+      - 1 Darkslick Shores
+      - 1 Inspiring Vantage
+      - 1 Razorverge Thicket
+      - 1 Seachrome Coast
+      - 1 Spirebluff Canal
   - gain 1 life:
       - 1 Bloodfell Caves
       - 1 Blossoming Sands
@@ -109,28 +134,6 @@ main:
       - 1 Lonely Arroyo
       - 1 Lush Oasis
       - 1 Soured Springs
-  - 2 or fewer lands:
-      - 1 Blackcleave Cliffs
-      - 1 Blooming Marsh
-      - 1 Botanical Sanctum
-      - 1 Concealed Courtyard
-      - 1 Copperline Gorge
-      - 1 Darkslick Shores
-      - 1 Inspiring Vantage
-      - 1 Razorverge Thicket
-      - 1 Seachrome Coast
-      - 1 Spirebluff Canal
-  - 2 or more lands:
-      - 1 Deathcap Glade
-      - 1 Deserted Beach
-      - 1 Dreamroot Cascade
-      - 1 Haunted Ridge
-      - 1 Overgrown Farmland
-      - 1 Rockfall Vale
-      - 1 Shattered Sanctum
-      - 1 Shipwreck Marsh
-      - 1 Stormcarved Coast
-      - 1 Sundown Pass
   - surveil 1:
       - 1 Commercial District
       - 1 Elegant Parlor
@@ -153,17 +156,6 @@ main:
       - 1 Temple of Plenty
       - 1 Temple of Silence
       - 1 Temple of Triumph
-  - 2 or more opponents:
-      - 1 Bountiful Promenade
-      - 1 Luxury Suite
-      - 1 Morphic Pool
-      - 1 Rejuvenating Springs
-      - 1 Sea of Clouds
-      - 1 Spectator Seating
-      - 1 Spire Garden
-      - 1 Training Center
-      - 1 Undergrowth Stadium
-      - 1 Vault of Champions
   - 13 or less life:
       - 1 Abandoned Campground
       - 1 Bleeding Woods
@@ -207,26 +199,5 @@ main:
       - 1 Shambling Vent
       - 1 Stirring Wildwood
       - 1 Wandering Fumarole
-  - no regularity:
-      - 1 Blazemire Verge
-      - 1 Bleachbone Verge
-      - 1 Canyon Slough
-      - 1 Fetid Pools
-      - 1 Floodfarm Verge
-      - 1 Gloomlake Verge
-      - 1 Hushwood Verge
-      - 1 Irrigated Farmland
-      - 1 Nimbus Maze
-      - 1 Riverpyre Verge
-      - 1 Scattered Groves
-      - 1 Sheltered Thicket
-      - 1 Sunbillow Verge
-      - 1 Tainted Field
-      - 1 Tainted Isle
-      - 1 Tainted Peak
-      - 1 Tainted Wood
-      - 1 Thornspire Verge
-      - 1 Wastewood Verge
-      - 1 Willowrush Verge
 side: null
 maybe: null
