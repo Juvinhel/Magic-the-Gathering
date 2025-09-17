@@ -178,6 +178,28 @@ main:
       - 1 Drossforge Bridge
       - 1 Darkmoss Bridge
       - 1 Slagwoods Bridge
+  - Skip Untap:
+      - 1 Cloudcrest Lake
+      - 1 Thalakos Lowlands
+      - 1 Tranquil Garden
+      - 1 Vec Townships
+      - 1 Waterveil Cavern
+      - 1 Rootwater Depths
+      - 1 Lantern-Lit Graveyard
+      - 1 Cinder Marsh
+      - 1 Pinecrest Ridge
+      - 1 Mogg Hollows
+  - Loose 1 Life:
+      - 1 Adarkar Wastes
+      - 1 Caves of Koilos
+      - 1 Battlefield Forge
+      - 1 Brushland
+      - 1 Underground River
+      - 1 Shivan Reef
+      - 1 Yavimaya Coast
+      - 1 Sulfurous Springs
+      - 1 Llanowar Wastes
+      - 1 Karplusan Forest
   - creatures:
       - 1 Celestial Colonnade
       - 1 Restless Anchorage
@@ -199,5 +221,16 @@ main:
       - 1 Restless Cottage
       - 1 Raging Ravine
       - 1 Restless Ridgeline
+  - True Duals:
+      - 1 Tundra
+      - 1 Scrubland
+      - 1 Plateau
+      - 1 Savannah
+      - 1 Underground Sea
+      - 1 Volcanic Island
+      - 1 Tropical Island
+      - 1 Badlands
+      - 1 Bayou
+      - 1 Taiga
 side: null
 maybe: null

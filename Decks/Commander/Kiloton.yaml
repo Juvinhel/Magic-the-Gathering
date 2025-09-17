@@ -6,7 +6,6 @@ main:
   - 1 Kilo, Apogee Mind
   - Creatures:
       - 1 Alibou, Ancient Witness
-      - 1 Coretapper
       - 1 Crystalline Crawler
       - 1 Dawnsire, Sunstar Dreadnought
       - 1 Deepglow Skate
@@ -21,6 +20,7 @@ main:
       - 1 Mindless Automaton
       - 1 Patrolling Peacemaker
       - 1 Phyrexian Metamorph
+      - 1 Spellskite
       - 1 Steel Overseer
       - 1 Surge Conductor
       - 1 Tekuthal, Inquiry Dominus
@@ -109,6 +109,8 @@ main:
       - 1 Training Center
       - 1 Great Furnace
 side:
+  - 1 Auton Soldier
+  - 1 Coretapper
   - 1 Elegant Parlor
   - 1 Meticulous Archive
   - 1 Thundering Falls
