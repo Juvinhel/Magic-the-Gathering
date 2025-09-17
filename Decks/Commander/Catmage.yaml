@@ -74,40 +74,40 @@ main:
       - 1 Vindicate
       - 1 Void Rend
   - Lands:
-      - 1 Adagia, Windswept Bastion
-      - 1 Adarkar Wastes
-      - 1 Arcane Sanctum
-      - 1 Brightclimb Pathway // Grimclimb Pathway
-      - 1 Caves of Koilos
-      - 1 Clearwater Pathway // Murkwater Pathway
       - 1 Command Tower
-      - 1 Darkwater Catacombs
-      - 1 Deserted Beach
-      - 1 Desolate Mire
-      - 1 Dromar's Cavern
       - 1 Exotic Orchard
-      - 1 Fell the Profane // Fell Mire
-      - 1 Fetid Heath
-      - 1 Forlorn Flats
-      - 1 Godless Shrine
+      - 1 Reliquary Tower
+      - 1 Adagia, Windswept Bastion
+      - 1 Plains
+      - 1 Adarkar Wastes
+      - 1 Deserted Beach
       - 1 Hallowed Fountain
       - 1 Hengegate Pathway // Mistgate Pathway
       - 1 Lonely Arroyo
-      - 1 Meticulous Archive
       - 1 Mystic Gate
+      - 1 Skycloud Expanse
+      - 1 Tundra
+      - 1 Arcane Sanctum
+      - 1 Dromar's Cavern
       - 1 Raffine's Tower
-      - 1 Reliquary Tower
+      - 1 Brightclimb Pathway // Grimclimb Pathway
+      - 1 Caves of Koilos
+      - 1 Desolate Mire
+      - 1 Fetid Heath
+      - 1 Forlorn Flats
+      - 1 Godless Shrine
       - 1 Scrubland
       - 1 Shattered Sanctum
+      - 1 Island
+      - 1 Clearwater Pathway // Murkwater Pathway
+      - 1 Darkwater Catacombs
       - 1 Shipwreck Marsh
-      - 1 Skycloud Expanse
       - 1 Soured Springs
       - 1 Sunken Ruins
-      - 1 Tundra
-      - 1 Undercity Sewers
       - 1 Underground River
       - 1 Underground Sea
       - 1 Watery Grave
+      - 1 Fell the Profane // Fell Mire
 side:
   - 1 Morphic Pool
   - 1 Sea of Clouds
