@@ -35,6 +35,17 @@ main:
       - 1 Maestros Theater
       - 1 Obscura Storefront
       - 1 Riveteers Overlook
+  - True Duals:
+      - 1 Tundra
+      - 1 Scrubland
+      - 1 Plateau
+      - 1 Savannah
+      - 1 Underground Sea
+      - 1 Volcanic Island
+      - 1 Tropical Island
+      - 1 Badlands
+      - 1 Bayou
+      - 1 Taiga
   - Flip Lands:
       - 1 Hengegate Pathway // Mistgate Pathway
       - 1 Brightclimb Pathway // Grimclimb Pathway
@@ -221,16 +232,5 @@ main:
       - 1 Restless Cottage
       - 1 Raging Ravine
       - 1 Restless Ridgeline
-  - True Duals:
-      - 1 Tundra
-      - 1 Scrubland
-      - 1 Plateau
-      - 1 Savannah
-      - 1 Underground Sea
-      - 1 Volcanic Island
-      - 1 Tropical Island
-      - 1 Badlands
-      - 1 Bayou
-      - 1 Taiga
 side: null
 maybe: null

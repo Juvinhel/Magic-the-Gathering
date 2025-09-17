@@ -80,7 +80,6 @@ main:
       - 1 Brightclimb Pathway // Grimclimb Pathway
       - 1 Caves of Koilos
       - 1 Clearwater Pathway // Murkwater Pathway
-      - 1 Cloudcrest Lake
       - 1 Command Tower
       - 1 Darkwater Catacombs
       - 1 Deserted Beach
@@ -98,18 +97,23 @@ main:
       - 1 Mystic Gate
       - 1 Raffine's Tower
       - 1 Reliquary Tower
-      - 1 Shadowy Backstreet
+      - 1 Scrubland
       - 1 Shattered Sanctum
       - 1 Shipwreck Marsh
       - 1 Skycloud Expanse
       - 1 Soured Springs
       - 1 Sunken Ruins
+      - 1 Tundra
       - 1 Undercity Sewers
       - 1 Underground River
-      - 1 Waterveil Cavern
+      - 1 Underground Sea
       - 1 Watery Grave
 side:
   - 1 Morphic Pool
   - 1 Sea of Clouds
   - 1 Vault of Champions
-maybe: null
+maybe:
+  - Lands:
+      - 1 Cloudcrest Lake
+      - 1 Shadowy Backstreet
+      - 1 Waterveil Cavern
