@@ -5,30 +5,30 @@ commanders:
 main:
   - 1 Kilo, Apogee Mind
   - Creatures:
-      - 1 Alibou, Ancient Witness
       - 1 Crystalline Crawler
       - 1 Dawnsire, Sunstar Dreadnought
+      - 1 Hangarback Walker
+      - 1 Mindless Automaton
+      - 1 Steel Overseer
+      - 1 Surge Conductor
+      - 1 Walking Ballista
+      - 1 Iron Spider, Stark Upgrade
+      - 1 Patrolling Peacemaker
+      - 1 Inspirit, Flagship Vessel
       - 1 Deepglow Skate
       - 1 Dreamtide Whale
       - 1 Emry, Lurker of the Loch
-      - 1 Enthusiastic Mechanaut
       - 1 Etherium Sculptor
-      - 1 Hangarback Walker
-      - 1 Inspirit, Flagship Vessel
-      - 1 Jhoira, Weatherlight Captain
       - 1 Kappa Cannoneer
-      - 1 Mindless Automaton
-      - 1 Patrolling Peacemaker
       - 1 Phyrexian Metamorph
       - 1 Spellskite
-      - 1 Steel Overseer
-      - 1 Surge Conductor
       - 1 Tekuthal, Inquiry Dominus
       - 1 Thought Monitor
       - 1 Thrummingbird
       - 1 Urza, Lord High Artificer
       - 1 Uthros Research Craft
-      - 1 Walking Ballista
+      - 1 Enthusiastic Mechanaut
+      - 1 Jhoira, Weatherlight Captain
   - Planeswalker:
       - 1 Teferi, Who Slows the Sunset
       - 1 Tezzeret the Seeker
@@ -80,52 +80,64 @@ main:
       - 1 Karn's Bastion
       - 1 Spire of Industry
       - 1 The Mycosynth Gardens
+      - 1 Tyrite Sanctum
+      - 1 Mishra's Workshop
+      - 1 Mariposa Military Base
+      - 1 Diamond City
+      - 1 Nesting Grounds
       - 1 Adagia, Windswept Bastion
-      - 1 Ancient Den
-      - 2 Plains
+      - 1 Plains
+      - 1 Vivid Meadow
       - 1 Hallowed Fountain
       - 1 Hengegate Pathway // Mistgate Pathway
       - 1 Mystic Gate
       - 1 Razortide Bridge
-      - 1 Sea of Clouds
       - 1 Mystic Monastery
       - 1 Raugrin Triome
       - 1 Needleverge Pathway // Pillarverge Pathway
       - 1 Rugged Prairie
-      - 1 Rustvale Bridge
       - 1 Sacred Foundry
-      - 1 Spectator Seating
-      - 2 Island
+      - 1 Rustvale Bridge
+      - 1 Island
       - 1 Minamo, School at Water's Edge
       - 1 Seat of the Synod
       - 1 Uthros, Titanic Godcore
       - 1 Cascade Bluffs
       - 1 Riverglide Pathway // Lavaglide Pathway
       - 1 Steam Vents
-      - 1 Training Center
+      - 1 Silverbluff Bridge
       - 1 Great Furnace
-      - 2 Mountain
+      - 1 Mountain
 side:
   - 1 Auton Soldier
   - 1 Coretapper
+  - 1 Training Center
+  - 1 Spectator Seating
+  - 1 Sea of Clouds
 maybe:
   - Creatures:
+      - 1 Virulent Silencer
+      - 1 Abzan Battle Priest
+      - 1 SP//dr, Piloted by Peni
+      - 1 Arcbound Shikari
+      - 1 Arcee, Sharpshooter // Arcee, Acrobatic Coupe
+      - 1 Alibou, Ancient Witness
       - 1 Cyberdrive Awakener
       - 1 Synth Infiltrator
-      - 1 Virulent Silencer
   - Artifacts & Enchantments:
       - 1 Arcane Signet
       - 1 Darksteel Reactor
-      - 1 Lumen-Class Frigate
       - 1 Pinnacle Kill-Ship
-      - 1 Rescue Skiff
       - 1 Solar Array
+      - 1 Peter Parker's Camera
+      - 1 Lumen-Class Frigate
+      - 1 Rescue Skiff
+      - 1 The Seriema
+      - 1 Wedgelight Rammer
       - 1 Specimen Freighter
       - 1 Synthesizer Labship
-      - 1 The Seriema
       - 1 Uthros Scanship
       - 1 Warmaker Gunship
-      - 1 Wedgelight Rammer
   - Planeswalker:
       - 1 Chandra, Awakened Inferno
       - 1 Elspeth Resplendent
@@ -159,6 +171,10 @@ maybe:
           - 1 Whir of Invention
           - 1 Wicked Slumber
   - Lands:
+      - 1 Crawling Barrens
+      - 1 Mirrex
+      - 1 Command Bridge
+      - 1 Ancient Den
       - 1 Deserted Beach
       - 1 Meticulous Archive
       - 1 Skycloud Expanse
