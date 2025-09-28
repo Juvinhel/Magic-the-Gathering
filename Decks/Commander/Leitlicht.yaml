@@ -48,8 +48,8 @@ main:
       - 1 Agility Bobblehead
       - 1 Artificer Class
       - 1 Buster Sword
-      - 1 Dowsing Dagger // Lost Vale
       - 1 Endurance Bobblehead
+      - 1 Intelligence Bobblehead
       - 1 Laser Screwdriver
       - 1 Lightning Greaves
       - 1 Manifold Key
@@ -77,7 +77,6 @@ main:
       - 1 Voyage Home
   - Lands:
       - 1 Amonkhet Raceway
-      - 1 Ancient Tomb
       - 1 Avishkar Raceway
       - 1 Bonders' Enclave
       - 1 Buried Ruin
@@ -101,6 +100,7 @@ main:
       - 1 Hengegate Pathway // Mistgate Pathway
       - 1 Razortide Bridge
       - 1 Lonely Arroyo
+      - 1 Hallowed Fountain
       - 1 Academy Ruins
       - 1 Glasspool Mimic // Glasspool Shore
       - 1 Island
@@ -151,6 +151,7 @@ maybe:
       - 1 Thousand Moons Smithy // Barracks of the Thousand
       - 1 Unwinding Clock
       - 1 Whispersilk Cloak
+      - 1 Dowsing Dagger // Lost Vale
   - Lands:
       - 1 Arcane Lighthouse
       - 1 Arch of Orazca
@@ -188,3 +189,4 @@ maybe:
       - 1 Sunken Palace
       - 1 The Everflowing Well // The Myriad Pools
       - 1 Tolaria West
+      - 1 Ancient Tomb
