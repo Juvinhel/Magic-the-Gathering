@@ -107,9 +107,8 @@ main:
       - 1 Underground River
       - 1 Underground Sea
       - 1 Watery Grave
-      - 1 Fell the Profane // Fell Mire
+      - 1 Morphic Pool
 side:
-  - 1 Morphic Pool
   - 1 Sea of Clouds
   - 1 Vault of Champions
 maybe:
