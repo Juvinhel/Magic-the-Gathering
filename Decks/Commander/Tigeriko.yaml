@@ -50,7 +50,7 @@ main:
       - 1 Sensei's Divining Top
       - 1 Smoke Shroud
       - 1 Sol Ring
-      - 1 Talisman of Dominance
+      - 1 Sonic Screwdriver
       - 1 Whispersilk Cloak
   - Spells:
       - 1 An Offer You Can't Refuse
@@ -99,8 +99,16 @@ maybe:
       - 1 Gudul Lurker
       - 1 Mist-Cloaked Herald
       - 1 Tormented Soul
-  - Artifacts & Enchantments: null
+  - Artifacts & Enchantments:
+      - 1 Thieves' Tools
   - Battles & Planeswalker: null
   - Spells:
+      - 1 Curtains' Call
+      - 1 Discovery // Dispersal
+      - 1 Familiar's Ruse
+      - 1 Force of Despair
+      - 1 Louisoix's Sacrifice
+      - 1 Murderous Cut
+      - 1 Nanogene Conversion
       - 1 Sea Gate Restoration // Sea Gate, Reborn
   - Lands: null
