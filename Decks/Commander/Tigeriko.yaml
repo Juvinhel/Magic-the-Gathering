@@ -2,10 +2,13 @@ name: Tigeriko
 description: Ninja. {U}{B}
 commanders:
   - Yuriko, the Tiger's Shadow
+tags:
+  - ""
 main:
   - 1 Yuriko, the Tiger's Shadow
   - Creatures:
       - 1 Baleful Strix
+      - 1 Battlefly Swarm
       - 1 Changeling Outcast
       - 1 Faerie Dreamthief
       - 1 Faerie Seer
@@ -30,7 +33,6 @@ main:
       - 1 Siren Stormtamer
       - 1 Skullsnatcher
       - 1 Slither Blade
-      - 1 Spectral Sailor
       - 1 Tetsuko Umezawa, Fugitive
       - 1 Thousand-Faced Shadow
       - 1 Throat Slitter
@@ -42,7 +44,6 @@ main:
       - 1 Aqueous Form
       - 1 Arcane Signet
       - 1 Dimir Signet
-      - 1 Mystic Remora
       - 1 Ninja's Blades
       - 1 Rhystic Study
       - 1 Rogue Class
@@ -51,26 +52,27 @@ main:
       - 1 Smoke Shroud
       - 1 Sol Ring
       - 1 Sonic Screwdriver
+      - 1 The Soul Stone
       - 1 Whispersilk Cloak
   - Spells:
-      - 1 An Offer You Can't Refuse
       - 1 Brainstorm
       - 1 Commandeer
       - 1 Commit // Memory
       - 1 Consign // Oblivion
       - 1 Counterspell
-      - 1 Dark Ritual
       - 1 Deadly Rollick
       - 1 Demonic Tutor
       - 1 Dig Through Time
       - 1 Fell the Profane // Fell Mire
       - 1 Fierce Guardianship
       - 1 Force of Will
+      - 1 Impostor Syndrome
       - 1 Misdirection
       - 1 Mystical Tutor
       - 1 Negate
       - 1 Ponder
       - 1 Sink into Stupor // Soporific Springs
+      - 1 Spider-Sense
       - 1 Temporal Mastery
       - 1 Temporal Trespass
       - 1 Treasure Cruise
@@ -79,10 +81,14 @@ main:
       - 1 Access Tunnel
       - 1 Command Tower
       - 1 Exotic Orchard
+      - 1 Mutavault
       - 1 Polluted Delta
       - 1 Reliquary Tower
       - 1 Rogue's Passage
-      - 9 Island
+      - 1 Castle Vantress
+      - 6 Island
+      - 1 Otawara, Soaring City
+      - 1 Rivendell
       - 1 Choked Estuary
       - 1 Clearwater Pathway // Murkwater Pathway
       - 1 Drowned Catacomb
@@ -92,22 +98,40 @@ main:
       - 1 Underground River
       - 1 Watery Grave
       - 1 Shizo, Death's Storehouse
-      - 8 Swamp
+      - 6 Swamp
+      - 1 Takenuma, Abandoned Mire
 side: null
 maybe:
   - Creatures:
+      - 1 Assassin Initiate
+      - 1 Banehound
+      - 1 Blight Keeper
+      - 1 Drifter il-Dal
       - 1 Gudul Lurker
+      - 1 Harrier Strix
+      - 1 Hypnotic Siren
+      - 1 Illvoi Galeblade
+      - 1 K-9, Mark I
+      - 1 Lantern Bearer // Lanterns' Lift
       - 1 Mist-Cloaked Herald
+      - 1 Mockingbird
+      - 1 Prickly Boggart
+      - 1 Silver Raven
+      - 1 Siren Stormtamer
+      - 1 Spectral Sailor
       - 1 Tormented Soul
+      - 1 Vampire Cutthroat
   - Artifacts & Enchantments:
-      - 1 Psychic Paper
-      - 1 Brotherhood Regalia
       - 1 Bilbo's Ring
+      - 1 Brotherhood Regalia
       - 1 Cryptic Coat
+      - 1 Psychic Paper
       - 1 Thieves' Tools
   - Battles & Planeswalker: null
   - Spells:
+      - 1 An Offer You Can't Refuse
       - 1 Curtains' Call
+      - 1 Dark Ritual
       - 1 Discovery // Dispersal
       - 1 Familiar's Ruse
       - 1 Force of Despair
