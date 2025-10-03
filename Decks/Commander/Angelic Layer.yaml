@@ -2,8 +2,6 @@ name: Angelic Layer
 description: Angel Deck
 commanders:
   - Giada, Font of Hope
-tags:
-  - ""
 main:
   - 1 Giada, Font of Hope
   - Creatures:
@@ -79,23 +77,24 @@ main:
       - 1 Bonders' Enclave
       - 1 Cavern of Souls
       - 1 Drannith Ruins
-      - 1 Eiganjo Castle
-      - 1 Idyllic Grange
-      - 1 Kabira Takedown // Kabira Plateau
       - 1 Karn's Bastion
-      - 1 Kor Haven
       - 1 Mikokoro, Center of the Sea
-      - 1 Minas Tirith
       - 1 Nykthos, Shrine to Nyx
       - 1 Path of Ancestry
-      - 15 Plains
-      - 1 Sejiri Shelter // Sejiri Glacier
       - 1 Seraph Sanctuary
       - 1 Three Tree City
       - 1 Vesuva
       - 1 War Room
-      - 1 Witch Enchanter // Witch-Blessed Meadow
       - 1 Witch's Clinic
+      - 1 Nesting Grounds
+      - 1 Eiganjo Castle
+      - 1 Idyllic Grange
+      - 1 Kabira Takedown // Kabira Plateau
+      - 1 Kor Haven
+      - 1 Minas Tirith
+      - 14 Plains
+      - 1 Sejiri Shelter // Sejiri Glacier
+      - 1 Witch Enchanter // Witch-Blessed Meadow
 side:
   - 1 Angel of Serenity
   - 1 Angelic Field Marshal

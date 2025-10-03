@@ -2,8 +2,6 @@ name: Tigeriko
 description: Ninja. {U}{B}
 commanders:
   - Yuriko, the Tiger's Shadow
-tags:
-  - ""
 main:
   - 1 Yuriko, the Tiger's Shadow
   - Creatures:
@@ -86,9 +84,10 @@ main:
       - 1 Reliquary Tower
       - 1 Rogue's Passage
       - 1 Castle Vantress
-      - 6 Island
+      - 5 Island
       - 1 Otawara, Soaring City
       - 1 Rivendell
+      - 1 Soaring Seacliff
       - 1 Choked Estuary
       - 1 Clearwater Pathway // Murkwater Pathway
       - 1 Drowned Catacomb
@@ -98,8 +97,10 @@ main:
       - 1 Underground River
       - 1 Watery Grave
       - 1 Shizo, Death's Storehouse
-      - 6 Swamp
+      - 4 Swamp
       - 1 Takenuma, Abandoned Mire
+      - 1 The Black Gate
+      - 1 Minas Morgul, Dark Fortress
 side: null
 maybe:
   - Creatures:
@@ -139,4 +140,7 @@ maybe:
       - 1 Murderous Cut
       - 1 Nanogene Conversion
       - 1 Sea Gate Restoration // Sea Gate, Reborn
-  - Lands: null
+  - Lands:
+      - 1 Glasspool Mimic // Glasspool Shore
+      - 1 Vesuva
+      - 1 Thespian's Stage
