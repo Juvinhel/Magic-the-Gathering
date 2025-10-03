@@ -2,6 +2,8 @@ name: Kiloton
 description: "{T}: Win. {W}{U}{R}"
 commanders:
   - Kilo, Apogee Mind
+tags:
+  - ""
 main:
   - 1 Kilo, Apogee Mind
   - Creatures:
@@ -80,11 +82,11 @@ main:
       - 1 Karn's Bastion
       - 1 Spire of Industry
       - 1 The Mycosynth Gardens
-      - 1 Tyrite Sanctum
       - 1 Mishra's Workshop
       - 1 Mariposa Military Base
       - 1 Diamond City
       - 1 Nesting Grounds
+      - 1 Drannith Ruins
       - 1 Adagia, Windswept Bastion
       - 1 Plains
       - 1 Vivid Meadow
@@ -190,3 +192,4 @@ maybe:
       - 1 Stormcarved Coast
       - 1 Thundering Falls
       - 1 Volcanic Island
+      - 1 Tyrite Sanctum
