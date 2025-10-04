@@ -445,7 +445,6 @@
 1 Krosan Grip
 1 Kuldotha Forgemaster
 1 Kutzil, Malamet Exemplar
-1 Lady Octopus, Inspired Inventor
 1 Lakeside Shack
 1 Land Tax
 1 Lantern-Lit Graveyard
@@ -581,7 +580,6 @@
 1 Pemmin's Aura
 1 Pendelhaven
 1 Perplexing Test
-1 Peter Parker's Camera
 1 Phantom Flock
 1 Phyrexian Arena
 1 Phyrexian Tower
@@ -757,14 +755,12 @@
 1 Solarion
 1 Soured Springs
 1 Sovereign Okinec Ahau
-1 SP//dr, Piloted by Peni
 1 Spara's Headquarters
 1 Spark Double
 1 Spectator Seating
 1 Spectral Adversary
 1 Spellskite
 1 Sphere of Safety
-1 Spider-Sense
 1 Spirebluff Canal
 1 Split Up
 1 Springbloom Druid
