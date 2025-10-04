@@ -85,7 +85,6 @@
 1 Biowaste Blob
 1 Birds of Paradise
 1 Bishop of Wings
-1 Black Cat, Cunning Thief
 1 Black Market
 1 Black Market Connections
 1 Blackblade Reforged
@@ -165,7 +164,6 @@
 1 Copperline Gorge
 1 Copy Land
 1 Cosmos Elixir
-1 Costume Closet
 2 Counterspell
 1 Court of Vantress
 1 Cragcrown Pathway // Timbercrown Pathway
@@ -185,7 +183,6 @@
 1 Curtains' Call
 2 Cyclonic Rift
 1 Cytoplast Manipulator
-1 Daily Bugle Building
 1 Damn
 1 Damning Verdict
 1 Danitha, New Benalia's Light
