@@ -43,7 +43,6 @@
 1 Animate Dead
 1 Anointed Procession
 1 Aqueous Form
-1 Araña, Heart of the Spider
 1 Arasta of the Endless Web
 1 Arcane Lighthouse
 1 Arcbound Shikari
