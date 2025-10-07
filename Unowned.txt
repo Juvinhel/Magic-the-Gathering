@@ -507,7 +507,6 @@
 1 Misty Rainforest
 1 Mm'menon, the Right Hand
 1 Mockingbird
-1 Mogg Hollows
 1 Monoskelion
 1 Monumental Henge
 1 Moon-Circuit Hacker
@@ -526,7 +525,7 @@
 1 Myrel, Shield of Argive
 1 Mystic Forge
 1 Mystic Gate
-2 Mystical Tutor
+1 Mystical Tutor
 1 Nanogene Conversion
 1 Narset Transcendent
 1 Narset, Parter of Veils
