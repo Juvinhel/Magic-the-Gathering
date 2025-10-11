@@ -43,6 +43,7 @@ main:
   - Artifacts & Enchantments:
       - 1 Aqueous Form
       - 1 Arcane Signet
+      - 1 Brotherhood Regalia
       - 1 Dimir Signet
       - 1 Ninja's Blades
       - 1 Rhystic Study
@@ -61,7 +62,6 @@ main:
       - 1 Consign // Oblivion
       - 1 Counterspell
       - 1 Deadly Rollick
-      - 1 Demonic Tutor
       - 1 Dig Through Time
       - 1 Fell the Profane // Fell Mire
       - 1 Fierce Guardianship
@@ -98,11 +98,11 @@ main:
       - 1 Temple of Deceit
       - 1 Underground River
       - 1 Watery Grave
+      - 1 Minas Morgul, Dark Fortress
       - 1 Shizo, Death's Storehouse
       - 4 Swamp
       - 1 Takenuma, Abandoned Mire
       - 1 The Black Gate
-      - 1 Minas Morgul, Dark Fortress
 side: null
 maybe:
   - Creatures:
@@ -125,16 +125,21 @@ maybe:
       - 1 Spectral Sailor
       - 1 Vampire Cutthroat
   - Artifacts & Enchantments:
+      - 1 Aether Tunnel
+      - 1 Arcane Adaptation
       - 1 Bilbo's Ring
-      - 1 Brotherhood Regalia
       - 1 Cryptic Coat
+      - 1 Gossip's Talent
+      - 1 Maskwood Nexus
       - 1 Psychic Paper
+      - 1 Security Bypass
       - 1 Thieves' Tools
   - Battles & Planeswalker: null
   - Spells:
       - 1 An Offer You Can't Refuse
       - 1 Curtains' Call
       - 1 Dark Ritual
+      - 1 Demonic Tutor
       - 1 Discovery // Dispersal
       - 1 Familiar's Ruse
       - 1 Force of Despair
@@ -143,6 +148,6 @@ maybe:
       - 1 Nanogene Conversion
       - 1 Sea Gate Restoration // Sea Gate, Reborn
   - Lands:
-      - 1 Glasspool Mimic // Glasspool Shore
-      - 1 Vesuva
       - 1 Thespian's Stage
+      - 1 Vesuva
+      - 1 Glasspool Mimic // Glasspool Shore
