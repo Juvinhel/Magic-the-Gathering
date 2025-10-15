@@ -12,6 +12,7 @@
 1 Adventuring Gear
 1 Aegis of the Legion
 2 Aether Syphon
+1 Aether Tunnel
 1 Aetheric Amplifier
 1 Aettir and Priwen
 1 Agatha's Soul Cauldron
@@ -42,8 +43,8 @@
 1 Animal Sanctuary
 1 Animate Dead
 1 Anointed Procession
-1 Aqueous Form
 1 Arasta of the Endless Web
+1 Arcane Adaptation
 1 Arcane Lighthouse
 1 Arcbound Shikari
 1 Arcee, Sharpshooter // Arcee, Acrobatic Coupe
@@ -94,6 +95,7 @@
 1 Blightstep Pathway // Searstep Pathway
 1 Blind Obedience
 1 Blinding Angel
+1 Blitzball Stadium
 1 Blood Crypt
 1 Bloodchief Ascension
 1 Blooming Marsh
@@ -137,11 +139,9 @@
 1 Cephalopod Sentry
 1 Champion of Lambholt
 1 Chandra, Awakened Inferno
-1 Changeling Outcast
 1 Chromatic Lantern
 1 Chrome Mox
 1 Cinder Marsh
-1 Clearwater Pathway // Murkwater Pathway
 1 Clive's Hideaway
 1 Clock of Omens
 1 Cloudcrest Lake
@@ -391,7 +391,6 @@
 1 Incubation Druid
 1 Indatha Triome
 1 Infinite Reflection
-1 Ingenious Infiltrator
 1 Ingenious Prodigy
 1 Ink-Eyes, Servant of Oni
 1 Inkshield
@@ -421,7 +420,6 @@
 1 Junk Winder
 1 K-9, Mark I
 1 Kaheera, the Orphanguard
-1 Kaito, Bane of Nightmares
 1 Kalonian Hydra
 1 Kambal, Consul of Allocation
 1 Karmic Guide
@@ -471,9 +469,7 @@
 1 Lush Portico
 1 Lutri, the Spellchaser
 1 Luxior, Giada's Gift
-1 Lyra Dawnbringer
 1 Maestros Theater
-1 Magnifying Glass
 1 Mana Vault
 1 Managorger Hydra
 1 Many Partings
@@ -502,7 +498,6 @@
 1 Misdirection
 1 Mishra's Workshop
 1 Mist-Cloaked Herald
-1 Mist-Syndicate Naga
 1 Mistrise Village
 1 Misty Rainforest
 1 Mm'menon, the Right Hand
@@ -513,7 +508,6 @@
 1 Morphic Pool
 1 Mossborn Hydra
 1 Mosswort Bridge
-1 Mothdust Changeling
 1 Motivated Pony
 1 Mount Doom
 1 Mox Amber
@@ -672,7 +666,6 @@
 1 Saheeli, Filigree Master
 1 Saheeli's Directive
 1 Sakashima of a Thousand Faces
-1 Sakashima's Student
 1 Sakura-Tribe Elder
 1 Sam, Loyal Attendant
 1 Samwise Gamgee
@@ -701,6 +694,7 @@
 1 Search for Azcanta // Azcanta, the Sunken Ruin
 1 Seaside Citadel
 1 Second Harvest
+1 Security Bypass
 1 Seedborn Muse
 1 Seeker of Skybreak
 1 Selfless Savior
@@ -728,7 +722,6 @@
 1 Sigarda, Host of Herons
 1 Sigil of the Empty Throne
 1 Silent Hallcreeper
-1 Silent-Blade Oni
 1 Silvar, Devourer of the Free
 1 Silver Raven
 1 Simic Manipulator
@@ -738,7 +731,6 @@
 1 Sister Hospitaller
 1 Skatewing Spy
 1 Skrelv, Defector Mite
-1 Skullsnatcher
 1 Skyclave Pick-Axe
 1 Skyknight Squire
 1 Skyshroud Claim
@@ -804,8 +796,6 @@
 1 Temple Garden
 1 Temple of Malady
 1 Temple of Mystery
-1 Temporal Mastery
-1 Temporal Trespass
 1 Tendershoot Dryad
 1 Tendo Ice Bridge
 1 Tergrid, God of Fright // Tergrid's Lantern
@@ -845,7 +835,6 @@
 1 Thousand-Faced Shadow
 1 Thousand-Year Elixir
 1 Three Visits
-1 Throat Slitter
 1 Throne of Eldraine
 1 Thunder Totem
 1 Thundering Falls
@@ -857,7 +846,6 @@
 1 Tolaria West
 1 Tomb of the Spirit Dragon
 1 Tomb of Urami
-1 Tormented Soul
 1 Towashi Guide-Bot
 1 Toxic Deluge
 1 Training Center
@@ -948,7 +936,6 @@
 1 Windbrisk Heights
 1 Winds of Abandon
 1 Windswept Heath
-1 Wingcrafter
 1 Winota, Joiner of Forces
 1 Wirewood Lodge
 1 Witch Enchanter // Witch-Blessed Meadow
