@@ -13,7 +13,6 @@ main:
       - 1 Dreamtide Whale
       - 1 Emry, Lurker of the Loch
       - 1 Enthusiastic Mechanaut
-      - 1 Etherium Sculptor
       - 1 Inspirit, Flagship Vessel
       - 1 Iron Spider, Stark Upgrade
       - 1 Jhoira, Weatherlight Captain
@@ -42,6 +41,7 @@ main:
       - 1 Aura of Dominion
       - 1 Blitzball Stadium
       - 1 Clock of Omens
+      - 1 Costume Closet
       - 1 Cultivator's Caravan
       - 1 Empowered Autogenerator
       - 1 Everflowing Chalice
@@ -113,6 +113,7 @@ main:
 side:
   - 1 Auton Soldier
   - 1 Coretapper
+  - 1 Etherium Sculptor
   - 1 Pentad Prism
   - 1 Prologue to Phyresis
   - 1 Sea of Clouds
@@ -148,6 +149,7 @@ maybe:
       - 1 Arcane Signet
       - 1 Cloud Key
       - 1 Darksteel Reactor
+      - 1 Gavel of the Righteous
       - 1 Lumen-Class Frigate
       - 1 Manifold Key
       - 1 Peter Parker's Camera
@@ -155,6 +157,7 @@ maybe:
       - 1 Rescue Skiff
       - 1 Specimen Freighter
       - 1 Synthesizer Labship
+      - 1 The Ozolith
       - 1 Uthros Scanship
       - 1 Warmaker Gunship
       - 1 Wedgelight Rammer
