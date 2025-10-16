@@ -42,6 +42,7 @@ main:
       - 1 Aura of Dominion
       - 1 Blitzball Stadium
       - 1 Clock of Omens
+      - 1 Cultivator's Caravan
       - 1 Empowered Autogenerator
       - 1 Everflowing Chalice
       - 1 Freed from the Real
@@ -53,23 +54,22 @@ main:
       - 1 Moxite Refinery
       - 1 Paradise Mantle
       - 1 Pemmin's Aura
-      - 1 Pentad Prism
+      - 1 Reckoner Bankbuster
       - 1 Relic of Legends
       - 1 Resourceful Defense
       - 1 Sol Ring
+      - 1 Solar Array
       - 1 Sonic Screwdriver
-      - 1 Strixhaven Stadium
       - 1 Unwinding Clock
   - Spells:
-      - 1 Chaos Warp
       - 1 Counterspell
+      - 1 Deflecting Swat
       - 1 Dispatch
       - 1 Enlightened Tutor
       - 1 Experimental Augury
       - 1 Fierce Guardianship
       - 1 Organic Extinction
       - 1 Path to Exile
-      - 1 Prologue to Phyresis
       - 1 Ripples of Potential
       - 1 Swords to Plowshares
       - 1 Tezzeret's Gambit
@@ -113,8 +113,12 @@ main:
 side:
   - 1 Auton Soldier
   - 1 Coretapper
+  - 1 Pentad Prism
+  - 1 Prologue to Phyresis
   - 1 Sea of Clouds
   - 1 Spectator Seating
+  - 1 Strixhaven Stadium
+  - 1 The Seriema
   - 1 Training Center
 maybe:
   - Creatures:
@@ -124,9 +128,22 @@ maybe:
       - 1 Arcee, Sharpshooter // Arcee, Acrobatic Coupe
       - 1 Cyberdrive Awakener
       - 1 Hangarback Walker
-      - 1 SP//dr, Piloted by Peni
       - 1 Synth Infiltrator
       - 1 Virulent Silencer
+      - Vehicles:
+          - 1 Bespoke Battlewagon
+          - 1 Boosted Sloop
+          - 1 Conqueror's Galleon // Conqueror's Foothold
+          - 1 Cybership
+          - 1 Flywheel Racer
+          - 1 Goliath Truck
+          - 1 Guidelight Pathmaker
+          - 1 Midnight Crusader Shuttle
+          - 1 Mighty Servant of Leuk-o
+          - 1 Mindlink Mech
+          - 1 Mysterious Limousine
+          - 1 Possession Engine
+          - 1 Rangers' Refueler
   - Artifacts & Enchantments:
       - 1 Arcane Signet
       - 1 Cloud Key
@@ -136,10 +153,8 @@ maybe:
       - 1 Peter Parker's Camera
       - 1 Pinnacle Kill-Ship
       - 1 Rescue Skiff
-      - 1 Solar Array
       - 1 Specimen Freighter
       - 1 Synthesizer Labship
-      - 1 The Seriema
       - 1 Uthros Scanship
       - 1 Warmaker Gunship
       - 1 Wedgelight Rammer
@@ -161,6 +176,7 @@ maybe:
       - 1 The Wanderer
   - Spells:
       - 1 Angelfire Ignition
+      - 1 Chaos Warp
       - 1 Swan Song
       - Convoke & Improvise:
           - 1 Artistic Refusal
