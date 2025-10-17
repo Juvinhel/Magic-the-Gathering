@@ -1,6 +1,7 @@
 Name,Set code,Language,Quantity
 Abeyance,WTH,de,1
 Abraded Bluffs,OTJ,de,1
+Access Tunnel,TDC,en,1
 Akoum Refuge,C19,en,1
 Angel of Destiny,ZNR,en,1
 Angel of Invention,TDC,en,1
@@ -27,7 +28,9 @@ Boon-Bringer Valkyrie,MOM,en,1
 "Braids, Arisen Nightmare",DSC,de,1
 Brave the Elements,C14,de,1
 Breathkeeper Seraph,VOC,en,1
+Brotherhood Regalia,ACR,en,1
 Buster Sword,FIN,de,1
+Castle Vantress,DSC,en,1
 "Chainer, Nightmare Adept",MH2,de,1
 Changeling Outcast,OTC,en,1
 Charisma Bobblehead,PIP,en,1
@@ -37,7 +40,10 @@ Clever Concealment,FIC,de,1
 Clifftop Retreat,ISD,en,1
 Cloud Key,TSR,de,1
 Cloudsteel Kirin,NEO,de,4
+Commit // Memory,LCC,en,1
 Conqueror's Flail,FIC,de,1
+Consign // Oblivion,HOU,en,1
+Counterspell,DSC,en,1
 Court of Grace,ONC,en,1
 Crop Rotation,DMR,en,1
 Cryptothrall,40K,en,1
@@ -57,6 +63,10 @@ Entreat the Angels,DSC,en,1
 Everybody Lives!,WHO,de,1
 Everything Comes to Dust,WHO,de,1
 Exemplar of Light,FDN,en,1
+Faerie Dreamthief,WOE,en,1
+Faerie Seer,J25,de,1
+Fallen Shinobi,NCC,en,1
+Fell the Profane // Fell Mire,MH3,en,1
 Fetid Heath,OTC,de,1
 Finale of Glory,CLU,en,1
 Firemane Commando,MOC,de,1
@@ -72,7 +82,10 @@ Herald of War,MIC,en,1
 Herald's Horn,M3C,en,1
 Heroes Remembered,PLC,de,1
 Idyllic Grange,ELD,de,1
+Impostor Syndrome,SPM,en,1
 Ingenious Infiltrator,MH1,en,1
+Ingenious Prodigy,WOE,en,1
+"Ink-Eyes, Servant of Oni",PCA,en,1
 Invasion of Dominaria // Serra Faithkeeper,MOM,de,1
 Isolated Chapel,DRC,de,1
 Jwar Isle Refuge,ZNC,de,1
@@ -93,13 +106,18 @@ Martial Coup,BLC,en,1
 Metropolis Reformer,MAT,en,1
 Minas Tirith,LTR,en,1
 Mist-Syndicate Naga,MH1,en,1
+Moon-Circuit Hacker,NEO,en,1
 Mothdust Changeling,MMA,en,1
+Mutavault,EOS,en,1
 "Nahiri, the Lithomancer",CMM,en,1
+"Nashi, Moon Sage's Scion",OTC,en,1
 Natural Order,MB2,en,1
 Neurok Stealthsuit,5DN,de,1
+Ninja's Blades,FIN,en,1
 Oketra's Monument,DMC,en,1
 Patron of the Valiant,CMR,en,1
 Pearl Medallion,MH3,en,1
+Ponder,WHO,en,1
 Prava of the Steel Legion,ONC,en,1
 Pristine Talisman,C21,en,1
 Ravnica at War,WAR,de,1
@@ -109,8 +127,11 @@ Resplendent Angel,LCI,en,1
 Resplendent Marshal,KHM,de,1
 Righteous Valkyrie,KHM,en,1
 "Rin and Seri, Inseparable",M21,de,1
+Rivendell,LTR,en,1
+Rogue Class,AFR,en,1
 Sakashima's Student,PCA,en,1
 Sanctify,VOW,de,1
+"Satoru, the Infiltrator",OTJ,en,1
 Sculpting Steel,MOC,de,1
 Segovian Angel,MH1,en,1
 Sejiri Refuge,KHC,en,1
@@ -123,19 +144,25 @@ Seraph Sanctuary,DDQ,de,1
 Serra Angel,FDN,en,1
 Serra the Benevolent,MH1,en,1
 Serra's Guardian,M20,en,1
+Shadow of Mortality,SNC,de,1
 Shadowy Backstreet,MKM,de,1
 Shattered Angel,MOC,en,1
 Sigarda's Splendor,MID,en,1
 Sigarda's Vanguard,MIC,en,1
 Silence,M14,en,1
 Silent-Blade Oni,OTC,de,1
+Siren Stormtamer,LCC,en,1
 Skullsnatcher,PCA,de,1
 Skycloud Expanse,NCC,de,1
+Slither Blade,OTC,en,1
+Smoke Shroud,MH1,en,1
+Soaring Seacliff,C20,en,1
 Sonic Screwdriver,WHO,en,1
 Speaker of the Heavens,M21,en,1
 Starnheim Unleashed,KHM,en,1
 Steel Seraph,BRO,de,1
 Strength Bobblehead,PIP,en,1
+Strixhaven Stadium,FCA,en,1
 Sundown Pass,INR,de,1
 "Syr Konrad, the Grim",DSC,de,1
 Tainted Field,CMM,de,1
@@ -144,9 +171,12 @@ Temporal Mastery,INR,en,1
 Temporal Trespass,ACR,en,1
 The Book of Exalted Deeds,AFR,en,1
 The Wind Crystal,FIN,de,1
+Thousand-Faced Shadow,NEO,en,1
 Three Tree City,BLB,de,1
 Throat Slitter,PCA,en,1
 Tormented Soul,PCA,en,1
+Treasure Cruise,TDC,de,1
+Triton Shorestalker,OTC,en,1
 Twinning Staff,NCC,de,1
 Valkyrie Harbinger,KHM,de,1
 Vanquisher's Banner,LCC,de,1
@@ -154,3 +184,4 @@ Veteran Armorsmith,DDO,de,1
 Wingcrafter,MM3,en,1
 Wojek Investigator,MKM,en,1
 Worldly Tutor,6ED,en,1
+"Yuriko, the Tiger's Shadow",CMM,en,1
