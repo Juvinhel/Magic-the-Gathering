@@ -13,6 +13,7 @@ main:
       - 1 Dreamtide Whale
       - 1 Emry, Lurker of the Loch
       - 1 Enthusiastic Mechanaut
+      - 1 Glasspool Mimic // Glasspool Shore
       - 1 Inspirit, Flagship Vessel
       - 1 Iron Spider, Stark Upgrade
       - 1 Jhoira, Weatherlight Captain
@@ -26,6 +27,7 @@ main:
       - 1 Steel Overseer
       - 1 Surge Conductor
       - 1 Tekuthal, Inquiry Dominus
+      - 1 The Seriema
       - 1 Thought Monitor
       - 1 Thrummingbird
       - 1 Urza, Lord High Artificer
@@ -46,7 +48,6 @@ main:
       - 1 Empowered Autogenerator
       - 1 Everflowing Chalice
       - 1 Freed from the Real
-      - 1 Golem Foundry
       - 1 Insight Engine
       - 1 Long-Range Sensor
       - 1 Lux Artillery
@@ -74,7 +75,6 @@ main:
       - 1 Swords to Plowshares
       - 1 Tezzeret's Gambit
       - 1 Universal Surveillance
-      - 1 Wake the Past
   - Lands:
       - 1 Buried Ruin
       - 1 Command Tower
@@ -83,10 +83,10 @@ main:
       - 1 Exotic Orchard
       - 1 Karn's Bastion
       - 1 Mariposa Military Base
-      - 1 Mishra's Workshop
       - 1 Nesting Grounds
       - 1 Spire of Industry
       - 1 The Mycosynth Gardens
+      - 1 Flooded Strand
       - 1 Adagia, Windswept Bastion
       - 1 Plains
       - 1 Vivid Meadow
@@ -119,7 +119,6 @@ side:
   - 1 Sea of Clouds
   - 1 Spectator Seating
   - 1 Strixhaven Stadium
-  - 1 The Seriema
   - 1 Training Center
 maybe:
   - Creatures:
@@ -161,6 +160,7 @@ maybe:
       - 1 Uthros Scanship
       - 1 Warmaker Gunship
       - 1 Wedgelight Rammer
+      - 1 Golem Foundry
   - Planeswalker:
       - 1 Chandra, Awakened Inferno
       - 1 Elspeth Resplendent
@@ -195,6 +195,7 @@ maybe:
           - 1 Shatter the Source
           - 1 Whir of Invention
           - 1 Wicked Slumber
+      - 1 Wake the Past
   - Lands:
       - 1 Command Bridge
       - 1 Crawling Barrens
@@ -214,3 +215,4 @@ maybe:
       - 1 Stormcarved Coast
       - 1 Thundering Falls
       - 1 Volcanic Island
+      - 1 Mishra's Workshop

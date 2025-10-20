@@ -1,5 +1,7 @@
 name: Multicolor Lands
 description: ""
+tags:
+  - ""
 main:
   - Tri Cycle Lands:
       - 1 Raffine's Tower
@@ -211,6 +213,17 @@ main:
       - 1 Sulfurous Springs
       - 1 Llanowar Wastes
       - 1 Karplusan Forest
+  - Fetch Lands:
+      - 1 Flooded Strand
+      - 1 Polluted Delta
+      - 1 Bloodstained Mire
+      - 1 Wooded Foothills
+      - 1 Windswept Heath
+      - 1 Marsh Flats
+      - 1 Verdant Catacombs
+      - 1 Misty Rainforest
+      - 1 Scalding Tarn
+      - 1 Arid Mesa
   - creatures:
       - 1 Celestial Colonnade
       - 1 Restless Anchorage
