@@ -2,6 +2,10 @@ name: Kilo Mett
 description: "{T}: Win. {W}{U}{R}"
 commanders:
   - Kilo, Apogee Mind
+tags:
+  - Counters
+  - Combo
+  - Proliferate
 main:
   - 1 Kilo, Apogee Mind
   - Creatures:

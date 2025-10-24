@@ -3,7 +3,9 @@ description: "{T}: Win. {W}{U}{R}"
 commanders:
   - Kilo, Apogee Mind
 tags:
-  - ""
+  - Artifacts
+  - Counters
+  - Proliferate
 main:
   - 1 Kilo, Apogee Mind
   - Creatures:
@@ -144,23 +146,6 @@ maybe:
           - 1 Mysterious Limousine
           - 1 Possession Engine
           - 1 Rangers' Refueler
-  - Artifacts & Enchantments:
-      - 1 Arcane Signet
-      - 1 Cloud Key
-      - 1 Darksteel Reactor
-      - 1 Gavel of the Righteous
-      - 1 Lumen-Class Frigate
-      - 1 Manifold Key
-      - 1 Peter Parker's Camera
-      - 1 Pinnacle Kill-Ship
-      - 1 Rescue Skiff
-      - 1 Specimen Freighter
-      - 1 Synthesizer Labship
-      - 1 The Ozolith
-      - 1 Uthros Scanship
-      - 1 Warmaker Gunship
-      - 1 Wedgelight Rammer
-      - 1 Golem Foundry
   - Planeswalker:
       - 1 Chandra, Awakened Inferno
       - 1 Elspeth Resplendent
@@ -177,6 +162,25 @@ maybe:
       - 1 Tezzeret the Seeker
       - 1 Tezzeret, Artifice Master
       - 1 The Wanderer
+  - Artifacts & Enchantments:
+      - 1 Aetheric Amplifier
+      - 1 Arcane Signet
+      - 1 Cloud Key
+      - 1 Darksteel Reactor
+      - 1 Gavel of the Righteous
+      - 1 Golem Foundry
+      - 1 Lumen-Class Frigate
+      - 1 Manifold Key
+      - 1 Peter Parker's Camera
+      - 1 Pinnacle Kill-Ship
+      - 1 Replicating Ring
+      - 1 Rescue Skiff
+      - 1 Specimen Freighter
+      - 1 Synthesizer Labship
+      - 1 The Ozolith
+      - 1 Uthros Scanship
+      - 1 Warmaker Gunship
+      - 1 Wedgelight Rammer
   - Spells:
       - 1 Angelfire Ignition
       - 1 Chaos Warp

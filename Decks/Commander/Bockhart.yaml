@@ -2,6 +2,11 @@ name: Bockhart
 description: Double the Damage. {G}
 commanders:
   - Tifa Lockhart
+tags:
+  - Landfall
+  - Ramp
+  - Tempo
+  - Aggro
 main:
   - 1 Tifa Lockhart
   - Creatures:

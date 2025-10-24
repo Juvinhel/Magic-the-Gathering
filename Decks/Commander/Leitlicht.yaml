@@ -2,6 +2,11 @@ name: Leitlicht
 description: Artifact Copy Deck
 commanders:
   - Mendicant Core, Guidelight
+tags:
+  - Artifacts
+  - Tokens
+  - Affinity
+  - Clones
 main:
   - 1 Mendicant Core, Guidelight
   - Creatures:

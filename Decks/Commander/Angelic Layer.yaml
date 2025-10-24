@@ -2,6 +2,11 @@ name: Angelic Layer
 description: Angel Deck
 commanders:
   - Giada, Font of Hope
+tags:
+  - Angels
+  - Lifegain
+  - Counters
+  - Flying
 main:
   - 1 Giada, Font of Hope
   - Creatures:
@@ -52,7 +57,7 @@ main:
       - 1 Pristine Talisman
       - 1 Sigarda's Splendor
       - 1 Sol Ring
-      - 1 Strixhaven Stadium
+      - 1 Soul Foundry
       - 1 The Book of Exalted Deeds
       - 1 The Wind Crystal
       - 1 Vanquisher's Banner
@@ -160,9 +165,11 @@ maybe:
       - 1 Illuminated Folio
       - 1 Kindred Boon
       - 1 Mind Stone
+      - 1 Paradise Plume
       - 1 Rally the Ranks
       - 1 Stormbeacon Blade
       - 1 Strength-Testing Hammer
+      - 1 Strixhaven Stadium
       - 1 Sword of the Animist
       - 1 The Celestus
       - 1 The Immortal Sun

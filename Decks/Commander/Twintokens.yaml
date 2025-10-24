@@ -2,6 +2,10 @@ name: Twintokens
 description: Double Token Fun. {G}{U}
 commanders:
   - Adrix and Nev, Twincasters
+tags:
+  - Tokens
+  - Clones
+  - Merfolk
 main:
   - 1 Adrix and Nev, Twincasters
   - Creatures:

@@ -2,6 +2,10 @@ name: Revival Dance
 description: Revival. {R}{W}{B}
 commanders:
   - Terra, Herald of Hope
+tags:
+  - Reanimator
+  - Aggro
+  - Mill
 main:
   - 1 Terra, Herald of Hope
   - Creatures:

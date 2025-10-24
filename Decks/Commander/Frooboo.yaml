@@ -3,6 +3,11 @@ description: Foooooood. {W}{B}{G}
 commanders:
   - Frodo, Adventurous Hobbit
   - Sam, Loyal Attendant
+tags:
+  - Lifegain
+  - Tokens
+  - Halflings
+  - Food
 main:
   - 1 Frodo, Adventurous Hobbit
   - 1 Sam, Loyal Attendant

@@ -2,6 +2,10 @@ name: Good Doggo
 description: Dogs & Cats
 commanders:
   - Rin and Seri, Inseparable
+tags:
+  - Cats
+  - Dogs
+  - Burn
 main:
   - 1 Rin and Seri, Inseparable
   - Creatures:

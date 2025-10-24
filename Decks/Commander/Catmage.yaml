@@ -2,6 +2,11 @@ name: Catmage
 description: Spam Spells. {W}{U}{B}
 commanders:
   - Y'shtola, Night's Blessed
+tags:
+  - Control
+  - Spellslinger
+  - Lifegain
+  - Burn
 main:
   - 1 Y'shtola, Night's Blessed
   - Creatures:

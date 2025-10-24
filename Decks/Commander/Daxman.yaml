@@ -2,6 +2,11 @@ name: Daxman
 description: Echantments for win. {W}{B}
 commanders:
   - Daxos the Returned
+tags:
+  - Enchantress
+  - Tokens
+  - Auras
+  - Stax
 main:
   - 1 Daxos the Returned
   - Creatures:

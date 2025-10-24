@@ -2,6 +2,11 @@ name: Halali
 description: ""
 commanders:
   - Shalai and Hallar
+tags:
+  - Counters
+  - Combo
+  - Burn
+  - Aggro
 main:
   - 1 Shalai and Hallar
   - Creatures:

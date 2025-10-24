@@ -3,7 +3,10 @@ description: Ninja. {U}{B}
 commanders:
   - Yuriko, the Tiger's Shadow
 tags:
-  - ""
+  - Ninjutsu
+  - Ninjas
+  - Tempo
+  - Aggro
 main:
   - 1 Yuriko, the Tiger's Shadow
   - Creatures:
@@ -42,10 +45,10 @@ main:
       - 1 Kaito, Bane of Nightmares
   - Artifacts & Enchantments:
       - 1 Aqueous Form
-      - 1 Arcane Signet
       - 1 Brotherhood Regalia
-      - 1 Dimir Signet
+      - 1 Lantern of Revealing
       - 1 Ninja's Blades
+      - 1 Ornithopter of Paradise
       - 1 Rhystic Study
       - 1 Rogue Class
       - 1 Scroll Rack
@@ -127,11 +130,15 @@ maybe:
   - Artifacts & Enchantments:
       - 1 Aether Tunnel
       - 1 Arcane Adaptation
+      - 1 Arcane Signet
       - 1 Bilbo's Ring
       - 1 Cryptic Coat
+      - 1 Decanter of Endless Water
       - 1 Gossip's Talent
       - 1 Imprisoned in the Moon
+      - 1 Inherited Envelope
       - 1 Maskwood Nexus
+      - 1 Patchwork Banner
       - 1 Psychic Paper
       - 1 Security Bypass
       - 1 Thieves' Tools
