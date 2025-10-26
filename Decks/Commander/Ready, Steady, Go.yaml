@@ -1,0 +1,114 @@
+name: Ready, Steady, Go
+description: Defenders for the win. {W}{B}{G}
+commanders:
+  - Felothar the Steadfast
+tags:
+  - ""
+main:
+  - 1 Felothar the Steadfast
+  - Creatures:
+      - 1 Arbor Adherent
+      - 1 Arboreal Grazer
+      - 1 Axebane Guardian
+      - 1 Baldin, Century Herdmaster
+      - 1 Bedrock Tortoise
+      - 1 Betor, Kin to All
+      - 1 Blight Pile
+      - 1 Canopy Gargantuan
+      - 1 Carven Caryatid
+      - 1 Crashing Drawbridge
+      - 1 Crystal Barricade
+      - 1 Doran, the Siege Tower
+      - 1 Dragonlord Dromoka
+      - 1 Faeburrow Elder
+      - 1 Fecund Greenshell
+      - 1 Ikra Shidiqi, the Usurper
+      - 1 Indomitable Ancients
+      - 1 MacCready, Lamplight Mayor
+      - 1 Overgrown Battlement
+      - 1 Rampart Architect
+      - 1 Seedborn Muse
+      - 1 Shalai, Voice of Plenty
+      - 1 Sidar Kondo of Jamuraa
+      - 1 Stalwart Shield-Bearers
+      - 1 Sylvan Caryatid
+      - 1 Towering Titan
+      - 1 Tree of Perdition
+      - 1 Tree of Redemption
+      - 1 Walking Bulwark
+      - 1 Wall of Blossoms
+      - 1 Wall of Omens
+      - 1 Wall of Roots
+      - 1 Weathered Sentinels
+      - 1 Welcoming Vampire
+      - 1 Wingmantle Chaplain
+  - Artifacts & Enchantments:
+      - 1 Arcane Signet
+      - 1 Assault Formation
+      - 1 Behind the Scenes
+      - 1 Brave the Sands
+      - 1 Colfenor's Urn
+      - 1 Jaws of Defeat
+      - 1 Orzhov Signet
+      - 1 Selesnya Signet
+      - 1 Smile at Death
+      - 1 Sol Ring
+      - 1 Stoneskin
+      - 1 Swiftfoot Boots
+  - Spells:
+      - 1 Anguished Unmaking
+      - 1 Assassin's Trophy
+      - 1 Despark
+      - 1 Dusk // Dawn
+      - 1 Expel the Interlopers
+      - 1 Farseek
+      - 1 Feed the Swarm
+      - 1 Infernal Grasp
+      - 1 Path to Exile
+      - 1 Reunion of the House
+      - 1 Slaughter the Strong
+      - 1 Swords to Plowshares
+      - 1 Tip the Scales
+      - 1 Tower Defense
+      - 1 Will of the Abzan
+  - Lands:
+      - 1 Access Tunnel
+      - 1 Ancient Ziggurat
+      - 1 Command Tower
+      - 1 Evolving Wilds
+      - 1 Exotic Orchard
+      - 1 Marsh Flats
+      - 1 Path of Ancestry
+      - 1 Rogue's Passage
+      - 1 Urborg, Tomb of Yawgmoth
+      - 1 Verdant Catacombs
+      - 1 Windswept Heath
+      - 1 Yavimaya, Cradle of Growth
+      - 1 Minas Tirith
+      - 2 Plains
+      - 1 Brightclimb Pathway // Grimclimb Pathway
+      - 1 Desolate Mire
+      - 1 Godless Shrine
+      - 1 Vault of the Archangel
+      - 1 Deceptive Landscape
+      - 1 Indatha Triome
+      - 1 Sandsteppe Citadel
+      - 1 Branchloft Pathway // Boulderloft Pathway
+      - 1 Gavony Township
+      - 1 Sungrass Prairie
+      - 1 Temple Garden
+      - 1 Barad-dûr
+      - 1 Shizo, Death's Storehouse
+      - 1 Swamp
+      - 1 Darkbore Pathway // Slitherbore Pathway
+      - 1 Overgrown Tomb
+      - 1 Viridescent Bog
+      - 1 Argoth, Sanctum of Nature
+      - 1 Evendo, Waking Haven
+      - 2 Forest
+      - 1 Gaea's Cradle
+side: null
+maybe:
+  - Artifacts & Enchantments:
+      - 1 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun
+      - 1 Journey to Eternity // Atzal, Cave of Eternity
