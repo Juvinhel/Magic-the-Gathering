@@ -11,6 +11,7 @@ main:
   - 1 Yuriko, the Tiger's Shadow
   - Creatures:
       - 1 Baleful Strix
+      - 1 Biting-Palm Ninja
       - 1 Changeling Outcast
       - 1 Faerie Dreamthief
       - 1 Faerie Seer
@@ -28,7 +29,6 @@ main:
       - 1 Ornithopter
       - 1 Prosperous Thief
       - 1 Sakashima's Student
-      - 1 Satoru, the Infiltrator
       - 1 Shadow of Mortality
       - 1 Silent-Blade Oni
       - 1 Silver-Fur Master
@@ -106,7 +106,8 @@ main:
       - 4 Swamp
       - 1 Takenuma, Abandoned Mire
       - 1 The Black Gate
-side: null
+side:
+  - 1 Satoru, the Infiltrator
 maybe:
   - Creatures:
       - 1 Assassin Initiate
