@@ -7,6 +7,7 @@ Abrade,BRC,de,1
 Abrade,VOW,de,1
 Abraded Bluffs,OTJ,de,1
 Abundant Growth,INR,de,1
+Abundant Growth,INR,en,2
 Abundant Growth,PIP,de,1
 Abzan Devotee,TDM,de,2
 Access Tunnel,TDC,en,1
@@ -84,6 +85,7 @@ An Offer You Can't Refuse,FDN,de,1
 "Anafenza, Unyielding Lineage",TDM,de,1
 Ancestor Dragon,FDN,de,1
 Ancestral Anger,INR,de,1
+Ancestral Anger,INR,en,1
 Ancient Den,BRC,de,1
 Ancient Den,C21,de,2
 Ancient Den,EOC,de,1
@@ -366,6 +368,7 @@ Bottle Gnomes,CM2,de,1
 Boulderbranch Golem,BRO,de,1
 Bounce Off,DFT,de,3
 Bound by Moonsilver,INR,de,1
+Bound by Moonsilver,INR,en,1
 Bountiful Promenade,CLB,de,2
 Brace for Impact,DIS,de,1
 "Braids, Arisen Nightmare",DSC,de,1
@@ -564,6 +567,7 @@ Clue,TWHO,de,2
 Coalhauler Swine,RAV,de,1
 Coastal Hornclaw,8ED,de,1
 Cobbled Lancer,VOW,de,1
+Cobbled Wings,INR,en,1
 Codecracker Hound,EOE,de,3
 "Codsworth, Handy Helper",PIP,de,1
 Coiling Oracle,BLC,de,1
@@ -600,6 +604,7 @@ Conclave's Blessing,RAV,de,1
 Condemn,SPG,de,1
 Condescend,JVC,de,1
 Conduct Electricity,BLB,de,2
+Conduit of Storms // Conduit of Emrakul,INR,en,1
 Cone of Cold,CLB,de,1
 Confiscate,CMR,de,2
 Conjurer's Bauble,5DN,de,1
@@ -648,6 +653,7 @@ Crafty Pathmage,10E,de,1
 Cranial Plating,BRC,de,1
 Crash and Burn,DFT,de,3
 Crawl from the Cellar,INR,de,1
+Crawl from the Cellar,INR,en,1
 Creeping Tar Pit,WHO,de,1
 Cremate,GPT,de,1
 Criminal Past,CLB,de,1
@@ -743,6 +749,7 @@ Deadwood Treefolk,DMR,de,2
 Death Baron,FDN,de,1
 Death in Heaven,WHO,de,1
 Death-Mask Duplicant,DST,de,1
+Deathcap Glade,INR,en,1
 Deathless Pilot,DFT,de,2
 Debris Beetle,DFT,de,1
 Debris Field Crusher,EOE,de,1
@@ -795,7 +802,7 @@ Dimir Guildmage,CLU,de,1
 Dimir House Guard,RVR,de,1
 Dimir Signet,BRC,de,2
 "Dina, Soul Steeper",STX,de,1
-Dinosaur,TMOM,en,1
+Dinosaur,WMOM,en,1
 Dinosaur Dragon,TDFT,de,1
 Diplomatic Relations,EOE,de,4
 Dire Downdraft,BLB,de,1
@@ -893,6 +900,7 @@ Dual-Sun Technique,EOE,de,1
 Dubious Delicacy,EOE,de,3
 "Duchess, Wayward Tavernkeep",PIP,de,1
 "Duchess, Wayward Tavernkeep",PIP,en,1
+Duel for Dominance,INR,en,1
 Duke Ulder Ravengard,CLB,de,1
 Dune Drifter,DFT,de,2
 Dúnedain Rangers,LTR,de,1
@@ -901,6 +909,7 @@ Dungeon Map,AFR,en,1
 Dungeoneer's Pack,CLB,de,2
 Dunland Crebain,LTR,en,1
 "Duskmantle, House of Shadow",RAV,de,1
+Duskwatch Recruiter // Krallenhorde Howler,INR,en,1
 Dust Corona,PLC,de,1
 Dwarven Forge-Chanter,BRO,de,1
 "Dwynen, Gilt-Leaf Daen",FDN,de,1
@@ -940,7 +949,7 @@ Eldrazi Temple,EOS,de,1
 Eldritch Pact,CLB,de,1
 Electro's Bolt,SPM,de,4
 Electrolyze,GK1,de,1
-Elemental,TMOM,en,1
+Elemental,TMUL,en,1
 Elemental Resonance,DIS,de,1
 Elementalist Adept,FDN,de,1
 Elephant,TDFT,de,3
@@ -1009,6 +1018,7 @@ Escape from Orthanc,LTR,de,1
 Espers to Magicite,FIC,de,1
 Essence Channeler,BLB,de,1
 Essence Drain,DST,de,3
+Essence Flux,INR,en,1
 Estinien Varlineau,FIC,en,1
 Etched Champion,BRC,de,1
 Etched Oracle,EOC,de,1
@@ -1197,6 +1207,7 @@ Food,TSPM,de,10
 For the Common Good,BLB,de,1
 Foray of Orcs,LTR,de,1
 Foray of Orcs,LTR,en,1
+Forbidden Alchemy,INR,en,1
 Force of Will,DMR,en,1
 Foreboding Ruins,FIC,de,1
 Foreboding Ruins,WHO,de,1
@@ -1427,6 +1438,7 @@ Hammers of Moradin,CLB,de,1
 Hana Kami,MMA,de,4
 Hangar Scrounger,MOM,de,1
 Hangarback Walker,EOC,de,1
+Hanweir Watchkeep // Bane of Hanweir,INR,en,1
 Hardened Tactician,TDM,de,1
 Hare Apparent,FDN,de,2
 Harmonious Grovestrider,EOE,de,1
@@ -1535,6 +1547,7 @@ Human Soldier,TFIC,en,2
 Human Soldier,TINR,de,2
 Human Soldier,TPIP,de,1
 Hungry Ghoul,FDN,de,2
+Hungry Ridgewolf,INR,en,1
 Hunted by The Family,WHO,de,1
 Hunter's Talent,BLB,de,1
 Hylderblade,EOE,de,1
@@ -1621,6 +1634,7 @@ Invasion of Azgol // Ashen Reaper,MOM,de,1
 Invasion of Dominaria // Serra Faithkeeper,MOM,de,1
 Invasion of Eldraine // Prickle Faeries,MOM,en,1
 Invasion of Ergamon // Truga Cliffcharger,MOM,de,1
+Invasion of Innistrad // Deluge of the Dead,INR,en,1
 "Invasion of Kaladesh // Aetherwing, Golden-Scale Flagship",MOM,de,1
 "Invasion of Kaladesh // Aetherwing, Golden-Scale Flagship",MOM,en,1
 Invasion of Mercadia // Kyren Flamewright,MOM,de,1
@@ -1714,6 +1728,7 @@ Key to the City,FIC,de,1
 Keys to the House,DSK,de,1
 Kickoff Celebrations,DFT,de,1
 Kill-Suit Cultist,DIS,de,1
+Killing Wave,INR,en,1
 "Kilo, Apogee Mind",EOC,de,1
 Kin-Tree Nurturer,TDM,de,1
 Kin-Tree Nurturer,TDM,en,1
@@ -1938,6 +1953,7 @@ Martyr of Sands,UMA,de,1
 Martyr of Spores,CSP,de,1
 "Marvin, Murderous Mimic",DSK,de,1
 Masked Meower,SPM,de,5
+Mass Hysteria,INR,en,1
 Mass of Ghouls,FUT,de,1
 Mass of Ghouls,TSR,en,1
 Master Chef,CLB,de,3
@@ -2049,6 +2065,7 @@ Mogg Hollows,BRB,de,1
 Mogg Squad,TMP,de,1
 "Moira Brown, Guide Author",PIP,de,1
 Mold Folk,CLB,de,1
+Moldgraf Millipede,INR,en,1
 Molecular Modifier,EOE,de,2
 Molt Tender,DFT,de,1
 "Molten Man, Inferno Incarnate",SPM,de,1
@@ -2058,7 +2075,7 @@ Moment of Triumph,FDN,de,1
 Momentum Breaker,DFT,de,1
 Monastery Messenger,TDM,de,2
 Monastery Messenger,TDM,en,1
-Monk,TMOM,de,1
+Monk,WMOM,de,1
 Monk's Fist,FIN,de,2
 Monoist Circuit-Feeder,EOE,de,2
 Monoist Sentry,EOE,de,1
@@ -2661,6 +2678,7 @@ Sapphire Dragon // Psionic Pulse,CLB,de,1
 Saruman the White,LTR,de,1
 Saruman's Trickery,LTR,de,1
 "Satoru, the Infiltrator",OTJ,en,1
+Savage Alliance,INR,en,1
 Savage Mansion,SPM,de,3
 Savannah Lions,FDN,de,1
 Say Its Name,DSK,de,1
@@ -2756,7 +2774,7 @@ Servo,TBRC,de,6
 Servo Schematic,BRC,de,1
 Settlement,TPIP,de,2
 "Setzer, Wandering Gambler",FIC,de,1
-Sever the Bloodline,INR,en,1
+Sever the Bloodline,INR,en,2
 Sewerdreg,RAV,de,1
 Shadow Lance,GPT,de,1
 Shadow of Mortality,SNC,de,1
@@ -3102,6 +3120,7 @@ Stuck in Summoner's Sanctum,FIN,de,1
 "Student of Elements // Tobita, Master of Winds",CHK,de,2
 Stun,10E,de,1
 Stunning Strike,CLB,de,1
+Subjugator Angel,INR,en,1
 Sublime Epiphany,FIC,en,1
 Suburban Sanctuary,SPM,de,3
 Subway Train,SPM,de,4
@@ -3302,7 +3321,7 @@ Terror of Mount Velus,FDN,de,1
 Tersa Lightshatter,TDM,de,1
 "Teshar, Ancestor's Apostle",BRC,de,1
 Test of Faith,MMA,de,1
-"Tetsuko Umezawa, Fugitive",MOC,en,1
+"Tetsuko Umezawa, Fugitive",MUL,en,1
 Tezzeret the Seeker,MM2,en,1
 "Tezzeret, Artifice Master",M19,en,1
 "Tezzeret, Cruel Captain",EOE,de,1
@@ -3380,6 +3399,7 @@ Thought Vessel,WHO,de,1
 Thoughtbind,CHK,de,2
 Thoughtcast,BRC,de,1
 Thousand-Faced Shadow,NEO,en,1
+Thraben Inspector,INR,en,1
 Thrakkus the Butcher,CLB,de,1
 Thran Dynamo,BRC,de,1
 Thran Power Suit,BRO,de,1
@@ -3438,6 +3458,7 @@ Torrent of Fire,SCG,de,1
 Torrential Gearhulk,FIC,en,1
 Touch the Spirit Realm,NEO,en,1
 Tower Geist,INR,de,1
+Tower Geist,INR,en,1
 Town Gossipmonger // Incited Rabble,INR,de,1
 Town Greeter,FIN,de,2
 Tractor Beam,EOE,de,1
@@ -3459,6 +3480,8 @@ Transit Mage,DFT,de,2
 Transmogrant's Crown,BRO,de,1
 Transpose,FIC,en,1
 Traumatic Revelation,MOM,de,1
+Travel Preparations,INR,en,1
+Traveler's Amulet,INR,en,1
 Traveling Minister,VOW,de,1
 "Traxos, Scourge of Kroog",BRC,de,1
 Treasure,TBLB,de,1
@@ -3754,6 +3777,7 @@ Woeleecher,SHM,de,1
 Wojek Embermage,RAV,de,1
 Wojek Investigator,MKM,en,1
 Wolf,TAFR,en,1
+Wolf,TINR,en,2
 Wonderscape Sage,M3C,en,1
 Wondrous Crucible,BRC,de,1
 Woodwraith Strangler,RAV,de,1
@@ -3773,6 +3797,7 @@ Wrecking Ball,GK2,de,2
 Wrench Mind,IMA,de,1
 Wretched Doll,DFT,de,1
 Wretched Gryff,INR,de,1
+Wretched Gryff,INR,en,1
 Wretched Throng,INR,de,1
 Writ of Passage,DIS,de,3
 Wurmwall Sweeper,EOE,de,3
