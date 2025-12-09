@@ -10,7 +10,6 @@ tags:
 main:
   - 1 Giada, Font of Hope
   - Creatures:
-      - 1 Angel of Destiny
       - 1 Angel of Invention
       - 1 Angelic Skirmisher
       - 1 Angelic Sleuth
@@ -97,7 +96,7 @@ main:
       - 1 Kabira Takedown // Kabira Plateau
       - 1 Kor Haven
       - 1 Minas Tirith
-      - 14 Plains
+      - 15 Plains
       - 1 Sejiri Shelter // Sejiri Glacier
       - 1 Witch Enchanter // Witch-Blessed Meadow
 side:

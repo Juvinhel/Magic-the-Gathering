@@ -33,7 +33,6 @@ main:
       - 1 Silent-Blade Oni
       - 1 Silver-Fur Master
       - 1 Siren Stormtamer
-      - 1 Skullsnatcher
       - 1 Slither Blade
       - 1 Tetsuko Umezawa, Fugitive
       - 1 Thousand-Faced Shadow
@@ -62,7 +61,6 @@ main:
       - 1 Brainstorm
       - 1 Commandeer
       - 1 Commit // Memory
-      - 1 Consign // Oblivion
       - 1 Counterspell
       - 1 Deadly Rollick
       - 1 Dig Through Time
@@ -89,7 +87,7 @@ main:
       - 1 Reliquary Tower
       - 1 Rogue's Passage
       - 1 Castle Vantress
-      - 5 Island
+      - 6 Island
       - 1 Otawara, Soaring City
       - 1 Rivendell
       - 1 Soaring Seacliff
@@ -103,7 +101,7 @@ main:
       - 1 Watery Grave
       - 1 Minas Morgul, Dark Fortress
       - 1 Shizo, Death's Storehouse
-      - 4 Swamp
+      - 5 Swamp
       - 1 Takenuma, Abandoned Mire
       - 1 The Black Gate
 side:
