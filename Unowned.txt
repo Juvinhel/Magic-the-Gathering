@@ -1,3 +1,4 @@
+1 Abandoned Air Temple
 1 Abandoned Campground
 1 Absolute Virtue
 1 Absolver Thrull
@@ -39,12 +40,14 @@
 1 Anim Pakal, Thousandth Moon
 1 Animal Sanctuary
 1 Animate Dead
+1 Annie Joins Up
 1 Anointed Procession
 1 Arasta of the Endless Web
 1 Arbor Adherent
 1 Arboreal Grazer
 1 Arcane Adaptation
 1 Arcane Lighthouse
+1 Arcbound Ravager
 1 Arcbound Shikari
 1 Arcee, Sharpshooter // Arcee, Acrobatic Coupe
 1 Arch of Orazca
@@ -58,6 +61,7 @@
 1 Armorcraft Judge
 2 Artificer Class
 1 Artistic Refusal
+1 Ashaya, Soul of the Wild
 1 Assassin Initiate
 1 Assassin's Trophy
 1 Assault Formation
@@ -67,10 +71,12 @@
 1 Aura Shards
 1 Auron, Venerated Guardian
 1 Avacyn, Angel of Hope
+1 Avatar Kyoshi, Earthbender
 1 Avenger of Zendikar
 1 Awakening Zone
 1 Axebane Guardian
 1 Azusa, Lost but Seeking
+1 Ba Sing Se
 1 Back from the Brink
 1 Badlands
 1 Baldin, Century Herdmaster
@@ -92,7 +98,6 @@
 1 Biowaste Blob
 1 Birds of Paradise
 1 Bishop of Wings
-1 Biting-Palm Ninja
 1 Black Market
 1 Black Market Connections
 1 Blackblade Reforged
@@ -131,6 +136,8 @@
 1 Brokers Hideout
 1 Bruna, the Fading Light
 1 Brushland
+1 Bumi, Eclectic Earthbender
+1 Bumi, Unleashed
 1 Buried Alive
 1 C.A.M.P.
 1 Cabaretti Courtyard
@@ -232,6 +239,7 @@
 1 Drumbellower
 1 Dryad of the Ilysian Grove
 1 Dusk // Dawn
+1 Earthshape
 1 Eden, Seat of the Sanctum
 1 Eladamri's Call
 1 Elegant Parlor
@@ -261,6 +269,7 @@
 1 Ethersworn Sphinx
 1 Evendo, Waking Haven
 1 Evolution Sage
+1 Expedition Map
 1 Expel the Interlopers
 1 Exploration
 1 Explore
@@ -340,6 +349,7 @@
 2 Grand Arbiter Augustin IV
 1 Grasp of Fate
 1 Grateful Apparition
+1 Great Divide Guide
 1 Greater Auramancy
 1 Greatsword of Tyr
 1 Grim Guardian
@@ -365,6 +375,7 @@
 1 Harrier Strix
 1 Harrow
 1 Havengul Laboratory // Havengul Mystery
+1 Haywire Mite
 1 Hedge Maze
 1 Heliod, God of the Sun
 1 Heliod, Sun-Crowned
@@ -378,6 +389,7 @@
 1 Hopeful Initiate
 1 Horn of Valhalla // Ysgard's Call
 1 Hornet Queen
+1 Hour of Revelation
 1 Hourglass of the Lost
 1 Huatli, Warrior Poet
 1 Humility
@@ -509,6 +521,7 @@
 1 Mockingbird
 1 Monoskelion
 1 Monumental Henge
+1 Moraug, Fury of Akoum
 1 Mossborn Hydra
 1 Mosswort Bridge
 1 Motivated Pony
@@ -517,6 +530,7 @@
 1 Mox Diamond
 1 Murderous Cut
 1 Murky Sewer
+1 Mycosynth Lattice
 1 Myr Scrapling
 1 Myrel, Shield of Argive
 1 Mysterious Limousine
@@ -560,6 +574,7 @@
 1 Oversimplify
 1 Ozolith, the Shattered Spire
 1 Pack Leader
+1 Panharmonicon
 1 Panoptic Mirror
 1 Paradise Plume
 1 Paradox Zone
@@ -573,7 +588,7 @@
 1 Phyrexian Tower
 1 Piper Wright, Publick Reporter
 1 Pippin, Warden of Isengard
-1 Plateau
+2 Plateau
 1 Possession Engine
 1 Power Depot
 1 Prairie Dog
@@ -646,6 +661,7 @@
 1 Rishkar's Expertise
 1 Rith's Grove
 1 Riveteers Overlook
+1 Roaming Throne
 1 Rockfall Vale
 1 Rograkh, Son of Rohgahh
 1 Roiling Regrowth
@@ -683,6 +699,7 @@
 1 Search for Azcanta // Azcanta, the Sunken Ruin
 1 Seaside Citadel
 1 Second Harvest
+1 Secret Tunnel
 1 Security Bypass
 1 Seedborn Muse
 1 Seeker of Skybreak
@@ -765,6 +782,7 @@
 1 Sword of the Animist
 1 Sylvan Caryatid
 1 Sylvan Library
+1 Sylvan Safekeeper
 1 Taiga
 1 Takenuma, Abandoned Mire
 1 Talion, the Kindly Lord
@@ -780,12 +798,14 @@
 1 Tendershoot Dryad
 1 Tendo Ice Bridge
 1 Tergrid, God of Fright // Tergrid's Lantern
+1 Terra Eternal
 1 Terra, Magical Adept // Esper Terra
 1 Teval's Judgment
 1 Thalakos Lowlands
 1 Thassa's Oracle
 1 Thaumatic Compass // Spires of Orazca
 1 The Battle of Bywater
+1 The Boulder, Ready to Rumble
 1 The Celestus
 1 The Darkness Crystal
 1 The Everflowing Well // The Myriad Pools
@@ -799,6 +819,7 @@
 1 The Reality Chip
 1 The Red Terror
 1 The Shire
+1 The Stasis Coffin
 2 The Tabernacle at Pendrell Vale
 1 The Wanderer
 1 The Water Crystal
@@ -820,6 +841,8 @@
 1 Tolaria West
 1 Tomb of the Spirit Dragon
 1 Tomb of Urami
+1 Toph, Earthbending Master
+1 Toph, Greatest Earthbender
 1 Towashi Guide-Bot
 1 Tower Defense
 1 Towering Titan
@@ -861,6 +884,7 @@
 1 Urza's Incubator
 1 Urza's Mine
 1 Urza's Power Plant
+1 Urza's Saga
 1 Urza's Workshop
 1 Uthros Scanship
 1 Valgavoth's Lair
@@ -916,6 +940,7 @@
 1 Wooded Bastion
 1 Wooded Foothills
 1 Worldwalker Helm
+1 Wrenn and Realmbreaker
 1 Wurm's Tooth
 1 Xander's Lounge
 1 Y'shtola Rhul
@@ -930,3 +955,4 @@
 1 Zanarkand, Ancient Metropolis // Lasting Fayth
 1 Ziatora's Proving Ground
 1 Zirda, the Dawnwaker
+1 Zuran Orb

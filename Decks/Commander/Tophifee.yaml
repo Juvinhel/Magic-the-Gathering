@@ -1,4 +1,4 @@
-name: Topf
+name: Tophifee
 description: Earthbending. {R}{G}{W}
 commanders:
   - Toph, the First Metalbender
@@ -62,7 +62,6 @@ main:
       - 1 Warmaker Gunship
       - 1 Zuran Orb
   - Spells:
-      - 1 Beast Within
       - 1 Crop Rotation
       - 1 Cycle of Renewal
       - 1 Earth Rumble
@@ -72,6 +71,7 @@ main:
       - 1 Heroic Intervention
       - 1 Hour of Revelation
       - 1 Nature's Lore
+      - 1 Organic Extinction
       - 1 Origin of Metalbending
       - 1 Path to Exile
       - 1 Rockalanche

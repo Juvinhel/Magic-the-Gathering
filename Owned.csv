@@ -224,6 +224,8 @@ Azorius Signet,BRC,de,1
 Azure Drake,M11,de,1
 "Baba Lysaga, Night Witch",CLB,de,2
 Back on Track,DFT,de,1
+Badgermole,TLA,de,1
+Badgermole Cub,TLA,de,1
 Bag of Holding,AFR,en,1
 Bag of Holding,CLB,de,1
 Bagel and Schmear,SPM,de,5
@@ -276,6 +278,7 @@ Behold the Unspeakable // Vision of the Unspeakable,NEO,en,1
 Bellowing Crier,BLB,de,1
 Belltower Sphinx,M12,de,2
 Benalish Commander,TSR,en,1
+Bender's Waterskin,TLA,de,1
 Benevolent Ancestor,IMA,de,3
 Bestow Greatness,DFT,de,5
 Bewitching Leechcraft,LTR,en,1
@@ -299,6 +302,7 @@ Bird,TFIN,en,2
 Birthday Escape,LTR,en,1
 Bishop's Soldier,FDN,de,1
 Bite Down,FDN,de,4
+Bitter Work,TLA,de,1
 "Bjorna, Nightfall Alchemist",SLX,de,1
 "Black Cat, Cunning Thief",SPM,de,1
 Black Dragon Gate,CLB,de,1
@@ -698,6 +702,7 @@ Cyberman Patrol,WHO,de,1
 Cybermat,WHO,de,1
 Cybermen Squadron,WHO,de,1
 Cybership,WHO,de,1
+Cycle of Renewal,TLA,de,2
 Cytospawn Shambler,DIS,de,2
 Daggerfang Duo,BLB,de,3
 Daggermaw Megalodon,DSK,de,1
@@ -802,7 +807,7 @@ Dimir Guildmage,CLU,de,1
 Dimir House Guard,RVR,de,1
 Dimir Signet,BRC,de,2
 "Dina, Soul Steeper",STX,de,1
-Dinosaur,WMOM,en,1
+Dinosaur,TMOM,en,1
 Dinosaur Dragon,TDFT,de,1
 Diplomatic Relations,EOE,de,4
 Dire Downdraft,BLB,de,1
@@ -920,7 +925,10 @@ Dynamite Diver,DFT,de,3
 Eager Cadet,8ED,de,1
 Eagles of the North,LTR,en,1
 Early Winter,BLB,de,1
+Earth Rumble,TLA,de,1
 Earth Tremor,CLB,de,1
+Earthbender Ascension,TLA,de,1
+Earthbending Lesson,TLA,de,1
 Earthrumbler,DFT,de,1
 Earthshaker,CHK,de,1
 Eastfarthing Farmer,LTR,de,1
@@ -949,7 +957,7 @@ Eldrazi Temple,EOS,de,1
 Eldritch Pact,CLB,de,1
 Electro's Bolt,SPM,de,4
 Electrolyze,GK1,de,1
-Elemental,TMUL,en,1
+Elemental,TMOM,en,1
 Elemental Resonance,DIS,de,1
 Elementalist Adept,FDN,de,1
 Elephant,TDFT,de,3
@@ -1109,7 +1117,7 @@ Far Traveler,CLB,de,1
 Farhaven Elf,KHC,de,1
 "Farid, Enterprising Salvager",BRC,de,1
 "Farideh, Devil's Chosen",AFR,en,1
-Farseek,FIC,de,1
+Farseek,FCA,de,1
 Farseek,RVR,de,2
 Farsight Mask,PCA,de,1
 Fate of the Sun-Cryst,FIN,de,4
@@ -2075,7 +2083,7 @@ Moment of Triumph,FDN,de,1
 Momentum Breaker,DFT,de,1
 Monastery Messenger,TDM,de,2
 Monastery Messenger,TDM,en,1
-Monk,WMOM,de,1
+Monk,TMOM,de,1
 Monk's Fist,FIN,de,2
 Monoist Circuit-Feeder,EOE,de,2
 Monoist Sentry,EOE,de,1
@@ -2235,6 +2243,7 @@ Order of the Mirror // Order of the Alabaster Host,MOM,en,1
 Order of the Sacred Bell,9ED,de,1
 Oreplate Pangolin,EOE,de,3
 Organic Extinction,EOC,de,1
+Origin of Metalbending,TLA,de,1
 Ornithopter,10E,de,2
 Ornithopter,BRR,de,1
 Ornithopter of Paradise,DRC,en,2
@@ -2587,6 +2596,7 @@ Robot,TSPM,de,9
 Robot Warrior,TFIN,de,1
 Robotics Mastery,SPM,de,2
 Roc Hunter,BRO,de,1
+Rockalanche,TLA,de,1
 Rocket-Powered Goblin Glider,SPM,de,2
 Rocketeer Boostbuggy,DFT,de,1
 Rod of Ruin,9ED,de,1
@@ -2620,6 +2630,7 @@ Rugged Prairie,FIC,de,1
 Ruin Grinder,FIC,de,1
 Ruinous Rampage,EOE,de,2
 Ruinous Ultimatum,FIC,de,1
+Rumble Arena,TLA,de,1
 Run Away Together,BLB,de,1
 Run Away Together,CLB,de,1
 Run Away Together,FDN,de,1
@@ -3345,6 +3356,7 @@ The Eternity Elevator,EOE,de,1
 The Fall of Lord Konda // Fragment of Konda,NEO,en,1
 The Flood of Mars,WHO,de,1
 The Gold Saucer,FIN,de,1
+The Legend of Kyoshi // Avatar Kyoshi,TLA,de,1
 The Masamune,FIN,de,1
 "The Master, Formed Anew",WHO,de,1
 "The Master, Gallifrey's End",WHO,de,1
@@ -3450,6 +3462,9 @@ Tome of Legends,FIC,en,1
 Tonberry,FIN,de,1
 Took Reaper,LTR,de,1
 Topaz Dragon // Entropic Cloud,CLB,de,1
+"Toph, Hardheaded Teacher",TLA,de,1
+"Toph, the Blind Bandit",TLA,de,1
+"Toph, the First Metalbender",TLA,de,1
 "Torbran, Thane of Red Fell",ELD,en,1
 "Torgal, A Fine Hound",FIN,de,2
 Tormented Soul,PCA,en,1
