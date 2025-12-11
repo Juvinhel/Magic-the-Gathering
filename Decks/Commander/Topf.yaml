@@ -9,6 +9,7 @@ main:
   - 1 Toph, the First Metalbender
   - Creatures:
       - 1 Annie Joins Up
+      - 1 Arcbound Ravager
       - 1 Ashaya, Soul of the Wild
       - 1 Avatar Kyoshi, Earthbender
       - 1 Badgermole
@@ -16,13 +17,14 @@ main:
       - 1 Bumi, Eclectic Earthbender
       - 1 Bumi, Unleashed
       - 1 Dryad of the Ilysian Grove
-      - 1 Earthbending Student
       - 1 Esper Sentinel
       - 1 Evolution Sage
       - 1 Great Divide Guide
       - 1 Haywire Mite
-      - 1 Lotus Cobra
       - 1 Moraug, Fury of Akoum
+      - 1 Mossborn Hydra
+      - 1 Roaming Throne
+      - 1 Scute Swarm
       - 1 Solemn Simulacrum
       - 1 Sylvan Safekeeper
       - 1 Tannuk, Memorial Ensign
@@ -30,7 +32,6 @@ main:
       - 1 Tireless Provisioner
       - 1 Toph, Earthbending Master
       - 1 Toph, Greatest Earthbender
-      - 1 Toph, Hardheaded Teacher
       - 1 Toph, the Blind Bandit
   - Planeswalker:
       - 1 Wrenn and Realmbreaker
@@ -49,7 +50,6 @@ main:
       - 1 Mindslaver
       - 1 Mishra's Bauble
       - 1 Mycosynth Lattice
-      - 1 Scute Swarm
       - 1 Sol Ring
       - 1 Strionic Resonator
       - 1 Swiftfoot Boots
@@ -78,27 +78,32 @@ main:
       - 1 Swords to Plowshares
   - Lands:
       - 1 Arid Mesa
-      - 1 Ba Sing Se
-      - 1 Canopy Vista
-      - 1 Cinder Glade
       - 1 Command Tower
       - 1 Evolving Wilds
       - 1 Exotic Orchard
       - 1 Fabled Passage
-      - 5 Forest
-      - 1 Jetmir's Garden
-      - 1 Jungle Shrine
-      - 4 Mountain
-      - 5 Plains
-      - 1 Rootbound Crag
       - 1 Rumble Arena
-      - 1 Sacred Foundry
       - 1 Secret Tunnel
-      - 1 Stomping Ground
-      - 1 Temple Garden
       - 1 Terramorphic Expanse
       - 1 Windswept Heath
       - 1 Wooded Foothills
       - 1 Yavimaya, Cradle of Growth
+      - 1 Karn's Bastion
+      - 4 Plains
+      - 1 Abandoned Air Temple
+      - 1 Sacred Foundry
+      - 1 Jetmir's Garden
+      - 1 Jungle Shrine
+      - 1 Canopy Vista
+      - 1 Temple Garden
+      - 4 Mountain
+      - 1 Cinder Glade
+      - 1 Rootbound Crag
+      - 1 Stomping Ground
+      - 1 Ba Sing Se
+      - 4 Forest
 side: null
-maybe: null
+maybe:
+  - 1 Meteor Golem
+  - 1 Tifa Lockhart
+  - 1 Toph, Hardheaded Teacher
