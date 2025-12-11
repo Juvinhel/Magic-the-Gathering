@@ -33,11 +33,9 @@ main:
       - 1 Toph, Earthbending Master
       - 1 Toph, Greatest Earthbender
       - 1 Toph, the Blind Bandit
-  - Planeswalker:
-      - 1 Wrenn and Realmbreaker
+  - Planeswalker: null
   - Artifacts & Enchantments:
-      - 1 Amulet of Vigor
-      - 1 Arcane Signet
+      - 1 Bender's Waterskin
       - 1 Bitter Work
       - 1 Chromatic Lantern
       - 1 Earthbender Ascension
@@ -47,19 +45,21 @@ main:
       - 1 Lightning Greaves
       - 1 Liquimetal Coating
       - 1 Liquimetal Torque
-      - 1 Mindslaver
       - 1 Mishra's Bauble
       - 1 Mycosynth Lattice
+      - 1 Nutrient Block
       - 1 Sol Ring
       - 1 Strionic Resonator
       - 1 Swiftfoot Boots
       - 1 Terra Eternal
       - 1 Terrasymbiosis
       - 1 The Earth Crystal
+      - 1 The Great Henge
       - 1 The Legend of Kyoshi // Avatar Kyoshi
       - 1 The Ozolith
       - 1 The Stasis Coffin
       - 1 Urza's Saga
+      - 1 Warmaker Gunship
       - 1 Zuran Orb
   - Spells:
       - 1 Beast Within
@@ -105,9 +105,16 @@ main:
       - 1 Cragcrown Pathway // Timbercrown Pathway
       - 1 Mossfire Valley
       - 1 Ba Sing Se
-      - 3 Forest
+      - 2 Forest
+      - 1 Evendo, Waking Haven
 side: null
 maybe:
-  - 1 Meteor Golem
-  - 1 Tifa Lockhart
-  - 1 Toph, Hardheaded Teacher
+  - Creatures:
+      - 1 Meteor Golem
+      - 1 Tifa Lockhart
+      - 1 Toph, Hardheaded Teacher
+  - Planeswalker:
+      - 1 Wrenn and Realmbreaker
+  - Artifacts & Enchantments:
+      - 1 Panharmonicon
+      - 1 Ozolith, the Shattered Spire
