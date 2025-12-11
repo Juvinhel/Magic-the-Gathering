@@ -89,19 +89,23 @@ main:
       - 1 Wooded Foothills
       - 1 Yavimaya, Cradle of Growth
       - 1 Karn's Bastion
-      - 4 Plains
+      - 2 Plains
       - 1 Abandoned Air Temple
       - 1 Sacred Foundry
+      - 1 Plateau
+      - 1 Needleverge Pathway // Pillarverge Pathway
       - 1 Jetmir's Garden
       - 1 Jungle Shrine
       - 1 Canopy Vista
       - 1 Temple Garden
-      - 4 Mountain
+      - 1 Branchloft Pathway // Boulderloft Pathway
+      - 3 Mountain
       - 1 Cinder Glade
       - 1 Rootbound Crag
       - 1 Stomping Ground
+      - 1 Cragcrown Pathway // Timbercrown Pathway
       - 1 Ba Sing Se
-      - 4 Forest
+      - 3 Forest
 side: null
 maybe:
   - 1 Meteor Golem
