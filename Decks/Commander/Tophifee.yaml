@@ -8,46 +8,42 @@ tags:
 main:
   - 1 Toph, the First Metalbender
   - Creatures:
-      - 1 Annie Joins Up
+      - 1 Arcbound Mouser
       - 1 Arcbound Ravager
       - 1 Ashaya, Soul of the Wild
       - 1 Avatar Kyoshi, Earthbender
       - 1 Badgermole
       - 1 Badgermole Cub
+      - 1 Bristly Bill, Spine Sower
       - 1 Bumi, Eclectic Earthbender
       - 1 Bumi, Unleashed
-      - 1 Dryad of the Ilysian Grove
       - 1 Esper Sentinel
       - 1 Evolution Sage
-      - 1 Great Divide Guide
       - 1 Haywire Mite
       - 1 Moraug, Fury of Akoum
       - 1 Mossborn Hydra
+      - 1 Obuun, Mul Daya Ancestor
       - 1 Roaming Throne
       - 1 Scute Swarm
-      - 1 Solemn Simulacrum
+      - 1 Scythecat Cub
+      - 1 Springheart Nantuko
       - 1 Sylvan Safekeeper
       - 1 Tannuk, Memorial Ensign
-      - 1 The Boulder, Ready to Rumble
-      - 1 Tireless Provisioner
       - 1 Toph, Earthbending Master
       - 1 Toph, Greatest Earthbender
       - 1 Toph, the Blind Bandit
   - Planeswalker: null
   - Artifacts & Enchantments:
       - 1 Bender's Waterskin
-      - 1 Bitter Work
       - 1 Chromatic Lantern
       - 1 Earthbender Ascension
-      - 1 Expedition Map
       - 1 Felidar Retreat
       - 1 Ichor Wellspring
       - 1 Lightning Greaves
       - 1 Liquimetal Coating
       - 1 Liquimetal Torque
       - 1 Mishra's Bauble
-      - 1 Mycosynth Lattice
-      - 1 Nutrient Block
+      - 1 Ozolith, the Shattered Spire
       - 1 Sol Ring
       - 1 Strionic Resonator
       - 1 Swiftfoot Boots
@@ -59,13 +55,14 @@ main:
       - 1 The Ozolith
       - 1 The Stasis Coffin
       - 1 Urza's Saga
-      - 1 Warmaker Gunship
-      - 1 Zuran Orb
+      - 1 Annie Joins Up
+      - 1 Nutrient Block
+      - 1 Bonder's Ornament
+      - 1 Halo Fountain
   - Spells:
       - 1 Crop Rotation
       - 1 Cycle of Renewal
       - 1 Earth Rumble
-      - 1 Earthbending Lesson
       - 1 Earthshape
       - 1 Farseek
       - 1 Heroic Intervention
@@ -74,48 +71,67 @@ main:
       - 1 Organic Extinction
       - 1 Origin of Metalbending
       - 1 Path to Exile
-      - 1 Rockalanche
       - 1 Swords to Plowshares
+      - 1 Constant Mists
+      - 1 Seismic Sense
+      - 1 Worldly Tutor
+      - 1 Enlightened Tutor
   - Lands:
       - 1 Arid Mesa
       - 1 Command Tower
-      - 1 Evolving Wilds
       - 1 Exotic Orchard
       - 1 Fabled Passage
+      - 1 Karn's Bastion
       - 1 Rumble Arena
       - 1 Secret Tunnel
-      - 1 Terramorphic Expanse
+      - 1 Verdant Catacombs
       - 1 Windswept Heath
       - 1 Wooded Foothills
       - 1 Yavimaya, Cradle of Growth
-      - 1 Karn's Bastion
-      - 1 Plains
+      - 1 Field of the Dead
+      - 1 Vesuva
+      - 1 Inventors' Fair
       - 1 Abandoned Air Temple
       - 1 Adagia, Windswept Bastion
-      - 1 Sacred Foundry
-      - 1 Plateau
+      - 2 Plains
       - 1 Needleverge Pathway // Pillarverge Pathway
-      - 1 Sunscorched Divide
+      - 1 Plateau
+      - 1 Sacred Foundry
       - 1 Jetmir's Garden
-      - 1 Jungle Shrine
-      - 1 Temple Garden
       - 1 Branchloft Pathway // Boulderloft Pathway
-      - 1 Sungrass Prairie
-      - 3 Mountain
-      - 1 Stomping Ground
+      - 1 Temple Garden
+      - 2 Mountain
       - 1 Cragcrown Pathway // Timbercrown Pathway
-      - 1 Mossfire Valley
+      - 1 Stomping Ground
       - 1 Ba Sing Se
-      - 2 Forest
       - 1 Evendo, Waking Haven
+      - 4 Forest
 side: null
 maybe:
   - Creatures:
       - 1 Meteor Golem
       - 1 Tifa Lockhart
       - 1 Toph, Hardheaded Teacher
+      - 1 Tireless Provisioner
+      - 1 Dryad of the Ilysian Grove
+      - 1 Combat Thresher
   - Planeswalker:
       - 1 Wrenn and Realmbreaker
   - Artifacts & Enchantments:
       - 1 Panharmonicon
-      - 1 Ozolith, the Shattered Spire
+      - 1 Survey Mechan
+      - 1 Blackblade Reforged
+      - 1 Conduit of Worlds
+      - 1 Manascape Refractor
+      - 1 Lumbering Worldwagon
+      - 1 Seer's Sundial
+      - 1 Solid Ground
+      - 1 Hardened Scales
+      - 1 Branching Evolution
+      - 1 Tale of Katara and Toph
+      - 1 The Walls of Ba Sing Se
+      - 1 Bagel and Schmear
+      - 1 Bag of Holding
+      - 1 Commander's Sphere
+      - 1 Diviner's Wand
+  - Lands: null
