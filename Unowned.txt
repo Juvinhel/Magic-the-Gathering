@@ -45,6 +45,8 @@
 1 Arboreal Grazer
 1 Arcane Adaptation
 1 Arcane Lighthouse
+1 Arcbound Javelineer
+1 Arcbound Mouser
 1 Arcbound Shikari
 1 Arcee, Sharpshooter // Arcee, Acrobatic Coupe
 1 Arch of Orazca
@@ -108,6 +110,7 @@
 1 Blooming Marsh
 1 Blossoming Defense
 2 Bolas's Citadel
+1 Bonder's Ornament
 1 Boon of the Spirit Realm
 1 Boosted Sloop
 1 Bootleggers' Stash
@@ -152,6 +155,7 @@
 1 Cloudcrest Lake
 1 Coalition Victory
 1 Colfenor's Urn
+1 Combat Thresher
 1 Combine Chrysalis
 1 Commercial District
 1 Company Commander
@@ -162,11 +166,12 @@
 1 Conduit of Worlds
 1 Conqueror's Galleon // Conqueror's Foothold
 1 Consecrated Sphinx
+1 Constant Mists
 1 Contentious Plan
 1 Conversion Apparatus
 1 Copperline Gorge
 1 Copy Land
-1 Cosmos Elixir
+2 Cosmos Elixir
 1 Court of Vantress
 1 Crashing Drawbridge
 1 Crawling Barrens
@@ -211,6 +216,7 @@
 1 Discovery // Dispersal
 1 Dismantling Wave
 1 Dismember
+1 Diviner's Wand
 1 Doomwake Giant
 1 Door of Destinies
 1 Doran, the Siege Tower
@@ -287,7 +293,6 @@
 1 Food Chain
 1 Force of Despair
 1 Force of Negation
-1 Force of Will
 1 Forensic Gadgeteer
 1 Forgotten Ancient
 1 Fortified Beachhead
@@ -465,6 +470,7 @@
 1 Maestros Theater
 1 Mana Vault
 1 Managorger Hydra
+1 Manascape Refractor
 1 Many Partings
 1 Marisi, Breaker of the Coil
 1 Marsh Flats
@@ -525,6 +531,7 @@
 1 Nyx Lotus
 1 Oboro, Palace in the Clouds
 1 Obscura Storefront
+1 Obuun, Mul Daya Ancestor
 1 Ocelot Pride
 1 Of Herbs and Stewed Rabbit
 1 Okina, Temple to the Grandfathers
@@ -671,6 +678,7 @@
 1 Security Bypass
 1 Seedborn Muse
 1 Seeker of Skybreak
+1 Seer's Sundial
 1 Selesnya Signet
 1 Selfless Savior
 1 Selfless Squire
@@ -713,6 +721,7 @@
 2 Smothering Tithe
 1 Soaring Lightbringer
 1 Solarion
+1 Solid Ground
 1 Soured Springs
 1 Sovereign Okinec Ahau
 1 Spara's Headquarters
@@ -722,6 +731,7 @@
 1 Spirebluff Canal
 1 Split Up
 1 Springbloom Druid
+1 Springheart Nantuko
 1 Staff of Titania
 1 Stalwart Shield-Bearers
 1 Stalwart Valkyrie
@@ -750,6 +760,7 @@
 1 Sylvan Caryatid
 1 Sylvan Library
 1 Taiga
+1 Tale of Katara and Toph
 1 Talion, the Kindly Lord
 1 Talon Gates of Madara
 1 Tamiyo's Safekeeping
