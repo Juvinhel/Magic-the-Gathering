@@ -24,7 +24,6 @@ main:
       - 1 Karmic Guide
       - 1 Lizard Blades
       - 1 Locke, Treasure Hunter
-      - 1 Loran of the Third Path
       - 1 Luminous Broodmoth
       - 1 Meteor Golem
       - 1 Millikin
@@ -42,10 +41,12 @@ main:
       - 1 Stitcher's Supplier
       - "1 Summon: Esper Valigarmanda"
       - "1 Summon: Knights of Round"
+      - 1 The Walls of Ba Sing Se
       - 1 Tree of Perdition
   - Artifacts & Enchantments:
       - 1 Animate Dead
       - 1 Arcane Signet
+      - 1 Brotherhood Regalia
       - 1 Genji Glove
       - 1 Key to the City
       - 1 Lightning Greaves
@@ -53,9 +54,8 @@ main:
       - 1 Ripples of Undeath
       - 1 Rover Blades
       - 1 Sol Ring
+      - 1 Sonic Screwdriver
       - 1 Swiftfoot Boots
-      - 1 Talisman of Conviction
-      - 1 Talisman of Indulgence
       - 1 Teval's Judgment
       - 1 The Soul Stone
   - Spells:
@@ -77,36 +77,35 @@ main:
       - 1 Tragic Arrogance
   - Lands:
       - 1 Access Tunnel
+      - 1 Arid Mesa
+      - 1 Bloodstained Mire
       - 1 Command Tower
       - 1 Exotic Orchard
       - 1 High Market
+      - 1 Marsh Flats
       - 1 Path of Ancestry
       - 1 Rogue's Passage
       - 2 Plains
       - 1 Brightclimb Pathway // Grimclimb Pathway
-      - 1 Desolate Mire
-      - 1 Fetid Heath
       - 1 Godless Shrine
       - 1 Vault of the Archangel
       - 1 Nomad Outpost
       - 1 Savai Triome
-      - 1 Battlefield Forge
       - 1 Clifftop Retreat
       - 1 Needleverge Pathway // Pillarverge Pathway
+      - 1 Plateau
       - 1 Rugged Prairie
       - 1 Sacred Foundry
       - 1 Sunhome, Fortress of the Legion
-      - 1 Sunscorched Divide
       - 1 Barad-dûr
       - 1 Minas Morgul, Dark Fortress
+      - 1 Phyrexian Tower
       - 1 Shizo, Death's Storehouse
       - 1 Swamp
       - 1 The Black Gate
       - 1 Blightstep Pathway // Searstep Pathway
       - 1 Blood Crypt
-      - 1 Graven Cairns
-      - 1 Shadowblood Ridge
-      - 1 Sulfurous Springs
+      - 1 Fire Nation Palace
       - 3 Mountain
       - 1 Shinka, the Bloodsoaked Keep
 side: null
@@ -116,6 +115,7 @@ maybe:
       - 1 Gau, Feral Youth
       - 1 General Leo Cristophe
       - 1 Kefka, Dancing Mad
+      - 1 Loran of the Third Path
       - 1 Sun Titan
       - 1 The Warring Triad
   - Planeswalker & Battles: null
