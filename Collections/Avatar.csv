@@ -2,7 +2,7 @@ Name,Set code,Language,Quantity
 "Aang, at the Crossroads // Aang, Destined Savior",TLA,de,1
 "Aang, the Last Airbender",TLA,de,1
 Aang's Iceberg,TLA,de,1
-Aang's Journey,TLA,de,3
+Aang's Journey,TLA,de,4
 Abandon Attachments,TLA,de,3
 Accumulate Wisdom,TLA,de,1
 Air Nomad Legacy,TLA,de,1
@@ -13,12 +13,15 @@ Allies at Last,TLA,de,1
 Ally,TTLA,de,17
 "Appa, Loyal Sky Bison",TLA,de,1
 Avatar Enthusiasts,TLA,de,3
+"Avatar Kyoshi, Earthbender",TLE,de,1
+Avatar's Wrath,TLA,de,1
 Azula Always Lies,TLA,de,3
 "Azula, Cunning Usurper",TLA,de,1
 "Azula, On the Hunt",TLA,de,1
+"Azula, Ruthless Firebender",TLE,de,1
 Badgermole,TLA,de,2
 Badgermole Cub,TLA,de,1
-Ballistic Boulder,TTLA,de,2
+Ballistic Boulder,TTLA,de,3
 Barrels of Blasting Jelly,TLA,de,3
 Bear,TTLA,de,1
 Beetle-Headed Merchants,TLA,de,2
@@ -27,20 +30,20 @@ Bender's Waterskin,TLA,de,3
 Benevolent River Spirit,TLA,de,2
 Bitter Work,TLA,de,1
 Boar-q-pine,TLA,de,3
-Boiling Rock Prison,TLA,de,1
+Boiling Rock Prison,TLA,de,2
 Bumi Bash,TLA,de,3
 "Bumi, King of Three Trials",TLA,de,1
 Buzzard-Wasp Colony,TLA,de,1
 Callous Inspector,TLA,de,3
 Canyon Crawler,TLA,de,4
 Captain Sisay,TLE,de,1
-Cat-Gator,TLA,de,1
+Cat-Gator,TLA,de,2
 Cat-Owl,TLA,de,2
-Clue,TTLA,de,17
+Clue,TTLA,de,18
 Combustion Man,TLA,de,1
 Combustion Technique,TLA,de,1
 Compassionate Healer,TLA,de,2
-Copy,TTLA,de,5
+Copy,TTLA,de,6
 Corrupt Court Official,TLA,de,3
 Crashing Wave,TLA,de,1
 Crescent Island Temple,TLA,de,1
@@ -51,8 +54,9 @@ Cycle of Renewal,TLA,de,3
 Dai Li Agents,TLA,de,2
 Dai Li Indoctrination,TLA,de,2
 Deadly Precision,TLA,de,3
+Deny Entry,TLE,de,1
 Deserter's Disciple,TLA,de,3
-Destined Confrontation,TLA,de,1
+Destined Confrontation,TLA,de,2
 Dragonfly Swarm,TLA,de,1
 Earth King's Lieutenant,TLA,de,1
 Earth Kingdom General,TLA,de,1
@@ -60,21 +64,25 @@ Earth Kingdom Jailer,TLA,de,2
 Earth Kingdom Protectors,TLA,de,1
 Earth Kingdom Soldier,TLA,de,3
 Earth Rumble,TLA,de,1
-Earth Rumble Wrestlers,TLA,de,3
+Earth Rumble Wrestlers,TLA,de,4
 Earth Village Ruffians,TLA,de,2
-Earthbender Ascension,TLA,de,1
+Earthbender Ascension,TLA,de,2
 Earthbending Lesson,TLA,de,2
 Earthen Ally,TLA,de,1
+Eel-Hounds,TLE,de,1
+Elemental Teachings,TLA,de,1
 Ember Island Production,TLA,de,1
 Energybending,TLA,de,1
 Epic Downfall,TLA,de,2
-Fancy Footwork,TLA,de,2
+Fancy Footwork,TLA,de,3
 Fatal Fissure,TLA,de,1
+Fire Lord Zuko,TLA,de,1
 Fire Nation Attacks,TLA,de,1
 Fire Nation Cadets,TLA,de,2
+Fire Nation Palace,TLA,de,1
 Fire Nation Raider,TLA,de,3
 Fire Nation Warship,TLA,de,1
-Fire Navy Trebuchet,TLA,de,2
+Fire Navy Trebuchet,TLA,de,3
 Fire Sages,TLA,de,2
 Firebender Ascension,TLA,de,1
 Firebending Lesson,TLA,de,4
@@ -90,7 +98,9 @@ Food,TTLA,de,2
 Forecasting Fortune Teller,TLA,de,3
 Gather the White Lotus,TLA,de,1
 Geyser Leaper,TLA,de,3
+Giant Fly,TLE,de,1
 Giant Koi,TLA,de,3
+Gilacorn,TLE,de,1
 Glider Kids,TLA,de,3
 Glider Staff,TLA,de,1
 Gran-Gran,TLA,de,1
@@ -98,8 +108,8 @@ Guru Pathik,TLA,de,2
 "Hama, the Bloodbender",TLA,de,1
 "Haru, Hidden Talent",TLA,de,1
 Heartless Act,TLA,de,1
-"Hei Bai, Spirit of Balance",TLA,de,1
-Hermitic Herbalist,TLA,de,1
+"Hei Bai, Spirit of Balance",TLA,de,2
+Hermitic Herbalist,TLA,de,2
 Hog-Monkey,TLA,de,3
 Honest Work,TLA,de,1
 How to Start a Riot,TLA,de,3
@@ -118,9 +128,9 @@ Jet's Brainwashing,TLA,de,1
 "June, Bounty Hunter",TLA,de,1
 "Katara, Bending Prodigy",TLA,de,1
 "Katara, the Fearless",TLA,de,1
-Knowledge Seeker,TLA,de,1
+Knowledge Seeker,TLA,de,2
 "Koh, the Face Stealer",TLA,de,1
-Kyoshi Battle Fan,TLA,de,2
+Kyoshi Battle Fan,TLA,de,3
 Kyoshi Village,TLA,de,1
 Kyoshi Warriors,TLA,de,3
 Leaves from the Vine,TLA,de,1
@@ -129,9 +139,11 @@ Lightning Strike,TLA,de,2
 "Long Feng, Grand Secretariat",TLA,de,1
 Lost Days,TLA,de,4
 "Mai, Jaded Edge",TLA,de,1
+"Mai, Scornful Striker",TLA,de,1
+Many Partings,TLE,de,1
 Master Pakku,TLA,de,1
 Master Piandao,TLA,de,2
-Meditation Pools,TLA,de,1
+Meditation Pools,TLA,de,2
 Merchant of Many Hats,TLA,de,2
 Messenger Hawk,TLA,de,4
 Meteor Sword,TLA,de,1
@@ -139,13 +151,15 @@ Misty Palms Oasis,TLA,de,3
 "Momo, Playful Pet",TLA,de,1
 Mongoose Lizard,TLA,de,3
 Monk,TTLA,de,1
+Mystic Remora,TLE,de,1
 North Pole Gates,TLA,de,2
 North Pole Patrol,TLA,de,1
 Northern Air Temple,TLA,de,1
+Noxious Gearhulk,TLE,de,1
 Obsessive Pursuit,TLA,de,1
 Octopus Form,TLA,de,2
 Omashu City,TLA,de,2
-Origin of Metalbending,TLA,de,3
+Origin of Metalbending,TLA,de,4
 Ostrich-Horse,TLA,de,3
 Otter-Penguin,TLA,de,2
 Ozai's Cruelty,TLA,de,1
@@ -154,7 +168,8 @@ Pillar Launch,TLA,de,3
 Pirate Peddlers,TLA,de,2
 Platypus-Bear,TLA,de,3
 Pretending Poxbearers,TLA,de,2
-Price of Freedom,TLA,de,2
+Price of Freedom,TLA,de,3
+Princess Yue,TLE,de,1
 "Professor Zei, Anthropologist",TLA,de,1
 Rabaroo Troop,TLA,de,3
 Ran and Shaw,TLA,de,1
@@ -162,28 +177,32 @@ Raucous Audience,TLA,de,3
 Razor Rings,TLA,de,2
 Realm of Koh,TLA,de,1
 Rebellious Captives,TLA,de,3
-Rockalanche,TLA,de,2
-Rocky Rebuke,TLA,de,2
+Release to Memory,TLE,de,1
+Rockalanche,TLA,de,3
+Rocky Rebuke,TLA,de,3
 Rough Rhino Cavalry,TLA,de,3
 Rowdy Snowballers,TLA,de,3
 Ruinous Waterbending,TLA,de,1
 Rumble Arena,TLA,de,2
-Saber-Tooth Moose-Lion,TLA,de,3
+Saber-Tooth Moose-Lion,TLA,de,4
 Sandbender Scavengers,TLA,de,1
-Sandbenders' Storm,TLA,de,3
+Sandbenders' Storm,TLA,de,4
 Secret Tunnel,TLA,de,1
 Seismic Sense,TLA,de,1
 Serpent of the Pass,TLA,de,1
 Serpent's Pass,TLA,de,1
 Shared Roots,TLA,de,1
+Shattering Spree,TLE,de,1
+Sledding Otter-Penguin,TLE,de,1
 "Sokka, Lateral Strategist",TLA,de,1
 Sokka's Haiku,TLA,de,2
 Sold Out,TLA,de,2
-Soldier,TTLE,de,4
+Soldier,TTLE,de,6
+Solid Ground,TLE,de,1
 Solstice Revelations,TLA,de,1
 South Pole Voyager,TLA,de,1
 Southern Air Temple,TLA,de,1
-Sozin's Comet,TLA,de,1
+Sozin's Comet,TLA,de,2
 Sparring Dummy,TLA,de,1
 Spirit,TTLA,de,3
 "Suki, Courageous Rescuer",TLA,de,1
@@ -191,29 +210,33 @@ Spirit,TTLA,de,3
 Sun Warriors,TLA,de,1
 Sun-Blessed Peak,TLA,de,3
 Swampsnare Trap,TLA,de,3
+Tale of Momo,TLE,de,1
 Team Avatar,TLA,de,2
 "Teo, Spirited Glider",TLA,de,1
-The Cave of Two Lovers,TLA,de,2
+That's Rough Buddy,TLE,de,1
+The Cave of Two Lovers,TLA,de,3
 The Earth King,TLA,de,1
 The Fire Nation Drill,TLA,de,1
 The Legend of Kyoshi // Avatar Kyoshi,TLA,de,1
-The Lion-Turtle,TLA,de,1
+The Lion-Turtle,TLA,de,2
 "The Mechanist, Aerial Artisan",TLA,de,1
 The Spirit Oasis,TLA,de,1
-The Unagi of Kyoshi Island,TLA,de,1
+The Unagi of Kyoshi Island,TLA,de,2
 The Walls of Ba Sing Se,TLA,de,1
+Thriving Bluff,TLE,de,1
+Thriving Heath,TLE,de,1
 Tiger-Dillo,TLA,de,1
-Tiger-Seal,TLA,de,1
+Tiger-Seal,TLA,de,2
 Tolls of War,TLA,de,1
 "Toph, Hardheaded Teacher",TLA,de,1
-"Toph, the Blind Bandit",TLA,de,2
-"Toph, the First Metalbender",TLA,de,1
+"Toph, the Blind Bandit",TLA,de,3
+"Toph, the First Metalbender",TLA,de,2
 Treetop Freedom Fighters,TLA,de,3
 True Ancestry,TLA,de,1
 Trusty Boomerang,TLA,de,1
 Tundra Tank,TLA,de,1
-Turtle-Duck,TLA,de,4
-Twin Blades,TLA,de,1
+Turtle-Duck,TLA,de,5
+Twin Blades,TLA,de,2
 "Ty Lee, Artful Acrobat",TLA,de,1
 Uncle Iroh,TLA,de,1
 United Front,TLA,de,1
@@ -224,16 +247,18 @@ Walltop Sentries,TLA,de,2
 "Wan Shi Tong, Librarian",TLA,de,1
 Wandering Musicians,TLA,de,3
 War Balloon,TLA,de,1
-Wartime Protestors,TLA,de,2
+Wartime Protestors,TLA,de,3
 Water Tribe Captain,TLA,de,3
 Water Tribe Rallier,TLA,de,1
+Waterbender's Restoration,TLE,de,1
 Waterbending Lesson,TLA,de,3
 Waterbending Scroll,TLA,de,1
-Watery Grasp,TLA,de,3
+Watery Grasp,TLA,de,4
 White Lotus Hideout,TLA,de,3
 White Lotus Reinforcements,TLA,de,2
+Wolf Cove Villager,TLE,de,1
 Wolfbat,TLA,de,1
-Yip Yip!,TLA,de,3
+Yip Yip!,TLA,de,4
 "Yue, the Moon Spirit",TLA,de,3
 Yuyan Archers,TLA,de,2
 "Zhao, Ruthless Admiral",TLA,de,1

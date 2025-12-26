@@ -471,7 +471,6 @@
 1 Mana Vault
 1 Managorger Hydra
 1 Manascape Refractor
-1 Many Partings
 1 Marisi, Breaker of the Coil
 1 Marsh Flats
 1 Masked Vandal
@@ -721,7 +720,6 @@
 2 Smothering Tithe
 1 Soaring Lightbringer
 1 Solarion
-1 Solid Ground
 1 Soured Springs
 1 Sovereign Okinec Ahau
 1 Spara's Headquarters
