@@ -17,7 +17,6 @@ main:
       - 1 Badgermole Cub
       - 1 Bristly Bill, Spine Sower
       - 1 Bumi, Eclectic Earthbender
-      - 1 Bumi, Unleashed
       - 1 Esper Sentinel
       - 1 Evolution Sage
       - 1 Haywire Mite
@@ -28,6 +27,7 @@ main:
       - 1 Scute Swarm
       - 1 Scythecat Cub
       - 1 Springheart Nantuko
+      - 1 Survey Mechan
       - 1 Sylvan Safekeeper
       - 1 Tannuk, Memorial Ensign
       - 1 Toph, Earthbending Master
@@ -35,36 +35,38 @@ main:
       - 1 Toph, the Blind Bandit
   - Planeswalker: null
   - Artifacts & Enchantments:
+      - 1 Annie Joins Up
       - 1 Bender's Waterskin
+      - 1 Bonder's Ornament
       - 1 Chromatic Lantern
       - 1 Earthbender Ascension
       - 1 Felidar Retreat
+      - 1 Halo Fountain
       - 1 Ichor Wellspring
-      - 1 Lightning Greaves
       - 1 Liquimetal Coating
       - 1 Liquimetal Torque
       - 1 Mishra's Bauble
+      - 1 Nutrient Block
       - 1 Ozolith, the Shattered Spire
+      - 1 Palantír of Orthanc
       - 1 Sol Ring
       - 1 Strionic Resonator
       - 1 Swiftfoot Boots
       - 1 Terra Eternal
       - 1 Terrasymbiosis
       - 1 The Earth Crystal
-      - 1 The Great Henge
       - 1 The Legend of Kyoshi // Avatar Kyoshi
+      - 1 The One Ring
       - 1 The Ozolith
       - 1 The Stasis Coffin
       - 1 Urza's Saga
-      - 1 Annie Joins Up
-      - 1 Nutrient Block
-      - 1 Bonder's Ornament
-      - 1 Halo Fountain
   - Spells:
+      - 1 Constant Mists
       - 1 Crop Rotation
       - 1 Cycle of Renewal
       - 1 Earth Rumble
       - 1 Earthshape
+      - 1 Enlightened Tutor
       - 1 Farseek
       - 1 Heroic Intervention
       - 1 Hour of Revelation
@@ -72,26 +74,24 @@ main:
       - 1 Organic Extinction
       - 1 Origin of Metalbending
       - 1 Path to Exile
-      - 1 Swords to Plowshares
-      - 1 Constant Mists
       - 1 Seismic Sense
+      - 1 Swords to Plowshares
       - 1 Worldly Tutor
-      - 1 Enlightened Tutor
   - Lands:
       - 1 Arid Mesa
       - 1 Command Tower
       - 1 Exotic Orchard
       - 1 Fabled Passage
+      - 1 Field of the Dead
+      - 1 Inventors' Fair
       - 1 Karn's Bastion
       - 1 Rumble Arena
       - 1 Secret Tunnel
       - 1 Verdant Catacombs
+      - 1 Vesuva
       - 1 Windswept Heath
       - 1 Wooded Foothills
       - 1 Yavimaya, Cradle of Growth
-      - 1 Field of the Dead
-      - 1 Vesuva
-      - 1 Inventors' Fair
       - 1 Abandoned Air Temple
       - 1 Adagia, Windswept Bastion
       - 2 Plains
@@ -110,29 +110,52 @@ main:
 side: null
 maybe:
   - Creatures:
-      - 1 Meteor Golem
-      - 1 Tifa Lockhart
-      - 1 Toph, Hardheaded Teacher
-      - 1 Tireless Provisioner
-      - 1 Dryad of the Ilysian Grove
+      - 1 Bumi, Unleashed
+      - 1 Circuit Mender
       - 1 Combat Thresher
+      - 1 Dryad of the Ilysian Grove
+      - 1 Dyadrine, Synthesis Amalgam
+      - 1 Market Gnome
+      - 1 Meteor Golem
+      - 1 Platoon Dispenser
+      - 1 Solemn Simulacrum
+      - 1 Tifa Lockhart
+      - 1 Tireless Provisioner
+      - 1 Toph, Hardheaded Teacher
   - Planeswalker:
+      - 1 The Aetherspark
       - 1 Wrenn and Realmbreaker
   - Artifacts & Enchantments:
-      - 1 Panharmonicon
-      - 1 Survey Mechan
+      - 1 Bag of Holding
+      - 1 Bagel and Schmear
       - 1 Blackblade Reforged
+      - 1 Branching Evolution
+      - 1 Collector's Vault
+      - 1 Commander's Sphere
       - 1 Conduit of Worlds
-      - 1 Manascape Refractor
+      - 1 Diviner's Wand
+      - 1 Eye of Vecna
+      - 1 Hardened Scales
+      - 1 Heirloom Epic
+      - 1 Herd Heirloom
+      - 1 Horn of Greed
+      - 1 Implement of Ferocity
+      - 1 Key to the City
+      - 1 Lifecrafter's Bestiary
       - 1 Lumbering Worldwagon
+      - 1 Manascape Refractor
+      - 1 Mazemind Tome
+      - 1 Mirror of Galadriel
+      - 1 Panharmonicon
+      - 1 Prophetic Prism
       - 1 Seer's Sundial
       - 1 Solid Ground
-      - 1 Hardened Scales
-      - 1 Branching Evolution
+      - 1 Staff of Compleation
+      - 1 Staff of Domination
+      - 1 Staff of Nin
+      - 1 Survey Mechan
+      - 1 Tablet of Compleation
       - 1 Tale of Katara and Toph
       - 1 The Walls of Ba Sing Se
-      - 1 Bagel and Schmear
-      - 1 Bag of Holding
-      - 1 Commander's Sphere
-      - 1 Diviner's Wand
+      - 1 Wedding Ring
   - Lands: null
