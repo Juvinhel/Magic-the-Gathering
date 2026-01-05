@@ -1,54 +1,74 @@
 Name,Set code,Language,Quantity
 Abundant Growth,INR,de,1
-Abundant Growth,INR,en,2
+Abundant Growth,INR,en,3
 Aim High,INR,de,2
 Alchemist's Greeting,INR,de,1
 Ancestral Anger,INR,de,1
 Ancestral Anger,INR,en,1
 Angel's Tomb,INR,de,1
+Angelic Purge,INR,en,1
+Apothecary Geist,INR,en,1
 Avacynian Priest,INR,de,1
 Blood Mist,INR,de,1
 Borrowed Hostility,INR,de,1
 Bound by Moonsilver,INR,de,1
 Bound by Moonsilver,INR,en,1
+Butcher's Cleaver,INR,en,1
+Cathar Commando,INR,en,1
+Cathar's Call,INR,en,1
 "Chandra, Dressed to Kill",INR,de,1
 Clue,TINR,de,1
-Cobbled Wings,INR,en,1
+Cobbled Wings,INR,en,2
 Collective Brutality,INR,de,1
 Compelling Deterrence,INR,de,1
 Conduit of Storms // Conduit of Emrakul,INR,en,1
 Crawl from the Cellar,INR,de,1
 Crawl from the Cellar,INR,en,1
+Crusader of Odric,INR,en,2
+Cryptolith Rite,INR,en,1
+Dawnhart Disciple,INR,en,1
 Deathcap Glade,INR,en,1
 Delver of Secrets // Insectile Aberration,INR,de,1
-Duel for Dominance,INR,en,1
+Demonmail Hauberk,INR,en,1
+Drogskol Shieldmate,INR,en,2
+Duel for Dominance,INR,en,3
 Duskwatch Recruiter // Krallenhorde Howler,INR,en,1
 Eaten Alive,INR,de,1
 Eccentric Farmer,INR,de,1
+Eccentric Farmer,INR,en,2
 Edgar's Awakening,INR,de,1
 Eldrazi Horror,TINR,de,1
 Essence Flux,INR,en,1
 Faith Unbroken,INR,de,1
 Faithless Looting,INR,de,1
+Fiend Hunter,INR,en,1
 Forbidden Alchemy,INR,en,1
 Galvanic Iteration,INR,de,1
 Gather the Townsfolk,INR,de,1
 Gisa's Bidding,INR,de,1
 Grizzled Angler // Grisly Anglerfish,INR,de,1
+Groundskeeper,INR,en,1
 Guardian of Pilgrims,INR,de,1
+Guardian of Pilgrims,INR,en,1
 Hanweir Watchkeep // Bane of Hanweir,INR,en,1
+Harvest Hand // Scrounged Scythe,INR,en,1
 Hinterland Logger // Timber Shredder,INR,de,1
 Human,TINR,de,1
 Human Soldier,TINR,de,2
 Hungry Ridgewolf,INR,en,1
 Imprisoned in the Moon,INR,de,1
+Inspiring Captain,INR,en,1
 Invasion of Innistrad // Deluge of the Dead,INR,en,1
+Join the Dance,INR,en,1
 Killing Wave,INR,en,1
 Lantern Bearer // Lanterns' Lift,INR,de,1
 Lumberknot,INR,de,1
+Lunarch Mantle,INR,en,1
 Mass Hysteria,INR,en,1
+Mentor of the Meek,INR,en,1
 Mist Raven,INR,de,1
 Moldgraf Millipede,INR,en,1
+Neglected Heirloom // Ashmouth Blade,INR,en,1
 "Odric, Lunarch Marshal",INR,de,1
 Pack Guardian,INR,de,1
 Reckless Scholar,INR,de,1
@@ -57,26 +77,32 @@ Savage Alliance,INR,en,1
 Seize the Storm,INR,de,1
 Sever the Bloodline,INR,en,1
 Siege Zombie,INR,de,1
+Soul-Guide Gryff,INR,en,1
 Soulcipher Board // Cipherbound Spirit,INR,de,1
 Spectral Shepherd,INR,de,1
 Spell Queller,INR,de,1
+Spider Spawning,INR,en,1
 Spirit,TINR,de,1
 Stormcarved Coast,INR,de,1
 Strength of Arms,INR,de,2
-Subjugator Angel,INR,en,1
+Subjugator Angel,INR,en,2
 Syncopate,INR,de,1
 Think Twice,INR,de,1
-Thraben Inspector,INR,en,1
+Thraben Inspector,INR,en,3
 Tower Geist,INR,de,1
 Tower Geist,INR,en,1
 Town Gossipmonger // Incited Rabble,INR,de,1
 Travel Preparations,INR,en,1
-Traveler's Amulet,INR,en,1
+Traveler's Amulet,INR,en,2
 Twinblade Geist // Twinblade Invocation,INR,de,1
+Ulvenwald Mysteries,INR,en,1
+Unnatural Growth,INR,en,1
 Village Messenger // Moonrise Intruder,INR,de,1
+Voice of the Blessed,INR,en,1
 Voldaren Duelist,INR,de,1
 Voldaren Epicure,INR,de,1
 Wolf,TINR,en,2
 Wretched Gryff,INR,de,1
 Wretched Gryff,INR,en,1
 Wretched Throng,INR,de,1
+Young Wolf,INR,en,1

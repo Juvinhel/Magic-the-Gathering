@@ -46,7 +46,6 @@
 1 Arcane Adaptation
 1 Arcane Lighthouse
 1 Arcbound Javelineer
-1 Arcbound Mouser
 1 Arcbound Shikari
 1 Arcee, Sharpshooter // Arcee, Acrobatic Coupe
 1 Arch of Orazca
@@ -110,7 +109,6 @@
 1 Blooming Marsh
 1 Blossoming Defense
 2 Bolas's Citadel
-1 Bonder's Ornament
 1 Boon of the Spirit Realm
 1 Boosted Sloop
 1 Bootleggers' Stash
@@ -127,7 +125,6 @@
 1 Brilliant Restoration
 1 Brimaz, King of Oreskos
 1 Bristling Backwoods
-1 Bristly Bill, Spine Sower
 1 Brokers Hideout
 1 Bruna, the Fading Light
 1 Brushland
@@ -151,10 +148,12 @@
 1 Chandra, Awakened Inferno
 1 Chrome Mox
 1 Cinder Marsh
+1 Circuit Mender
 1 Clive's Hideaway
 1 Cloudcrest Lake
 1 Coalition Victory
 1 Colfenor's Urn
+1 Collector's Vault
 1 Combat Thresher
 1 Combine Chrysalis
 1 Commercial District
@@ -166,12 +165,11 @@
 1 Conduit of Worlds
 1 Conqueror's Galleon // Conqueror's Foothold
 1 Consecrated Sphinx
-1 Constant Mists
 1 Contentious Plan
 1 Conversion Apparatus
 1 Copperline Gorge
 1 Copy Land
-2 Cosmos Elixir
+1 Cosmos Elixir
 1 Court of Vantress
 1 Crashing Drawbridge
 1 Crawling Barrens
@@ -282,13 +280,11 @@
 1 Felothar the Steadfast
 1 Ferrous Lake
 1 Festering Gulch
-1 Field of the Dead
 1 Field-Tested Frying Pan
 1 Fire-Lit Thicket
 1 Flagstones of Trokair
 1 Flare of Fortitude
 1 Flooded Grove
-1 Flooded Strand
 1 Floodfarm Verge
 1 Food Chain
 1 Force of Despair
@@ -353,7 +349,6 @@
 1 Hall of Heliod's Generosity
 1 Hall of Tagsin
 1 Hallowed Haunting
-1 Halo Fountain
 1 Hamza, Guardian of Arashin
 1 Hardened Scales
 1 Harrier Strix
@@ -366,10 +361,12 @@
 1 Helm of the Ghastlord
 1 Helm of the Host
 1 Herald of Secret Streams
+1 Herd Heirloom
 1 Hidden Courtyard
 1 Hinterland Harbor
 1 Hissing Quagmire
 1 Hopeful Initiate
+1 Horn of Greed
 1 Horn of Valhalla // Ysgard's Call
 1 Hornet Queen
 1 Hourglass of the Lost
@@ -384,6 +381,7 @@
 1 Immovable Rod
 1 Impact Tremors
 2 Imperial Seal
+1 Implement of Ferocity
 1 Incubation Druid
 1 Indatha Triome
 1 Indomitable Ancients
@@ -395,7 +393,6 @@
 1 Intangible Virtue
 1 Intelligence Bobblehead
 1 Intuition
-1 Inventors' Fair
 1 Invigorate
 1 Irenicus's Vile Duplication
 1 Iron Apprentice
@@ -445,6 +442,7 @@
 1 Legion Angel
 1 Legion's Landing // Adanto, the First Fort
 1 Leonin Warleader
+1 Lifecrafter's Bestiary
 1 Light of the Legion
 1 Lindblum, Industrial Regency // Mage Siege
 1 Linvala, Keeper of Silence
@@ -472,11 +470,12 @@
 1 Managorger Hydra
 1 Manascape Refractor
 1 Marisi, Breaker of the Coil
+1 Market Gnome
 1 Marsh Flats
 1 Masked Vandal
 1 Maskwood Nexus
 1 Master Biomancer
-1 Mentor of the Meek
+1 Mazemind Tome
 1 Merry, Warden of Isengard
 1 Mesa Enchantress
 1 Metallic Rebuke
@@ -493,6 +492,7 @@
 1 Mirrex
 1 Mirri, Weatherlight Duelist
 1 Mirror Entity
+1 Mirror of Galadriel
 1 Mirrorpool
 1 Mishra's Workshop
 1 Mist-Cloaked Herald
@@ -530,7 +530,6 @@
 1 Nyx Lotus
 1 Oboro, Palace in the Clouds
 1 Obscura Storefront
-1 Obuun, Mul Daya Ancestor
 1 Ocelot Pride
 1 Of Herbs and Stewed Rabbit
 1 Okina, Temple to the Grandfathers
@@ -550,8 +549,8 @@
 1 Overgrown Tomb
 1 Overprotect
 1 Oversimplify
-1 Ozolith, the Shattered Spire
 1 Pack Leader
+1 Palantír of Orthanc
 1 Panharmonicon
 1 Panoptic Mirror
 1 Paradise Plume
@@ -566,6 +565,7 @@
 1 Phyrexian Tower
 1 Piper Wright, Publick Reporter
 1 Pippin, Warden of Isengard
+1 Platoon Dispenser
 1 Possession Engine
 1 Power Depot
 1 Prairie Dog
@@ -662,12 +662,10 @@
 1 Savannah
 1 Savvy Hunter
 1 Sazh's Chocobo
-1 Scalding Tarn
 1 Scale Up
 1 Scapeshift
 1 Scrawling Crawler
 1 Scrubland
-1 Scythecat Cub
 1 Sea Gate Restoration // Sea Gate, Reborn
 1 Seachrome Coast
 1 Seal of Cleansing
@@ -729,7 +727,9 @@
 1 Spirebluff Canal
 1 Split Up
 1 Springbloom Druid
-1 Springheart Nantuko
+1 Staff of Compleation
+1 Staff of Domination
+1 Staff of Nin
 1 Staff of Titania
 1 Stalwart Shield-Bearers
 1 Stalwart Valkyrie
@@ -757,6 +757,7 @@
 1 Sword of the Animist
 1 Sylvan Caryatid
 1 Sylvan Library
+1 Tablet of Compleation
 1 Taiga
 1 Tale of Katara and Toph
 1 Talion, the Kindly Lord
@@ -842,7 +843,6 @@
 1 Undermine
 1 Underworld Breach
 1 Underworld Coinsmith
-1 Unnatural Growth
 1 Unwind
 1 Urborg
 1 Urborg, Tomb of Yawgmoth
@@ -862,7 +862,6 @@
 1 Vec Townships
 1 Vedalken Archmage
 1 Venat, Heart of Hydaelyn // Hydaelyn, the Mothercrystal
-1 Verdant Catacombs
 1 Veteran Swordsmith
 1 Vial Smasher the Fierce
 1 Victory Chimes

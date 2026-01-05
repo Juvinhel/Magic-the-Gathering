@@ -1,30 +1,35 @@
 Name,Set code,Language,Quantity
-Abandoned Air Temple,TLA,de,4
+Abandoned Air Temple,TLA,en,4
 Aetheric Amplifier,DRC,en,2
 All Will Be One,ONE,en,1
 Ancient Tomb,UMA,en,1
 Angelfire Ignition,INR,en,2
-Annie Joins Up,OTJ,de,1
-Arcbound Ravager,MMA,de,1
-Arid Mesa,MH2,de,1
-"Ashaya, Soul of the Wild",DSC,de,1
+Annie Joins Up,OTJ,en,1
+Arcbound Mouser,MH2,en,2
+Arcbound Ravager,MMA,en,1
+Arid Mesa,MH2,en,1
+"Ashaya, Soul of the Wild",DSC,en,1
 Aura of Dominion,CHK,en,1
-"Avatar Kyoshi, Earthbender",TLE,de,2
-Ba Sing Se,TLA,de,1
+"Avatar Kyoshi, Earthbender",TLE,en,2
+Ba Sing Se,TLA,en,1
 Blitzball Stadium,FIC,en,1
+Bonder's Ornament,CMM,en,1
 Bonders' Enclave,FIC,en,1
-Branchloft Pathway // Boulderloft Pathway,ZNR,de,2
-"Bumi, Eclectic Earthbender",TLE,de,2
-"Bumi, Unleashed",TLA,de,1
+Branchloft Pathway // Boulderloft Pathway,ZNR,en,2
+"Bristly Bill, Spine Sower",OTJ,en,1
+"Bumi, Eclectic Earthbender",TLE,en,2
+"Bumi, Unleashed",TLA,en,1
 Buster Sword,FIN,en,1
 Cavern of Souls,LCI,en,1
-Chromatic Lantern,M3C,de,1
+Chromatic Lantern,M3C,en,1
 Clever Concealment,FIC,en,1
 Clock of Omens,M13,en,2
 Conqueror's Flail,2X2,en,1
+Constant Mists,STH,en,1
+Cosmos Elixir,KHM,en,1
 Counterspell,SLD,en,2
 Counterspell,PURL,en,1
-Cragcrown Pathway // Timbercrown Pathway,ZNR,de,1
+Cragcrown Pathway // Timbercrown Pathway,ZNR,en,1
 Cultivator's Caravan,DRC,en,1
 "Dawnsire, Sunstar Dreadnought",EOE,en,1
 Deadly Rollick,CMM,en,3
@@ -32,27 +37,31 @@ Deflecting Swat,SLD,en,2
 Diamond City,PIP,en,1
 Drannith Ruins,MAT,en,2
 Dreamtide Whale,MH3,en,1
-Dryad of the Ilysian Grove,M3C,de,1
-Earthshape,TLE,de,2
+Dryad of the Ilysian Grove,M3C,en,1
+Earthshape,TLE,en,2
 Enlightened Tutor,DMR,en,1
-Esper Sentinel,H2R,de,1
-"Evendo, Waking Haven",EOE,de,1
+Esper Sentinel,H2R,en,1
+"Evendo, Waking Haven",EOE,en,1
 Everything Comes to Dust,WHO,en,1
-Evolution Sage,LCC,de,1
-Expedition Map,M3C,de,1
-Fabled Passage,EOC,de,1
-Felidar Retreat,FDN,de,1
+Evolution Sage,LCC,en,1
+Expedition Map,M3C,en,1
+Fabled Passage,EOC,en,1
+Felidar Retreat,FDN,en,1
+Field of the Dead,M20,en,1
 Fierce Guardianship,CMM,en,2
+Flooded Strand,MH3,en,1
 Force of Will,DMR,en,1
 Freed from the Real,A25,en,1
 Glasspool Mimic // Glasspool Shore,ZNR,en,1
-Great Divide Guide,TLA,de,1
+Great Divide Guide,TLA,en,1
 Hallowed Fountain,RVR,en,2
-Haywire Mite,DSC,de,1
+Halo Fountain,SNC,en,2
+Haywire Mite,DSC,en,1
 Hengegate Pathway // Mistgate Pathway,PKHM,en,1
-Hour of Revelation,ZNC,de,2
+Hour of Revelation,ZNC,en,2
 Inherited Envelope,LTR,en,1
-Jetmir's Garden,SNC,de,1
+Inventors' Fair,KLD,en,2
+Jetmir's Garden,SNC,en,1
 Karn's Bastion,EOC,en,1
 Lightning Greaves,DRC,en,2
 Mariposa Military Base,PIP,en,1
@@ -60,24 +69,26 @@ Mariposa Military Base,PIP,en,1
 "Minamo, School at Water's Edge",CHK,en,1
 "Minas Morgul, Dark Fortress",LTC,en,1
 Misdirection,DDT,en,1
-"Moraug, Fury of Akoum",EOC,de,1
+"Moraug, Fury of Akoum",EOC,en,1
 Morphic Pool,CLB,en,1
-Mossborn Hydra,FDN,de,1
-Mycosynth Lattice,BBD,de,2
+Mossborn Hydra,FDN,en,1
+Mycosynth Lattice,BBD,en,2
 Mystic Gate,M3C,en,1
 Mystical Tutor,DMR,en,1
 Narset Transcendent,DTK,en,1
 Needleverge Pathway // Pillarverge Pathway,ZNR,en,2
 Nesting Grounds,MH3,en,2
 "Nykthos, Shrine to Nyx",THS,en,1
-Organic Extinction,EOC,de,1
+"Obuun, Mul Daya Ancestor",ZNC,en,1
+Organic Extinction,EOC,en,1
 Ornithopter of Paradise,DRC,en,2
-"Otawara, Soaring City",NEO,de,2
-Path to Exile,ACR,de,2
+"Otawara, Soaring City",NEO,en,2
+"Ozolith, the Shattered Spire",MOM,en,1
+Path to Exile,ACR,en,2
 Path to Exile,BLC,en,1
-Path to Exile,WHO,de,1
+Path to Exile,WHO,en,1
 Pemmin's Aura,SCG,en,2
-Plateau,3ED,de,4
+Plateau,3ED,en,4
 Polluted Delta,MH3,en,1
 Prologue to Phyresis,ONE,en,1
 Ral Zarek,RVR,en,1
@@ -85,16 +96,17 @@ Raugrin Triome,IKO,en,1
 Reckoner Bankbuster,NEO,en,1
 Rhystic Study,PCY,en,1
 Riverglide Pathway // Lavaglide Pathway,ZNR,en,2
-Roaming Throne,LCI,de,5
-Rockalanche,TLA,de,1
+Roaming Throne,LCI,en,5
+Rockalanche,TLA,en,1
 Rogue's Passage,FIC,en,1
-Sacred Foundry,EOE,de,1
-Sacred Foundry,EOE,en,1
+Sacred Foundry,EOE,en,2
 "Saheeli, Filigree Master",BRO,en,1
+Scalding Tarn,MH2,en,1
 Scroll Rack,CMR,en,1
-Scute Swarm,DSC,de,2
+Scute Swarm,DSC,en,2
+Scythecat Cub,J25,en,1
 Sea of Clouds,CLB,en,1
-Secret Tunnel,TLA,de,1
+Secret Tunnel,TLA,en,1
 Sensei's Divining Top,2X2,en,1
 "Shizo, Death's Storehouse",DMC,en,1
 Sink into Stupor // Soporific Springs,MH3,en,1
@@ -102,44 +114,46 @@ Sonic Screwdriver,WHO,en,1
 Soul Foundry,C19,en,2
 Spectator Seating,CMM,en,1
 Spellskite,CLB,en,2
+Springheart Nantuko,MH3,en,1
 Steam Vents,RVR,en,2
-Stomping Ground,EOE,de,1
+Stomping Ground,EOE,en,1
 Strixhaven Stadium,STX,en,3
-Swords to Plowshares,EOC,de,1
-Sylvan Safekeeper,MH3,de,1
+Swords to Plowshares,EOC,en,1
+Sylvan Safekeeper,MH3,en,1
 Synth Infiltrator,PIP,en,1
-"Takenuma, Abandoned Mire",NEO,de,2
+"Takenuma, Abandoned Mire",NEO,en,2
 "Teferi, Who Slows the Sunset",MID,en,1
-Temple Garden,ECL,de,1
-Terra Eternal,WWK,de,2
+Temple Garden,ECL,en,1
+Terra Eternal,WWK,en,2
 Tezzeret the Seeker,MM2,en,1
 "Tezzeret, Artifice Master",M19,en,1
 The Aetherspark,DFT,en,1
 The Black Gate,LTC,en,1
-"The Boulder, Ready to Rumble",TLA,de,1
-The Great Henge,CMM,de,1
+"The Boulder, Ready to Rumble",TLA,en,1
+The Great Henge,CMM,en,1
 The Ozolith,IKO,en,1
 The Seriema,EOE,en,1
 The Soul Stone,SPM,en,1
-The Stasis Coffin,BRO,de,2
-Tireless Provisioner,BLC,de,1
-"Toph, Earthbending Master",TLE,de,1
-"Toph, Greatest Earthbender",TLE,de,2
+The Stasis Coffin,BRO,en,2
+Tireless Provisioner,BLC,en,1
+"Toph, Earthbending Master",TLE,en,1
+"Toph, Greatest Earthbender",TLE,en,2
 Training Center,CMM,en,1
 Unwinding Clock,C18,en,1
 "Urza, Lord High Artificer",CMM,en,1
-Urza's Incubator,MH3,de,2
-Urza's Saga,MH2,de,1
+Urza's Incubator,MH3,en,2
+Urza's Saga,MH2,en,1
 "Uthros, Titanic Godcore",EOE,en,1
 Vampiric Tutor,DMR,en,1
+Verdant Catacombs,MH2,en,1
 Vesuva,M3C,en,1
 Vivid Meadow,NCC,en,1
 Walking Ballista,2XM,en,1
 War Room,MKC,en,1
-Windswept Heath,MH3,de,1
+Windswept Heath,MH3,en,1
 Witch Enchanter // Witch-Blessed Meadow,MH3,en,1
 Witch's Clinic,DSC,en,1
-Wooded Foothills,MH3,de,1
-"Yavimaya, Cradle of Growth",M3C,de,1
+Wooded Foothills,MH3,en,1
+"Yavimaya, Cradle of Growth",M3C,en,1
 "Yuriko, the Tiger's Shadow",CMM,en,1
-Zuran Orb,MH2,de,1
+Zuran Orb,MH2,en,1
