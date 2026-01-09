@@ -93,17 +93,22 @@ main:
       - 1 Plains
       - 1 Hallowed Fountain
       - 1 Sacred Foundry
+      - 1 Plateau
       - 1 Temple Garden
-      - 2 Island
+      - 1 Branchloft Pathway // Boulderloft Pathway
+      - 1 Island
       - 1 Watery Grave
+      - 1 Clearwater Pathway // Murkwater Pathway
       - 1 Steam Vents
       - 1 Breeding Pool
+      - 1 Barkchannel Pathway // Tidechannel Pathway
       - 1 Swamp
       - 1 Blood Crypt
       - 1 Overgrown Tomb
+      - 1 Darkbore Pathway // Slitherbore Pathway
       - 1 Flamekin Village
-      - 2 Mountain
+      - 1 Mountain
       - 1 Stomping Ground
-      - 4 Forest
+      - 1 Forest
 side: null
 maybe: null
