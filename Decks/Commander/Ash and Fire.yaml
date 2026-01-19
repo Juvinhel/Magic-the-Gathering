@@ -37,93 +37,95 @@ main:
       - 1 Omnath, Locus of the Roil
       - 1 Risen Reef
       - 1 Shriekmaw
+      - 1 Shriekmaw
       - 1 Smokebraider
       - 1 Solitude
       - 1 Subterfuge
+      - 1 Sunderflock
       - 1 Titan of Industry
       - 1 Vernal Sovereign
       - 1 Yarok, the Desecrated
-      - 1 Shriekmaw
-      - 1 Sunderflock
   - Artifacts & Enchantments:
+      - 1 Annie Joins Up
+      - 1 Ashnod's Altar
       - 1 Chromatic Lantern
+      - 1 Cloud Key
       - 1 Cream of the Crop
       - 1 Garruk's Uprising
+      - 1 Gathering Stone
       - 1 Herald's Horn
       - 1 Kindred Discovery
+      - 1 Panharmonicon
       - 1 Reflections of Littjara
       - 1 Renewed Solidarity
       - 1 Sol Ring
       - 1 Springleaf Parade
       - 1 Urza's Incubator
-      - 1 Ashnod's Altar
-      - 1 Panharmonicon
-      - 1 Gathering Stone
-      - 1 Cloud Key
   - Spells:
       - 1 Ashling's Command
-      - 1 Blasphemous Act
       - 1 Crib Swap
+      - 1 Deadly Rollick
+      - 1 Deflecting Swat
       - 1 Farseek
+      - 1 Fierce Guardianship
       - 1 Haunting Voyage
       - 1 Kindred Summons
-      - 1 Nature's Lore
       - 1 Path to Exile
       - 1 Reality Shift
-      - 1 Return of the Wildspeaker
       - 1 Swords to Plowshares
-      - 1 Three Visits
   - Lands:
       - 1 Abundant Countryside
       - 1 Ancient Ziggurat
+      - 1 Barkchannel Pathway // Tidechannel Pathway
+      - 1 Blood Crypt
       - 1 Bloodstained Mire
+      - 1 Branchloft Pathway // Boulderloft Pathway
+      - 1 Breeding Pool
       - 1 Cavern of Souls
+      - 1 Clearwater Pathway // Murkwater Pathway
       - 1 Command Tower
+      - 1 Darkbore Pathway // Slitherbore Pathway
       - 1 Exotic Orchard
+      - 1 Flamekin Village
       - 1 Flooded Strand
+      - 1 Forest
+      - 1 Hallowed Fountain
+      - 1 Island
       - 1 Misty Rainforest
+      - 1 Mountain
+      - 1 Overgrown Tomb
       - 1 Path of Ancestry
+      - 1 Plains
+      - 1 Plateau
       - 1 Primal Beyond
+      - 1 Sacred Foundry
       - 1 Scalding Tarn
       - 1 Secluded Courtyard
+      - 1 Steam Vents
+      - 1 Stomping Ground
+      - 1 Swamp
+      - 1 Temple Garden
       - 1 Unclaimed Territory
       - 1 Verdant Catacombs
+      - 1 Watery Grave
       - 1 Windswept Heath
       - 1 Wooded Foothills
-      - 1 Plains
-      - 1 Hallowed Fountain
-      - 1 Sacred Foundry
-      - 1 Plateau
-      - 1 Temple Garden
-      - 1 Branchloft Pathway // Boulderloft Pathway
-      - 1 Island
-      - 1 Watery Grave
-      - 1 Clearwater Pathway // Murkwater Pathway
-      - 1 Steam Vents
-      - 1 Breeding Pool
-      - 1 Barkchannel Pathway // Tidechannel Pathway
-      - 1 Swamp
-      - 1 Blood Crypt
-      - 1 Overgrown Tomb
-      - 1 Darkbore Pathway // Slitherbore Pathway
-      - 1 Flamekin Village
-      - 1 Mountain
-      - 1 Stomping Ground
-      - 1 Forest
 side:
   - 1 Kaheera, the Orphanguard
 maybe:
-  - 1 Faeburrow Elder
-  - 1 Timeless Lotus
-  - 1 Descendants' Fury
-  - 1 Pyre of Heroes
-  - 1 Semblance Anvil
-  - 1 Birthing Pod
-  - 1 Chronicle of Victory
-  - 1 Phyrexian Altar
-  - 1 Damping Matrix
-  - 1 Helm of Awakening
-  - 1 Racers' Scoreboard
-  - 1 Semblance Anvil
-  - 1 Stone Calendar
-  - 1 The Immortal Sun
+  - Creatures:
+      - 1 Faeburrow Elder
+  - Artifacts & Enchantments:
+      - 1 Birthing Pod
+      - 1 Chronicle of Victory
+      - 1 Damping Matrix
+      - 1 Descendants' Fury
+      - 1 Helm of Awakening
+      - 1 Phyrexian Altar
+      - 1 Pyre of Heroes
+      - 1 Racers' Scoreboard
+      - 1 Semblance Anvil
+      - 1 Semblance Anvil
+      - 1 Stone Calendar
+      - 1 The Immortal Sun
+      - 1 Timeless Lotus
