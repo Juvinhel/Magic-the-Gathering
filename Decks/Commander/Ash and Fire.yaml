@@ -17,7 +17,6 @@ main:
       - 1 Cavalier of Gales
       - 1 Cavalier of Thorns
       - 1 Endurance
-      - 1 Faeburrow Elder
       - 1 Flamebraider
       - 1 Flamekin Harbinger
       - 1 Foundation Breaker
@@ -44,12 +43,11 @@ main:
       - 1 Titan of Industry
       - 1 Vernal Sovereign
       - 1 Yarok, the Desecrated
+      - 1 Shriekmaw
+      - 1 Sunderflock
   - Artifacts & Enchantments:
-      - 1 Arcane Signet
       - 1 Chromatic Lantern
       - 1 Cream of the Crop
-      - 1 Descendants' Fury
-      - 1 Fellwar Stone
       - 1 Garruk's Uprising
       - 1 Herald's Horn
       - 1 Kindred Discovery
@@ -57,13 +55,15 @@ main:
       - 1 Renewed Solidarity
       - 1 Sol Ring
       - 1 Springleaf Parade
-      - 1 Timeless Lotus
       - 1 Urza's Incubator
+      - 1 Ashnod's Altar
+      - 1 Panharmonicon
+      - 1 Gathering Stone
+      - 1 Cloud Key
   - Spells:
       - 1 Ashling's Command
       - 1 Blasphemous Act
       - 1 Crib Swap
-      - 1 Cultivate
       - 1 Farseek
       - 1 Haunting Voyage
       - 1 Kindred Summons
@@ -110,5 +110,20 @@ main:
       - 1 Mountain
       - 1 Stomping Ground
       - 1 Forest
-side: null
-maybe: null
+side:
+  - 1 Kaheera, the Orphanguard
+maybe:
+  - 1 Faeburrow Elder
+  - 1 Timeless Lotus
+  - 1 Descendants' Fury
+  - 1 Pyre of Heroes
+  - 1 Semblance Anvil
+  - 1 Birthing Pod
+  - 1 Chronicle of Victory
+  - 1 Phyrexian Altar
+  - 1 Damping Matrix
+  - 1 Helm of Awakening
+  - 1 Racers' Scoreboard
+  - 1 Semblance Anvil
+  - 1 Stone Calendar
+  - 1 The Immortal Sun
