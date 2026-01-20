@@ -9,6 +9,7 @@ main:
   - 1 Ashling, the Limitless
   - Creatures:
       - 1 Animar, Soul of Elements
+      - 1 Ashling, Rekindled // Ashling, Rimebound
       - 1 Avenger of Zendikar
       - 1 Bane of Progress
       - 1 Belonging
@@ -16,6 +17,7 @@ main:
       - 1 Cavalier of Dawn
       - 1 Cavalier of Gales
       - 1 Cavalier of Thorns
+      - 1 Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight
       - 1 Endurance
       - 1 Flamebraider
       - 1 Flamekin Harbinger
@@ -24,7 +26,6 @@ main:
       - 1 Greenwarden of Murasa
       - 1 Horde of Notions
       - 1 Impulsivity
-      - 1 Incandescent Soulstoke
       - 1 Ingot Chewer
       - 1 Jegantha, the Wellspring
       - 1 Jubilation
@@ -36,13 +37,15 @@ main:
       - 1 Omnath, Locus of Rage
       - 1 Omnath, Locus of the Roil
       - 1 Risen Reef
+      - 1 Shinestriker
       - 1 Shriekmaw
-      - 1 Shriekmaw
+      - 1 Shroudstomper
       - 1 Smokebraider
       - 1 Solitude
       - 1 Subterfuge
       - 1 Sunderflock
       - 1 Titan of Industry
+      - 1 Twinflame Travelers
       - 1 Vernal Sovereign
       - 1 Yarok, the Desecrated
   - Artifacts & Enchantments:
@@ -54,78 +57,121 @@ main:
       - 1 Garruk's Uprising
       - 1 Gathering Stone
       - 1 Herald's Horn
+      - 1 Herd Heirloom
       - 1 Kindred Discovery
       - 1 Panharmonicon
       - 1 Reflections of Littjara
       - 1 Renewed Solidarity
+      - 1 Sneak Attack
       - 1 Sol Ring
       - 1 Springleaf Parade
+      - 1 The Immortal Sun
       - 1 Urza's Incubator
   - Spells:
-      - 1 Ashling's Command
-      - 1 Crib Swap
       - 1 Deadly Rollick
       - 1 Deflecting Swat
-      - 1 Farseek
       - 1 Fierce Guardianship
       - 1 Haunting Voyage
       - 1 Kindred Summons
-      - 1 Path to Exile
-      - 1 Reality Shift
-      - 1 Swords to Plowshares
   - Lands:
       - 1 Abundant Countryside
       - 1 Ancient Ziggurat
-      - 1 Barkchannel Pathway // Tidechannel Pathway
-      - 1 Blood Crypt
       - 1 Bloodstained Mire
-      - 1 Branchloft Pathway // Boulderloft Pathway
-      - 1 Breeding Pool
       - 1 Cavern of Souls
-      - 1 Clearwater Pathway // Murkwater Pathway
       - 1 Command Tower
-      - 1 Darkbore Pathway // Slitherbore Pathway
       - 1 Exotic Orchard
-      - 1 Flamekin Village
       - 1 Flooded Strand
-      - 1 Forest
-      - 1 Hallowed Fountain
-      - 1 Island
       - 1 Misty Rainforest
-      - 1 Mountain
-      - 1 Overgrown Tomb
       - 1 Path of Ancestry
-      - 1 Plains
-      - 1 Plateau
       - 1 Primal Beyond
-      - 1 Sacred Foundry
       - 1 Scalding Tarn
       - 1 Secluded Courtyard
-      - 1 Steam Vents
-      - 1 Stomping Ground
-      - 1 Swamp
-      - 1 Temple Garden
+      - 1 Three Tree City
       - 1 Unclaimed Territory
       - 1 Verdant Catacombs
-      - 1 Watery Grave
       - 1 Windswept Heath
       - 1 Wooded Foothills
+      - 1 Plains
+      - 1 Hallowed Fountain
+      - 1 Plateau
+      - 1 Sacred Foundry
+      - 1 Jetmir's Garden
+      - 1 Branchloft Pathway // Boulderloft Pathway
+      - 1 Temple Garden
+      - 1 Island
+      - 1 Watery Grave
+      - 1 Steam Vents
+      - 1 Breeding Pool
+      - 1 Swamp
+      - 1 Blood Crypt
+      - 1 Darkbore Pathway // Slitherbore Pathway
+      - 1 Overgrown Tomb
+      - 1 Mountain
+      - 1 Stomping Ground
+      - 1 Boseiju, Who Endures
+      - 1 Forest
 side:
   - 1 Kaheera, the Orphanguard
 maybe:
   - Creatures:
+      - 1 Aethersnipe
+      - 1 Beza, the Bounding Spring
+      - 1 Cavalier of Flame
+      - 1 Champion of the Path
+      - 1 Deceit
+      - 1 Eclipsed Flamekin
+      - 1 Emptiness
       - 1 Faeburrow Elder
+      - 1 Grief
+      - 1 Havoc Eater
+      - 1 Incandescent Soulstoke
+      - 1 Interdisciplinary Mascot
+      - 1 Lumra, Bellow of the Woods
+      - 1 Nyxbloom Ancient
+      - 1 Realmwalker
+      - 1 Rottenmouth Viper
+      - 1 Rumbleweed
+      - 1 Shimmercreep
+      - 1 Subtlety
+      - 1 Tyrant of Discord
+      - 1 Vibrance
+      - 1 Wistfulness
   - Artifacts & Enchantments:
+      - 1 Ancient Cornucopia
+      - 1 Anointed Procession
+      - 1 Bender's Waterskin
       - 1 Birthing Pod
+      - 1 Birthing Ritual
+      - 1 Bonder's Ornament
       - 1 Chronicle of Victory
+      - 1 Coalition Relic
       - 1 Damping Matrix
       - 1 Descendants' Fury
+      - 1 Elemental Bond
+      - 1 Evolutionary Leap
+      - 1 Eye of Ojer Taq // Apex Observatory
       - 1 Helm of Awakening
+      - 1 Mana Echoes
+      - 1 Molten Echoes
+      - 1 Muster the Departed
+      - 1 Parallel Lives
+      - 1 Patchwork Banner
       - 1 Phyrexian Altar
+      - 1 Progenitor's Icon
       - 1 Pyre of Heroes
       - 1 Racers' Scoreboard
-      - 1 Semblance Anvil
+      - 1 Relic of Legends
+      - 1 Relic of Sauron
+      - 1 Riveteers Ascendancy
       - 1 Semblance Anvil
       - 1 Stone Calendar
-      - 1 The Immortal Sun
+      - 1 Temur Ascendancy
+      - 1 The Eternity Elevator
+      - 1 The Great Henge
       - 1 Timeless Lotus
+      - 1 White Lotus Tile
+  - Spells:
+      - 1 Ashling's Command
+      - 1 Path to Exile
+      - 1 Reality Shift
+      - 1 Swords to Plowshares
