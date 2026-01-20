@@ -1,21 +1,21 @@
 Name,Set code,Language,Quantity
-Abrade,BRC,de,1
+Abrade,FDN,de,1
 Aeronaut's Wings,BRO,de,1
 "Alela, Artful Provocateur",NCC,de,1
 Ambush Paratrooper,BRO,de,1
 Ancient Den,BRC,de,1
 Angel of the Ruins,BLC,de,1
 Arcane Sanctum,DRC,de,1
-Arcane Signet,M3C,de,2
+Arcane Signet,BRC,de,2
 "Armix, Filigree Thrasher",CMR,de,1
-Ash Barrens,DRC,de,2
+Ash Barrens,BRC,de,2
 Ashnod the Uncaring,BRC,de,1
 Ashnod's Harvester,BRO,de,1
 Ashnod's Intervention,BRO,de,1
 Audacious Reshapers,BRC,de,1
 Austere Command,M3C,de,1
 Azorius Chancery,DSC,de,1
-Azorius Signet,DSC,de,1
+Azorius Signet,BRC,de,1
 Baleful Strix,OTC,de,1
 Battlefield Butcher,BRO,de,1
 Bedevil,BRC,de,1
@@ -23,11 +23,11 @@ Bident of Thassa,BLC,de,1
 Blasphemous Act,BRC,de,1
 Blast-Furnace Hellkite,BRC,de,1
 Bojuka Bog,BRC,de,1
-Bone Saw,BRR,de,1
+Bone Saw,CON,de,1
 Boulderbranch Golem,BRO,de,1
 Bronze Guardian,C21,de,1
 "Brudiclad, Telchor Engineer",BRC,de,1
-Buried Ruin,BRC,de,1
+Buried Ruin,ONC,de,1
 Carrion Locust,BRO,de,1
 Chaos Warp,BRC,de,1
 Chief of the Foundry,2XM,de,1
@@ -37,25 +37,25 @@ Citanul Stalwart,BRO,de,1
 Combat Courier,BRO,de,1
 Command Tower,BRC,de,2
 Commander's Sphere,DRC,de,1
-Construct,TBRO,de,2
+Construct,TBRC,de,2
 Construct,TCMM,de,2
 Copy,TBRC,de,4
 Cradle Clearcutter,BRO,de,1
 Cranial Plating,2XM,de,1
-Crumbling Necropolis,BRC,de,1
+Crumbling Necropolis,LCC,de,1
 Curate,BRO,de,1
 Cursed Mirror,BRC,de,1
 Darksteel Citadel,C21,de,1
 Darksteel Juggernaut,C18,de,1
-Darkwater Catacombs,BRC,de,1
+Darkwater Catacombs,OTC,de,1
 Deadly Riposte,BRO,de,1
 Despark,DRC,de,1
 Digsite Engineer,C21,de,1
 Dimir Aqueduct,DSC,de,2
-Dimir Signet,CLU,de,2
+Dimir Signet,BRC,de,2
 Disenchant,FDN,de,1
 Draconic Destiny,BRO,de,1
-Dreamstone Hedron,BRC,de,1
+Dreamstone Hedron,M3C,de,1
 Dredging Claw,BRO,de,1
 Drossforge Bridge,MH2,de,1
 Dwarven Forge-Chanter,BRO,de,1
@@ -71,9 +71,9 @@ Evolving Wilds,BRO,de,2
 Excavation Explosion,BRO,de,1
 Executioner's Capsule,2XM,de,1
 Exotic Orchard,DRC,de,2
-Expressive Iteration,BRC,de,1
-Fact or Fiction,BRC,de,1
-Faerie,TFDN,de,2
+Expressive Iteration,OTC,de,1
+Fact or Fiction,WOC,de,1
+Faerie,TBRC,de,2
 "Fain, the Broker",BRC,de,1
 Faithless Looting,OTC,de,1
 Fallaji Archaeologist,BRO,de,1
@@ -83,7 +83,7 @@ Fallaji Excavation,BRO,de,1
 Fallaji Vanguard,BRO,de,1
 "Farid, Enterprising Salvager",BRC,de,1
 Feed the Swarm,OTC,de,1
-Fellwar Stone,BRC,de,1
+Fellwar Stone,DSC,de,1
 Filigree Attendant,CMM,de,1
 Fog of War,BRO,de,1
 Foundry Inspector,BRR,de,1
@@ -97,18 +97,18 @@ Goblin Firebomb,BRO,de,1
 Goldmire Bridge,BRC,de,1
 Great Furnace,BRC,de,1
 "Gwenna, Eyes of Gaea",BRO,de,1
-Hedron Archive,BRC,de,1
+Hedron Archive,BLC,de,1
 Hellkite Igniter,BRC,de,1
 Herald of Anguish,BRC,de,1
 Hexavus,BRC,de,1
 Hoarding Recluse,BRO,de,1
 Horror,TCMR,de,1
-Ichor Wellspring,BRC,de,1
+Ichor Wellspring,C21,de,1
 Idol of Oblivion,BRC,de,1
 Indomitable Archangel,NEC,de,1
 Inkling,TDSC,de,2
 Ivory Tower,BRR,de,1
-Izzet Boilerworks,BRC,de,1
+Izzet Boilerworks,M3C,de,1
 "Jhoira, Weatherlight Captain",BRC,de,1
 Kayla's Music Box,BRC,de,1
 Lat-Nam Adept,BRO,de,1
@@ -125,7 +125,7 @@ Master Transmuter,BRC,de,1
 Metalwork Colossus,BRC,de,1
 Mightstone's Animation,BRO,de,1
 Military Discipline,BRO,de,2
-Mind Stone,BRC,de,1
+Mind Stone,BLC,de,1
 Mine Worker,BRO,de,1
 Mirrorworks,BRC,de,1
 "Mishra, Eminent One",BRC,de,1
@@ -139,14 +139,14 @@ Mnemonic Sphere,NEO,de,1
 "Muzzio, Visionary Architect",BRC,de,1
 Mycosynth Wellspring,C21,de,1
 Myr,T2XM,de,1
-Myr,TM3C,de,4
+Myr,TBRC,de,4
 Myr Battlesphere,M3C,de,1
-Myriad Landscape,BRC,de,1
+Myriad Landscape,DSC,de,1
 Nihil Spellbomb,A25,de,1
 Noxious Gearhulk,DSC,de,1
 Oblivion Stone,BRC,de,1
 One with the Machine,BRC,de,1
-Oni-Cult Anvil,BRC,de,1
+Oni-Cult Anvil,NEO,de,1
 Ornithopter,BRR,de,1
 Orzhov Basilica,DRC,de,1
 Orzhov Signet,DSC,de,1
@@ -162,13 +162,13 @@ Powerstone Fracture,BRO,de,1
 Prairie Stream,DRC,de,1
 Preordain,OTC,de,1
 Prophetic Prism,DMC,de,1
-Rakdos Carnarium,BRC,de,1
+Rakdos Carnarium,CLU,de,1
 Rakdos Signet,DSC,de,1
 Raze to the Ground,BRO,de,1
 Razortide Bridge,BRC,de,1
 Recruitment Officer,BRO,de,1
 Relic of Progenitus,EMA,de,1
-Reliquary Tower,BRC,de,1
+Reliquary Tower,DSC,de,1
 River of Tears,MKC,de,1
 Roc Hunter,BRO,de,1
 Rust Goliath,BRO,de,1
@@ -180,9 +180,9 @@ Scrap,TBRC,de,2
 Scrapwork Mutt,BRO,de,1
 Scrapwork Rager,BRO,de,1
 Seat of the Synod,BRC,de,2
-Servo,TCMM,de,6
-Servo Schematic,BRC,de,1
-Shadowblood Ridge,BRC,de,1
+Servo,TBRC,de,6
+Servo Schematic,AER,de,1
+Shadowblood Ridge,DSC,de,1
 Sharding Sphinx,MOC,de,1
 Sharuum the Hegemon,2XM,de,1
 Shimmer Dragon,MKC,de,1
@@ -194,7 +194,7 @@ Skullclamp,BLC,de,1
 Skycloud Expanse,CMM,de,1
 "Slobad, Goblin Tinkerer",BRC,de,1
 Smelting Vat,BRC,de,1
-Smoldering Marsh,BRC,de,1
+Smoldering Marsh,DSC,de,1
 Sol Ring,M3C,de,2
 Solemn Simulacrum,DSC,de,1
 Sphinx's Revelation,BRC,de,1
@@ -217,8 +217,8 @@ Take Flight,BRO,de,1
 Tempered Steel,2XM,de,1
 Temple of Deceit,FDN,de,2
 Temple of Enlightenment,FDN,de,1
-Temple of Epiphany,BRC,de,1
-Temple of Malice,BRC,de,1
+Temple of Epiphany,FDN,de,1
+Temple of Malice,FDN,de,1
 Temple of Silence,DRC,de,1
 Terisian Mindbreaker,BRO,de,1
 Terisiare's Devastation,BRC,de,1
@@ -226,15 +226,14 @@ Terramorphic Expanse,OTC,de,1
 "Teshar, Ancestor's Apostle",CMM,de,1
 The Mightstone and Weakstone,BRO,de,1
 Third Path Savant,BRO,de,1
-Thirst for Knowledge,BRC,de,1
-Thopter,TBRC,de,1
-Thopter,TBRO,de,3
+Thirst for Knowledge,NEO,de,1
+Thopter,TBRC,de,4
 Thopter Shop,BRC,de,1
 Thopter Spy Network,DRC,de,1
 Thought Monitor,MKC,de,1
 Thought Vessel,DSC,de,1
 Thoughtcast,MOC,de,1
-Thran Dynamo,BRC,de,1
+Thran Dynamo,BLC,de,1
 Thran Power Suit,BRO,de,1
 Thran Vigil,BRO,de,1
 Thraxodemon,BRO,de,1

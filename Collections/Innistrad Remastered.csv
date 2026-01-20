@@ -1,44 +1,48 @@
 Name,Set code,Language,Quantity
-Abrade,INR,en,1
+Abrade,INR,en,2
 Abundant Growth,INR,de,1
 Abundant Growth,INR,en,5
+Abundant Maw,INR,en,2
 Aim High,INR,de,2
-Aim High,INR,en,2
+Aim High,INR,en,3
 Alchemist's Greeting,INR,de,1
+Alchemist's Greeting,INR,en,1
+Ambitious Farmhand // Seasoned Cathar,INR,en,1
 Ambush Viper,INR,en,3
 Ancestral Anger,INR,de,1
 Ancestral Anger,INR,en,1
 Angel's Tomb,INR,de,1
-Angelic Purge,INR,en,3
+Angelic Purge,INR,en,4
 Apothecary Geist,INR,en,1
 "Archangel Avacyn // Avacyn, the Purifier",INR,en,1
+Archghoul of Thraben,INR,en,1
 Asylum Visitor,INR,en,1
 Avacynian Priest,INR,de,1
-Avacynian Priest,INR,en,1
-Battleground Geist,INR,en,1
+Avacynian Priest,INR,en,3
+Battleground Geist,INR,en,2
 Bladestitched Skaab,INR,en,1
-Blood,TINR,en,2
-Blood Artist,INR,en,1
+Blood,TINR,en,3
+Blood Artist,INR,en,2
 Blood Mist,INR,de,1
 Blood Petal Celebrant,INR,en,2
-Bloodmad Vampire,INR,en,1
+Bloodmad Vampire,INR,en,2
 Bloodtithe Harvester,INR,en,1
-Boarded Window,INR,en,1
+Boarded Window,INR,en,2
 Borrowed Hostility,INR,de,1
-Borrowed Hostility,INR,en,1
+Borrowed Hostility,INR,en,2
 Bound by Moonsilver,INR,de,1
 Bound by Moonsilver,INR,en,3
-Bramble Wurm,INR,en,1
+Bramble Wurm,INR,en,2
 Burning Vengeance,INR,en,2
-Butcher Ghoul,INR,en,1
+Butcher Ghoul,INR,en,3
 Butcher's Cleaver,INR,en,1
 Cackling Counterpart,INR,en,1
 Captivating Vampire,INR,en,1
-Cathar Commando,INR,en,1
-Cathar's Call,INR,en,1
+Cathar Commando,INR,en,2
+Cathar's Call,INR,en,2
 "Chandra, Dressed to Kill",INR,de,1
 Clear Shot,INR,en,1
-Clue,TEOC,en,1
+Clue,TEOC,en,2
 Clue,TINR,de,1
 Cobbled Lancer,INR,en,1
 Cobbled Wings,INR,en,2
@@ -47,36 +51,45 @@ Compelling Deterrence,INR,de,1
 Compelling Deterrence,INR,en,1
 Conduit of Storms // Conduit of Emrakul,INR,en,3
 Conjurer's Closet,DRC,en,1
+Covetous Castaway // Ghostly Castigator,INR,en,1
 Crawl from the Cellar,INR,de,1
-Crawl from the Cellar,INR,en,2
+Crawl from the Cellar,INR,en,3
 Crusader of Odric,INR,en,4
 Cryptolith Rite,INR,en,1
+Dauntless Cathar,INR,en,1
 Dawnhart Disciple,INR,en,1
 Deathcap Glade,INR,en,1
 Delver of Secrets // Insectile Aberration,INR,de,1
 Delver of Secrets // Insectile Aberration,INR,en,1
 Demon,TINR,en,2
+Demonic Taskmaster,INR,en,3
 Demonmail Hauberk,INR,en,1
-Deranged Assistant,INR,en,2
+Deranged Assistant,INR,en,4
 Desperate Farmer // Depraved Harvester,INR,en,2
+Distended Mindbender,INR,en,1
 Dreamroot Cascade,TDC,en,1
 Drogskol Shieldmate,INR,en,2
 Duel for Dominance,INR,en,3
-Duskwatch Recruiter // Krallenhorde Howler,INR,en,1
+Duskwatch Recruiter // Krallenhorde Howler,INR,en,2
 Eaten Alive,INR,de,1
-Eaten Alive,INR,en,1
+Eaten Alive,INR,en,3
 Eccentric Farmer,INR,de,1
 Eccentric Farmer,INR,en,3
-Ecstatic Awakener // Awoken Demon,INR,en,2
+Ecstatic Awakener // Awoken Demon,INR,en,3
 Edgar's Awakening,INR,de,1
+Edgar's Awakening,INR,en,1
+Elder Deep-Fiend,INR,en,1
 Eldrazi Horror,TINR,de,1
+Eldritch Evolution,INR,en,1
+"Emrakul, the Promised End",INR,en,1
 Epitaph Golem,INR,en,2
-Essence Flux,INR,en,1
+Essence Flux,INR,en,3
 Faith Unbroken,INR,de,1
 Faith Unbroken,INR,en,1
 Faithless Looting,INR,de,1
-Faithless Looting,TDC,en,1
+Faithless Looting,TDC,en,2
 Fiend Hunter,INR,en,1
+Fleshtaker,INR,en,1
 Forbidden Alchemy,TDC,en,1
 Galvanic Iteration,INR,de,1
 Galvanic Juggernaut,INR,en,1
@@ -95,55 +108,65 @@ Grizzled Angler // Grisly Anglerfish,INR,en,1
 Grizzly Ghoul,INR,en,1
 Groundskeeper,EOC,en,1
 Guardian of Pilgrims,INR,de,1
-Guardian of Pilgrims,INR,en,1
+Guardian of Pilgrims,INR,en,2
 Hanweir Watchkeep // Bane of Hanweir,INR,en,1
 Harvest Hand // Scrounged Scythe,INR,en,1
 Hinterland Logger // Timber Shredder,INR,de,1
+Hinterland Logger // Timber Shredder,INR,en,2
+Howlpack Resurgence,INR,en,1
 Human,TINR,de,1
 Human Cleric,TINR,en,2
 Human Soldier,TINR,de,2
-Human Soldier,TINR,en,1
+Human Soldier,TINR,en,2
 Hungry Ridgewolf,INR,en,2
 Imprisoned in the Moon,INR,de,1
-Imprisoned in the Moon,INR,en,3
+Imprisoned in the Moon,INR,en,4
 Indulgent Aristocrat,INR,en,1
 Infernal Grasp,INR,en,1
+Insect,TINR,en,1
 Inspiring Captain,INR,en,1
 Intangible Virtue,INR,en,1
-Intrepid Provisioner,INR,en,1
+Intrepid Provisioner,INR,en,3
 Invasion of Innistrad // Deluge of the Dead,INR,en,1
-It of the Horrid Swarm,INR,en,1
+It of the Horrid Swarm,INR,en,2
 Join the Dance,INR,en,1
 Killing Wave,INR,en,1
 Laboratory Maniac,INR,en,1
 Lantern Bearer // Lanterns' Lift,INR,de,1
-Lantern Bearer // Lanterns' Lift,INR,en,1
+Lantern Bearer // Lanterns' Lift,INR,en,2
 Lightning Axe,INR,en,1
+Lightning Mauler,INR,en,1
 Lumberknot,INR,de,1
-Lunarch Mantle,INR,en,1
+Lunarch Mantle,INR,en,3
+Lunarch Veteran // Luminous Phantom,INR,en,1
 Lupine Prototype,INR,en,1
 Maelstrom Pulse,INR,en,1
 Mass Hysteria,INR,en,1
 Mausoleum Guard,INR,en,2
 Mayor of Avabruck // Howlpack Alpha,INR,en,1
 Mentor of the Meek,INR,en,1
+Midnight Scavengers,INR,en,1
 Mist Raven,INR,de,1
-Moldgraf Millipede,INR,en,2
+Moldgraf Millipede,INR,en,4
 Morkrut Banshee,INR,en,2
 Murderous Compulsion,INR,en,1
-Neglected Heirloom // Ashmouth Blade,INR,en,1
-Neonate's Rush,INR,en,2
+Nebelgast Herald,INR,en,1
+Neglected Heirloom // Ashmouth Blade,INR,en,2
+Neonate's Rush,INR,en,3
 Niblis of the Urn,INR,en,1
 Noose Constrictor,INR,en,1
 "Odric, Lunarch Marshal",INR,de,1
 "Odric, Lunarch Marshal",INR,en,1
 Olivia Voldaren,INR,en,1
 Olivia's Dragoon,INR,en,2
+Overcharged Amalgam,INR,en,1
 Pack Guardian,INR,de,1
+Pack Guardian,INR,en,1
 Rally the Peasants,INR,en,1
 Reckless Scholar,INR,de,1
-Reckless Scholar,INR,en,1
+Reckless Scholar,INR,en,2
 Reforge the Soul,INR,en,1
+Restoration Angel,INR,en,1
 Rise from the Tides,INR,de,1
 Rise from the Tides,INR,en,1
 Runebound Wolf,INR,en,1
@@ -152,18 +175,24 @@ Savage Alliance,INR,en,1
 Scorned Villager // Moonscarred Werewolf,INR,en,2
 Seize the Storm,INR,de,1
 Seize the Storm,INR,en,2
-Sever the Bloodline,INR,en,1
+Sever the Bloodline,INR,en,2
 Shrill Howler // Howling Chorus,INR,en,1
 Siege Zombie,INR,de,1
-Siege Zombie,INR,en,2
-Soul-Guide Gryff,INR,en,1
+Siege Zombie,INR,en,3
+Smoldering Werewolf // Erupting Dreadwolf,INR,en,1
+Soul Separator,INR,en,2
+Soul-Guide Gryff,INR,en,2
 Soulcipher Board // Cipherbound Spirit,INR,de,1
+Soulcipher Board // Cipherbound Spirit,INR,en,1
 Spectral Shepherd,INR,de,1
+Spectral Shepherd,INR,en,1
 Spell Queller,INR,de,1
 Spell Queller,INR,en,1
+Spider,TINR,en,1
 Spider Spawning,INR,en,2
 Spirit,TINR,de,1
-Splinterfright,INR,en,1
+Splinterfright,INR,en,2
+Spontaneous Mutation,INR,en,1
 Stensia Masquerade,INR,en,1
 Stitched Mangler,INR,en,2
 Stitcher's Graft,INR,en,1
@@ -172,39 +201,47 @@ Strength of Arms,INR,de,2
 Strength of Arms,INR,en,1
 Stromkirk Occultist,INR,en,1
 Subjugator Angel,INR,en,2
+Summary Dismissal,INR,en,1
 Sundown Pass,INR,en,1
 Syncopate,INR,de,1
 Syncopate,INR,en,1
+The Meathook Massacre,INR,en,1
 Thermo-Alchemist,INR,en,1
 Think Twice,INR,de,1
-Thraben Inspector,INR,en,5
+Thraben Inspector,INR,en,6
 Tower Geist,INR,de,1
 Tower Geist,INR,en,2
 Town Gossipmonger // Incited Rabble,INR,de,1
-Tragic Slip,INR,en,1
+Tragic Slip,INR,en,2
 Travel Preparations,INR,en,1
-Traveler's Amulet,INR,en,2
+Traveler's Amulet,INR,en,3
+Traverse the Ulvenwald,INR,en,1
+Triskaidekaphobia,INR,en,1
 Twinblade Geist // Twinblade Invocation,INR,de,1
+Twinblade Geist // Twinblade Invocation,INR,en,1
 Ulvenwald Mysteries,INR,en,1
 Uncaged Fury,INR,en,2
 Unnatural Growth,INR,en,1
 Valorous Stance,INR,en,1
-Vampire,TINR,en,1
+Vampire,TINR,en,2
 Vilespawn Spider,INR,en,1
 Village Messenger // Moonrise Intruder,INR,de,1
 Village Messenger // Moonrise Intruder,INR,en,1
 Village Rites,INR,en,1
-Villagers of Estwald // Howlpack of Estwald,INR,en,2
+Villagers of Estwald // Howlpack of Estwald,INR,en,3
 Voice of the Blessed,INR,en,1
+Voldaren Bloodcaster // Bloodbat Summoner,INR,en,1
 Voldaren Duelist,INR,de,1
+Voldaren Duelist,INR,en,1
 Voldaren Epicure,INR,de,1
 Voldaren Epicure,INR,en,1
+Wandering Mind,INR,en,1
 Wild Hunger,INR,en,1
-Wild-Field Scarecrow,INR,en,1
+Wild-Field Scarecrow,INR,en,2
 Wolf,TINR,en,2
 Wretched Gryff,INR,de,1
 Wretched Gryff,INR,en,3
 Wretched Throng,INR,de,1
 Wretched Throng,INR,en,2
-Young Wolf,INR,en,2
+Young Wolf,INR,en,3
 Zombie,TINR,en,1
