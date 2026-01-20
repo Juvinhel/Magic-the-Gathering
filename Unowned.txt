@@ -64,6 +64,7 @@
 1 Artistic Refusal
 1 Ashling, the Limitless
 1 Ashling's Command
+1 Ashnod's Altar
 1 Assassin Initiate
 1 Assassin's Trophy
 1 Assault Formation
@@ -100,6 +101,7 @@
 1 Biovisionary
 1 Biowaste Blob
 1 Birds of Paradise
+1 Birthing Pod
 1 Bishop of Wings
 1 Black Market
 1 Black Market Connections
@@ -165,6 +167,7 @@
 1 Champion of Lambholt
 1 Chandra, Awakened Inferno
 1 Chrome Mox
+1 Chronicle of Victory
 1 Cinder Marsh
 1 Circuit Mender
 1 Clive's Hideaway
@@ -210,6 +213,7 @@
 1 Cytoplast Manipulator
 1 Damn
 1 Damning Verdict
+1 Damping Matrix
 1 Danitha, New Benalia's Light
 1 Darigaaz's Caldera
 1 Dark Ritual
@@ -252,7 +256,6 @@
 1 Dragon's Claw
 1 Dragonlord Dromoka
 1 Drannith Magistrate
-1 Dreamroot Cascade
 1 Drifter il-Dal
 1 Dromar's Cavern
 1 Drumbellower
@@ -341,6 +344,7 @@
 1 Game Trail
 1 Garruk, Primal Hunter
 1 Garruk's Uprising
+1 Gathering Stone
 1 Gauntlets of Light
 1 Gavony Township
 1 Geier Reach Sanitarium
@@ -357,7 +361,6 @@
 1 Gilded Lotus
 1 Gingerbrute
 1 Gisela, Blade of Goldnight
-1 Gisela, the Broken Blade
 1 Glacial Chasm
 1 Glasswing Grace // Age-Graced Chapel
 1 Go for the Throat
@@ -401,6 +404,7 @@
 1 Heliod, God of the Sun
 1 Heliod, Sun-Crowned
 1 Heliod's Intervention
+1 Helm of Awakening
 1 Helm of the Ghastlord
 1 Helm of the Host
 1 Herald of Secret Streams
@@ -432,13 +436,11 @@
 1 Incubation Druid
 1 Indatha Triome
 1 Indomitable Ancients
-1 Infernal Grasp
 1 Infinite Reflection
 1 Ingot Chewer
 1 Inkshield
 1 Inspiring Vantage
 1 Instill Energy
-1 Intangible Virtue
 1 Intelligence Bobblehead
 1 Intuition
 1 Invigorate
@@ -644,6 +646,7 @@
 1 Perplexing Test
 1 Phantom Flock
 1 Phlage, Titan of Fire's Fury
+1 Phyrexian Altar
 1 Phyrexian Arena
 1 Phyrexian Tower
 1 Piper Wright, Publick Reporter
@@ -661,6 +664,7 @@
 1 Prosperous Innkeeper
 1 Prowling Serpopard
 1 Psychic Paper
+1 Pyre of Heroes
 1 Qasali Slingers
 1 Quantum Misalignment
 1 Quasiduplicate
@@ -746,7 +750,6 @@
 1 Sanctum of Ugin
 1 Sandsteppe Citadel
 1 Sanguine Bond
-1 Sanitarium Skeleton
 1 Savage Lands
 1 Savai Triome
 1 Savannah
@@ -769,6 +772,7 @@
 1 Selesnya Signet
 1 Selfless Savior
 1 Selfless Squire
+2 Semblance Anvil
 1 Serra Ascendant
 1 Serra Avenger
 1 Serra Paragon
@@ -784,7 +788,7 @@
 1 Shinka, the Bloodsoaked Keep
 1 Shivan Gorge
 1 Shorikai, Genesis Engine
-1 Shriekmaw
+2 Shriekmaw
 1 Shrine of the Forsaken Gods
 1 Sidar Kondo of Jamuraa
 1 Siege Veteran
@@ -838,6 +842,7 @@
 1 Starting Town
 1 Sting, the Glinting Dagger
 1 Stirring Wildwood
+1 Stone Calendar
 1 Stormbeacon Blade
 1 Strangled Cemetery
 1 Strength-Testing Hammer
@@ -845,6 +850,7 @@
 1 Study
 1 Subterfuge
 1 Summon: Knights of Round
+1 Sunderflock
 1 Sunken Citadel
 1 Sunken Palace
 1 Sunscorch Regent

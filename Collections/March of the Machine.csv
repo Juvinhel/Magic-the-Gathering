@@ -13,8 +13,8 @@ Corruption of Towashi,MOM,de,1
 Cut Short,MOM,en,1
 Dinosaur,TMOM,en,1
 Dismal Backwater,MOM,en,1
-Elemental,TMOM,en,1
-Ephara's Dispersal,MKC,en,1
+Elemental,TMUL,en,1
+Ephara's Dispersal,MOM,en,1
 Expedition Lookout,MOM,en,1
 Eyes of Gitaxias,MOM,de,1
 Fearless Skald,MOM,en,1
@@ -55,7 +55,7 @@ Marshal of Zhalfir,MOM,en,1
 Meeting of Minds,MOM,en,1
 Merciless Repurposing,MOM,en,1
 Mirror-Shield Hoplite,MOM,en,1
-Monk,WMOM,de,1
+Monk,TMOM,de,1
 Negate,MOM,en,1
 "Obosh, the Preypiercer",MUL,de,1
 Order of the Mirror // Order of the Alabaster Host,MOM,en,1
@@ -77,7 +77,7 @@ Storm the Seedcore,MOM,de,1
 Streetwise Negotiator,MOM,en,1
 Sunder the Gateway,MOM,de,1
 Surge of Salvation,MOM,en,1
-Swamp,UST,en,1
+Swamp,MOM,en,1
 Tandem Takedown,MOM,en,1
 Tangled Skyline,MOM,de,1
 Tarkir Duneshaper // Burnished Dunestomper,MOM,de,1

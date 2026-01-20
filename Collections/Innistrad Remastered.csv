@@ -1,53 +1,82 @@
 Name,Set code,Language,Quantity
+Abrade,INR,en,1
 Abundant Growth,INR,de,1
-Abundant Growth,INR,en,3
+Abundant Growth,INR,en,4
 Aim High,INR,de,2
+Aim High,INR,en,2
 Alchemist's Greeting,INR,de,1
+Ambush Viper,INR,en,2
 Ancestral Anger,INR,de,1
 Ancestral Anger,INR,en,1
 Angel's Tomb,INR,de,1
-Angelic Purge,INR,en,1
+Angelic Purge,INR,en,2
 Apothecary Geist,INR,en,1
+Asylum Visitor,INR,en,1
 Avacynian Priest,INR,de,1
+Avacynian Priest,INR,en,1
+Battleground Geist,INR,en,1
+Bladestitched Skaab,INR,en,1
+Blood,TINR,en,2
 Blood Mist,INR,de,1
+Bloodmad Vampire,INR,en,1
+Bloodtithe Harvester,INR,en,1
+Boarded Window,INR,en,1
 Borrowed Hostility,INR,de,1
+Borrowed Hostility,INR,en,1
 Bound by Moonsilver,INR,de,1
-Bound by Moonsilver,INR,en,1
+Bound by Moonsilver,INR,en,3
+Burning Vengeance,INR,en,2
+Butcher Ghoul,INR,en,1
 Butcher's Cleaver,INR,en,1
 Cathar Commando,INR,en,1
 Cathar's Call,INR,en,1
 "Chandra, Dressed to Kill",INR,de,1
+Clear Shot,INR,en,1
 Clue,TINR,de,1
+Cobbled Lancer,INR,en,1
 Cobbled Wings,INR,en,2
 Collective Brutality,INR,de,1
 Compelling Deterrence,INR,de,1
-Conduit of Storms // Conduit of Emrakul,INR,en,1
+Compelling Deterrence,INR,en,1
+Conduit of Storms // Conduit of Emrakul,INR,en,3
 Crawl from the Cellar,INR,de,1
-Crawl from the Cellar,INR,en,1
-Crusader of Odric,INR,en,2
+Crawl from the Cellar,INR,en,2
+Crusader of Odric,INR,en,3
 Cryptolith Rite,INR,en,1
 Dawnhart Disciple,INR,en,1
 Deathcap Glade,INR,en,1
 Delver of Secrets // Insectile Aberration,INR,de,1
 Demonmail Hauberk,INR,en,1
+Deranged Assistant,INR,en,1
+Desperate Farmer // Depraved Harvester,INR,en,2
+Dreamroot Cascade,INR,en,1
 Drogskol Shieldmate,INR,en,2
 Duel for Dominance,INR,en,3
 Duskwatch Recruiter // Krallenhorde Howler,INR,en,1
 Eaten Alive,INR,de,1
 Eccentric Farmer,INR,de,1
 Eccentric Farmer,INR,en,2
+Ecstatic Awakener // Awoken Demon,INR,en,2
 Edgar's Awakening,INR,de,1
 Eldrazi Horror,TINR,de,1
+Epitaph Golem,INR,en,1
 Essence Flux,INR,en,1
 Faith Unbroken,INR,de,1
 Faithless Looting,INR,de,1
 Fiend Hunter,INR,en,1
-Forbidden Alchemy,TDC,en,1
+Forbidden Alchemy,INR,en,1
 Galvanic Iteration,INR,de,1
 Gather the Townsfolk,INR,de,1
+Gather the Townsfolk,INR,en,3
+Geier Reach Bandit // Vildin-Pack Alpha,INR,en,1
+Gisa and Geralf,INR,en,1
 Gisa's Bidding,INR,de,1
+"Gisela, the Broken Blade",INR,en,1
+Graf Rats,INR,en,1
+Grapple with the Past,INR,en,1
 Grizzled Angler // Grisly Anglerfish,INR,de,1
-Groundskeeper,EOC,en,1
+Grizzled Angler // Grisly Anglerfish,INR,en,1
+Groundskeeper,INR,en,1
 Guardian of Pilgrims,INR,de,1
 Guardian of Pilgrims,INR,en,1
 Hanweir Watchkeep // Bane of Hanweir,INR,en,1
@@ -55,54 +84,85 @@ Harvest Hand // Scrounged Scythe,INR,en,1
 Hinterland Logger // Timber Shredder,INR,de,1
 Human,TINR,de,1
 Human Soldier,TINR,de,2
-Hungry Ridgewolf,INR,en,1
+Hungry Ridgewolf,INR,en,2
 Imprisoned in the Moon,INR,de,1
+Infernal Grasp,INR,en,1
 Inspiring Captain,INR,en,1
+Intangible Virtue,INR,en,1
 Invasion of Innistrad // Deluge of the Dead,INR,en,1
+It of the Horrid Swarm,INR,en,1
 Join the Dance,INR,en,1
 Killing Wave,INR,en,1
+Laboratory Maniac,INR,en,1
 Lantern Bearer // Lanterns' Lift,INR,de,1
+Lantern Bearer // Lanterns' Lift,INR,en,1
 Lumberknot,INR,de,1
 Lunarch Mantle,INR,en,1
+Lupine Prototype,INR,en,1
+Maelstrom Pulse,INR,en,1
 Mass Hysteria,INR,en,1
+Mausoleum Guard,INR,en,1
 Mentor of the Meek,INR,en,1
 Mist Raven,INR,de,1
 Moldgraf Millipede,INR,en,1
+Morkrut Banshee,INR,en,1
+Murderous Compulsion,INR,en,1
 Neglected Heirloom // Ashmouth Blade,INR,en,1
 "Odric, Lunarch Marshal",INR,de,1
+"Odric, Lunarch Marshal",INR,en,1
 Pack Guardian,INR,de,1
+Rally the Peasants,INR,en,1
 Reckless Scholar,INR,de,1
+Reckless Scholar,INR,en,1
+Reforge the Soul,INR,en,1
 Rise from the Tides,INR,de,1
+Sanitarium Skeleton,INR,en,1
 Savage Alliance,INR,en,1
 Seize the Storm,INR,de,1
+Seize the Storm,INR,en,2
 Sever the Bloodline,INR,en,1
 Siege Zombie,INR,de,1
+Siege Zombie,INR,en,1
 Soul-Guide Gryff,INR,en,1
 Soulcipher Board // Cipherbound Spirit,INR,de,1
 Spectral Shepherd,INR,de,1
 Spell Queller,INR,de,1
+Spell Queller,INR,en,1
 Spider Spawning,INR,en,1
 Spirit,TINR,de,1
+Splinterfright,INR,en,1
+Stensia Masquerade,INR,en,1
+Stitched Mangler,INR,en,1
 Stormcarved Coast,INR,de,1
 Strength of Arms,INR,de,2
+Strength of Arms,INR,en,1
+Stromkirk Occultist,INR,en,1
 Subjugator Angel,INR,en,2
 Syncopate,INR,de,1
+Syncopate,INR,en,1
+Thermo-Alchemist,INR,en,1
 Think Twice,INR,de,1
-Thraben Inspector,INR,en,3
+Thraben Inspector,INR,en,5
 Tower Geist,INR,de,1
-Tower Geist,INR,en,1
+Tower Geist,INR,en,2
 Town Gossipmonger // Incited Rabble,INR,de,1
 Travel Preparations,INR,en,1
 Traveler's Amulet,INR,en,2
 Twinblade Geist // Twinblade Invocation,INR,de,1
 Ulvenwald Mysteries,INR,en,1
+Uncaged Fury,INR,en,1
 Unnatural Growth,INR,en,1
+Valorous Stance,INR,en,1
+Vampire,TINR,en,1
 Village Messenger // Moonrise Intruder,INR,de,1
+Village Messenger // Moonrise Intruder,INR,en,1
 Voice of the Blessed,INR,en,1
 Voldaren Duelist,INR,de,1
 Voldaren Epicure,INR,de,1
+Wild-Field Scarecrow,INR,en,1
 Wolf,TINR,en,2
 Wretched Gryff,INR,de,1
 Wretched Gryff,INR,en,1
 Wretched Throng,INR,de,1
-Young Wolf,INR,en,1
+Young Wolf,INR,en,2
+Zombie,TINR,en,1
