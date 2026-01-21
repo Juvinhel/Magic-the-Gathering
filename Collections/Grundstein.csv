@@ -44,7 +44,7 @@ Cancel,FDN,de,1
 Carnelian Orb of Dragonkind,FDN,de,1
 Cat,TFDN,de,1
 Cat Collector,FDN,de,1
-Cathar Commando,INR,de,1
+Cathar Commando,FDN,de,1
 Cemetery Recruitment,FDN,de,1
 Clinquant Skymage,FDN,de,1
 Condemn,SPG,de,1
@@ -73,7 +73,7 @@ Dropkick Bomber,FDN,de,1
 Druid of the Cowl,FDN,de,1
 "Dwynen, Gilt-Leaf Daen",FDN,de,1
 Dwynen's Elite,FDN,de,2
-Eaten Alive,INR,de,2
+Eaten Alive,FDN,de,2
 Eaten by Piranhas,FDN,de,1
 Elementalist Adept,FDN,de,1
 Elf Warrior,TFDN,de,2
@@ -209,8 +209,7 @@ Skeleton Archer,FDN,de,1
 Skyraker Giant,FDN,de,1
 Skyship Buccaneer,FDN,de,1
 Snakeskin Veil,FDN,de,1
-Soldier,TBRO,de,1
-Soldier,TFDN,de,2
+Soldier,TFDN,de,3
 Soul-Shackled Zombie,FDN,de,1
 Sower of Chaos,FDN,de,2
 Spectral Sailor,FDN,de,1
@@ -258,6 +257,6 @@ Wildwood Scourge,FDN,de,2
 Wind-Scarred Crag,FDN,de,2
 Witness Protection,FDN,de,2
 Youthful Valkyrie,FDN,de,2
-Zombie,TINR,de,3
+Zombie,TFDN,de,3
 Zombify,FDN,de,1
 "Zul Ashur, Lich Lord",FDN,de,1
