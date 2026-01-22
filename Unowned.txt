@@ -875,6 +875,7 @@
 2 The Tabernacle at Pendrell Vale
 1 The Wanderer
 1 The Water Crystal
+1 The World Tree
 1 Theoretical Duplication
 1 Thespian's Stage
 1 Thornglint Bridge
