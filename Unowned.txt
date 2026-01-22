@@ -63,7 +63,6 @@
 2 Artificer Class
 1 Artistic Refusal
 1 Ashling, Rekindled // Ashling, Rimebound
-1 Ashling's Command
 1 Ashnod's Altar
 1 Assassin Initiate
 1 Assassin's Trophy
@@ -129,7 +128,6 @@
 1 Braids, Cabal Minion
 1 Branching Evolution
 1 Brave the Sands
-1 Bre of Clan Stoutarm
 1 Breeding Pool
 1 Bright-Palm, Soul Awakener
 1 Brightclimb Pathway // Grimclimb Pathway
@@ -257,7 +255,6 @@
 1 Drumbellower
 1 Dusk // Dawn
 1 Eden, Seat of the Sanctum
-1 Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight
 1 Eladamri's Call
 1 Elegant Parlor
 1 Elemental Bond
@@ -765,7 +762,6 @@
 1 Shattered Sanctum
 1 Sheoldred, the Apocalypse
 1 Shimmer Myr
-1 Shinestriker
 1 Shinewend
 1 Shinka, the Bloodsoaked Keep
 1 Shivan Gorge
@@ -917,7 +913,6 @@
 1 Tundra
 1 Twenty-Toed Toad
 1 Twilight Mire
-1 Twinflame Travelers
 1 Tyrant of Discord
 1 Tyrite Sanctum
 1 Tyvar's Stand
