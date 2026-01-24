@@ -41,7 +41,6 @@
 1 Anguished Unmaking
 1 Anim Pakal, Thousandth Moon
 1 Animal Sanctuary
-1 Animar, Soul of Elements
 1 Animate Dead
 1 Anointed Procession
 1 Arasta of the Endless Web
@@ -62,8 +61,6 @@
 1 Armorcraft Judge
 2 Artificer Class
 1 Artistic Refusal
-1 Ashling, Rekindled // Ashling, Rimebound
-1 Ashnod's Altar
 1 Assassin Initiate
 1 Assassin's Trophy
 1 Assault Formation
@@ -109,12 +106,11 @@
 1 Bleeding Woods
 1 Blight Keeper
 1 Blight Pile
+1 Blightbelly Rat
 1 Blightstep Pathway // Searstep Pathway
 1 Blind Obedience
 1 Blinding Angel
-1 Blood Crypt
 1 Bloodchief Ascension
-1 Bloodstained Mire
 1 Blooming Marsh
 1 Blossoming Defense
 2 Bolas's Citadel
@@ -122,16 +118,13 @@
 1 Boosted Sloop
 1 Bootleggers' Stash
 1 Boros Charm
-1 Boseiju, Who Endures
 1 Botanical Sanctum
 1 Bottle-Cap Blast
 1 Braids, Cabal Minion
 1 Branching Evolution
 1 Brave the Sands
-1 Breeding Pool
 1 Bright-Palm, Soul Awakener
 1 Brightclimb Pathway // Grimclimb Pathway
-1 Brighthearth Banneret
 1 Brilliant Restoration
 1 Brimaz, King of Oreskos
 1 Brion Stoutarm
@@ -142,6 +135,7 @@
 1 Buried Alive
 1 C.A.M.P.
 1 Cabaretti Courtyard
+1 Cadaver Imp
 1 Caduceus, Staff of Hermes
 1 Caged Sun
 1 Calamity of Cinders
@@ -151,9 +145,7 @@
 1 Carven Caryatid
 1 Cathars' Crusade
 1 Cauldron Familiar
-1 Cavalier of Dawn
 1 Cavalier of Flame
-1 Cavalier of Gales
 1 Caves of Koilos
 1 Celestial Ancient
 1 Celestial Colonnade
@@ -167,6 +159,7 @@
 1 Chronicle of Victory
 1 Cinder Marsh
 1 Circuit Mender
+1 Clay Revenant
 1 Clive's Hideaway
 1 Cloudcrest Lake
 1 Coalition Relic
@@ -189,7 +182,9 @@
 1 Copper Myr
 1 Copperline Gorge
 1 Copy Land
+1 Corpse Hauler
 1 Cosmos Elixir
+1 Courier Bat
 1 Court of Vantress
 1 Crashing Drawbridge
 1 Crawling Barrens
@@ -223,6 +218,7 @@
 1 Dawn's Truce
 1 Daxos the Returned
 1 Dazzling Theater // Prop Room
+1 Deadly Derision
 1 Deceit
 1 Deceptive Landscape
 1 Decree of Justice
@@ -236,6 +232,7 @@
 1 Diamond Valley
 1 Dion, Bahamut's Dominant // Bahamut, Warden of Light
 1 Disallow
+1 Disciple of the Sun
 1 Discovery // Dispersal
 1 Dismantling Wave
 1 Dismember
@@ -250,10 +247,15 @@
 1 Dragon's Claw
 1 Dragonlord Dromoka
 1 Drannith Magistrate
+1 Draugr Recruiter
 1 Drifter il-Dal
+1 Driver of the Dead
+1 Drogskol Infantry // Drogskol Armaments
 1 Dromar's Cavern
 1 Drumbellower
+1 Durable Coilbug
 1 Dusk // Dawn
+1 Dutiful Attendant
 1 Eden, Seat of the Sanctum
 1 Eladamri's Call
 1 Elegant Parlor
@@ -306,13 +308,13 @@
 1 Feasting Hobbit
 1 Fecund Greenshell
 1 Feline Sovereign
+1 Fell Horseman // Deathly Ride
 1 Felothar the Steadfast
 1 Ferrous Lake
 1 Festering Gulch
 1 Field-Tested Frying Pan
 1 Fire-Lit Thicket
 1 Flagstones of Trokair
-1 Flamekin Harbinger
 1 Flare of Fortitude
 1 Flooded Grove
 1 Floodfarm Verge
@@ -320,6 +322,7 @@
 1 Force of Despair
 1 Force of Negation
 1 Forensic Gadgeteer
+1 Forge of Heroes
 1 Forgotten Ancient
 1 Forsaken Monument
 1 Fortified Beachhead
@@ -334,7 +337,6 @@
 1 Gamble
 1 Game Trail
 1 Garruk, Primal Hunter
-1 Gathering Stone
 1 Gauntlets of Light
 1 Gavony Township
 1 Geier Reach Sanitarium
@@ -345,6 +347,7 @@
 1 Get Lost
 1 Ghalta and Mavren
 1 Ghostly Prison
+1 Ghoulraiser
 1 Gideon, Champion of Justice
 1 Gifts Ungiven
 1 Gilded Goose
@@ -366,6 +369,7 @@
 1 Greater Auramancy
 1 Greatsword of Tyr
 1 Grief
+1 Grim Affliction
 1 Grim Guardian
 1 Grim Monolith
 1 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun
@@ -376,6 +380,7 @@
 1 Gudul Lurker
 1 Guide of Souls
 1 Guidelight Synergist
+1 Gulping Scraptrap
 1 Gwaihir, Greatest of the Eagles
 1 Gyre Sage
 1 Gyruda, Doom of Depths
@@ -398,7 +403,6 @@
 1 Helm of the Ghastlord
 1 Helm of the Host
 1 Herald of Secret Streams
-1 Herd Heirloom
 1 Hidden Courtyard
 1 Hinterland Harbor
 1 Hissing Quagmire
@@ -412,6 +416,7 @@
 1 Humility
 1 Hungry Lynx
 1 Hypnotic Siren
+1 Ichor Drinker
 1 Idyllic Tutor
 1 Ikra Shidiqi, the Usurper
 1 Illuminated Folio
@@ -452,7 +457,6 @@
 1 Junk Winder
 1 K-9, Mark I
 1 Kabira Crossroads
-1 Kaheera, the Orphanguard
 1 Kalonian Hydra
 1 Kambal, Consul of Allocation
 1 Karmic Guide
@@ -466,7 +470,6 @@
 1 Ketria Triome
 1 Kher Keep
 1 Kindred Boon
-1 Kindred Discovery
 1 King of the Pride
 1 Kinnan, Bonder Prodigy
 1 Kirol, Attentive First-Year
@@ -489,6 +492,7 @@
 1 Light of the Legion
 1 Lightning Helix
 1 Lightning, Army of One
+1 Liliana's Elite
 1 Lindblum, Industrial Regency // Mage Siege
 1 Linvala, Keeper of Silence
 1 Lion's Eye Diamond
@@ -520,6 +524,7 @@
 1 Marisi, Breaker of the Coil
 1 Market Gnome
 1 Marsh Flats
+1 Martyr for the Cause
 1 Masked Vandal
 1 Maskwood Nexus
 1 Master Biomancer
@@ -546,7 +551,6 @@
 1 Mishra's Workshop
 1 Mist-Cloaked Herald
 1 Mistrise Village
-1 Misty Rainforest
 1 Mm'menon, the Right Hand
 1 Mockingbird
 1 Molten Echoes
@@ -610,13 +614,11 @@
 1 Overflowing Basin
 1 Overgrown Battlement
 1 Overgrown Farmland
-1 Overgrown Tomb
 1 Overprotect
 1 Oversimplify
 1 Pack Leader
 1 Palantír of Orthanc
 1 Palladium Myr
-1 Panharmonicon
 1 Panoptic Mirror
 1 Paradise Plume
 1 Paradox Zone
@@ -626,6 +628,7 @@
 1 Pendelhaven
 1 Perilous Myr
 1 Perplexing Test
+1 Persistent Specimen
 1 Phantom Flock
 1 Phlage, Titan of Fire's Fury
 1 Phyrexian Altar
@@ -646,6 +649,7 @@
 1 Prosperous Innkeeper
 1 Prowling Serpopard
 1 Psychic Paper
+1 Purple Pentapus
 1 Pyre of Heroes
 1 Qasali Slingers
 1 Quantum Misalignment
@@ -653,7 +657,6 @@
 1 Quintorius Kand
 1 Racers' Scoreboard
 1 Radiant Fountain
-1 Raffine's Tower
 1 Rally the Ranks
 1 Ram Through
 1 Rampaging Baloths
@@ -666,12 +669,10 @@
 1 Razortrap Gorge
 1 Razorverge Thicket
 1 Reef Worm
-1 Reflections of Littjara
 1 Regal Caracal
 1 Rejuvenating Springs
 1 Relic of Sauron
 1 Reluctant Role Model
-1 Renewed Solidarity
 1 Replicating Ring
 1 Replication Technique
 1 Rescue Retriever
@@ -689,6 +690,7 @@
 1 Restoration Magic
 1 Resurgent Belief
 1 Retreat to Kazandu
+1 Retrofitted Transmogrant
 1 Reunion of the House
 1 Reverent Hoplite
 1 Reverse Engineer
@@ -767,7 +769,6 @@
 1 Shivan Gorge
 1 Shorikai, Genesis Engine
 1 Shrine of the Forsaken Gods
-1 Shroudstomper
 1 Sidar Kondo of Jamuraa
 1 Siege Veteran
 1 Sigarda, Font of Blessings
@@ -790,19 +791,17 @@
 1 Slurrk, All-Ingesting
 1 Smile at Death
 2 Smothering Tithe
-1 Sneak Attack
 1 Soaring Lightbringer
 1 Solarion
-1 Solitude
 1 Soul's Attendant
 1 Soured Springs
 1 Sovereign Okinec Ahau
-1 Spara's Headquarters
 1 Spark Double
 1 Spectral Adversary
 1 Sphere of Safety
 1 Spirebluff Canal
 1 Split Up
+1 Spread the Sickness
 1 Springbloom Druid
 1 Staff of Compleation
 1 Staff of Domination
@@ -827,7 +826,6 @@
 1 Study
 1 Subtlety
 1 Summon: Knights of Round
-1 Sunderflock
 1 Sunken Citadel
 1 Sunken Palace
 1 Sunscorch Regent
@@ -863,19 +861,19 @@
 1 The Battle of Bywater
 1 The Celestus
 1 The Darkness Crystal
+1 The Dross Pits
 1 The Everflowing Well // The Myriad Pools
+1 The Fair Basilica
 1 The Fifth Doctor
 1 The Fire Crystal
 1 The Gaffer
 1 The Grey Havens
-1 The Immortal Sun
 1 The Reality Chip
 1 The Red Terror
 1 The Shire
 2 The Tabernacle at Pendrell Vale
 1 The Wanderer
 1 The Water Crystal
-1 The World Tree
 1 Theoretical Duplication
 1 Thespian's Stage
 1 Thornglint Bridge
@@ -889,6 +887,7 @@
 1 Tifa Lockhart
 1 Tip the Scales
 1 Tireless Tracker
+1 Tocasia's Dig Site
 1 Toggo, Goblin Weaponsmith
 1 Tolaria West
 1 Tomb of the Spirit Dragon
@@ -919,6 +918,7 @@
 1 Tyvar's Stand
 1 Ugin's Conjurant
 1 Umori, the Collector
+1 Unbounded Potential
 1 Uncivil Unrest
 1 Undercellar Sweep
 1 Undercity Sewers
@@ -969,6 +969,7 @@
 1 Walking Bulwark
 1 Wall of Blossoms
 1 Wall of Roots
+1 Wanderer's Strike
 1 Wandering Fumarole
 1 War Room
 1 Warden of the Inner Sky
@@ -980,6 +981,7 @@
 1 Wedding Ring
 1 Welcoming Vampire
 1 Whir of Invention
+1 Whisper of the Dross
 1 White Lotus Tile
 1 White Sun's Zenith
 1 Whitemane Lion
@@ -993,11 +995,11 @@
 1 Wirewood Lodge
 1 Wistfulness
 1 Witch Enchanter // Witch-Blessed Meadow
+1 Witch's Cottage
 1 Wooded Bastion
 1 Worldwalker Helm
 1 Wrenn and Realmbreaker
 1 Wurm's Tooth
-1 Xander's Lounge
 1 Y'shtola Rhul
 1 Yavimaya Coast
 1 Yavimaya Hollow
@@ -1007,5 +1009,4 @@
 1 Zack Fair
 1 Zagoth Triome
 1 Zanarkand, Ancient Metropolis // Lasting Fayth
-1 Ziatora's Proving Ground
 1 Zirda, the Dawnwaker
