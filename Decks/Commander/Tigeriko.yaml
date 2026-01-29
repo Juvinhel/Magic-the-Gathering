@@ -48,7 +48,6 @@ main:
       - 1 Lantern of Revealing
       - 1 Ninja's Blades
       - 1 Ornithopter of Paradise
-      - 1 Rhystic Study
       - 1 Rogue Class
       - 1 Scroll Rack
       - 1 Sensei's Divining Top
@@ -69,7 +68,8 @@ main:
       - 1 Force of Will
       - 1 Impostor Syndrome
       - 1 Misdirection
-      - 1 Mystical Tutor
+      - 1 Murderous Cut
+      - 1 Nanogene Conversion
       - 1 Negate
       - 1 Ponder
       - 1 Sink into Stupor // Soporific Springs
@@ -151,9 +151,8 @@ maybe:
       - 1 Familiar's Ruse
       - 1 Force of Despair
       - 1 Louisoix's Sacrifice
-      - 1 Murderous Cut
-      - 1 Nanogene Conversion
       - 1 Sea Gate Restoration // Sea Gate, Reborn
+      - 1 Mystical Tutor
   - Lands:
       - 1 Thespian's Stage
       - 1 Vesuva
