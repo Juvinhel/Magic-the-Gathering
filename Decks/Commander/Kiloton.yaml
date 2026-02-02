@@ -36,7 +36,6 @@ main:
       - 1 Walking Ballista
       - 1 Arcbound Mouser
   - Planeswalker:
-      - 1 Teferi, Who Slows the Sunset
       - 1 Tezzeret, Cruel Captain
       - 1 The Aetherspark
   - Artifacts & Enchantments:
@@ -61,6 +60,7 @@ main:
       - 1 Reckoner Bankbuster
       - 1 Relic of Legends
       - 1 Resourceful Defense
+      - 1 Ring of Evos Isle
       - 1 Sol Ring
       - 1 Solar Array
       - 1 Sonic Screwdriver
@@ -164,6 +164,7 @@ maybe:
       - 1 Tezzeret the Seeker
       - 1 Tezzeret, Artifice Master
       - 1 The Wanderer
+      - 1 Teferi, Who Slows the Sunset
   - Artifacts & Enchantments:
       - 1 Aetheric Amplifier
       - 1 Arcane Signet
