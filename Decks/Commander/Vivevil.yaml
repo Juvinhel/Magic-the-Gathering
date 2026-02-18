@@ -13,9 +13,9 @@ main:
       - 1 Firebrand Archer
       - 1 Ghyrson Starn, Kelermorph
       - 1 Harmonic Prodigy
-      - 1 Hullbreaker Horror
       - 1 Kessig Flamebreather
       - 1 Niv-Mizzet, Visionary
+      - 1 Ojer Axonil, Deepest Might // Temple of Power
       - 1 Ojer Axonil, Deepest Might // Temple of Power
       - 1 Queen Brahne
       - 1 Quicksilver Elemental
@@ -77,24 +77,30 @@ main:
       - 1 Strike It Rich
       - 1 Vivi's Persistence
   - Lands:
+      - 1 Arcane Lighthouse
+      - 1 Avishkar Raceway
+      - 1 Bonders' Enclave
       - 1 Command Tower
+      - 1 Cryptic Caves
+      - 1 Demolition Field
+      - 1 Detection Tower
+      - 1 Muraganda Raceway
       - 1 Reliquary Tower
+      - 1 Rogue's Passage
       - 1 Scalding Tarn
-      - 9 Island
+      - 1 Talon Gates of Madara
+      - 1 Agna Qel'a
+      - 6 Island
       - 1 Mistrise Village
       - 1 Otawara, Soaring City
-      - 1 Cascade Bluffs
+      - 1 Desolate Lighthouse
       - 1 Fiery Islet
-      - 1 Frostboil Snarl
-      - 1 Riverpyre Verge
-      - 1 Shivan Reef
+      - 1 Riverglide Pathway // Lavaglide Pathway
       - 1 Steam Vents
       - 1 Stormcarved Coast
-      - 1 Sulfur Falls
-      - 1 Thundering Falls
-      - 1 Training Center
+      - 1 Fire Nation Palace
       - 1 Lindblum, Industrial Regency // Mage Siege
-      - 8 Mountain
+      - 5 Mountain
 side: null
 maybe:
   - Creatures:
@@ -115,5 +121,12 @@ maybe:
       - 1 Frantic Search
       - 1 Magic Damper
       - 1 Opt
+      - 1 Sea Gate Restoration // Sea Gate, Reborn
+      - 1 Shatterskull Smashing // Shatterskull, the Hammer Pass
+      - 1 Sundering Eruption // Volcanic Fissure
       - 1 Swan Song
-  - Lands: null
+  - Lands:
+      - 1 Hidden Grotto
+      - 1 Witch's Clinic
+      - 1 Rivendell
+      - 1 Shinka, the Bloodsoaked Keep
