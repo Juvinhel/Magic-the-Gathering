@@ -24,12 +24,13 @@ main:
       - 1 Abduction
       - 1 Amphibian Downpour
       - 1 Aqueous Form
-      - 1 Arcane Signet
       - 1 Bandit's Haul
       - 1 Bender's Waterskin
       - 1 Brotherhood Regalia
       - 1 Burning Anger
       - 1 City on Fire
+      - 1 Copy Artifact
+      - 1 Copy Enchantment
       - 1 Curiosity
       - 1 Curse of the Pierced Heart
       - 1 Eaten by Piranhas
@@ -39,8 +40,8 @@ main:
       - 1 Imprisoned in the Moon
       - 1 Lasting Tarfire
       - 1 Lightning Greaves
+      - 1 Mirrormade
       - 1 Mox Amber
-      - 1 Mystic Remora
       - 1 Mystic Subdual
       - 1 Noggle the Mind
       - 1 Ophidian Eye
@@ -56,7 +57,6 @@ main:
   - Spells:
       - 1 An Offer You Can't Refuse
       - 1 Arcane Denial
-      - 1 Blasphemous Act
       - 1 Brainstorm
       - 1 Consider
       - 1 Counterspell
@@ -106,6 +106,7 @@ maybe:
   - Creatures:
       - 1 Keranos, God of Storms
   - Artifacts & Enchantments:
+      - 1 Arcane Signet
       - 1 Collective Inferno
       - 1 Court of Ire
       - 1 Curse of Bloodletting
@@ -117,7 +118,10 @@ maybe:
       - 1 Magmatic Core
       - 1 Manabarbs
       - 1 Mechanized Warfare
+      - 1 Mirage Mirror
+      - 1 Mystic Remora
   - Spells:
+      - 1 Blasphemous Act
       - 1 Frantic Search
       - 1 Magic Damper
       - 1 Opt
