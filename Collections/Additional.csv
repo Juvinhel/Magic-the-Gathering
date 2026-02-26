@@ -1,7 +1,9 @@
 Name,Set code,Language,Quantity
+Abandoned Air Temple,TLA,en,1
 Abeyance,WTH,de,1
 Abraded Bluffs,OTJ,de,1
 Access Tunnel,TDC,en,1
+Aetheric Amplifier,DRC,en,1
 Akoum Refuge,C19,en,1
 All Will Be One,ONE,de,1
 Angel of Destiny,ZNR,en,1
@@ -16,8 +18,10 @@ Angelic Field Marshal,CMM,en,1
 Angelic Skirmisher,GTC,de,1
 Angelic Sleuth,NCC,de,1
 Aqueous Form,CMR,en,1
+Arcbound Mouser,MH2,en,1
 Archangel of Thune,2XM,en,1
 Archangel of Tithes,OTJ,en,1
+Arid Mesa,MH2,de,1
 "Aurelia, the Law Above",MKM,de,1
 "Aurelia, the Warleader",MUL,de,1
 Battle Angels of Tyr,CLB,en,1
@@ -28,6 +32,7 @@ Bloodforged Battle-Axe,MOC,de,1
 Bonders' Enclave,M3C,en,1
 Boon-Bringer Valkyrie,MOM,en,1
 "Braids, Arisen Nightmare",DSC,de,1
+Branchloft Pathway // Boulderloft Pathway,ZNR,ja,1
 Brave the Elements,C14,de,1
 Breathkeeper Seraph,VOC,en,1
 Brotherhood Regalia,ACR,en,1
@@ -47,6 +52,7 @@ Conqueror's Flail,FIC,de,1
 Consign // Oblivion,HOU,en,1
 Counterspell,DSC,en,1
 Court of Grace,ONC,en,1
+Cragcrown Pathway // Timbercrown Pathway,ZNR,it,1
 Crop Rotation,DMR,en,1
 Cryptothrall,40K,en,1
 Deadly Rollick,SLD,en,1
@@ -66,14 +72,17 @@ Entreat the Angels,DSC,en,1
 Everybody Lives!,WHO,de,1
 Everything Comes to Dust,WHO,de,1
 Exemplar of Light,FDN,en,1
+Fabled Passage,M21,en,1
 Faerie Dreamthief,WOE,en,1
 Faerie Seer,J25,de,1
 Fallen Shinobi,NCC,en,1
 Fell the Profane // Fell Mire,MH3,en,1
 Fetid Heath,OTC,de,1
+Fierce Guardianship,CMM,de,1
 Finale of Glory,CLU,en,1
 Firemane Commando,MOC,de,1
 Flawless Maneuver,CMM,en,1
+Flooded Strand,MH3,de,1
 Folk Hero,CLB,en,1
 Force of Will,ALL,de,1
 Forlorn Flats,OTJ,de,1
@@ -82,6 +91,7 @@ Freed from the Real,A25,de,1
 Glacial Fortress,BLC,en,1
 Graypelt Refuge,C19,en,1
 Hallowed Fountain,RTR,de,1
+Halo Fountain,SNC,en,1
 Hengegate Pathway // Mistgate Pathway,KHM,ja,1
 Herald of Eternal Dawn,FDN,en,1
 Herald of the Host,CMM,de,1
@@ -94,6 +104,7 @@ Ingenious Infiltrator,MH1,en,1
 Ingenious Prodigy,WOE,en,1
 "Ink-Eyes, Servant of Oni",PCA,en,1
 Invasion of Dominaria // Serra Faithkeeper,MOM,de,1
+Inventors' Fair,KLD,en,1
 Isolated Chapel,DRC,de,1
 Jwar Isle Refuge,ZNC,de,1
 Kabira Takedown // Kabira Plateau,ZNR,de,1
@@ -141,11 +152,14 @@ Righteous Valkyrie,KHM,en,1
 "Rin and Seri, Inseparable",M21,de,1
 Rivendell,LTR,en,1
 Riverglide Pathway // Lavaglide Pathway,ZNR,en,1
+Roaming Throne,LCI,en,1
 Rogue Class,AFR,en,1
 Sacred Foundry,EOE,de,1
 Sakashima's Student,PCA,en,1
 Sanctify,VOW,de,1
 "Satoru, the Infiltrator",OTJ,en,1
+Savannah,3ED,en,1
+Scalding Tarn,MH2,en,1
 Sculpting Steel,MOC,de,1
 Segovian Angel,MH1,en,1
 Sejiri Refuge,KHC,en,1
@@ -186,6 +200,7 @@ Temple of Silence,DRC,de,1
 Temporal Mastery,INR,en,1
 Temporal Trespass,ACR,en,1
 The Book of Exalted Deeds,AFR,en,1
+The Ozolith,IKO,en,1
 The Soul Stone,SPM,de,1
 The Wind Crystal,FIN,de,1
 Thousand-Faced Shadow,NEO,en,1
@@ -194,11 +209,17 @@ Throat Slitter,PCA,en,1
 Tormented Soul,PCA,en,1
 Treasure Cruise,TDC,de,1
 Triton Shorestalker,OTC,en,1
+Tundra,3ED,en,1
 Twinning Staff,NCC,de,1
 Valkyrie Harbinger,KHM,de,1
 Vanquisher's Banner,LCC,de,1
+Verdant Catacombs,SLU,en,1
+Vesuva,M3C,en,1
 Veteran Armorsmith,DDO,de,1
+Wedding Ring,WHO,en,1
+Windswept Heath,KTK,de,1
 Wingcrafter,MM3,en,1
 Wojek Investigator,MKM,en,1
+Wooded Foothills,KTK,en,1
 Worldly Tutor,6ED,en,1
 "Yuriko, the Tiger's Shadow",CMM,en,1

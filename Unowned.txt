@@ -1,4 +1,5 @@
 1 Abandoned Campground
+1 Abduction
 1 Absolute Virtue
 1 Absolver Thrull
 1 Abstergo Entertainment
@@ -18,6 +19,7 @@
 1 Aettir and Priwen
 1 Agatha's Soul Cauldron
 1 Agent of Erebos
+1 Agna Qel'a
 1 Ainok Bond-Kin
 1 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
 1 Ajani, the Greathearted
@@ -28,6 +30,7 @@
 1 Alseid of Life's Bounty
 1 Always Watching
 1 Amonkhet Raceway
+1 Amphibian Downpour
 1 Anara, Wolvid Familiar
 1 Ancient Cornucopia
 1 Ancient Greenwarden
@@ -47,6 +50,7 @@
 1 Arbor Adherent
 1 Arboreal Grazer
 1 Arcane Adaptation
+1 Arcane Denial
 1 Arcane Lighthouse
 1 Arcbound Javelineer
 1 Arcbound Shikari
@@ -77,6 +81,7 @@
 1 Badlands
 1 Baldin, Century Herdmaster
 1 Balefire Liege
+1 Bandit's Haul
 1 Banehound
 1 Baneslayer Angel
 1 Banquet Guests
@@ -95,6 +100,7 @@
 1 Biovisionary
 1 Biowaste Blob
 1 Birds of Paradise
+1 Birgi, God of Storytelling // Harnfel, Horn of Bounty
 1 Birthing Pod
 1 Birthing Ritual
 1 Bishop of Wings
@@ -121,6 +127,7 @@
 1 Botanical Sanctum
 1 Bottle-Cap Blast
 1 Braids, Cabal Minion
+1 Bramble Familiar // Fetch Quest
 1 Branching Evolution
 1 Brave the Sands
 1 Bright-Palm, Soul Awakener
@@ -133,6 +140,7 @@
 1 Bruna, the Fading Light
 1 Brushland
 1 Buried Alive
+1 Burning Anger
 1 C.A.M.P.
 1 Cabaretti Courtyard
 1 Cadaver Imp
@@ -159,6 +167,7 @@
 1 Chronicle of Victory
 1 Cinder Marsh
 1 Circuit Mender
+1 City on Fire
 1 Clay Revenant
 1 Clive's Hideaway
 1 Cloudcrest Lake
@@ -177,26 +186,34 @@
 1 Conduit of Worlds
 1 Conqueror's Galleon // Conqueror's Foothold
 1 Consecrated Sphinx
+1 Consider
 1 Contentious Plan
 1 Conversion Apparatus
 1 Copper Myr
 1 Copperline Gorge
+1 Copy Artifact
+1 Copy Enchantment
 1 Copy Land
 1 Corpse Hauler
+1 Coruscation Mage
 1 Cosmos Elixir
 1 Courier Bat
+1 Court of Ire
 1 Court of Vantress
 1 Crashing Drawbridge
 1 Crawling Barrens
 1 Creosote Heath
 1 Crosis's Catacombs
 1 Crypt Incursion
+1 Cryptic Caves
 1 Cryptic Coat
 1 Cryptic Gateway
 1 Crystal Chimes
 1 Curiosity
 1 Curiosity Crafter
+1 Curse of Bloodletting
 1 Curse of Bounty
+1 Curse of the Pierced Heart
 1 Curse of the Swine
 1 Curtains' Call
 2 Cyclonic Rift
@@ -270,6 +287,7 @@
 1 Emmara, Soul of the Accord
 1 Emptiness
 1 Empyrial Storm
+1 Enchanter's Bane
 1 Enduring Angel // Angelic Enforcer
 1 Enduring Courage
 1 Energy Chamber
@@ -303,6 +321,7 @@
 1 Farewell
 1 Farmer Cotton
 1 Fate Unraveler
+1 Fated Firepower
 1 Fateful Absence
 1 Fear of Missing Out
 1 Feasting Hobbit
@@ -313,11 +332,13 @@
 1 Ferrous Lake
 1 Festering Gulch
 1 Field-Tested Frying Pan
+1 Fiery Emancipation
 1 Fire-Lit Thicket
 1 Flagstones of Trokair
 1 Flare of Fortitude
 1 Flooded Grove
 1 Floodfarm Verge
+1 Flusterstorm
 1 Food Chain
 1 Force of Despair
 1 Force of Negation
@@ -329,6 +350,7 @@
 1 Fortified Village
 1 Fountainport
 1 Frantic Search
+1 Fresh Start
 1 Frodo, Adventurous Hobbit
 1 Frodo, Sauron's Bane
 1 Frogmyr Enforcer
@@ -348,12 +370,15 @@
 1 Ghalta and Mavren
 1 Ghostly Prison
 1 Ghoulraiser
+1 Ghyrson Starn, Kelermorph
+1 Giant's Amulet
 1 Gideon, Champion of Justice
 1 Gifts Ungiven
 1 Gilded Goose
 1 Gilded Lotus
 1 Gingerbrute
 1 Gisela, Blade of Goldnight
+1 Gitaxian Probe
 1 Glacial Chasm
 1 Glasswing Grace // Age-Graced Chapel
 1 Go for the Throat
@@ -364,6 +389,7 @@
 1 Gollum, Obsessed Stalker
 1 Good-Fortune Unicorn
 2 Grand Arbiter Augustin IV
+1 Grapeshot
 1 Grasp of Fate
 1 Grateful Apparition
 1 Greater Auramancy
@@ -391,6 +417,7 @@
 1 Hallowed Haunting
 1 Hamza, Guardian of Arashin
 1 Hardened Scales
+1 Harmonic Prodigy
 1 Harrier Strix
 1 Harrow
 1 Havengul Laboratory // Havengul Mystery
@@ -403,11 +430,12 @@
 1 Helm of the Ghastlord
 1 Helm of the Host
 1 Herald of Secret Streams
+1 Hermetic Study
 1 Hidden Courtyard
+1 Hidden Grotto
 1 Hinterland Harbor
 1 Hissing Quagmire
 1 Hopeful Initiate
-1 Horn of Greed
 1 Horn of Valhalla // Ysgard's Call
 1 Hornet Queen
 1 Hourglass of the Lost
@@ -467,6 +495,8 @@
 1 Karplusan Forest
 1 Kaya's Ghostform
 1 Keeper of Fables
+1 Keranos, God of Storms
+1 Kessig Flamebreather
 1 Ketria Triome
 1 Kher Keep
 1 Kindred Boon
@@ -485,6 +515,7 @@
 1 Lakeside Shack
 1 Land Tax
 1 Lantern-Lit Graveyard
+1 Lasting Tarfire
 1 Legion Angel
 1 Legion's Landing // Adanto, the First Fort
 1 Leonin Warleader
@@ -519,6 +550,7 @@
 1 Maestros Theater
 1 Mana Echoes
 1 Mana Vault
+1 Manabarbs
 1 Managorger Hydra
 1 Manascape Refractor
 1 Marisi, Breaker of the Coil
@@ -529,6 +561,7 @@
 1 Maskwood Nexus
 1 Master Biomancer
 1 Mazemind Tome
+1 Mechanized Warfare
 1 Merry, Warden of Isengard
 1 Mesa Enchantress
 1 Metallic Rebuke
@@ -540,6 +573,7 @@
 1 Mikokoro, Center of the Sea
 1 Mindlink Mech
 1 Mines of Moria
+1 Mirage Mirror
 1 Miren, the Moaning Well
 1 Mirkwood Bats
 1 Mirrex
@@ -547,6 +581,7 @@
 1 Mirrodin Besieged
 1 Mirror Entity
 1 Mirror of Galadriel
+1 Mirrormade
 1 Mirrorpool
 1 Mishra's Workshop
 1 Mist-Cloaked Herald
@@ -581,6 +616,7 @@
 1 Myrsmith
 1 Mysterious Limousine
 1 Mystic Forge
+1 Mystic Subdual
 1 Nanogene Conversion
 1 Narset, Parter of Veils
 1 Nature's Chosen
@@ -592,6 +628,7 @@
 1 Nils, Discipline Enforcer
 1 Nimbus Maze
 1 Noctis, Prince of Lucis
+1 Noggle the Mind
 1 Notion Thief
 1 Nuka-Cola Vending Machine
 1 Nykthos, Shrine to Nyx
@@ -601,6 +638,7 @@
 1 Obscura Storefront
 1 Ocelot Pride
 1 Of Herbs and Stewed Rabbit
+1 Ojer Axonil, Deepest Might // Temple of Power
 1 Okina, Temple to the Grandfathers
 1 Ollenbock Escort
 1 Oltec Matterweaver
@@ -654,6 +692,8 @@
 1 Qasali Slingers
 1 Quantum Misalignment
 1 Quasiduplicate
+1 Queen Brahne
+1 Quicksilver Elemental
 1 Quintorius Kand
 1 Racers' Scoreboard
 1 Radiant Fountain
@@ -671,7 +711,7 @@
 1 Reef Worm
 1 Regal Caracal
 1 Rejuvenating Springs
-1 Relic of Sauron
+2 Relic of Sauron
 1 Reluctant Role Model
 1 Replicating Ring
 1 Replication Technique
@@ -733,7 +773,6 @@
 1 Sanctum of Ugin
 1 Sanguine Bond
 1 Savai Triome
-1 Savannah
 1 Savvy Hunter
 1 Sazh's Chocobo
 1 Scale Up
@@ -762,6 +801,7 @@
 1 Shamanic Revelation
 1 Shambling Vent
 1 Shattered Sanctum
+1 Shatterskull Smashing // Shatterskull, the Hammer Pass
 1 Sheoldred, the Apocalypse
 1 Shimmer Myr
 1 Shinewend
@@ -773,6 +813,7 @@
 1 Siege Veteran
 1 Sigarda, Font of Blessings
 1 Sigarda, Host of Herons
+1 Sigil of Sleep
 1 Sigil of the Empty Throne
 1 Silent Hallcreeper
 1 Silvar, Devourer of the Free
@@ -823,9 +864,11 @@
 1 Strangled Cemetery
 1 Strength-Testing Hammer
 1 Stridehangar Automaton
+1 Strike It Rich
 1 Study
 1 Subtlety
 1 Summon: Knights of Round
+1 Sundering Eruption // Volcanic Fissure
 1 Sunken Citadel
 1 Sunken Palace
 1 Sunscorch Regent
@@ -842,6 +885,7 @@
 1 Talion, the Kindly Lord
 1 Talon Gates of Madara
 1 Tamiyo's Safekeeping
+1 Tandem Lookout
 1 Tanglepool Bridge
 1 Taurean Mauler
 1 Teferi, Time Raveler
@@ -962,6 +1006,7 @@
 1 Virtue of Loyalty // Ardenvale Fealty
 1 Vito, Thorn of the Dusk Rose
 1 Vivi Ornitier
+1 Vivi's Persistence
 1 Vnwxt, Verbose Host
 1 Volcanic Island
 1 Volrath's Stronghold
@@ -978,7 +1023,6 @@
 1 Waterveil Cavern
 1 Wear // Tear
 1 Weathered Sentinels
-1 Wedding Ring
 1 Welcoming Vampire
 1 Whir of Invention
 1 Whisper of the Dross

@@ -6,7 +6,7 @@ Aang's Iceberg,TLA,de,1
 Aang's Journey,TLA,de,4
 Aarakocra Sneak,CLB,de,1
 Abandon Attachments,TLA,de,3
-Abandoned Air Temple,TLA,en,4
+Abandoned Air Temple,TLA,en,5
 "Abdel Adrian, Gorion's Ward",CLB,de,2
 Aberrant Return,ECC,de,1
 Abeyance,WTH,de,1
@@ -42,7 +42,7 @@ Aerith Rescue Mission,FIN,de,2
 Aeronaut's Wings,BRO,de,1
 Aether Spellbomb,MMA,de,1
 Aether Vial,DST,de,1
-Aetheric Amplifier,DRC,en,2
+Aetheric Amplifier,DRC,en,3
 Aetherize,FDN,de,1
 Aetherjacket,DFT,de,2
 Aetherplasm,RVR,de,1
@@ -172,7 +172,7 @@ Arcane Signet,WHO,de,1
 Arcane Spyglass,DST,de,2
 Arcbound Bruiser,DST,de,2
 Arcbound Hybrid,DST,de,2
-Arcbound Mouser,MH2,en,2
+Arcbound Mouser,MH2,en,3
 Arcbound Ravager,MMA,en,1
 Arcbound Slith,HOP,de,1
 Arcbound Stinger,MMA,de,1
@@ -188,6 +188,7 @@ Archivist,9ED,de,1
 Archmage Emeritus,FIC,en,1
 Arcum Dagsson,2XM,de,1
 "Ardbert, Warrior of Darkness",FIC,en,1
+Arid Mesa,MH2,de,1
 Arid Mesa,MH2,en,4
 Armament Dragon,TDM,de,1
 Armasaur Guide,FDN,de,1
@@ -287,6 +288,7 @@ Bagel and Schmear,SPM,de,5
 Bake into a Pie,FDN,de,2
 Bakersbane Duo,BLB,de,2
 Balamb T-Rexaur,FIN,de,2
+Balamb T-Rexaur,FIN,en,1
 Baleful Strix,BRC,de,1
 Baleful Strix,FIC,en,1
 Ballista Watcher // Ballista Wielder,VOW,de,1
@@ -469,6 +471,7 @@ Bramble Wurm,INR,en,2
 Brambleback Brute,ECL,de,1
 Bramblewood Paragon,MOR,de,1
 Branchloft Pathway // Boulderloft Pathway,ZNR,en,2
+Branchloft Pathway // Boulderloft Pathway,ZNR,ja,1
 Brandywine Farmer,LTR,de,2
 Brass Knuckles,PIP,de,1
 Brass's Bounty,FDN,de,1
@@ -728,6 +731,7 @@ Commander's Sphere,WHO,de,1
 Commit // Memory,LCC,en,1
 Common Crook,SPM,de,4
 Commune with Beavers,FIN,de,1
+Commune with Beavers,FIN,en,2
 Commune with Nature,CHK,de,2
 Compassionate Healer,TLA,de,2
 Compelled Duel,AFR,de,1
@@ -794,6 +798,7 @@ Cradle of Safety,VOW,de,1
 Cradle to Grave,PLC,de,1
 Crafty Pathmage,10E,de,1
 Cragcrown Pathway // Timbercrown Pathway,ZNR,en,1
+Cragcrown Pathway // Timbercrown Pathway,ZNR,it,1
 Cranial Plating,BRC,de,1
 Crash and Burn,DFT,de,3
 Crashing Wave,TLA,de,1
@@ -977,7 +982,7 @@ Dimir Guildmage,CLU,de,1
 Dimir House Guard,RVR,de,1
 Dimir Signet,BRC,de,2
 "Dina, Soul Steeper",STX,de,1
-Dinosaur,WMOM,en,1
+Dinosaur,TMOM,en,1
 Dinosaur Dragon,TDFT,de,1
 Diplomatic Relations,EOE,de,4
 Dire Downdraft,BLB,de,1
@@ -1158,7 +1163,7 @@ Eldritch Pact,CLB,de,1
 Electro's Bolt,SPM,de,4
 Electrolyze,GK1,de,1
 Elemental,TECC,de,8
-Elemental,TMOM,en,1
+Elemental,TMOC,en,1
 Elemental Resonance,DIS,de,1
 Elemental Spectacle,ECC,de,1
 Elemental Teachings,TLA,de,1
@@ -1296,6 +1301,7 @@ Eyes of Gitaxias,MOM,de,1
 "Ezekiel Sims, Spider-Totem",SPM,de,2
 Fa'adiyah Seer,PLC,de,2
 Fabled Passage,EOC,en,1
+Fabled Passage,M21,en,1
 Faceless One,CLB,de,1
 Facevaulter,MMA,de,1
 Fact or Fiction,BRC,de,1
@@ -1339,7 +1345,7 @@ Far Traveler,CLB,de,1
 Farhaven Elf,KHC,de,1
 "Farid, Enterprising Salvager",BRC,de,1
 "Farideh, Devil's Chosen",AFR,en,1
-Farseek,FCA,de,1
+Farseek,FIC,de,1
 Farseek,RVR,de,2
 Farsight Mask,PCA,de,1
 Fatal Fissure,TLA,de,1
@@ -1380,7 +1386,7 @@ Field Marshal,10E,de,1
 Field of Reality,CHK,de,3
 Field of the Dead,M20,en,1
 Fiend Hunter,INR,en,1
-Fierce Guardianship,CMM,de,1
+Fierce Guardianship,CMM,de,2
 Fierce Guardianship,CMM,en,2
 Fiery Annihilation,FDN,de,2
 Fiery Conclusion,PCA,de,1
@@ -1449,6 +1455,7 @@ Flitterwing Nuisance,ECL,de,1
 Floating-Dream Zubera,CHK,de,1
 Flood,BRB,de,1
 Flood the Engine,DFT,de,2
+Flooded Strand,MH3,de,1
 Flooded Strand,MH3,en,4
 "Flopsie, Bumi's Buddy",TLA,de,1
 Flow of Ideas,RAV,de,1
@@ -1618,6 +1625,7 @@ Gluttonous Guest,VOW,de,1
 Gnarlid Colony,FDN,de,1
 Gnat Alley Creeper,DIS,de,1
 Gnome,TEOC,de,2
+Gnome,TEOC,en,1
 Goat,TBRC,de,1
 Goatnap,ECL,de,1
 Goblin,TDFT,de,1
@@ -1740,7 +1748,7 @@ Halcyon Glaze,RAV,de,1
 Hallow,DST,de,1
 Hallowed Fountain,RTR,de,1
 Hallowed Fountain,RVR,en,2
-Halo Fountain,SNC,en,2
+Halo Fountain,SNC,en,3
 "Halsin, Emerald Archdruid",CLB,de,1
 "Hama, the Bloodbender",TLA,de,1
 Hammers of Moradin,CLB,de,1
@@ -1990,7 +1998,7 @@ Invasion Reinforcements,TLA,de,1
 Invasion Submersible,TLA,de,1
 Invasion Tactics,TLA,de,1
 Invasive Maneuvers,EOE,de,2
-Inventors' Fair,KLD,en,2
+Inventors' Fair,KLD,en,3
 Inventory Management,PIP,de,1
 Involuntary Employment,FDN,de,1
 Iridescent Blademaster,MOM,de,1
@@ -2496,8 +2504,8 @@ Momentum Breaker,DFT,de,1
 Monastery Messenger,TDM,de,2
 Monastery Messenger,TDM,en,1
 Mongoose Lizard,TLA,de,3
+Monk,TMOM,de,1
 Monk,TTLA,de,1
-Monk,WMOM,de,1
 Monk's Fist,FIN,de,2
 Monoist Circuit-Feeder,EOE,de,2
 Monoist Sentry,EOE,de,1
@@ -2545,6 +2553,7 @@ Murderous Rider // Swift End,FIC,en,1
 Murk Dwellers,5ED,de,1
 Mutant Surveyor,DFT,de,1
 Mutavault,EOS,en,1
+Mutavault,TECL,en,1
 Mutinous Massacre,EOE,de,1
 "Muzzio, Visionary Architect",BRC,de,1
 Mycosynth Lattice,BBD,en,2
@@ -3092,7 +3101,7 @@ Roadside Blowout,DFT,de,2
 Roadside Reliquary,NEO,en,1
 Roadside Reliquary,PIP,de,1
 Roamer's Routine,TDM,de,1
-Roaming Throne,LCI,en,5
+Roaming Throne,LCI,en,6
 Roaring Earth,NEO,en,2
 Robot,TEOE,de,24
 Robot,TEOE,en,1
@@ -3211,9 +3220,10 @@ Saruman's Trickery,LTR,de,1
 Savage Alliance,INR,en,1
 Savage Lands,ECC,de,1
 Savage Mansion,SPM,de,3
+Savannah,3ED,en,1
 Savannah Lions,FDN,de,1
 Say Its Name,DSK,de,1
-Scalding Tarn,MH2,en,4
+Scalding Tarn,MH2,en,5
 Scale of Chiss-Goria,MRD,de,1
 Scaled Herbalist,AFR,de,1
 Scaled Herbalist,AFR,en,1
@@ -3357,6 +3367,7 @@ Shineshadow Snarl,FIC,de,1
 Shineshadow Snarl,FIC,en,1
 Shinestriker,ECL,de,1
 Shinra Reinforcements,FIN,de,2
+Shinra Reinforcements,FIN,en,1
 Shipwreck Marsh,WHO,de,1
 "Shisato, Whispering Hunter",CHK,de,1
 Shivan Dragon,FDN,de,1
@@ -3994,7 +4005,7 @@ The Mightstone and Weakstone,BRO,de,1
 The Monarch,TFIC,de,2
 The Mycosynth Gardens,EOC,de,1
 The One Ring,LTR,en,3
-The Ozolith,IKO,en,1
+The Ozolith,IKO,en,2
 The Prima Vista,FIN,de,1
 The Rani,WHO,de,1
 The Second Doctor,WHO,de,1
@@ -4182,6 +4193,7 @@ Triton Shorestalker,OTC,en,1
 Trophy Hunter,RAV,de,1
 True Ancestry,TLA,de,1
 Trusty Boomerang,TLA,de,1
+Tundra,3ED,en,1
 Tundra Tank,TLA,de,1
 Tundra Wolves,10E,de,2
 Tune Up,DFT,de,1
@@ -4307,12 +4319,13 @@ Venomized Cat,SPM,de,4
 Venomsac Lagac,DFT,de,3
 "Venser, Shaper Savant",FCA,de,1
 Verdant Catacombs,MH2,en,4
+Verdant Catacombs,SLU,en,1
 Verdant Eidolon,DIS,de,4
 Vernal Sovereign,ECC,de,1
 "Veronica, Dissident Scribe",PIP,de,1
 Vertigo Spawn,CN2,de,1
 Vesper Ghoul,DIS,de,2
-Vesuva,M3C,en,1
+Vesuva,M3C,en,2
 Vesuva,TSR,en,9
 Veteran Armorer,RAV,de,1
 Veteran Armorsmith,DDO,de,1
@@ -4432,6 +4445,7 @@ Web Up,SPM,de,5
 Web-Shooters,SPM,de,1
 Web-Warriors,SPM,de,1
 Wedding Invitation,VOW,de,1
+Wedding Ring,WHO,en,1
 Wedgelight Rammer,EOE,de,2
 Wee Dragonauts,GRN,de,3
 Weeping Angel,WHO,de,1
@@ -4478,6 +4492,7 @@ Wind-Scarred Crag,FDN,de,2
 Wind-Scarred Crag,MOM,en,1
 Wind-Scarred Crag,NEO,en,1
 Windshaper Planetar,CLB,de,2
+Windswept Heath,KTK,de,1
 Windswept Heath,MH3,de,1
 Windswept Heath,MH3,en,1
 Wingblade Disciple,TDM,de,1
@@ -4511,6 +4526,7 @@ Wolf Cove Villager,TLE,de,1
 Wolfbat,TLA,de,1
 Wonderscape Sage,M3C,en,1
 Wondrous Crucible,BRC,de,1
+Wooded Foothills,KTK,en,1
 Wooded Foothills,MH3,de,1
 Wooded Foothills,MH3,en,1
 Woodwraith Strangler,RAV,de,1
