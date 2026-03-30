@@ -43,9 +43,13 @@ main:
       - 1 Twinflame Travelers
       - 1 Vernal Sovereign
       - 1 Yarok, the Desecrated
+      - 1 Lumra, Bellow of the Woods
+      - 1 Rumbleweed
+      - 1 Nulldrifter
+      - 1 Tyrant of Discord
+      - 1 Champion of the Path
   - Artifacts & Enchantments:
       - 1 Annie Joins Up
-      - 1 Chromatic Lantern
       - 1 Cloud Key
       - 1 Garruk's Uprising
       - 1 Gathering Stone
@@ -58,16 +62,16 @@ main:
       - 1 Reflections of Littjara
       - 1 Relic of Sauron
       - 1 Renewed Solidarity
-      - 1 Sneak Attack
       - 1 Sol Ring
       - 1 Swiftfoot Boots
       - 1 Urza's Incubator
+      - 1 Ashnod's Altar
+      - 1 Patchwork Banner
   - Spells:
       - 1 Deadly Rollick
       - 1 Deflecting Swat
       - 1 Fierce Guardianship
       - 1 Haunting Voyage
-      - 1 Kindred Summons
   - Lands:
       - 1 Abundant Countryside
       - 1 Ancient Tomb
@@ -106,19 +110,14 @@ main:
       - 1 Forest
 side:
   - 1 Kaheera, the Orphanguard
-  - 1 Cream of the Crop
-  - 1 Jegantha, the Wellspring
-  - 1 Horde of Notions
-  - 1 Cavalier of Dawn
-  - 1 Belonging
-  - 1 Cavalier of Gales
+  - 1 Sneak Attack
+  - 1 Kindred Summons
 maybe:
   - Creatures:
       - 1 Aethersnipe
       - 1 Bane of Progress
       - 1 Beza, the Bounding Spring
       - 1 Cavalier of Flame
-      - 1 Champion of the Path
       - 1 Deceit
       - 1 Eclipsed Flamekin
       - 1 Emptiness
@@ -126,21 +125,22 @@ maybe:
       - 1 Grief
       - 1 Havoc Eater
       - 1 Incandescent Soulstoke
-      - 1 Interdisciplinary Mascot
-      - 1 Lumra, Bellow of the Woods
       - 1 Nyxbloom Ancient
       - 1 Realmwalker
       - 1 Rottenmouth Viper
-      - 1 Rumbleweed
       - 1 Shimmercreep
       - 1 Subtlety
-      - 1 Tyrant of Discord
       - 1 Vibrance
       - 1 Wistfulness
+      - 1 Jegantha, the Wellspring
+      - 1 Horde of Notions
+      - 1 Cavalier of Dawn
+      - 1 Belonging
+      - 1 Cavalier of Gales
+      - 1 Interdisciplinary Mascot
   - Artifacts & Enchantments:
       - 1 Ancient Cornucopia
       - 1 Anointed Procession
-      - 1 Ashnod's Altar
       - 1 Bender's Waterskin
       - 1 Birthing Pod
       - 1 Birthing Ritual
@@ -157,7 +157,6 @@ maybe:
       - 1 Molten Echoes
       - 1 Muster the Departed
       - 1 Parallel Lives
-      - 1 Patchwork Banner
       - 1 Phyrexian Altar
       - 1 Progenitor's Icon
       - 1 Pyre of Heroes
@@ -174,6 +173,8 @@ maybe:
       - 1 The Immortal Sun
       - 1 Timeless Lotus
       - 1 White Lotus Tile
+      - 1 Chromatic Lantern
+      - 1 Cream of the Crop
   - Spells:
       - 1 Ashling's Command
       - 1 Path to Exile
