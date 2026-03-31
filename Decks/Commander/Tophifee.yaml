@@ -15,8 +15,8 @@ main:
       - 1 Avatar Kyoshi, Earthbender
       - 1 Badgermole
       - 1 Badgermole Cub
+      - 1 Big Mother Mouser
       - 1 Bristly Bill, Spine Sower
-      - 1 Bumi, Eclectic Earthbender
       - 1 Esper Sentinel
       - 1 Evolution Sage
       - 1 Haywire Mite
@@ -32,13 +32,13 @@ main:
       - 1 Tannuk, Memorial Ensign
       - 1 Toph, Earthbending Master
       - 1 Toph, Greatest Earthbender
+      - 1 Toph, Hardheaded Teacher
       - 1 Toph, the Blind Bandit
   - Planeswalker:
       - 1 The Aetherspark
   - Artifacts & Enchantments:
       - 1 Annie Joins Up
       - 1 Bender's Waterskin
-      - 1 Bonder's Ornament
       - 1 Chromatic Lantern
       - 1 Contagion Clasp
       - 1 Earthbender Ascension
@@ -48,10 +48,13 @@ main:
       - 1 Ichor Wellspring
       - 1 Liquimetal Coating
       - 1 Liquimetal Torque
+      - 1 Lumbering Worldwagon
       - 1 Mishra's Bauble
       - 1 Nutrient Block
       - 1 Ozolith, the Shattered Spire
+      - 1 Silverskin Armor
       - 1 Sol Ring
+      - 1 Solid Ground
       - 1 Swiftfoot Boots
       - 1 Tale of Katara and Toph
       - 1 Terra Eternal
@@ -61,17 +64,13 @@ main:
       - 1 The One Ring
       - 1 The Ozolith
       - 1 The Stasis Coffin
-      - 1 Urza's Saga
+      - 1 Weather Maker
   - Spells:
       - 1 Constant Mists
-      - 1 Crop Rotation
-      - 1 Cycle of Renewal
       - 1 Earth Rumble
       - 1 Earthshape
-      - 1 Farseek
       - 1 Heroic Intervention
       - 1 Hour of Revelation
-      - 1 Nature's Lore
       - 1 Organic Extinction
       - 1 Origin of Metalbending
       - 1 Path to Exile
@@ -87,6 +86,7 @@ main:
       - 1 Karn's Bastion
       - 1 Rumble Arena
       - 1 Secret Tunnel
+      - 1 Urza's Saga
       - 1 Verdant Catacombs
       - 1 Vesuva
       - 1 Windswept Heath
@@ -112,6 +112,7 @@ main:
 side: null
 maybe:
   - Creatures:
+      - 1 Bumi, Eclectic Earthbender
       - 1 Bumi, Unleashed
       - 1 Circuit Mender
       - 1 Combat Thresher
@@ -156,4 +157,9 @@ maybe:
       - 1 Tablet of Compleation
       - 1 The Walls of Ba Sing Se
       - 1 Wedding Ring
+  - Spells:
+      - 1 Crop Rotation
+      - 1 Cycle of Renewal
+      - 1 Farseek
+      - 1 Nature's Lore
   - Lands: null
