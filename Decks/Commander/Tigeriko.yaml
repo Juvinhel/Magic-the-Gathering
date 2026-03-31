@@ -10,7 +10,6 @@ tags:
 main:
   - 1 Yuriko, the Tiger's Shadow
   - Creatures:
-      - 1 Baleful Strix
       - 1 Changeling Outcast
       - 1 Faerie Dreamthief
       - 1 Faerie Seer
@@ -30,6 +29,7 @@ main:
       - 1 Roaming Throne
       - 1 Sakashima's Student
       - 1 Shadow of Mortality
+      - 1 Shark Shredder, Killer Clone
       - 1 Silent-Blade Oni
       - 1 Silver-Fur Master
       - 1 Siren Stormtamer
@@ -48,7 +48,6 @@ main:
       - 1 Lantern of Revealing
       - 1 Ninja's Blades
       - 1 Ornithopter of Paradise
-      - 1 Rogue Class
       - 1 Scroll Rack
       - 1 Sensei's Divining Top
       - 1 Smoke Shroud
@@ -56,6 +55,7 @@ main:
       - 1 Sonic Screwdriver
       - 1 The Soul Stone
       - 1 Whispersilk Cloak
+      - 1 Ninja Teen
   - Spells:
       - 1 Brainstorm
       - 1 Commandeer
@@ -87,11 +87,11 @@ main:
       - 1 Reliquary Tower
       - 1 Rogue's Passage
       - 1 Secret Tunnel
+      - 1 Turtle Lair
       - 1 Castle Vantress
-      - 6 Island
+      - 5 Island
       - 1 Otawara, Soaring City
       - 1 Rivendell
-      - 1 Soaring Seacliff
       - 1 Choked Estuary
       - 1 Clearwater Pathway // Murkwater Pathway
       - 1 Drowned Catacomb
@@ -100,12 +100,14 @@ main:
       - 1 Temple of Deceit
       - 1 Underground River
       - 1 Watery Grave
+      - 1 Underground Sea
       - 1 Minas Morgul, Dark Fortress
       - 1 Shizo, Death's Storehouse
       - 5 Swamp
       - 1 Takenuma, Abandoned Mire
 side:
   - 1 Satoru, the Infiltrator
+  - 1 Splinter, Hamato Yoshi
 maybe:
   - Creatures:
       - 1 Assassin Initiate
@@ -126,6 +128,7 @@ maybe:
       - 1 Siren Stormtamer
       - 1 Spectral Sailor
       - 1 Vampire Cutthroat
+      - 1 Baleful Strix
   - Artifacts & Enchantments:
       - 1 Aether Tunnel
       - 1 Arcane Adaptation
@@ -141,6 +144,7 @@ maybe:
       - 1 Psychic Paper
       - 1 Security Bypass
       - 1 Thieves' Tools
+      - 1 Rogue Class
   - Battles & Planeswalker: null
   - Spells:
       - 1 An Offer You Can't Refuse
