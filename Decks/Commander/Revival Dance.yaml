@@ -21,7 +21,6 @@ main:
       - 1 Fear of Missing Out
       - 1 Fire Nation Salvagers
       - 1 Gogo, Mysterious Mime
-      - 1 Grave Researcher // Reanimate
       - 1 Joshua, Phoenix's Dominant // Phoenix, Warden of Fire
       - 1 Karai, Future of the Foot
       - 1 Karmic Guide
@@ -35,6 +34,7 @@ main:
       - 1 Morbid Opportunist
       - 1 Priest of Fell Rites
       - 1 Raph & Leo, Sibling Rivals
+      - 1 Rosa, Resolute White Mage
       - 1 Sally Pride, Lioness Leader
       - 1 Selfless Spirit
       - 1 Sister Hospitaller
@@ -107,7 +107,8 @@ main:
       - 1 Fire Nation Palace
       - 3 Mountain
       - 1 Shinka, the Bloodsoaked Keep
-side: null
+side:
+  - 1 Grave Researcher // Reanimate
 maybe:
   - Creatures:
       - 1 Banon, the Returners' Leader
