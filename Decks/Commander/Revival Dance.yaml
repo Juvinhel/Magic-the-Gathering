@@ -84,7 +84,9 @@ main:
       - 1 High Market
       - 1 Marsh Flats
       - 1 Rogue's Passage
-      - 2 Plains
+      - 1 Conduit Pylons
+      - 1 Hidden Grotto
+      - 3 Plains
       - 1 Brightclimb Pathway // Grimclimb Pathway
       - 1 Godless Shrine
       - 1 Scrubland
@@ -93,18 +95,15 @@ main:
       - 1 Needleverge Pathway // Pillarverge Pathway
       - 1 Plateau
       - 1 Sacred Foundry
-      - 1 Sunhome, Fortress of the Legion
       - 1 Barad-dûr
       - 1 Minas Morgul, Dark Fortress
       - 1 Phyrexian Tower
       - 1 Shizo, Death's Storehouse
       - 2 Swamp
       - 1 Takenuma, Abandoned Mire
-      - 1 The Black Gate
       - 1 Badlands
       - 1 Blightstep Pathway // Searstep Pathway
       - 1 Blood Crypt
-      - 1 Fire Nation Palace
       - 3 Mountain
       - 1 Shinka, the Bloodsoaked Keep
 side:
@@ -137,4 +136,7 @@ maybe:
       - 1 Ruinous Ultimatum
       - 1 Snort
       - 1 Tragic Arrogance
-  - Lands: null
+  - Lands:
+      - 1 Fire Nation Palace
+      - 1 Sunhome, Fortress of the Legion
+      - 1 The Black Gate
