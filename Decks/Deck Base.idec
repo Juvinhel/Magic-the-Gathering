@@ -1,0 +1,116 @@
+name: Deck Base
+description: Cards that are useful in multiple Decks
+main:
+  Dual Lands:
+    - 1 Tundra
+    - 1 Scrubland
+    - 1 Plateau
+    - 1 Savannah
+    - 1 Underground Sea
+    - 1 Volcanic Island
+    - 1 Tropical Island
+    - 1 Badlands
+    - 1 Bayou
+    - 1 Taiga
+  Flip Lands:
+    - 1 Hengegate Pathway // Mistgate Pathway
+    - 1 Brightclimb Pathway // Grimclimb Pathway
+    - 1 Needleverge Pathway // Pillarverge Pathway
+    - 1 Branchloft Pathway // Boulderloft Pathway
+    - 1 Clearwater Pathway // Murkwater Pathway
+    - 1 Riverglide Pathway // Lavaglide Pathway
+    - 1 Barkchannel Pathway // Tidechannel Pathway
+    - 1 Blightstep Pathway // Searstep Pathway
+    - 1 Darkbore Pathway // Slitherbore Pathway
+    - 1 Cragcrown Pathway // Timbercrown Pathway
+  Shocklands:
+    - 1 Hallowed Fountain
+    - 1 Godless Shrine
+    - 1 Sacred Foundry
+    - 1 Temple Garden
+    - 1 Watery Grave
+    - 1 Steam Vents
+    - 1 Breeding Pool
+    - 1 Blood Crypt
+    - 1 Overgrown Tomb
+    - 1 Stomping Ground
+  Fetch Lands:
+    - 1 Flooded Strand
+    - 1 Polluted Delta
+    - 1 Bloodstained Mire
+    - 1 Wooded Foothills
+    - 1 Windswept Heath
+    - 1 Marsh Flats
+    - 1 Verdant Catacombs
+    - 1 Misty Rainforest
+    - 1 Scalding Tarn
+    - 1 Arid Mesa
+  Utility Lands:
+    - 1 Command Tower
+    - 1 Exotic Orchard
+    - 1 Plaza of Heroes
+    - 1 Talon Gates of Madara
+  Legendary Lands:
+    - 1 Yavimaya, Cradle of Growth
+    - 1 Boseiju, Who Endures
+    - 1 Three Tree City
+    - 1 Barad-dûr
+    - 1 Eiganjo Castle
+    - 1 Eiganjo, Seat of the Empire
+    - 1 Gaea's Cradle
+    - 1 Inventors' Fair
+    - 1 Minamo, School at Water's Edge
+    - 1 Minas Tirith
+    - 1 Mines of Moria
+    - 1 Nykthos, Shrine to Nyx
+    - 1 Okina, Temple to the Grandfathers
+    - 1 Otawara, Soaring City
+    - 1 Pendelhaven
+    - 1 Phyrexian Tower
+    - 1 Rivendell
+    - 1 Shinka, the Bloodsoaked Keep
+    - 1 Shizo, Death's Storehouse
+    - 1 Sokenzan, Crucible of Defiance
+    - 1 Takenuma, Abandoned Mire
+    - 1 The Shire
+    - 1 Urborg, Tomb of Yawgmoth
+    - 1 Yavimaya Hollow
+  Mana Artifacts:
+    - 1 Sol Ring
+    - 1 Sonic Screwdriver
+    - 1 Bonder's Ornament
+    - 1 Bender's Waterskin
+    - 1 Weather Maker
+    - 1 Chromatic Lantern
+    - 1 Relic of Legends
+  Commander Spells:
+    - 1 Deadly Rollick
+    - 1 Deflecting Swat
+    - 1 Fierce Guardianship
+    - 1 Flawless Maneuver
+    - 1 Obscuring Haze
+  Common Spells:
+    - 1 Swords to Plowshares
+    - 1 Path to Exile
+    - 1 Farseek
+    - 1 Force of Will
+  Protection:
+    - 1 Swiftfoot Boots
+    - 1 Giant's Amulet
+    - 1 Lightning Greaves
+    - 1 Teferi's Protection
+  Gamechangers:
+    - 1 Farewell
+    - 1 Smothering Tithe
+    - 1 Cyclonic Rift
+    - 1 Rhystic Study
+    - 1 The One Ring
+    - 1 Field of the Dead
+    - 1 Mishra's Workshop
+  Tutors:
+    - 1 Enlightened Tutor
+    - 1 Mystical Tutor
+    - 1 Demonic Tutor
+    - 1 Vampiric Tutor
+    - 1 Gamble
+    - 1 Worldly Tutor
