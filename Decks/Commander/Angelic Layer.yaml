@@ -80,25 +80,26 @@ main:
       - 1 Stroke of Midnight
       - 1 Swords to Plowshares
   - Lands:
-      - 1 Abandoned Air Temple
       - 1 Bonders' Enclave
       - 1 Cavern of Souls
       - 1 Drannith Ruins
-      - 1 Eiganjo Castle
-      - 1 Idyllic Grange
       - 1 Karn's Bastion
-      - 1 Kor Haven
       - 1 Mikokoro, Center of the Sea
-      - 1 Minas Tirith
       - 1 Nesting Grounds
       - 1 Nykthos, Shrine to Nyx
       - 1 Path of Ancestry
-      - 15 Plains
       - 1 Seraph Sanctuary
       - 1 Three Tree City
       - 1 Vesuva
       - 1 War Room
       - 1 Witch's Clinic
+      - 1 Talon Gates of Madara
+      - 1 Plaza of Heroes
+      - 1 Abandoned Air Temple
+      - 1 Eiganjo Castle
+      - 1 Kor Haven
+      - 1 Minas Tirith
+      - 14 Plains
 side:
   - 1 Angel of Serenity
   - 1 Angelic Field Marshal
