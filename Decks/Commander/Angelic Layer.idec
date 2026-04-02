@@ -1,0 +1,223 @@
+name: Angelic Layer
+description: Angel Deck
+commanders: 
+  - Giada, Font of Hope
+tags: 
+  - Angels
+  - Lifegain
+  - Counters
+  - Flying
+main:
+  - 1 Giada, Font of Hope
+  Creatures:
+    - 1 Angel of Invention
+    - 1 Angelic Skirmisher
+    - 1 Angelic Sleuth
+    - 1 Archangel of Thune
+    - 1 Archangel of Tithes
+    - 1 Battle Angels of Tyr
+    - 1 Boon-Bringer Valkyrie
+    - 1 Dazzling Angel
+    - 1 Exemplar of Light
+    - 1 Firemane Commando
+    - 1 Herald of War
+    - 1 Lightstall Inquisitor
+    - 1 Lyra Dawnbringer
+    - 1 Resplendent Angel
+    - 1 Resplendent Marshal
+    - 1 Righteous Valkyrie
+    - 1 Roaming Throne
+    - 1 Segovian Angel
+    - 1 Sephara, Sky's Blade
+    - 1 Seraph of the Masses
+    - 1 Steel Seraph
+    - 1 Valkyrie Harbinger
+    - 1 Witch Enchanter // Witch-Blessed Meadow
+    - 1 Wojek Investigator
+    - 1 Youthful Valkyrie
+  Planeswalker & Battles:
+    - 1 Elspeth Resplendent
+    - 1 Invasion of Dominaria // Serra Faithkeeper
+  Artifacts & Enchantments:
+    - 1 Aetheric Amplifier
+    - 1 Angelic Accord
+    - 1 Authority of the Consuls
+    - 1 Buster Sword
+    - 1 Cleric Class
+    - 1 Cosmos Elixir
+    - 1 Court of Grace
+    - 1 Folk Hero
+    - 1 Herald's Horn
+    - 1 Heraldic Banner
+    - 1 Leyline of Hope
+    - 1 Lightning Greaves
+    - 1 Luminarch Ascension
+    - 1 Patchwork Banner
+    - 1 Pristine Talisman
+    - 1 Sigarda's Splendor
+    - 1 Sol Ring
+    - 1 Soul Foundry
+    - 1 The Book of Exalted Deeds
+    - 1 The Wind Crystal
+    - 1 Vanquisher's Banner
+  Spells:
+    - 1 Brave the Elements
+    - 1 Cleansing Nova
+    - 1 Clever Concealment
+    - 1 Contraband Livestock
+    - 1 Defy Death
+    - 1 Enlightened Tutor
+    - 1 Entreat the Angels
+    - 1 Everybody Lives!
+    - 1 Everything Comes to Dust
+    - 1 Flawless Maneuver
+    - 1 Kabira Takedown // Kabira Plateau
+    - 1 Path to Exile
+    - 1 Requisition Raid
+    - 1 Sanctify
+    - 1 Sejiri Shelter // Sejiri Glacier
+    - 1 Starnheim Unleashed
+    - 1 Stroke of Midnight
+    - 1 Swords to Plowshares
+  Lands:
+    - 1 Bonders' Enclave
+    - 1 Cavern of Souls
+    - 1 Drannith Ruins
+    - 1 Karn's Bastion
+    - 1 Mikokoro, Center of the Sea
+    - 1 Nesting Grounds
+    - 1 Nykthos, Shrine to Nyx
+    - 1 Path of Ancestry
+    - 1 Seraph Sanctuary
+    - 1 Three Tree City
+    - 1 Vesuva
+    - 1 War Room
+    - 1 Witch's Clinic
+    - 1 Talon Gates of Madara
+    - 1 Plaza of Heroes
+    - 1 Abandoned Air Temple
+    - 1 Eiganjo Castle
+    - 1 Kor Haven
+    - 1 Minas Tirith
+    - 14 Plains
+side:
+  - 1 Angel of Serenity
+  - 1 Angelic Field Marshal
+  - 1 Avacyn, Angel of Hope
+  - 1 Caretaker's Talent
+  - 1 Cosmos Elixir
+  - 1 Dawn of a New Age
+  - 1 Emeria, the Sky Ruin
+  - 1 Herald of Eternal Dawn
+  - 1 Linvala, Keeper of Silence
+  - 1 Patron of the Valiant
+  - 1 Ravnica at War
+  - 1 Serra's Guardian
+  - 1 Sigarda's Vanguard
+  - 1 Wedding Ring
+maybe:
+  Creatures:
+    - 1 Angel of Jubilation
+    - 1 Angel of Sanctions
+    - 1 Angel of the Dire Hour
+    - 1 Angel of Vitality
+    - 1 Angelic Cub
+    - 1 Angelic Curator
+    - 1 Angelic Page
+    - 1 Baneslayer Angel
+    - 1 Bishop of Wings
+    - 1 Blinding Angel
+    - 1 Breathkeeper Seraph
+    - 1 Bruna, the Fading Light
+    - 1 Emancipation Angel
+    - 1 Emeria Angel
+    - 1 Enduring Angel // Angelic Enforcer
+    - 1 Gisela, the Broken Blade
+    - 1 Guardian of Ghirapur
+    - 1 Guardian Seraph
+    - 1 Herald of the Host
+    - 1 Legion Angel
+    - 1 Light of the Legion
+    - 1 Metropolis Reformer
+    - 1 Reya Dawnbringer
+    - 1 Sanctuary Warden
+    - 1 Seraph of Dawn
+    - 1 Serra Angel
+    - 1 Serra Avenger
+    - 1 Serra Paragon
+    - 1 Shattered Angel
+    - 1 Speaker of the Heavens
+    - 1 Stalwart Valkyrie
+    - 1 Starfield Shepherd
+    - 1 Starnheim Aspirant
+    - 1 Towashi Guide-Bot
+    - 1 Victory's Herald
+  Artifacts & Enchantments:
+    - 1 Always Watching
+    - 1 Angelic Renewal
+    - 1 Commander's Sphere
+    - 1 Conqueror's Flail
+    - 1 Dawn of Hope
+    - 1 Everflowing Chalice
+    - 1 Halo Fountain
+    - 1 Heirloom Epic
+    - 1 Idol of Oblivion
+    - 1 Illuminated Folio
+    - 1 Kindred Boon
+    - 1 Mind Stone
+    - 1 Paradise Plume
+    - 1 Rally the Ranks
+    - 1 Stormbeacon Blade
+    - 1 Strength-Testing Hammer
+    - 1 Strixhaven Stadium
+    - 1 Sword of the Animist
+    - 1 The Celestus
+    - 1 The Immortal Sun
+    - 1 Throne of Eldraine
+    - 1 Urza's Incubator
+  Spells:
+    - 1 Abeyance
+    - 1 Akroma's Will
+    - 1 And They Shall Know No Fear
+    - 1 Angel's Grace
+    - 1 Ascend from Avernus
+    - 1 Calamity's Wake
+    - 1 Dawn's Truce
+    - 1 Decree of Justice
+    - 1 Destroy Evil
+    - 1 Dismantling Wave
+    - 1 Divine Resilience
+    - 1 Empyrial Storm
+    - 1 Farewell
+    - 1 Fateful Absence
+    - 1 Finale of Glory
+    - 1 Flare of Fortitude
+    - 1 Galadriel's Dismissal
+    - 1 Get Lost
+    - 1 Heliod's Intervention
+    - 1 Make a Stand
+    - 1 Razorgrass Ambush // Razorgrass Field
+    - 1 Rebuff the Wicked
+    - 1 Restoration Magic
+    - 1 Silence
+    - 1 Split Up
+    - 1 Unbreakable Formation
+    - 1 Vanquish the Horde
+    - 1 Winds of Abandon
+  Lands:
+    - 1 Eiganjo, Seat of the Empire
+    - 1 Emeria's Call // Emeria, Shattered Skyclave
+    - 1 Fountainport
+    - 1 Geier Reach Sanitarium
+    - 1 Hall of Heliod's Generosity
+    - 1 Hidden Courtyard
+    - 1 Mikokoro, Center of the Sea
+    - 1 Monumental Henge
+    - 1 Nykthos, Shrine to Nyx
+    - 1 Radiant Fountain
+    - 1 Secluded Steppe
+    - 1 Talon Gates of Madara
+    - 1 The Grey Havens
+    - 1 Tyrite Sanctum
+    - 1 War Room
+    - 1 Windbrisk Heights

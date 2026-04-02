@@ -1,0 +1,68 @@
+name: Evil Elfi
+description: Pauper Deck. {W}{B}
+commanders: 
+  - Minthara, Merciless Soul
+tags: 
+  - Pauper
+main:
+  - 1 Minthara, Merciless Soul
+  Creatures:
+    - 1 Blightbelly Rat
+    - 1 Clay Revenant
+    - 1 Deathless Pilot
+    - 1 Disciple of the Sun
+    - 1 Driver of the Dead
+    - 1 Drogskol Infantry // Drogskol Armaments
+    - 1 Durable Coilbug
+    - 1 Dutiful Attendant
+    - 1 Fell Horseman // Deathly Ride
+    - 1 Gixian Skullflayer
+    - 1 Gravedigger
+    - 1 Gulping Scraptrap
+    - 1 Haunt of the Dead Marshes
+    - 1 Ichor Drinker
+    - 1 Kindly Ancestor // Ancestor's Embrace
+    - 1 Leonin Surveyor
+    - 1 Liliana's Elite
+    - 1 Lunarch Veteran // Luminous Phantom
+    - 1 Martyr for the Cause
+    - 1 Merchant of Many Hats
+    - 1 Mutant Surveyor
+    - 1 Persistent Specimen
+    - 1 Purple Pentapus
+    - 1 Retrofitted Transmogrant
+    - 1 Sanitarium Skeleton
+  Artifacts & Enchantments:
+    - 1 Bender's Waterskin
+    - 1 Bonder's Ornament
+    - 1 Hot Dog Cart
+  Spells:
+    - 1 Grim Affliction
+    - 1 Spread the Sickness
+    - 1 Unbounded Potential
+    - 1 Wanderer's Strike
+    - 1 Whisper of the Dross
+    - 1 Deadly Derision
+  Lands:
+    - 1 Adventurer's Inn
+    - 1 Avishkar Raceway
+    - 1 Command Tower
+    - 1 Forge of Heroes
+    - 1 Radiant Fountain
+    - 1 Rumble Arena
+    - 1 Tocasia's Dig Site
+    - 1 Idyllic Grange
+    - 1 Kabira Crossroads
+    - 12 Plains
+    - 1 The Fair Basilica
+    - 12 Swamp
+    - 1 The Dross Pits
+    - 1 Witch's Cottage
+maybe:
+  Creatures:
+    - 1 Cadaver Imp
+    - 1 Corpse Hauler
+    - 1 Courier Bat
+    - 1 Daily Bugle Reporters
+    - 1 Draugr Recruiter
+    - 1 Ghoulraiser

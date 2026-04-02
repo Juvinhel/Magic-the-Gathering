@@ -1,5 +1,5 @@
 name: Legacy WBR
-description: ""
+description: Pauper Deck. {W}{B}
 main:
   - 2 Azorius Guildmage
   - 1 Azorius Herald
@@ -41,5 +41,3 @@ main:
   - 1 Vigilance
   - 1 Wall of Spears
   - 1 Yotian Soldier
-side: null
-maybe: null

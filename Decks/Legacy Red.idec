@@ -1,5 +1,5 @@
 name: Legacy Red
-description: ""
+description: Pauper Deck. {W}{B}
 main:
   - 1 Akki Lavarunner // Tok-Tok, Volcano Born
   - 1 Akki Underminer
@@ -36,5 +36,3 @@ main:
   - 2 Torpid Moloch
   - 1 Wojek Embermage
   - 1 Zoetic Cavern
-side: null
-maybe: null
