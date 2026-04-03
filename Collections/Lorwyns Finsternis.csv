@@ -1,18 +1,18 @@
 Name,Set code,Language,Quantity
 Aberrant Return,ECC,de,1
 Abundant Countryside,ECC,de,1
-Abundant Growth,ECC,de,1
-Ancient Ziggurat,ECC,de,1
+Abundant Growth,INR,de,1
+Ancient Ziggurat,CON,de,1
 Appeal to Eirdu,ECL,de,1
 Arcane Signet,ECC,de,1
 "Ashling, the Limitless",ECC,de,1
 Ashling's Command,ECL,de,1
 Auntie's Sentence,ECL,de,1
-Avenger of Zendikar,ECC,de,1
-Bane of Progress,ECC,de,1
+Avenger of Zendikar,TDC,de,1
+Bane of Progress,CMA,de,1
 Belonging,ECC,de,1
 Bile-Vial Boggart,ECL,de,1
-Blasphemous Act,ECC,de,1
+Blasphemous Act,EOC,de,1
 Blight Rot,ECL,de,2
 Blighted Blackthorn,ECL,de,1
 Bogslither's Embrace,ECL,de,1
@@ -20,25 +20,25 @@ Brambleback Brute,ECL,de,1
 Bre of Clan Stoutarm,ECL,de,1
 "Brigid, Clachan's Heart // Brigid, Doun's Mind",ECL,de,1
 Bristlebane Battler,ECL,de,1
-Cavalier of Thorns,ECC,de,1
+Cavalier of Thorns,M20,de,1
 Champion of the Clachan,ECL,de,1
 Champions of the Shoal,ECL,de,1
 Chaos Spewer,ECL,de,1
 Chitinous Graspling,ECL,de,1
 Chomping Changeling,ECL,de,2
-Chromatic Lantern,ECC,de,1
+Chromatic Lantern,M3C,de,1
 Cinder Strike,ECL,de,1
 Collective Inferno,ECL,de,1
 Command Tower,ECC,de,1
-Copy,TECC,de,6
+Copy,TDSK,de,6
 Creakwood Safewright,ECL,de,1
-Cream of the Crop,ECC,de,1
+Cream of the Crop,MOR,de,1
 Crib Swap,ECL,de,1
 Crossroads Watcher,ECL,de,1
-Cultivate,ECC,de,1
+Cultivate,EOC,de,1
 Darkness Descends,ECL,de,2
 Dawnhand Eulogist,ECL,de,1
-Descendants' Fury,ECC,de,1
+Descendants' Fury,CMM,de,1
 Distant Melody,ECC,de,1
 Dream Seizer,ECL,de,1
 Eclipsed Boggart,ECL,de,1
@@ -46,53 +46,55 @@ Eclipsed Elf,ECL,de,1
 Eclipsed Flamekin,ECL,de,1
 "Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight",ECL,de,1
 Elder Auntie,ECL,de,2
-Elemental,TECC,de,8
+Elemental,T2XM,de,2
+Elemental,TBLC,de,3
+Elemental,TEOC,de,3
 Elemental Spectacle,ECC,de,1
 Elf,TECL,de,2
 Endurance,ECC,de,1
 Enraged Flamecaster,ECL,de,1
-Exotic Orchard,ECC,de,1
+Exotic Orchard,EOC,de,1
 Explosive Prodigy,ECL,de,1
 Faeburrow Elder,ECC,de,1
 Feed the Flames,ECL,de,1
 Feisty Spikeling,ECL,de,1
-Fellwar Stone,ECC,de,1
-Fertile Ground,ECC,de,1
+Fellwar Stone,TDC,de,1
+Fertile Ground,AFC,de,1
 Firdoch Core,ECL,de,1
 Flame-Chain Mauler,ECL,de,2
 Flamebraider,ECL,de,1
 Flamekin Gildweaver,ECL,de,1
-Flamekin Village,ECC,de,1
+Flamekin Village,CM2,de,1
 Flitterwing Nuisance,ECL,de,1
 Foraging Wickermaw,ECL,de,1
-Foundation Breaker,ECC,de,1
-Frontier Bivouac,ECC,de,1
+Foundation Breaker,MH2,de,1
+Frontier Bivouac,TDM,de,1
 Fury,ECC,de,1
 Gangly Stompling,ECL,de,1
-Garruk's Uprising,ECC,de,1
+Garruk's Uprising,FDN,de,1
 Gilt-Leaf's Embrace,ECL,de,1
 Goatnap,ECL,de,1
 Gravelgill Scoundrel,ECL,de,2
 Graveshifter,ECL,de,1
 Great Forest Druid,ECL,de,2
-Greenwarden of Murasa,ECC,de,1
+Greenwarden of Murasa,NCC,de,1
 Harmonized Crescendo,ECL,de,1
-Haunting Voyage,ECC,de,1
+Haunting Voyage,KHM,de,1
 Helix Pinnacle,SPG,de,1
-Hoofprints of the Stag,ECC,de,1
-Horde of Notions,ECC,de,1
+Hoofprints of the Stag,BLC,de,1
+Horde of Notions,MM2,de,1
 Hovel Hurler,ECL,de,1
 Impolite Entrance,ECL,de,1
 Impulsivity,ECC,de,1
-Incandescent Soulstoke,ECC,de,1
-Ingot Chewer,ECC,de,1
-"Jegantha, the Wellspring",ECC,de,1
+Incandescent Soulstoke,MM2,de,1
+Ingot Chewer,UMA,de,1
+"Jegantha, the Wellspring",IKO,de,1
 Jubilation,ECC,de,2
-Jungle Shrine,ECC,de,1
-Kindred Summons,ECC,de,1
+Jungle Shrine,OTC,de,1
+Kindred Summons,AFC,de,1
 Kinsbaile Aspirant,ECL,de,1
 Kithkin,TECL,de,4
-Kodama's Reach,ECC,de,1
+Kodama's Reach,TDC,de,1
 Kulrath Mystic,ECL,de,1
 Kulrath Zealot,ECL,de,1
 Lamentation,ECC,de,1
@@ -100,57 +102,57 @@ Liminal Hold,ECL,de,1
 Loch Mare,ECL,de,1
 Lys Alana Dignitary,ECL,de,1
 Lys Alana Informant,ECL,de,1
-Maelstrom Wanderer,ECC,de,1
+Maelstrom Wanderer,CMM,de,1
 Mass of Mysteries,ECC,de,1
 Meanders Guide,ECL,de,1
 Mirrormind Crown,ECL,de,1
 Morcant's Loyalist,ECL,de,2
 Morningtide's Light,ECL,de,1
-"Muldrotha, the Gravetide",ECC,de,1
-Mulldrifter,ECC,de,1
-"Omnath, Locus of Rage",ECC,de,1
-"Omnath, Locus of the Roil",ECC,de,1
+"Muldrotha, the Gravetide",FDN,de,1
+Mulldrifter,MKC,de,1
+"Omnath, Locus of Rage",EOC,de,1
+"Omnath, Locus of the Roil",M20,de,1
 Omni-Changeling,ECL,de,1
-Opal Palace,ECC,de,1
-Opulent Palace,ECC,de,1
-Path of Ancestry,ECC,de,1
-Path to Exile,ECC,de,1
-Plant,TECC,de,2
-Primal Beyond,ECC,de,1
+Opal Palace,CMM,de,1
+Opulent Palace,TDM,de,1
+Path of Ancestry,TDC,de,1
+Path to Exile,OTC,de,1
+Plant,TTDC,de,2
+Primal Beyond,MOR,de,1
 Prismatic Undercurrents,ECL,de,1
-Raging Ravine,ECC,de,1
+Raging Ravine,BLC,de,1
 Rain-Slicked Copse,ECC,de,1
-Reality Shift,ECC,de,1
-Realmwalker,ECC,de,1
+Reality Shift,TDC,de,1
+Realmwalker,LCC,de,1
 Reckless Ransacking,ECL,de,1
 Reluctant Dounguard,ECL,de,1
 Requiting Hex,ECL,de,1
 Retched Wretch,ECL,de,1
-Return of the Wildspeaker,ECC,de,1
-Rhino Warrior,TECC,de,2
+Return of the Wildspeaker,M3C,de,1
+Rhino Warrior,TMKC,de,2
 Rime Chill,ECL,de,1
 Rimefire Torque,ECL,de,1
-Risen Reef,ECC,de,1
+Risen Reef,M20,de,1
 Riverguard's Reflexes,ECL,de,1
 Rooftop Percher,ECL,de,1
 Run Away Together,ECL,de,1
 Safewright Cavalry,ECL,de,2
-Sandsteppe Citadel,ECC,de,1
-Savage Lands,ECC,de,1
+Sandsteppe Citadel,TDM,de,1
+Savage Lands,M3C,de,1
 Scarblade Scout,ECL,de,1
 Scarblade's Malice,ECL,de,1
-Seaside Citadel,ECC,de,1
+Seaside Citadel,BLC,de,1
 Secluded Courtyard,ECC,de,1
-"Selvala, Heart of the Wilds",ECC,de,1
+"Selvala, Heart of the Wilds",M3C,de,1
 Shapeshifter,TECL,de,2
-Shatter the Sky,ECC,de,1
+Shatter the Sky,THB,de,1
 Shimmercreep,ECL,de,1
 Shinestriker,ECL,de,1
 Shore Lurker,ECL,de,1
-Shriekmaw,ECC,de,1
+Shriekmaw,MKC,de,1
 Silvergill Mentor,ECL,de,1
-Slithermuse,ECC,de,1
-Smokebraider,ECC,de,1
+Slithermuse,MOR,de,1
+Smokebraider,MM2,de,1
 Sodden Verdure,ECC,de,1
 Sol Ring,ECC,de,1
 Soulbright Seeker,ECL,de,1
@@ -165,22 +167,22 @@ Surly Farrier,ECL,de,1
 Swat Away,ECL,de,1
 Temporal Cleansing,ECL,de,1
 Thoughtweft Lieutenant,ECL,de,1
-Thriving Bluff,ECC,de,1
-Thriving Grove,ECC,de,1
-Thriving Heath,ECC,de,1
-Thriving Isle,ECC,de,1
-Thriving Moor,ECC,de,1
-Timeless Lotus,ECC,de,1
+Thriving Bluff,BLC,de,1
+Thriving Grove,BLC,de,1
+Thriving Heath,DSC,de,1
+Thriving Isle,DSC,de,1
+Thriving Moor,DSC,de,1
+Timeless Lotus,DMU,de,1
 Timid Shieldbearer,ECL,de,2
-Titan of Industry,ECC,de,1
+Titan of Industry,SNC,de,1
 Treasure,TECL,de,6
 Twinflame Travelers,ECL,de,2
-Unclaimed Territory,ECC,de,1
+Unclaimed Territory,M3C,de,1
 Unexpected Assistance,ECL,de,1
 Unforgiving Aim,ECL,de,1
-Vernal Sovereign,ECC,de,1
+Vernal Sovereign,CLU,de,1
 Vinebred Brawler,ECL,de,1
 Wanderbrine Trapper,ECL,de,1
 Wary Farmer,ECL,de,1
 Wild Unraveling,ECL,de,1
-"Yarok, the Desecrated",ECC,de,1
+"Yarok, the Desecrated",M20,de,1

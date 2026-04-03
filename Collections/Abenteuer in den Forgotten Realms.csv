@@ -1,5 +1,5 @@
 Name,Set code,Language,Quantity
-Bag of Holding,AFR,en,1
+Bag of Holding,CLB,en,1
 Bard Class,AFR,en,1
 Blink Dog,AFR,en,1
 Brazen Dwarf,AFR,en,1
@@ -11,7 +11,7 @@ Charmed Sleep,AFR,en,1
 Check for Traps,AFR,en,1
 Clattering Skeletons,AFR,de,1
 Compelled Duel,AFR,de,1
-Dawnbringer Cleric,AFR,en,1
+Dawnbringer Cleric,CLB,en,1
 Delver's Torch,AFR,en,1
 Demogorgon's Clutches,AFR,en,2
 Dire Wolf Prowler,AFR,en,1
@@ -20,7 +20,7 @@ Dragon's Disciple,AFR,de,1
 Dungeon Map,AFR,de,1
 Dungeon Map,AFR,en,1
 Eye of Vecna,AFR,en,1
-Faerie Dragon,TAFR,en,1
+Faerie Dragon,TCLB,en,1
 "Farideh, Devil's Chosen",AFR,en,1
 Feywild Trickster,AFR,en,1
 Gelatinous Cube,AFR,en,1
@@ -64,7 +64,7 @@ Temple of the Dragon Queen,AFR,en,1
 The Atropal,TAFR,en,1
 The Book of Exalted Deeds,AFR,en,1
 Thieves' Tools,AFR,de,1
-Thieves' Tools,AFR,en,1
+Thieves' Tools,CLB,en,1
 Veteran Dungeoneer,AFR,en,1
 Wandering Troubadour,AFR,en,1
 White Dragon,AFR,de,1
