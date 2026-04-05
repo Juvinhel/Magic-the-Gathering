@@ -10,6 +10,7 @@ tags:
 main:
   - 1 Dina, Essence Brewer
   Creatures:
+    - 1 Beledros Witherbloom
     - 1 Benevolent Hydra
     - 1 Big Mother Mouser
     - 1 Blood Artist
@@ -21,27 +22,25 @@ main:
     - 1 Elvish Mystic
     - 1 Enduring Tenacity
     - 1 Forgotten Ancient
-    - 1 Gilded Goose
     - 1 Goldvein Hydra
     - 1 Gorma, the Gullet
     - 1 Grave Researcher // Reanimate
     - 1 Guardian Augmenter
     - 1 Haywire Mite
+    - 1 Jenova, Ancient Calamity
     - 1 Kami of Whispered Hopes
     - 1 Kinetic Ooze
-    - 1 Lifeblood Hydra
-    - 1 Mazirek, Kraul Death Priest
-    - 1 Merchant of Venom
+    - 1 Meren of Clan Nel Toth
     - 1 Morbid Opportunist
-    - 1 Mycoloth
     - 1 Nether Traitor
     - 1 Pawn of Ulamog
-    - 1 Pest Mascot
     - 1 Pest Rescuer
     - 1 Primordial Hydra
     - 1 Ribtruss Roaster
+    - 1 Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
     - 1 Splinter, the Mentor
     - 1 Teacher's Pest
+    - 1 Vito, Thorn of the Dusk Rose
     - 1 Witch of the Moors
     - 1 Yavimaya Bloomsage // Channel
     - 1 Zulaport Cutthroat
@@ -52,10 +51,11 @@ main:
     - 1 Coin of Mastery
     - 1 Death's Presence
     - 1 Fractal Harness
+    - 1 Funeral Room // Awakening Hall
     - 1 Ghost Lantern // Bind Spirit
     - 1 Grave Pact
+    - 1 Grave Venerations
     - 1 Gutter Grime
-    - 1 Hardened Scales
     - 1 Lightning Greaves
     - 1 Moldervine Reclamation
     - 1 Ozolith, the Shattered Spire
@@ -110,6 +110,12 @@ main:
     - 1 Oran-Rief, the Vastwood
     - 1 Pendelhaven
     - 1 The Shire
+side:
+  - 1 Merchant of Venom
+  - 1 Mazirek, Kraul Death Priest
+  - 1 Pest Mascot
+  - 1 Mycoloth
+  - 1 Hardened Scales
 maybe:
   Creatures:
     - 1 Bogwater Lumaret
@@ -126,6 +132,7 @@ maybe:
     - 1 Tendershoot Dryad
     - 1 Veinwitch Coven
     - 1 Wight of the Reliquary
+    - 1 Lifeblood Hydra
   Artifacts & Enchantments:
     - 1 Awakening Zone
     - 1 Bastion of Remembrance
@@ -138,3 +145,4 @@ maybe:
   Sorceries & Instants:
     - 1 Immoral Bargain
   Lands:
+  - 1 Gilded Goose
