@@ -110,12 +110,6 @@ main:
     - 1 Oran-Rief, the Vastwood
     - 1 Pendelhaven
     - 1 The Shire
-side:
-  - 1 Merchant of Venom
-  - 1 Mazirek, Kraul Death Priest
-  - 1 Pest Mascot
-  - 1 Mycoloth
-  - 1 Hardened Scales
 maybe:
   Creatures:
     - 1 Bogwater Lumaret
@@ -124,21 +118,26 @@ maybe:
     - 1 Gyome, Master Chef
     - 1 Jadar, Ghoulcaller of Nephalia
     - 1 Joel, Resolute Survivor
+    - 1 Lifeblood Hydra
+    - 1 Mazirek, Kraul Death Priest
+    - 1 Merchant of Venom
+    - 1 Mycoloth
     - 1 Nev, the Practical Dean
     - 1 Ophiomancer
+    - 1 Pest Mascot
     - 1 Steelbane Hydra
     - 1 Stensian Sanguinist // Exsanguinate
     - 1 Stonecoil Serpent
     - 1 Tendershoot Dryad
     - 1 Veinwitch Coven
     - 1 Wight of the Reliquary
-    - 1 Lifeblood Hydra
   Artifacts & Enchantments:
     - 1 Awakening Zone
     - 1 Bastion of Remembrance
     - 1 Bitterthorn, Nissa's Animus
     - 1 Blade of the Bloodchief
     - 1 Dark Prophecy
+    - 1 Hardened Scales
     - 1 Intermediate Chirography
     - 1 Lattice Library
     - 1 Trudge Garden
