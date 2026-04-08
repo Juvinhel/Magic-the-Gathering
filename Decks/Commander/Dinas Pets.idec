@@ -1,4 +1,4 @@
-name: Dinner for Dina
+name: Dinas Pets
 description: Sacrifice for Counters and Life. {G}{B}
 commanders: 
   - Dina, Essence Brewer
@@ -10,40 +10,46 @@ tags:
 main:
   - 1 Dina, Essence Brewer
   Creatures:
+    - 1 Arwen, Weaver of Hope
     - 1 Beledros Witherbloom
-    - 1 Benevolent Hydra
     - 1 Big Mother Mouser
-    - 1 Bloodghast
+    - 1 Blood Artist
     - 1 Blossoming Bogbeast
-    - 1 Daemogoth Woe-Eater
+    - 1 Bristly Bill, Spine Sower
+    - 1 Creakwood Liege
+    - 1 Cursed Wombat
+    - 1 Deepwood Denizen
     - 1 Defiling Daemogoth
+    - 1 Drana, Liberator of Malakir
     - 1 Enduring Tenacity
     - 1 Forgotten Ancient
-    - 1 Ghalta, Primal Hunger
     - 1 Goldvein Hydra
     - 1 Grave Researcher // Reanimate
-    - 1 Guardian Augmenter
     - 1 Haywire Mite
     - 1 Jenova, Ancient Calamity
     - 1 Kami of Whispered Hopes
+    - 1 Mazirek, Kraul Death Priest
     - 1 Meren of Clan Nel Toth
     - 1 Morbid Opportunist
+    - 1 Mycoloth
     - 1 Nether Traitor
     - 1 Ouroboroid
-    - 1 Primordial Hydra
+    - 1 Pest Rescuer
     - 1 Ribtruss Roaster
+    - 1 Rishkar, Peema Renegade
+    - 1 Sazh Katzroy
+    - 1 Scurry of Squirrels
+    - 1 Scute Mob
+    - 1 Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+    - 1 Spider-Man, Miles Morales
     - 1 Teacher's Pest
     - 1 Vito, Thorn of the Dusk Rose
-    - 1 Vorinclex, Monstrous Raider
-    - 1 Warden of the Grove
     - 1 Witch of the Moors
-    - 1 Xu-Ifit, Osteoharmonist
     - 1 Yavimaya Bloomsage // Channel
+    - 1 Zulaport Cutthroat
   Artifacts & Enchantments:
-    - 1 Ambitious Augmenter
-    - 1 Animate Dead
+    - 1 Blight Mound
     - 1 Branching Evolution
-    - 1 Changing Loyalty
     - 1 Coin of Mastery
     - 1 Death's Presence
     - 1 Fractal Harness
@@ -51,18 +57,14 @@ main:
     - 1 Ghost Lantern // Bind Spirit
     - 1 Grave Pact
     - 1 Grave Venerations
-    - 1 Journey to Eternity // Atzal, Cave of Eternity
-    - 1 Lightning Greaves
     - 1 Moldervine Reclamation
     - 1 Ozolith, the Shattered Spire
+    - 1 Patriar's Seal
     - 1 Resurrection Orb
-    - 1 Sanguine Bond
     - 1 Skullclamp
     - 1 Sol Ring
     - 1 Sonic Screwdriver
-    - 1 Swiftfoot Boots
-    - 1 The Earth Crystal
-    - 1 The Great Henge
+    - 1 Terrasymbiosis
     - 1 The One Ring
     - 1 The Ozolith
     - 1 The Soul Stone
@@ -71,74 +73,64 @@ main:
   Sorceries & Instants:
     - 1 Deadly Rollick
     - 1 Pest Infestation
-    - 1 Reanimate
     - 1 Silkguard
     - 1 Toxic Deluge
     - 1 Tyvar's Stand
     - 1 Withering Curse
   Lands:
-    - 1 Ba Sing Se
-    - 1 Barad-dûr
-    - 1 Bayou
-    - 1 Boseiju, Who Endures
     - 1 Command Tower
-    - 1 Darkbore Pathway // Slitherbore Pathway
-    - 1 Evendo, Waking Haven
     - 1 Exotic Orchard
     - 1 Field of the Dead
-    - 2 Forest
-    - 1 Gaea's Cradle
-    - 1 Grim Backwoods
     - 1 High Market
     - 1 Karn's Bastion
     - 1 Marsh Flats
-    - 1 Okina, Temple to the Grandfathers
     - 1 Opal Palace
-    - 1 Oran-Rief, the Vastwood
-    - 1 Overgrown Tomb
-    - 1 Pendelhaven
-    - 1 Phyrexian Tower
     - 1 Plaza of Heroes
-    - 1 Shizo, Death's Storehouse
-    - 2 Swamp
-    - 1 Takenuma, Abandoned Mire
     - 1 Talon Gates of Madara
-    - 1 The Shire
     - 1 Urborg, Tomb of Yawgmoth
     - 1 Verdant Catacombs
     - 1 Vesuva
     - 1 War Room
     - 1 Windswept Heath
     - 1 Yavimaya, Cradle of Growth
+    - 1 Barad-dûr
+    - 1 Phyrexian Tower
+    - 1 Shizo, Death's Storehouse
+    - 2 Swamp
+    - 1 Takenuma, Abandoned Mire
+    - 1 Bayou
+    - 1 Darkbore Pathway // Slitherbore Pathway
+    - 1 Grim Backwoods
+    - 1 Overgrown Tomb
+    - 1 Ba Sing Se
+    - 1 Boseiju, Who Endures
+    - 1 Evendo, Waking Haven
+    - 2 Forest
+    - 1 Gaea's Cradle
+    - 1 Okina, Temple to the Grandfathers
+    - 1 Oran-Rief, the Vastwood
+    - 1 The Shire
+side:
+  - 1 Bloodghast
+  - 1 Eccentric Pestfinder // Turn Stones
+  - 1 Elvish Mystic
+  - 1 Gorma, the Gullet
+  - 1 Guardian Augmenter
 maybe:
-  - 1 Gilded Goose
   Creatures:
     - 1 Bogwater Lumaret
-    - 1 Creakwood Liege
-    - 1 Grismold, the Dreadsower
-    - 1 Gyome, Master Chef
+    - 1 Faerie Bladecrafter
     - 1 Jadar, Ghoulcaller of Nephalia
-    - 1 Joel, Resolute Survivor
-    - 1 Lifeblood Hydra
-    - 1 Mazirek, Kraul Death Priest
-    - 1 Merchant of Venom
-    - 1 Mycoloth
     - 1 Nev, the Practical Dean
     - 1 Ophiomancer
-    - 1 Pest Mascot
-    - 1 Steelbane Hydra
     - 1 Stensian Sanguinist // Exsanguinate
-    - 1 Stonecoil Serpent
     - 1 Tendershoot Dryad
-    - 1 Veinwitch Coven
     - 1 Wight of the Reliquary
   Artifacts & Enchantments:
     - 1 Awakening Zone
     - 1 Bastion of Remembrance
     - 1 Bitterthorn, Nissa's Animus
-    - 1 Blade of the Bloodchief
     - 1 Dark Prophecy
-    - 1 Hardened Scales
     - 1 Intermediate Chirography
     - 1 Lattice Library
     - 1 Trudge Garden
