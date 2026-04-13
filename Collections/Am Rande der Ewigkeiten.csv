@@ -1,6 +1,6 @@
 Name,Set code,Language,Quantity
 "Adagia, Windswept Bastion",EOE,de,2
-Adarkar Wastes,TDC,de,1
+Adarkar Wastes,EOC,de,1
 "Alibou, Ancient Witness",C21,de,1
 All-Fates Scroll,EOE,de,2
 "Alpharael, Dreaming Acolyte",EOE,de,2
@@ -30,13 +30,13 @@ Brightspear Zealot,EOE,de,5
 Broodguard Elite,EOE,de,1
 Buried Ruin,ONC,de,1
 Bygone Colossus,EOE,de,1
-Cascade Bluffs,TDC,de,1
+Cascade Bluffs,EOC,de,1
 Cerebral Download,EOE,de,1
 Chain Reaction,ONC,de,1
 Chaos Warp,EOC,de,1
 Chrome Companion,EOE,de,3
 Chrome Host Seedshark,MOM,de,1
-Clifftop Retreat,TDC,de,1
+Clifftop Retreat,YEOE,de,1
 Close Encounter,EOE,de,1
 Cloud Key,EOC,de,1
 Cloudsculpt Technician,EOE,de,4
@@ -101,7 +101,7 @@ Focus Fire,EOE,de,3
 Frenzied Baloth,EOE,de,1
 Frontline War-Rager,EOE,de,3
 Full Bore,EOE,de,2
-Fumigate,EOC,de,1
+Fumigate,FDN,de,1
 Fungal Colossus,EOE,de,4
 Galactic Wayfarer,EOE,de,4
 Galvanizing Sawship,EOE,de,1
@@ -145,7 +145,7 @@ Insight Engine,EOC,de,1
 Interceptor Mechan,EOE,de,1
 Intrepid Tenderfoot,EOE,de,3
 Invasive Maneuvers,EOE,de,2
-Irrigated Farmland,TDC,de,1
+Irrigated Farmland,EOC,de,1
 "Jhoira, Weatherlight Captain",2XM,de,1
 Kappa Cannoneer,MH3,de,1
 Karn's Bastion,RVR,de,1
@@ -193,7 +193,7 @@ Nova Hellkite,EOE,de,1
 Nutrient Block,EOE,de,2
 Orbital Plunge,EOE,de,3
 Oreplate Pangolin,EOE,de,3
-Organic Extinction,EOC,de,1
+Organic Extinction,MKC,de,1
 Pain for All,EOE,de,1
 Patrolling Peacemaker,EOC,de,1
 Pentad Prism,EOC,de,1
@@ -215,7 +215,7 @@ Red Tiger Mechan,EOE,de,3
 Remnant Elemental,EOE,de,2
 Reroute Systems,EOE,de,1
 Rescue Skiff,EOE,de,1
-Resourceful Defense,EOC,de,1
+Resourceful Defense,NCC,de,1
 Rig for War,EOE,de,3
 Ripples of Potential,LCC,de,1
 Robot,TEOE,de,24
