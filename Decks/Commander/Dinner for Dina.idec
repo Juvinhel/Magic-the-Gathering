@@ -22,12 +22,12 @@ main:
     - 1 Ghalta, Primal Hunger
     - 1 Goldvein Hydra
     - 1 Grave Researcher // Reanimate
-    - 1 Guardian Augmenter
     - 1 Haywire Mite
     - 1 Jenova, Ancient Calamity
     - 1 Kami of Whispered Hopes
     - 1 Meren of Clan Nel Toth
     - 1 Morbid Opportunist
+    - 1 Mycoloth
     - 1 Nether Traitor
     - 1 Ouroboroid
     - 1 Primordial Hydra
@@ -111,18 +111,19 @@ main:
     - 1 Windswept Heath
     - 1 Yavimaya, Cradle of Growth
 maybe:
-  - 1 Gilded Goose
   Creatures:
     - 1 Bogwater Lumaret
     - 1 Creakwood Liege
+    - 1 Gilded Goose
     - 1 Grismold, the Dreadsower
+    - 1 Guardian Augmenter
     - 1 Gyome, Master Chef
     - 1 Jadar, Ghoulcaller of Nephalia
     - 1 Joel, Resolute Survivor
+    - 1 Jumbo Cactuar
     - 1 Lifeblood Hydra
     - 1 Mazirek, Kraul Death Priest
     - 1 Merchant of Venom
-    - 1 Mycoloth
     - 1 Nev, the Practical Dean
     - 1 Ophiomancer
     - 1 Pest Mascot

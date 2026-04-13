@@ -110,16 +110,16 @@ main:
     - 1 Okina, Temple to the Grandfathers
     - 1 Oran-Rief, the Vastwood
     - 1 The Shire
-side:
-  - 1 Bloodghast
-  - 1 Eccentric Pestfinder // Turn Stones
-  - 1 Elvish Mystic
-  - 1 Gorma, the Gullet
-  - 1 Guardian Augmenter
 maybe:
   Creatures:
+    - 1 Basking Broodscale
+    - 1 Bloodghast
     - 1 Bogwater Lumaret
+    - 1 Eccentric Pestfinder // Turn Stones
+    - 1 Elvish Mystic
     - 1 Faerie Bladecrafter
+    - 1 Gorma, the Gullet
+    - 1 Guardian Augmenter
     - 1 Jadar, Ghoulcaller of Nephalia
     - 1 Nev, the Practical Dean
     - 1 Ophiomancer
