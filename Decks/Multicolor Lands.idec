@@ -1,5 +1,9 @@
 name: Multicolor Lands
-description: Pauper Deck. {W}{B}
+tags: 
+  - Counters
+  - Reanimator
+  - Lifegain
+  - Sacrifice
 main:
   Tri Cycle Lands:
     - 1 Raffine's Tower
