@@ -112,8 +112,6 @@ main:
     - 1 Volcanic Island
     - 1 Great Furnace
     - 1 Mountain
-side:
-  - 1 Tezzeret, Cruel Captain
 maybe:
   Creatures:
     - 1 Abzan Battle Priest
@@ -160,6 +158,7 @@ maybe:
     - 1 Teferi, Who Slows the Sunset
     - 1 Tezzeret the Seeker
     - 1 Tezzeret, Artifice Master
+    - 1 Tezzeret, Cruel Captain
     - 1 The Wanderer
   Artifacts & Enchantments:
     - 1 Aetheric Amplifier
