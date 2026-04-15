@@ -1,5 +1,5 @@
 Name,Set code,Language,Quantity
-Abrade,FDN,de,1
+Abrade,BRC,de,1
 Aeronaut's Wings,BRO,de,1
 "Alela, Artful Provocateur",NCC,de,1
 Ambush Paratrooper,BRO,de,1
@@ -51,7 +51,7 @@ Darkwater Catacombs,OTC,de,1
 Deadly Riposte,FDN,de,1
 Despark,DRC,de,1
 Digsite Engineer,C21,de,1
-Dimir Aqueduct,DSC,de,2
+Dimir Aqueduct,BRC,de,2
 Dimir Signet,CLU,de,2
 Disenchant,FDN,de,1
 Draconic Destiny,BRO,de,1
@@ -64,7 +64,7 @@ Emergency Weld,BRO,de,1
 "Emry, Lurker of the Loch",NEC,de,1
 Energy Refractor,BRO,de,1
 Etched Champion,MM2,de,1
-Etherium Sculptor,NEC,de,1
+Etherium Sculptor,BRC,de,1
 Ethersworn Adjudicator,MOC,de,1
 Evangel of Synthesis,BRO,de,1
 Evolving Wilds,BRO,de,1
@@ -72,7 +72,7 @@ Evolving Wilds,DSC,de,1
 Excavation Explosion,BRO,de,1
 Executioner's Capsule,2XM,de,1
 Exotic Orchard,DRC,de,2
-Expressive Iteration,OTC,de,1
+Expressive Iteration,BRC,de,1
 Fact or Fiction,BRC,de,1
 Faerie,TFDN,de,2
 "Fain, the Broker",OTC,de,1
@@ -146,7 +146,7 @@ Myriad Landscape,DSC,de,1
 Nihil Spellbomb,A25,de,1
 Noxious Gearhulk,DSC,de,1
 Oblivion Stone,M3C,de,1
-One with the Machine,BRC,de,1
+One with the Machine,DRC,de,1
 Oni-Cult Anvil,NEO,de,1
 Ornithopter,DMR,de,1
 Orzhov Basilica,DRC,de,1
@@ -195,8 +195,8 @@ Skullclamp,BLC,de,1
 Skycloud Expanse,CMM,de,1
 "Slobad, Goblin Tinkerer",C16,de,1
 Smelting Vat,BRC,de,1
-Smoldering Marsh,BRC,de,1
-Sol Ring,BRC,de,2
+Smoldering Marsh,DSC,de,1
+Sol Ring,M3C,de,2
 Solemn Simulacrum,DSC,de,1
 Sphinx's Revelation,BRC,de,1
 Spine of Ish Sah,BLC,de,1
@@ -218,7 +218,7 @@ Take Flight,BRO,de,1
 Tempered Steel,2XM,de,1
 Temple of Deceit,FDN,de,2
 Temple of Enlightenment,FDN,de,1
-Temple of Epiphany,BRC,de,1
+Temple of Epiphany,FDN,de,1
 Temple of Malice,BRC,de,1
 Temple of Silence,DRC,de,1
 Terisian Mindbreaker,BRO,de,1
@@ -227,7 +227,7 @@ Terramorphic Expanse,OTC,de,1
 "Teshar, Ancestor's Apostle",CMM,de,1
 The Mightstone and Weakstone,BRO,de,1
 Third Path Savant,BRO,de,1
-Thirst for Knowledge,NEO,de,1
+Thirst for Knowledge,BRC,de,1
 Thopter,TBRO,de,3
 Thopter,TMH3,de,1
 Thopter Shop,BRC,de,1
