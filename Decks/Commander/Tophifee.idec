@@ -112,10 +112,6 @@ main:
     - 1 Gaea's Cradle
     - 1 Lair of the Hydra
     - 1 Shifting Woodland
-side:
-  - 1 Branchloft Pathway // Boulderloft Pathway
-  - 1 Cragcrown Pathway // Timbercrown Pathway
-  - 1 Needleverge Pathway // Pillarverge Pathway
 maybe:
   Creatures:
     - 1 Bumi, Eclectic Earthbender
@@ -185,10 +181,13 @@ maybe:
     - 1 Cave of the Frost Dragon
     - 1 Forbidding Watchtower
     - 1 Needle Spires
+    - 1 Needleverge Pathway // Pillarverge Pathway
     - 1 Jetmir's Garden
+    - 1 Branchloft Pathway // Boulderloft Pathway
     - 1 Nantuko Monastery
     - 1 Stirring Wildwood
     - 1 Ghitu Encampment
+    - 1 Cragcrown Pathway // Timbercrown Pathway
     - 1 Restless Ridgeline
     - 1 Dryad Arbor
     - 1 Treetop Village

@@ -40,10 +40,11 @@
 1 Inventors' Fair
 1 Karn's Bastion
 1 Lair of the Hydra
+1 Lightning Greaves
 1 Liquimetal Coating
 1 Liquimetal Torque
 1 Lumbering Worldwagon
-2 Mirage Mirror
+1 Mirage Mirror
 1 Mishra's Bauble
 1 Moraug, Fury of Akoum
 1 Mossborn Hydra

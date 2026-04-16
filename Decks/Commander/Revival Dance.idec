@@ -110,14 +110,13 @@ main:
     - 1 Blood Crypt
     - 1 Mountain
     - 1 Shinka, the Bloodsoaked Keep
-side:
-  - 1 Grave Researcher // Reanimate
 maybe:
   Creatures:
     - 1 Banon, the Returners' Leader
     - 1 Celes, Rune Knight
     - 1 Gau, Feral Youth
     - 1 General Leo Cristophe
+    - 1 Grave Researcher // Reanimate
     - 1 Kefka, Dancing Mad
     - 1 Loran of the Third Path
     - 1 Mog, Moogle Warrior
