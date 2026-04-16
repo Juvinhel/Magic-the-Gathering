@@ -10,6 +10,7 @@ tags:
 main:
   - 1 Yuriko, the Tiger's Shadow
   Creatures:
+    - 1 Cephalid Facetaker
     - 1 Changeling Outcast
     - 1 Faerie Dreamthief
     - 1 Faerie Seer
@@ -25,9 +26,9 @@ main:
     - 1 Nashi, Moon Sage's Scion
     - 1 Ninja of the Deep Hours
     - 1 Ornithopter
-    - 1 Ornithopter of Paradise
     - 1 Prosperous Thief
     - 1 Roaming Throne
+    - 1 Sakashima of a Thousand Faces
     - 1 Sakashima's Student
     - 1 Shadow of Mortality
     - 1 Shark Shredder, Killer Clone
@@ -35,7 +36,6 @@ main:
     - 1 Silver-Fur Master
     - 1 Siren Stormtamer
     - 1 Slither Blade
-    - 1 Tetsuko Umezawa, Fugitive
     - 1 Thousand-Faced Shadow
     - 1 Throat Slitter
     - 1 Tormented Soul
@@ -46,16 +46,16 @@ main:
   Artifacts & Enchantments:
     - 1 Aqueous Form
     - 1 Brotherhood Regalia
-    - 1 Lantern of Revealing
+    - 1 Ninja Teen
     - 1 Ninja's Blades
     - 1 Scroll Rack
     - 1 Sensei's Divining Top
+    - 1 Silver Shroud Costume
     - 1 Smoke Shroud
     - 1 Sol Ring
     - 1 Sonic Screwdriver
     - 1 The Soul Stone
     - 1 Whispersilk Cloak
-    - 1 Ninja Teen
   Spells:
     - 1 Brainstorm
     - 1 Commandeer
@@ -76,35 +76,41 @@ main:
     - 1 Spider-Sense
     - 1 Temporal Mastery
     - 1 Temporal Trespass
-    - 1 Treasure Cruise
     - 1 Vampiric Tutor
+    - 1 Propaganda
   Lands:
     - 1 Access Tunnel
+    - 1 Blinkmoth Nexus
+    - 1 Castle Vantress
+    - 1 Clearwater Pathway // Murkwater Pathway
     - 1 Command Tower
+    - 1 Creeping Tar Pit
+    - 1 Daily Bugle Building
     - 1 Exotic Orchard
+    - 1 Faerie Conclave
+    - 1 Hall of Tagsin
+    - 2 Island
+    - 1 Minas Morgul, Dark Fortress
+    - 1 Muraganda Raceway
     - 1 Mutavault
+    - 1 Otawara, Soaring City
     - 1 Polluted Delta
     - 1 Reliquary Tower
-    - 1 Rogue's Passage
-    - 1 Secret Tunnel
-    - 1 Turtle Lair
-    - 1 Castle Vantress
-    - 5 Island
-    - 1 Otawara, Soaring City
     - 1 Rivendell
-    - 1 Choked Estuary
-    - 1 Clearwater Pathway // Murkwater Pathway
-    - 1 Drowned Catacomb
-    - 1 Morphic Pool
-    - 1 Sunken Hollow
-    - 1 Temple of Deceit
-    - 1 Underground River
-    - 1 Watery Grave
-    - 1 Underground Sea
-    - 1 Minas Morgul, Dark Fortress
+    - 1 Rogue's Passage
+    - 1 Sanctum of Eternity
+    - 1 Secret Tunnel
     - 1 Shizo, Death's Storehouse
-    - 5 Swamp
+    - 1 Soulstone Sanctuary
+    - 2 Swamp
     - 1 Takenuma, Abandoned Mire
+    - 1 Talon Gates of Madara
+    - 1 Thespian's Stage
+    - 1 Three Tree City
+    - 1 Turtle Lair
+    - 1 Underground Sea
+    - 1 Urborg, Tomb of Yawgmoth
+    - 1 Watery Grave
 maybe:
   Creatures:
     - 1 Assassin Initiate
@@ -128,6 +134,8 @@ maybe:
     - 1 Spectral Sailor
     - 1 Splinter, Hamato Yoshi
     - 1 Vampire Cutthroat
+    - 1 Tetsuko Umezawa, Fugitive
+    - 1 Ornithopter of Paradise
   Artifacts & Enchantments:
     - 1 Aether Tunnel
     - 1 Arcane Adaptation
@@ -144,6 +152,7 @@ maybe:
     - 1 Security Bypass
     - 1 Thieves' Tools
     - 1 Rogue Class
+    - 1 Lantern of Revealing
   Battles & Planeswalker:
   Spells:
     - 1 An Offer You Can't Refuse
@@ -156,6 +165,7 @@ maybe:
     - 1 Louisoix's Sacrifice
     - 1 Sea Gate Restoration // Sea Gate, Reborn
     - 1 Mystical Tutor
+    - 1 Treasure Cruise
   Lands:
     - 1 Thespian's Stage
     - 1 Vesuva
