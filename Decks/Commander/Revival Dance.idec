@@ -15,7 +15,6 @@ main:
     - 1 Anger
     - 1 Aurelia, the Warleader
     - 1 Black Cat, Cunning Thief
-    - 1 Blade Historian
     - 1 Braids, Arisen Nightmare
     - 1 Cloudsteel Kirin
     - 1 Cyan, Vengeful Samurai
@@ -35,6 +34,7 @@ main:
     - 1 Morbid Opportunist
     - 1 Priest of Fell Rites
     - 1 Raph & Leo, Sibling Rivals
+    - 1 Raphael, the Nightwatcher
     - 1 Rosa, Resolute White Mage
     - 1 Sally Pride, Lioness Leader
     - 1 Selfless Spirit
@@ -113,6 +113,7 @@ main:
 maybe:
   Creatures:
     - 1 Banon, the Returners' Leader
+    - 1 Blade Historian
     - 1 Celes, Rune Knight
     - 1 Gau, Feral Youth
     - 1 General Leo Cristophe
