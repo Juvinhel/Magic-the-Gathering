@@ -14,19 +14,19 @@ main:
     - 1 Crystalline Crawler
     - 1 Dawnsire, Sunstar Dreadnought
     - 1 Deepglow Skate
+    - 1 Donatello, Mutant Mechanic
     - 1 Dreamtide Whale
     - 1 Emry, Lurker of the Loch
-    - 1 Enthusiastic Mechanaut
-    - 1 Glasspool Mimic // Glasspool Shore
     - 1 Inspirit, Flagship Vessel
+    - 1 Irma, Part-Time Mutant
     - 1 Iron Spider, Stark Upgrade
     - 1 Kappa Cannoneer
     - 1 Lady Octopus, Inspired Inventor
+    - 1 Loch Mare
     - 1 Mindless Automaton
     - 1 Patrolling Peacemaker
-    - 1 Phyrexian Metamorph
     - 1 Roaming Throne
-    - 1 SP//dr, Piloted by Peni
+    - 1 Spark Double
     - 1 Spellskite
     - 1 Steel Overseer
     - 1 Surge Conductor
@@ -41,11 +41,11 @@ main:
     - 1 Aetheric Amplifier
     - 1 All Will Be One
     - 1 Astral Cornucopia
-    - 1 Aura of Dominion
     - 1 Blitzball Stadium
     - 1 Clock of Omens
     - 1 Coin of Mastery
     - 1 Costume Closet
+    - 1 Does Machines
     - 1 Empowered Autogenerator
     - 1 Everflowing Chalice
     - 1 Freed from the Real
@@ -124,6 +124,7 @@ maybe:
     - 1 Cyberdrive Awakener
     - 1 Etherium Sculptor
     - 1 Hangarback Walker
+    - 1 SP//dr, Piloted by Peni
     - 1 Synth Infiltrator
     - 1 Thought Monitor
     - 1 Virulent Silencer
@@ -162,6 +163,7 @@ maybe:
     - 1 The Wanderer
   Artifacts & Enchantments:
     - 1 Aetheric Amplifier
+    - 1 Aura of Dominion
     - 1 Cloud Key
     - 1 Contagion Clasp
     - 1 Darksteel Reactor
