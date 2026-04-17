@@ -13,7 +13,6 @@
 1 Barad-dûr
 1 Bedevil
 1 Black Cat, Cunning Thief
-1 Blade Historian
 1 Blightstep Pathway // Searstep Pathway
 1 Blood Crypt
 1 Bloodstained Mire
@@ -62,6 +61,7 @@
 1 Polluted Delta
 1 Priest of Fell Rites
 1 Raph & Leo, Sibling Rivals
+1 Raphael, the Nightwatcher
 1 Reanimate
 1 Ripples of Undeath
 1 Rise of the Dark Realms
