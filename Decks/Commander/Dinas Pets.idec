@@ -12,118 +12,118 @@ main:
   Creatures:
     - 1 Deepwood Denizen
     - 1 Goldvein Hydra
+    - 1 Gyre Sage
     - 1 Haywire Mite
     - 1 Morbid Opportunist
     - 1 Rishkar, Peema Renegade
-    - 1 Scurry of Squirrels
-    - 1 Scute Mob
+    - 1 Towashi Guide-Bot
     - 1 Vito, Thorn of the Dusk Rose
     Token Factory:
+      - 1 Basking Broodscale
+      - 1 Beledros Witherbloom
+      - 1 Brightcap Badger // Fungus Frolic
+      - 1 Creakwood Liege
+      - 1 Hazel of the Rootbloom
       - 1 Mycoloth
       - 1 Pest Rescuer
-      - 1 Beledros Witherbloom
-      - 1 Creakwood Liege
-      - 1 Ribtruss Roaster
-      - 1 Basking Broodscale
-      - 1 Brightcap Badger // Fungus Frolic
       - 1 Propagator Drone
+      - 1 Ribtruss Roaster
       - 1 Scute Swarm
+      - 1 Springheart Nantuko
+      - 1 Tendershoot Dryad
     Counter Factory:
       - 1 Arwen, Weaver of Hope
-      - 1 Bristly Bill, Spine Sower
-      - 1 Jenova, Ancient Calamity
-      - 1 Forgotten Ancient
-      - 1 Mazirek, Kraul Death Priest
-      - 1 Ouroboroid
-      - 1 Yavimaya Bloomsage // Channel
       - 1 Big Mother Mouser
+      - 1 Bloodspore Thrinax
+      - 1 Bristly Bill, Spine Sower
+      - 1 Canopy Gargantuan
       - 1 Cursed Wombat
+      - 1 Defiler of Vigor
       - 1 Drana, Liberator of Malakir
+      - 1 Forgotten Ancient
+      - 1 Jenova, Ancient Calamity
+      - 1 Kalonian Hydra
       - 1 Kami of Whispered Hopes
+      - 1 Mazirek, Kraul Death Priest
+      - 1 Metallic Mimic
+      - 1 Ouroboroid
+      - 1 Primeval Protector
+      - 1 Renata, Called to the Hunt
+      - 1 Sandstorm Salvager
       - 1 Spider-Man, Miles Morales
+      - 1 Valentin, Dean of the Vein // Lisette, Dean of the Root
+      - 1 Yavimaya Bloomsage // Channel
   Artifacts & Enchantments:
+    - 1 Ashnod's Altar
+    - 1 Awakening Zone
     - 1 Branching Evolution
     - 1 Coin of Mastery
     - 1 Death's Presence
+    - 1 Doubling Season
     - 1 Fractal Harness
-    - 1 Ghost Lantern // Bind Spirit
     - 1 Grave Pact
+    - 1 Idol of False Gods
     - 1 Ozolith, the Shattered Spire
-    - 1 Resurrection Orb
     - 1 Skullclamp
     - 1 Sonic Screwdriver
     - 1 Terrasymbiosis
+    - 1 The Earth Crystal
+    - 1 The Great Henge
     - 1 The One Ring
     - 1 The Ozolith
     - 1 The Soul Stone
     - 1 Weather Maker
-    - 1 Awakening Zone
-    - 1 Ashnod's Altar
-    - 1 Idol of False Gods
   Sorceries & Instants:
     - 1 Deadly Rollick
     - 1 Pest Infestation
     - 1 Silkguard
     - 1 Toxic Deluge
     - 1 Tyvar's Stand
-    - 1 Withering Curse
   Lands:
+    - 1 Big Apple, 3 a.m.
     - 1 Command Tower
     - 1 Exotic Orchard
     - 1 Field of the Dead
+    - 1 Fountainport
+    - 1 Hall of Tagsin
     - 1 High Market
     - 1 Karn's Bastion
     - 1 Marsh Flats
-    - 1 Opal Palace
+    - 1 Mirrex
     - 1 Plaza of Heroes
     - 1 Talon Gates of Madara
     - 1 Urborg, Tomb of Yawgmoth
     - 1 Verdant Catacombs
-    - 1 Vesuva
     - 1 War Room
     - 1 Windswept Heath
     - 1 Yavimaya, Cradle of Growth
     - 1 Barad-dûr
     - 1 Phyrexian Tower
-    - 1 Shizo, Death's Storehouse
+    - 1 Realm of Koh
     - 2 Swamp
     - 1 Takenuma, Abandoned Mire
     - 1 Bayou
     - 1 Darkbore Pathway // Slitherbore Pathway
     - 1 Grim Backwoods
     - 1 Overgrown Tomb
-    - 1 Ba Sing Se
     - 1 Boseiju, Who Endures
     - 1 Evendo, Waking Haven
     - 2 Forest
     - 1 Gaea's Cradle
-    - 1 Okina, Temple to the Grandfathers
     - 1 Oran-Rief, the Vastwood
     - 1 The Shire
 maybe:
   Creatures:
-    - 1 Basking Broodscale
-    - 1 Bloodghast
-    - 1 Bogwater Lumaret
-    - 1 Eccentric Pestfinder // Turn Stones
-    - 1 Elvish Mystic
-    - 1 Faerie Bladecrafter
-    - 1 Gorma, the Gullet
-    - 1 Guardian Augmenter
-    - 1 Jadar, Ghoulcaller of Nephalia
-    - 1 Nev, the Practical Dean
-    - 1 Ophiomancer
-    - 1 Stensian Sanguinist // Exsanguinate
-    - 1 Tendershoot Dryad
-    - 1 Wight of the Reliquary
+    - 1 Consuming Blob
+    - 1 Emil, Vastlands Roamer
+    - 1 Ferrafor, Young Yew
+    - 1 Iridescent Hornbeetle
+    - 1 Lord Skitter, Sewer King
+    - 1 Master of the Wild Hunt
+    - 1 Scurry Oak
+    - 1 Spawnbed Protector
+    - 1 Swarm Shambler
   Artifacts & Enchantments:
-    - 1 Awakening Zone
-    - 1 Bastion of Remembrance
-    - 1 Bitterthorn, Nissa's Animus
-    - 1 Dark Prophecy
     - 1 Intermediate Chirography
-    - 1 Lattice Library
-    - 1 Trudge Garden
   Sorceries & Instants:
-    - 1 Immoral Bargain
   Lands:
