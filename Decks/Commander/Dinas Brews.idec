@@ -1,4 +1,4 @@
-name: Dinas Pets
+name: Dinas Brews
 description: Sacrifice for Counters and Life. {G}{B}
 commanders: 
   - Dina, Essence Brewer
@@ -10,56 +10,66 @@ tags:
 main:
   - 1 Dina, Essence Brewer
   Creatures:
+    - 1 Arwen, Weaver of Hope
+    - 1 Beledros Witherbloom
+    - 1 Big Mother Mouser
+    - 1 Blood Artist
+    - 1 Blossoming Bogbeast
+    - 1 Bristly Bill, Spine Sower
+    - 1 Creakwood Liege
+    - 1 Cursed Wombat
     - 1 Deepwood Denizen
+    - 1 Defiling Daemogoth
+    - 1 Drana, Liberator of Malakir
+    - 1 Enduring Tenacity
+    - 1 Forgotten Ancient
     - 1 Goldvein Hydra
+    - 1 Grave Researcher // Reanimate
     - 1 Haywire Mite
+    - 1 Jenova, Ancient Calamity
+    - 1 Kami of Whispered Hopes
+    - 1 Mazirek, Kraul Death Priest
+    - 1 Meren of Clan Nel Toth
     - 1 Morbid Opportunist
+    - 1 Mycoloth
+    - 1 Nether Traitor
+    - 1 Ouroboroid
+    - 1 Pest Rescuer
+    - 1 Ribtruss Roaster
     - 1 Rishkar, Peema Renegade
+    - 1 Sazh Katzroy
     - 1 Scurry of Squirrels
     - 1 Scute Mob
+    - 1 Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+    - 1 Spider-Man, Miles Morales
+    - 1 Teacher's Pest
     - 1 Vito, Thorn of the Dusk Rose
-    Token Factory:
-      - 1 Mycoloth
-      - 1 Pest Rescuer
-      - 1 Beledros Witherbloom
-      - 1 Creakwood Liege
-      - 1 Ribtruss Roaster
-      - 1 Basking Broodscale
-      - 1 Brightcap Badger // Fungus Frolic
-      - 1 Propagator Drone
-      - 1 Scute Swarm
-    Counter Factory:
-      - 1 Arwen, Weaver of Hope
-      - 1 Bristly Bill, Spine Sower
-      - 1 Jenova, Ancient Calamity
-      - 1 Forgotten Ancient
-      - 1 Mazirek, Kraul Death Priest
-      - 1 Ouroboroid
-      - 1 Yavimaya Bloomsage // Channel
-      - 1 Big Mother Mouser
-      - 1 Cursed Wombat
-      - 1 Drana, Liberator of Malakir
-      - 1 Kami of Whispered Hopes
-      - 1 Spider-Man, Miles Morales
+    - 1 Witch of the Moors
+    - 1 Yavimaya Bloomsage // Channel
+    - 1 Zulaport Cutthroat
   Artifacts & Enchantments:
+    - 1 Blight Mound
     - 1 Branching Evolution
     - 1 Coin of Mastery
     - 1 Death's Presence
     - 1 Fractal Harness
+    - 1 Funeral Room // Awakening Hall
     - 1 Ghost Lantern // Bind Spirit
     - 1 Grave Pact
+    - 1 Grave Venerations
+    - 1 Moldervine Reclamation
     - 1 Ozolith, the Shattered Spire
+    - 1 Patriar's Seal
     - 1 Resurrection Orb
     - 1 Skullclamp
+    - 1 Sol Ring
     - 1 Sonic Screwdriver
     - 1 Terrasymbiosis
     - 1 The One Ring
     - 1 The Ozolith
     - 1 The Soul Stone
     - 1 Weather Maker
-    - 1 Awakening Zone
-    - 1 Ashnod's Altar
-    - 1 Idol of False Gods
+    - 1 Whispersilk Cloak
   Sorceries & Instants:
     - 1 Deadly Rollick
     - 1 Pest Infestation
