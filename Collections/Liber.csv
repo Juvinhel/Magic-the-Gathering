@@ -1,19 +1,119 @@
 Name,Set code,Language,Quantity
-Badlands,olgc,en,1
-Bayou,olgc,en,1
-Indatha Triome,iko,en,1
-Jetmir's Garden,snc,en,1
-Ketria Triome,iko,en,1
-Raffine's Tower,snc,en,1
-Raugrin Triome,iko,en,1
-Savai Triome,iko,en,1
-Scrubland,olgc,en,1
-Spara's Headquarters,snc,en,1
-Taiga,olgc,en,1
-The One Ring,ltr,en,1
-Tropical Island,olgc,en,1
-Underground Sea,olgc,en,1
-Volcanic Island,olgc,en,1
-Xander's Lounge,snc,en,1
-Zagoth Triome,iko,en,1
-Ziatora's Proving Ground,snc,en,1
+All Will Be One,SLD,en,1
+"Animar, Soul of Elements",SLD,en,1
+Annie Joins Up,,en,1
+Arid Mesa,SPG,en,2
+Badlands,,en,2
+Badlands,OLGC,en,1
+Bayou,,en,2
+Bayou,OLGC,en,1
+Blightstep Pathway / Searstep Pathway,SLU,en,1
+Blood Crypt,ECL,en,1
+Bloodstained Mire,MH3,en,2
+"Boseiju, Who Endures",PRM,en,2
+"Brass's Tunnel-Grinder / Tecutlan, the Searing Rift",LCI,en,1
+Brightclimb Pathway / Grimclimb Pathway,PRM,en,1
+Cavern of Souls,LCI,en,1
+Cephalid Facetaker,,en,1
+Clue,,en,2
+Counterspell,SLD,en,2
+Counterspell,PURL,en,1
+Darkbore Pathway / Slitherbore Pathway,PRM,en,1
+Deadly Rollick,TLE,en,1
+Deflecting Swat,CMM,en,1
+Deflecting Swat,TLE,en,1
+Earthshape,TLE,en,1
+Enduring Tenacity,DSK,en,1
+"Evendo, Waking Haven",EOE,en,1
+Everflowing Chalice,LCC,en,1
+Field of the Dead,SPG,en,1
+Fierce Guardianship,SLD,en,1
+Fierce Guardianship,TLE,en,1
+Flooded Strand,MH3,en,3
+Food,,en,2
+Freed from the Real,SLD,en,1
+Gaea's Cradle,,en,2
+Grave Pact,CMM,en,1
+Herd Heirloom,TDM,en,1
+Heroic Intervention,SLD,en,1
+Indatha Triome,IKO,en,1
+Inventors' Fair,EOS,en,1
+"Iron Spider, Stark Upgrade",LMAR,en,1
+"Jenova, Ancient Calamity",FIN,en,1
+Jetmir's Garden,SNC,en,1
+Karmic Guide,SLD,en,1
+Ketria Triome,IKO,en,1
+Kindred Discovery,WOT,en,1
+Lion Sash,NEO,en,1
+"Lumra, Bellow of the Woods",BLB,en,1
+Marsh Flats,SPG,en,2
+Meren of Clan Nel Toth,SLD,en,1
+"Minamo, School at Water's Edge",,en,1
+Misdirection,SLD,en,1
+Misty Rainforest,SPG,en,2
+"Moraug, Fury of Akoum",ZNR,en,1
+Mossborn Hydra,FDN,en,1
+Needleverge Pathway / Pillarverge Pathway,PRM,en,2
+Nulldrifter,,en,1
+"Nykthos, Shrine to Nyx",,en,1
+"Otawara, Soaring City",PRM,en,1
+Overgrown Tomb,UNF,en,1
+Panharmonicon,2X2,en,1
+Path to Exile,SLD,en,4
+Phyrexian Tower,MH3,en,1
+Plateau,,en,4
+Plaza of Heroes,EOS,en,4
+Polluted Delta,MH3,en,2
+Raffine's Tower,SNC,en,1
+Raugrin Triome,IKO,en,1
+Reckoner Bankbuster,PNEO,en,1
+Riverglide Pathway / Lavaglide Pathway,SLU,en,1
+Rumbleweed,,en,1
+Sacred Foundry,RVR,en,2
+Savai Triome,IKO,en,1
+Savannah,,en,2
+Scalding Tarn,SPG,en,4
+Scrubland,OLGC,en,1
+"Shinka, the Bloodsoaked Keep",,en,1
+"Shizo, Death's Storehouse",,en,2
+Solitude,PRM,en,1
+Spara's Headquarters,SNC,en,1
+Spark Double,RVR,en,2
+Springheart Nantuko,MH3,en,1
+Summon: Knights of Round,FIN,en,1
+Swords to Plowshares,STA,en,4
+Taiga,,en,2
+Taiga,OLGC,en,1
+"Takenuma, Abandoned Mire",PRM,en,2
+Talon Gates of Madara,,en,4
+Temple Garden,UNF,en,1
+The Aetherspark,DFT,en,1
+The Earth Crystal,FIN,en,1
+The Great Henge,LTC,en,1
+The One Ring,LTR,en,1
+The World Tree,SLD,en,1
+Three Tree City,BLB,en,4
+"Toph, Greatest Earthbender",TLE,en,1
+Treasure,,en,2
+Tree of Perdition,,en,1
+Tropical Island,,en,1
+Tropical Island,OLGC,en,1
+Tundra,,en,2
+Twilight Diviner,ECL,en,1
+Tyrant of Discord,,en,1
+Underground Sea,,en,2
+Underground Sea,OLGC,en,1
+"Urborg, Tomb of Yawgmoth",,en,2
+Urza's Incubator,DMR,en,1
+Urza's Saga,SLC,en,1
+Verdant Catacombs,SPG,en,2
+Vesuva,SLC,en,1
+Volcanic Island,,en,3
+Volcanic Island,OLGC,en,1
+Warden of the Grove,TDM,en,1
+Windswept Heath,MH3,en,2
+Wooded Foothills,MH3,en,1
+Xander's Lounge,SNC,en,1
+"Yavimaya, Cradle of Growth",,en,1
+Zagoth Triome,IKO,en,1
+Ziatora's Proving Ground,SNC,en,1
