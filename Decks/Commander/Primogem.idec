@@ -13,12 +13,10 @@ main:
     - 1 Berta, Wise Extrapolator
     - 1 Big Mother Mouser
     - 1 Birds of Paradise
-    - 1 Broodguard Elite
     - 1 District Mascot
     - 1 Emil, Vastlands Roamer
     - 1 Forgotten Ancient
     - 1 Goldvein Hydra
-    - 1 Heroes' Bane
     - 1 Hooded Hydra
     - 1 Hungering Hydra
     - 1 Hydroid Krasis
@@ -37,17 +35,19 @@ main:
     - 1 Primordial Hydra
     - 1 Ray Fillet, Wave Warrior
     - 1 Spark Double
-    - 1 Steelbane Hydra
     - 1 Stonecoil Serpent
     - 1 Tanazir Quandrix
     - 1 Voracious Hydra
     - 1 Yavimaya Bloomsage // Channel
     - 1 Zimone, Paradox Sculptor
   Artifacts & Enchantments:
+    - 1 Aqueous Form
+    - 1 Bilbo's Ring
     - 1 Branching Evolution
     - 1 Bred for the Hunt
+    - 1 Brotherhood Regalia
+    - 1 Canopy Cover
     - 1 Coin of Mastery
-    - 1 Court of Garenbrig
     - 1 Death's Presence
     - 1 Fractal Harness
     - 1 Garruk's Uprising
@@ -58,12 +58,12 @@ main:
     - 1 Loading Zone
     - 1 Ozolith, the Shattered Spire
     - 1 Paradox Zone
+    - 1 Psychic Paper
+    - 1 Silver Shroud Costume
     - 1 Sonic Screwdriver
     - 1 Sphere Grid
     - 1 Swiftfoot Boots
     - 1 Terrasymbiosis
-    - 1 Tribute to the World Tree
-    - 1 Unbound Flourishing
     - 1 Weather Maker
     - 1 Whispersilk Cloak
   Sorceries & Instants:
@@ -106,8 +106,10 @@ maybe:
   Creatures:
     - 1 Altered Ego
     - 1 Arwen, Weaver of Hope
+    - 1 Broodguard Elite
     - 1 Cytoplast Manipulator
     - 1 Genesis Hydra
+    - 1 Heroes' Bane
     - 1 Kurbis, Harvest Celebrant
     - 1 Lily Bowen, Raging Grandma
     - 1 Mistcutter Hydra
@@ -121,8 +123,12 @@ maybe:
     - 1 Servant of the Scale
     - 1 Slurrk, All-Ingesting
     - 1 Sporeback Troll
+    - 1 Steelbane Hydra
     - 1 Swarm Shambler
     - 1 Towering Titan
   Artifacts & Enchantments:
+    - 1 Court of Garenbrig
+    - 1 Tribute to the World Tree
+    - 1 Unbound Flourishing
   Sorceries & Instants:
   Lands:
