@@ -11,13 +11,13 @@
 1 Blitzball Stadium
 1 Bonders' Enclave
 1 Buried Ruin
-1 Clock of Omens
 1 Coin of Mastery
 1 Command Tower
 1 Costume Closet
 1 Counterspell
 1 Crystalline Crawler
 1 Dawnsire, Sunstar Dreadnought
+1 Daydream
 1 Deepglow Skate
 1 Deflecting Swat
 1 Diamond City
@@ -30,6 +30,7 @@
 1 Emry, Lurker of the Loch
 1 Everflowing Chalice
 1 Exotic Orchard
+1 Expansion Algorithm
 1 Experimental Augury
 1 Fierce Guardianship
 1 Flooded Strand
@@ -48,7 +49,6 @@
 1 Karn's Bastion
 1 Lady Octopus, Inspired Inventor
 1 Leader's Talent
-1 Loch Mare
 1 Long-Range Sensor
 1 Lux Artillery
 1 Lux Cannon
@@ -63,6 +63,7 @@
 1 Path to Exile
 1 Patrolling Peacemaker
 1 Pemmin's Aura
+1 Pensive Professor
 1 Plains
 1 Plateau
 1 Plaza of Heroes
@@ -77,7 +78,6 @@
 1 Sacred Foundry
 1 Scalding Tarn
 1 Seat of the Synod
-1 Sol Ring
 1 Solar Array
 1 Sonic Screwdriver
 1 Spark Double
