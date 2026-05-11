@@ -25,54 +25,54 @@ main:
     - 1 Tandem Lookout
   Artifacts & Enchantments:
     - 1 Abduction
+    - 1 Amphibian Downpour
     - 1 Aqueous Form
     - 1 Bandit's Haul
-    - 1 Bender's Waterskin
     - 1 Brotherhood Regalia
     - 1 Burning Anger
     - 1 City on Fire
     - 1 Copy Artifact
     - 1 Copy Enchantment
     - 1 Curiosity
+    - 1 Darksteel Plate
+    - 1 Diviner's Wand
     - 1 Fated Firepower
-    - 1 Giant's Amulet
+    - 1 Heirloom Epic
+    - 1 Imprisoned in the Moon
+    - 1 Insight Engine
     - 1 Lasting Tarfire
     - 1 Lightning Greaves
     - 1 Mirrormade
+    - 1 Mithril Coat
     - 1 Mox Amber
     - 1 Ophidian Eye
     - 1 Sigil of Sleep
-    - 1 Sol Ring
-    - 1 Sonic Screwdriver
     - 1 Swiftfoot Boots
     - 1 Whispersilk Cloak
   Spells:
     - 1 An Offer You Can't Refuse
     - 1 Arcane Denial
-    - 1 Brainstorm
     - 1 Bulk Up
-    - 1 Cackling Counterpart
     - 1 Chase Inspiration
-    - 1 Consider
     - 1 Counterspell
+    - 1 Cyber Conversion
     - 1 Deflecting Swat
+    - 1 Devil's Play
     - 1 Duel Tactics
     - 1 Echocasting Symposium
     - 1 Expressive Iteration
-    - 1 Faithless Looting
     - 1 Fierce Guardianship
     - 1 Flusterstorm
     - 1 Force of Will
-    - 1 Gitaxian Probe
-    - 1 Grapeshot
+    - 1 Harmonized Trio // Brainstorm
     - 1 Improvisation Capstone
     - 1 Jeska's Will
-    - 1 Lightning Bolt
     - 1 Mana Sculpt
     - 1 Negate
+    - 1 Nibelheim Aflame
     - 1 Ponder
     - 1 Preordain
-    - 1 Sink into Stupor // Soporific Springs
+    - 1 Scour All Possibilities
     - 1 Strike It Rich
     - 1 Tome Blast
     - 1 Vivi's Persistence
@@ -85,11 +85,11 @@ main:
     - 1 Demolition Field
     - 1 Detection Tower
     - 1 Muraganda Raceway
+    - 1 Plaza of Heroes
     - 1 Reliquary Tower
     - 1 Rogue's Passage
     - 1 Scalding Tarn
     - 1 Talon Gates of Madara
-    - 1 Plaza of Heroes
     - 1 Agna Qel'a
     - 5 Island
     - 1 Mistrise Village
@@ -123,14 +123,21 @@ maybe:
     - 1 Mechanized Warfare
     - 1 Mirage Mirror
     - 1 Mystic Remora
+    - 1 Return the Past
     - 1 Thought Vessel
   Spells:
     - 1 Blasphemous Act
+    - 1 Cackling Counterpart
+    - 1 Consider
+    - 1 Faithless Looting
     - 1 Frantic Search
+    - 1 Gitaxian Probe
+    - 1 Lightning Bolt
     - 1 Magic Damper
     - 1 Opt
     - 1 Sea Gate Restoration // Sea Gate, Reborn
     - 1 Shatterskull Smashing // Shatterskull, the Hammer Pass
+    - 1 Sink into Stupor // Soporific Springs
     - 1 Sundering Eruption // Volcanic Fissure
     - 1 Swan Song
   Lands:
