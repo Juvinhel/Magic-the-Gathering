@@ -95,7 +95,8 @@ Scorpion's Sting,SPM,de,4
 Scout the City,SPM,de,4
 Secret Identity,SPM,de,1
 Selfless Police Captain,SPM,de,4
-Shock,SPM,de,4
+Shock,MAR,de,1
+Shock,SPM,de,3
 "Shocker, Unshakable",SPM,de,2
 "Shriek, Treblemaker",SPM,de,3
 "Silk, Web Weaver",SPM,de,2
@@ -121,7 +122,7 @@ Spider-Man Noir,SPM,de,2
 Spider-Mobile,SPM,de,2
 "Spider-Rex, Daring Dino",SPM,de,3
 Spider-Sense,SPM,de,1
-"Spider-Slayer, Hatred Honed",SPM,de,1
+"Spider-Slayer, Hatred Honed",OM1,de,1
 Spider-Suit,SPM,de,2
 Spider-UK,SPM,de,2
 "Spider-Woman, Stunning Savior",SPM,de,1
@@ -137,7 +138,7 @@ Sudden Strike,SPM,de,2
 Superior Foes of Spider-Man,SPM,de,2
 Superior Spider-Man,SPM,de,1
 Supportive Parents,SPM,de,1
-"Swarm, Being of Bees",OM1,de,5
+"Swarm, Being of Bees",SPM,de,5
 Symbiote Spider-Man,SPM,de,1
 Taxi Driver,SPM,de,5
 Terrific Team-Up,SPM,de,1

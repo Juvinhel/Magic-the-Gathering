@@ -1,19 +1,123 @@
-Count,Tradelist Count,Name,Edition,Condition,Language,Foil,Tags,Last Modified,Collector Number,Alter,Proxy,Purchase Price,Added date
-1,1,Badlands,olgc,Near Mint,English,,,2026-04-13 08:22:11.897000,2016NA,False,False,,02.04.2026
-1,1,Bayou,olgc,Near Mint,English,,,2026-04-13 08:22:11.897000,2021B,False,False,,02.04.2026
-1,1,Indatha Triome,iko,Near Mint,English,,,2026-04-13 08:22:11.897000,309,False,False,,02.04.2026
-1,1,Jetmir's Garden,snc,Near Mint,English,,,2026-04-13 08:22:11.897000,291,False,False,,02.04.2026
-1,1,Ketria Triome,iko,Near Mint,English,,,2026-04-13 08:22:11.897000,310,False,False,,02.04.2026
-1,1,Raffine's Tower,snc,Near Mint,English,,,2026-04-13 08:22:11.897000,292,False,False,,02.04.2026
-1,1,Raugrin Triome,iko,Near Mint,English,,,2026-04-13 08:22:11.897000,311,False,False,,02.04.2026
-1,1,Savai Triome,iko,Near Mint,English,,,2026-04-13 08:22:11.897000,312,False,False,,02.04.2026
-1,1,Scrubland,olgc,Near Mint,English,,,2026-04-13 08:22:11.897000,2018,False,False,,02.04.2026
-1,1,Spara's Headquarters,snc,Near Mint,English,,,2026-04-13 08:22:11.897000,293,False,False,,02.04.2026
-1,1,Taiga,olgc,Near Mint,English,,,2026-04-13 08:22:11.897000,2017EU,False,False,,02.04.2026
-1,1,The One Ring,ltr,Near Mint,English,,,2026-04-13 08:22:11.897000,697,False,False,,02.04.2026
-1,1,Tropical Island,olgc,Near Mint,English,,,2026-04-13 08:22:11.897000,2019,False,False,,02.04.2026
-1,1,Underground Sea,olgc,Near Mint,English,,,2026-04-13 08:22:11.897000,2016EU,False,False,,02.04.2026
-1,1,Volcanic Island,olgc,Near Mint,English,,,2026-04-13 08:22:11.897000,2018NA,False,False,,02.04.2026
-1,1,Xander's Lounge,snc,Near Mint,English,,,2026-04-13 08:22:11.897000,294,False,False,,02.04.2026
-1,1,Zagoth Triome,iko,Near Mint,English,,,2026-04-13 08:22:11.897000,313,False,False,,02.04.2026
-1,1,Ziatora's Proving Ground,snc,Near Mint,English,,,2026-04-13 08:22:11.897000,295,False,False,,02.04.2026
+Name,Set code,Set name,Collector number,Foil,Rarity,Quantity,ManaBox ID,Scryfall ID,Language,Added date
+Badlands,OLGC,Legacy Championship,2016NA,normal,,1,,,en,02.04.2026
+Bayou,OLGC,Legacy Championship,2021B,normal,,1,,,en,02.04.2026
+Indatha Triome,IKO,Ikoria: Lair of Behemoths,309,normal,,1,,,en,02.04.2026
+Jetmir's Garden,SNC,Streets of New Capenna,291,normal,,1,,,en,02.04.2026
+Ketria Triome,IKO,Ikoria: Lair of Behemoths,310,normal,,1,,,en,02.04.2026
+Raffine's Tower,SNC,Streets of New Capenna,292,normal,,1,,,en,02.04.2026
+Raugrin Triome,IKO,Ikoria: Lair of Behemoths,311,normal,,1,,,en,02.04.2026
+Savai Triome,IKO,Ikoria: Lair of Behemoths,312,normal,,1,,,en,02.04.2026
+Scrubland,OLGC,Legacy Championship,2018,normal,,1,,,en,02.04.2026
+Spara's Headquarters,SNC,Streets of New Capenna,293,normal,,1,,,en,02.04.2026
+Taiga,OLGC,Legacy Championship,2017EU,normal,,1,,,en,02.04.2026
+The One Ring,LTR,The Lord of the Rings: Tales of Middle-earth,697,normal,,1,,,en,02.04.2026
+Tropical Island,OLGC,Legacy Championship,2019,normal,,1,,,en,02.04.2026
+Underground Sea,OLGC,Legacy Championship,2016EU,normal,,1,,,en,02.04.2026
+Volcanic Island,OLGC,Legacy Championship,2018NA,normal,,1,,,en,02.04.2026
+Xander's Lounge,SNC,Streets of New Capenna,294,normal,,1,,,en,02.04.2026
+Zagoth Triome,IKO,Ikoria: Lair of Behemoths,313,normal,,1,,,en,02.04.2026
+Ziatora's Proving Ground,SNC,Streets of New Capenna,295,normal,,1,,,en,02.04.2026
+All Will Be One,SLD,Secret Lair Drop,1888,foil,,1,,,en,30.04.2026
+"Animar, Soul of Elements",SLD,Secret Lair Drop,1891,foil,,1,,,en,30.04.2026
+Arid Mesa,SPG,Special Guests,109,normal,,2,,,en,30.04.2026
+Blightstep Pathway // Searstep Pathway,SLU,Secret Lair: Ultimate Edition,12,foil,,1,,,en,30.04.2026
+Blood Crypt,ECL,Lorwyn Eclipsed,349,normal,,1,,,en,30.04.2026
+Bloodstained Mire,MH3,Modern Horizons 3,352,normal,,2,,,en,30.04.2026
+"Boseiju, Who Endures",PRM,Magic Online Promos,98135,normal,,2,,,en,30.04.2026
+"Brass's Tunnel-Grinder // Tecutlan, the Searing Rift",LCI,The Lost Caverns of Ixalan,373,normal,,1,,,en,30.04.2026
+Brightclimb Pathway // Grimclimb Pathway,PRM,Magic Online Promos,83848,normal,,1,,,en,30.04.2026
+Cavern of Souls,LCI,The Lost Caverns of Ixalan,410c,foil,,1,,,en,30.04.2026
+Counterspell,SLD,Secret Lair Drop,1589,normal,,1,,,en,30.04.2026
+Counterspell,SLD,Secret Lair Drop,2497,normal,,1,,,en,30.04.2026
+Counterspell,PURL,URL/Convention Promos,2,foil,,1,,,en,30.04.2026
+Darkbore Pathway // Slitherbore Pathway,PRM,Magic Online Promos,88406,normal,,1,,,en,30.04.2026
+Deadly Rollick,TLE,Avatar: The Last Airbender Eternal,309,normal,,1,,,en,30.04.2026
+Deflecting Swat,CMM,Commander Masters,698,normal,,1,,,en,30.04.2026
+Deflecting Swat,TLE,Avatar: The Last Airbender Eternal,311,normal,,1,,,en,30.04.2026
+Earthshape,TLE,Avatar: The Last Airbender Eternal,67,normal,,1,,,en,30.04.2026
+Enduring Tenacity,DSK,Duskmourn: House of Horror,390,foil,,1,,,en,30.04.2026
+"Evendo, Waking Haven",EOE,Edge of Eternities,374,foil,,1,,,en,30.04.2026
+Everflowing Chalice,LCC,The Lost Caverns of Ixalan Commander,111,normal,,1,,,en,30.04.2026
+Field of the Dead,SPG,Special Guests,28,normal,,1,,,en,30.04.2026
+Fierce Guardianship,TLE,Avatar: The Last Airbender Eternal,307,normal,,1,,,en,30.04.2026
+Fierce Guardianship,SLD,Secret Lair Drop,1823,normal,,1,,,en,30.04.2026
+Flooded Strand,MH3,Modern Horizons 3,353,normal,,3,,,en,30.04.2026
+Freed from the Real,SLD,Secret Lair Drop,425,foil,,1,,,en,30.04.2026
+Grave Pact,CMM,Commander Masters,639,normal,,1,,,en,30.04.2026
+Herd Heirloom,TDM,Tarkir: Dragonstorm,347,normal,,1,,,en,30.04.2026
+Heroic Intervention,SLD,Secret Lair Drop,1872,normal,,1,,,en,30.04.2026
+Inventors' Fair,EOS,Edge of Eternities: Stellar Sights,111,foil,,1,,,en,30.04.2026
+"Iron Spider, Stark Upgrade",LMAR,Marvel Legends Series Inserts,4,foil,,1,,,en,30.04.2026
+"Jenova, Ancient Calamity",FIN,Final Fantasy,346,normal,,1,,,en,30.04.2026
+Karmic Guide,SLD,Secret Lair Drop,1911,normal,,1,,,en,30.04.2026
+Kindred Discovery,WOT,Wilds of Eldraine: Enchanting Tales,69,normal,,1,,,en,30.04.2026
+Lion Sash,NEO,Kamigawa: Neon Dynasty,368,normal,,1,,,en,30.04.2026
+"Lumra, Bellow of the Woods",BLB,Bloomburrow,342,normal,,1,,,en,30.04.2026
+Marsh Flats,SPG,Special Guests,110,normal,,2,,,en,30.04.2026
+Meren of Clan Nel Toth,SLD,Secret Lair Drop,52,foil,,1,,,en,30.04.2026
+Misdirection,SLD,Secret Lair Drop,1272,foil,,1,,,en,30.04.2026
+Misty Rainforest,SPG,Special Guests,111,normal,,2,,,en,30.04.2026
+"Moraug, Fury of Akoum",ZNR,Zendikar Rising,300,normal,,1,,,en,30.04.2026
+Mossborn Hydra,FDN,Foundations,337,normal,,1,,,en,30.04.2026
+Needleverge Pathway // Pillarverge Pathway,PRM,Magic Online Promos,83854,normal,,2,,,en,30.04.2026
+"Otawara, Soaring City",PRM,Magic Online Promos,98123,normal,,1,,,en,30.04.2026
+Overgrown Tomb,UNF,Unfinity,284,normal,,1,,,en,30.04.2026
+Panharmonicon,2X2,Double Masters 2022,395,normal,,1,,,en,30.04.2026
+Path to Exile,SLD,Secret Lair Drop,2227,normal,,4,,,en,30.04.2026
+Phyrexian Tower,MH3,Modern Horizons 3,355,normal,,1,,,en,30.04.2026
+Plaza of Heroes,EOS,Edge of Eternities: Stellar Sights,78,normal,,4,,,en,30.04.2026
+Polluted Delta,MH3,Modern Horizons 3,356,normal,,2,,,en,30.04.2026
+Reckoner Bankbuster,PNEO,Kamigawa: Neon Dynasty Promos,404p,normal,,1,,,en,30.04.2026
+Riverglide Pathway // Lavaglide Pathway,SLU,Secret Lair: Ultimate Edition,20,foil,,1,,,en,30.04.2026
+Sacred Foundry,RVR,Ravnica Remastered,297,normal,,2,,,en,30.04.2026
+Scalding Tarn,SPG,Special Guests,117,foil,,4,,,en,30.04.2026
+Solitude,PRM,Magic Online Promos,91203,normal,,1,,,en,30.04.2026
+Spark Double,RVR,Ravnica Remastered,421,normal,,2,,,en,30.04.2026
+Springheart Nantuko,MH3,Modern Horizons 3,341,normal,,1,,,en,30.04.2026
+Summon: Knights of Round,FIN,Final Fantasy,359,normal,,1,,,en,30.04.2026
+Swords to Plowshares,STA,Strixhaven Mystical Archive,10,normal,,4,,,en,30.04.2026
+"Takenuma, Abandoned Mire",PRM,Magic Online Promos,98127,normal,,2,,,en,30.04.2026
+Temple Garden,UNF,Unfinity,281,normal,,1,,,en,30.04.2026
+The Aetherspark,DFT,Aetherdrift,376,foil,,1,,,en,30.04.2026
+The Earth Crystal,FIN,Final Fantasy,342,normal,,1,,,en,30.04.2026
+The Great Henge,LTC,Tales of Middle-earth Commander,378,foil,,1,,,en,30.04.2026
+The World Tree,SLD,Secret Lair Drop,1266,foil,,1,,,en,30.04.2026
+Three Tree City,BLB,Bloomburrow,337,normal,,1,,,en,30.04.2026
+Three Tree City,BLB,Bloomburrow,339,normal,,1,,,en,30.04.2026
+Three Tree City,BLB,Bloomburrow,340,normal,,1,,,en,30.04.2026
+Three Tree City,BLB,Bloomburrow,338,normal,,1,,,en,30.04.2026
+"Toph, Greatest Earthbender",TLE,Avatar: The Last Airbender Eternal,70,normal,,1,,,en,30.04.2026
+Twilight Diviner,ECL,Lorwyn Eclipsed,315,normal,,1,,,en,30.04.2026
+Urza's Incubator,DMR,Dominaria Remastered,453,normal,,1,,,en,30.04.2026
+Urza's Saga,SLC,Secret Lair Countdown,21,normal,,1,,,en,30.04.2026
+Verdant Catacombs,SPG,Special Guests,113,normal,,2,,,en,30.04.2026
+Vesuva,SLC,Secret Lair Countdown,22,normal,,1,,,en,30.04.2026
+Warden of the Grove,TDM,Tarkir: Dragonstorm,351,normal,,1,,,en,30.04.2026
+Windswept Heath,MH3,Modern Horizons 3,360,normal,,2,,,en,30.04.2026
+Wooded Foothills,MH3,Modern Horizons 3,361,normal,,1,,,en,30.04.2026
+Treasure,,,,,,2,,,en,30.04.2026
+Food,,,,,,2,,,en,30.04.2026
+Clue,,,,,,2,,,en,30.04.2026
+Annie Joins Up,,,,,,1,,,en,30.04.2026
+Cephalid Facetaker,,,,,,1,,,en,30.04.2026
+Nulldrifter,,,,,,1,,,en,30.04.2026
+Rumbleweed,,,,,,1,,,en,30.04.2026
+Tree of Perdition,,,,,,1,,,en,30.04.2026
+Tyrant of Discord,,,,,,1,,,en,30.04.2026
+Tropical Island,,,,,,1,,,en,30.04.2026
+Badlands,,,,,,2,,,en,30.04.2026
+Bayou,,,,,,2,,,en,30.04.2026
+Gaea's Cradle,,,,,,2,,,en,30.04.2026
+"Minamo, School at Water's Edge",,,,,,1,,,en,30.04.2026
+"Nykthos, Shrine to Nyx",,,,,,1,,,en,30.04.2026
+Plateau,,,,,,4,,,en,30.04.2026
+Savannah,,,,,,2,,,en,30.04.2026
+"Shinka, the Bloodsoaked Keep",,,,,,1,,,en,30.04.2026
+"Shizo, Death's Storehouse",,,,,,2,,,en,30.04.2026
+Taiga,,,,,,2,,,en,30.04.2026
+Talon Gates of Madara,,,,,,4,,,en,30.04.2026
+Tundra,,,,,,2,,,en,30.04.2026
+Underground Sea,,,,,,2,,,en,30.04.2026
+Volcanic Island,,,,,,3,,,en,30.04.2026
+"Urborg, Tomb of Yawgmoth",,,,,,2,,,en,30.04.2026
+"Yavimaya, Cradle of Growth",,,,,,1,,,en,30.04.2026

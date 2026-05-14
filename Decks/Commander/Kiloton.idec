@@ -22,9 +22,9 @@ main:
     - 1 Iron Spider, Stark Upgrade
     - 1 Kappa Cannoneer
     - 1 Lady Octopus, Inspired Inventor
-    - 1 Loch Mare
     - 1 Mindless Automaton
     - 1 Patrolling Peacemaker
+    - 1 Pensive Professor
     - 1 Roaming Throne
     - 1 Spark Double
     - 1 Spellskite
@@ -42,7 +42,6 @@ main:
     - 1 All Will Be One
     - 1 Astral Cornucopia
     - 1 Blitzball Stadium
-    - 1 Clock of Omens
     - 1 Coin of Mastery
     - 1 Costume Closet
     - 1 Does Machines
@@ -62,15 +61,16 @@ main:
     - 1 Relic of Legends
     - 1 Resourceful Defense
     - 1 Ring of Evos Isle
-    - 1 Sol Ring
     - 1 Solar Array
     - 1 Sonic Screwdriver
     - 1 Unwinding Clock
     - 1 Weather Maker
   Spells:
     - 1 Counterspell
+    - 1 Daydream
     - 1 Deflecting Swat
     - 1 Dispatch
+    - 1 Expansion Algorithm
     - 1 Experimental Augury
     - 1 Fierce Guardianship
     - 1 Organic Extinction
@@ -164,6 +164,7 @@ maybe:
   Artifacts & Enchantments:
     - 1 Aetheric Amplifier
     - 1 Aura of Dominion
+    - 1 Clock of Omens
     - 1 Cloud Key
     - 1 Contagion Clasp
     - 1 Darksteel Reactor
@@ -175,6 +176,7 @@ maybe:
     - 1 Pinnacle Kill-Ship
     - 1 Replicating Ring
     - 1 Rescue Skiff
+    - 1 Sol Ring
     - 1 Specimen Freighter
     - 1 Strixhaven Stadium
     - 1 Synthesizer Labship
@@ -186,6 +188,7 @@ maybe:
     - 1 Angelfire Ignition
     - 1 Chaos Warp
     - 1 Enlightened Tutor
+    - 1 Nexus Mentality
     - 1 Prologue to Phyresis
     - 1 Swan Song
     - 1 Tezzeret's Gambit

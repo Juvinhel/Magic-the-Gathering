@@ -10,25 +10,28 @@ tags:
 main:
   - 1 Dina, Essence Brewer
   Creatures:
-    - 1 Deepwood Denizen
+    - 1 Ayara, First of Locthwain
+    - 1 Blood Artist
+    - 1 Enduring Tenacity
     - 1 Goldvein Hydra
     - 1 Gyre Sage
     - 1 Haywire Mite
     - 1 Morbid Opportunist
+    - 1 Priest of Forgotten Gods
     - 1 Rishkar, Peema Renegade
+    - 1 Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
     - 1 Towashi Guide-Bot
     - 1 Vito, Thorn of the Dusk Rose
+    - 1 Ygra, Eater of All
     Token Factory:
       - 1 Basking Broodscale
       - 1 Beledros Witherbloom
       - 1 Brightcap Badger // Fungus Frolic
       - 1 Creakwood Liege
-      - 1 Hazel of the Rootbloom
       - 1 Mycoloth
       - 1 Pest Rescuer
       - 1 Propagator Drone
       - 1 Ribtruss Roaster
-      - 1 Scute Swarm
       - 1 Springheart Nantuko
       - 1 Tendershoot Dryad
     Counter Factory:
@@ -37,7 +40,6 @@ main:
       - 1 Bloodspore Thrinax
       - 1 Bristly Bill, Spine Sower
       - 1 Canopy Gargantuan
-      - 1 Cursed Wombat
       - 1 Defiler of Vigor
       - 1 Drana, Liberator of Malakir
       - 1 Forgotten Ancient
@@ -45,30 +47,28 @@ main:
       - 1 Kalonian Hydra
       - 1 Kami of Whispered Hopes
       - 1 Mazirek, Kraul Death Priest
-      - 1 Metallic Mimic
       - 1 Ouroboroid
       - 1 Primeval Protector
       - 1 Renata, Called to the Hunt
       - 1 Sandstorm Salvager
-      - 1 Spider-Man, Miles Morales
       - 1 Valentin, Dean of the Vein // Lisette, Dean of the Root
       - 1 Yavimaya Bloomsage // Channel
   Artifacts & Enchantments:
     - 1 Ashnod's Altar
     - 1 Awakening Zone
     - 1 Branching Evolution
+    - 1 Cauldron of Essence
     - 1 Coin of Mastery
     - 1 Death's Presence
     - 1 Doubling Season
-    - 1 Fractal Harness
     - 1 Grave Pact
     - 1 Idol of False Gods
     - 1 Ozolith, the Shattered Spire
     - 1 Skullclamp
-    - 1 Sonic Screwdriver
+    - 1 Sothera, the Supervoid
     - 1 Terrasymbiosis
     - 1 The Earth Crystal
-    - 1 The Great Henge
+    - 1 The Meathook Massacre
     - 1 The One Ring
     - 1 The Ozolith
     - 1 The Soul Stone
@@ -95,11 +95,11 @@ main:
     - 1 Urborg, Tomb of Yawgmoth
     - 1 Verdant Catacombs
     - 1 War Room
-    - 1 Windswept Heath
     - 1 Yavimaya, Cradle of Growth
     - 1 Barad-dûr
     - 1 Phyrexian Tower
     - 1 Realm of Koh
+    - 1 Susur Secundi, Void Altar
     - 2 Swamp
     - 1 Takenuma, Abandoned Mire
     - 1 Bayou
@@ -115,15 +115,21 @@ main:
 maybe:
   Creatures:
     - 1 Consuming Blob
+    - 1 Cursed Wombat
+    - 1 Deepwood Denizen
     - 1 Emil, Vastlands Roamer
     - 1 Ferrafor, Young Yew
     - 1 Iridescent Hornbeetle
     - 1 Lord Skitter, Sewer King
     - 1 Master of the Wild Hunt
+    - 1 Metallic Mimic
     - 1 Scurry Oak
+    - 1 Scute Swarm
     - 1 Spawnbed Protector
     - 1 Swarm Shambler
   Artifacts & Enchantments:
+    - 1 Fractal Harness
     - 1 Intermediate Chirography
+    - 1 Sonic Screwdriver
   Sorceries & Instants:
   Lands:

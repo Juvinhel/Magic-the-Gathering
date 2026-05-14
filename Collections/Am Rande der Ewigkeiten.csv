@@ -113,9 +113,10 @@ Gigastorm Titan,EOE,de,2
 Glacial Fortress,TDC,de,1
 Glacier Godmaw,EOE,de,2
 Glittering Massif,EOC,de,1
-Gnome,TEOC,de,2
+Gnome,TLCI,de,2
 Godless Shrine,EOE,de,2
-Golem,TEOC,de,4
+Golem,TEOC,de,2
+Golem,TMBS,de,2
 Golem Foundry,SOM,de,1
 Gravblade Heavy,EOE,de,3
 Gravkill,EOE,de,2
@@ -136,7 +137,7 @@ Icetill Explorer,EOE,de,1
 Illvoi Galeblade,EOE,de,3
 Illvoi Light Jammer,EOE,de,4
 Illvoi Operative,EOE,de,3
-Incubator // Phyrexian,TEOC,de,2
+Incubator // Phyrexian,TMOM,de,2
 Infinite Guideline Station,EOE,de,1
 Insatiable Skittermaw,EOE,de,3
 Insight Engine,EOC,de,1
@@ -229,15 +230,15 @@ Scour for Scrap,EOE,de,2
 Scout for Survivors,EOE,de,1
 Scrounge for Eternity,EOE,de,1
 Seam Rip,EOE,de,2
-Seat of the Synod,C18,de,1
+Seat of the Synod,EOC,de,1
 Secluded Starforge,EOE,de,1
-Secluded Steppe,MKC,de,1
+Secluded Steppe,EOC,de,1
 Seedship Agrarian,EOE,de,2
 Seedship Impact,EOE,de,3
 Selfcraft Mechan,EOE,de,2
 Shattered Wings,EOE,de,3
 Shivan Reef,TDC,de,1
-Silverbluff Bridge,MH2,de,1
+Silverbluff Bridge,EOC,de,1
 Sinister Cryologist,EOE,de,4
 Skycloud Expanse,TDC,de,1
 Skystinger,EOE,de,3
@@ -248,7 +249,7 @@ Solar Array,EOC,de,1
 Soul-Guide Lantern,FDN,de,1
 Space-Time Anomaly,EOE,de,3
 Specimen Freighter,EOE,de,1
-Spire of Industry,DRC,de,1
+Spire of Industry,EOC,de,1
 Squire's Lightblade,EOE,de,4
 Starbreach Whale,EOE,de,2
 Starfield Vocalist,EOE,de,1
@@ -257,7 +258,7 @@ Starport Security,EOE,de,3
 Station Monitor,EOE,de,1
 Steel Overseer,C21,de,1
 Steelswarm Operator,EOE,de,2
-Sulfur Falls,TDC,de,1
+Sulfur Falls,YEOE,de,1
 Sunstar Chaplain,EOE,de,1
 Sunstar Expansionist,EOE,de,3
 Sunstar Lightsmith,EOE,de,1
@@ -289,7 +290,7 @@ Thawbringer,EOE,de,4
 The Eternity Elevator,EOE,de,1
 The Mycosynth Gardens,ONE,de,1
 Thirst for Knowledge,EOC,de,1
-Thopter,TEOC,de,1
+Thopter,TTDC,de,1
 Thought Monitor,MKC,de,1
 Threefold Thunderhulk,LCI,de,1
 Thrummingbird,ONE,de,1

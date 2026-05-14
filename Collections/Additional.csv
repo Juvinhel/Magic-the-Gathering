@@ -22,6 +22,8 @@ Arcbound Mouser,MH2,en,1
 Archangel of Thune,2XM,en,1
 Archangel of Tithes,OTJ,en,1
 Arid Mesa,MH2,de,1
+"Ashling, Rekindled // Ashling, Rimebound",ECL,en,1
+Ashnod's Altar,6ED,en,1
 "Aurelia, the Law Above",MKM,de,1
 "Aurelia, the Warleader",MUL,de,1
 Battle Angels of Tyr,CLB,en,1
@@ -32,13 +34,16 @@ Bloodforged Battle-Axe,MOC,de,1
 Bonders' Enclave,M3C,en,1
 Boon-Bringer Valkyrie,MOM,en,1
 "Braids, Arisen Nightmare",DSC,de,1
+Bramble Familiar // Fetch Quest,WOE,de,1
 Branchloft Pathway // Boulderloft Pathway,ZNR,ja,1
 Brave the Elements,C14,de,1
 Breathkeeper Seraph,VOC,en,1
+Brighthearth Banneret,MOR,de,1
 Brotherhood Regalia,ACR,en,1
 Buster Sword,FIN,de,1
 Castle Vantress,DSC,en,1
 "Chainer, Nightmare Adept",MH2,de,1
+Champion of the Path,ECL,en,1
 Changeling Outcast,OTC,en,1
 Charisma Bobblehead,PIP,en,1
 Clearwater Pathway // Murkwater Pathway,ZNR,de,1
@@ -60,8 +65,10 @@ Debtors' Knell,C21,de,1
 Defy Death,AVR,en,1
 Deserted Beach,INR,de,1
 Desolate Mire,OTC,de,1
+Eclipsed Realms,ECL,en,1
 Eiganjo Castle,CHK,de,1
 "Eiganjo, Seat of the Empire",NEO,de,1
+Elemental,TSOS,en,2
 Elspeth Resplendent,SNC,en,1
 "Elspeth, Sun's Champion",CMM,en,1
 Emancipation Angel,UMA,en,1
@@ -71,6 +78,7 @@ Enlightened Tutor,6ED,en,1
 Entreat the Angels,DSC,en,1
 Everybody Lives!,WHO,de,1
 Everything Comes to Dust,WHO,de,1
+Evolutionary Leap,NCC,en,1
 Exemplar of Light,FDN,en,1
 Fabled Passage,M21,en,1
 Faerie Dreamthief,WOE,en,1
@@ -87,7 +95,9 @@ Folk Hero,CLB,en,1
 Force of Will,ALL,de,1
 Forlorn Flats,OTJ,de,1
 Freed from the Real,A25,de,1
+Gathering Stone,ECL,en,1
 "Giada, Font of Hope",SLD,ja,1
+Giant's Amulet,KHM,en,1
 Glacial Fortress,BLC,en,1
 Graypelt Refuge,C19,en,1
 Hallowed Fountain,RTR,de,1
@@ -103,6 +113,7 @@ Impostor Syndrome,SPM,en,1
 Ingenious Infiltrator,MH1,en,1
 Ingenious Prodigy,WOE,en,1
 "Ink-Eyes, Servant of Oni",PCA,en,1
+Interdisciplinary Mascot,MOM,en,1
 Invasion of Dominaria // Serra Faithkeeper,MOM,de,1
 Inventors' Fair,KLD,en,1
 Isolated Chapel,DRC,de,1
@@ -111,6 +122,7 @@ Kabira Takedown // Kabira Plateau,ZNR,de,1
 "Kaito, Bane of Nightmares",DSK,de,1
 Kazandu Refuge,C19,en,1
 Kor Haven,NEM,de,1
+Kozilek's Unsealing,MH3,en,1
 Leyline of Hope,DSK,en,1
 Lonely Arroyo,OTJ,de,4
 Luminarch Ascension,A25,en,1
@@ -145,6 +157,8 @@ Prava of the Steel Legion,ONC,en,1
 Pristine Talisman,C21,en,1
 Ravnica at War,WAR,de,1
 Razorgrass Ambush // Razorgrass Field,MH3,en,1
+Reflections of Littjara,TDC,en,1
+Renewed Solidarity,DRC,en,1
 Requisition Raid,OTJ,en,1
 Resplendent Angel,LCI,en,1
 Resplendent Marshal,KHM,de,1
@@ -152,6 +166,7 @@ Righteous Valkyrie,KHM,en,1
 "Rin and Seri, Inseparable",M21,de,1
 Rivendell,LTR,en,1
 Riverglide Pathway // Lavaglide Pathway,ZNR,en,1
+Riveteers Ascendancy,SNC,en,1
 Roaming Throne,LCI,en,1
 Rogue Class,AFR,en,1
 Sacred Foundry,EOE,de,1
@@ -175,6 +190,7 @@ Serra's Guardian,M20,en,1
 Shadow of Mortality,SNC,de,1
 Shadowy Backstreet,MKM,de,1
 Shattered Angel,MOC,en,1
+Shroudstomper,DSK,en,1
 Sigarda's Splendor,MID,en,1
 Sigarda's Vanguard,MIC,en,1
 Silence,M14,en,1
@@ -193,6 +209,7 @@ Steam Vents,GRN,de,1
 Steel Seraph,BRO,de,1
 Strength Bobblehead,PIP,en,1
 Strixhaven Stadium,FCA,en,1
+Sunderflock,ECL,en,1
 Sundown Pass,INR,de,1
 "Syr Konrad, the Grim",DSC,de,1
 Tainted Field,CMM,de,1
@@ -207,6 +224,7 @@ Thousand-Faced Shadow,NEO,en,1
 Three Tree City,BLB,de,1
 Throat Slitter,PCA,en,1
 Tormented Soul,PCA,en,1
+Treasure,TSOS,en,2
 Treasure Cruise,TDC,de,1
 Triton Shorestalker,OTC,en,1
 Tundra,3ED,en,1
