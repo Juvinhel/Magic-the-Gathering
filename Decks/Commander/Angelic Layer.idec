@@ -39,6 +39,7 @@ main:
   Artifacts & Enchantments:
     - 1 Aetheric Amplifier
     - 1 Angelic Accord
+    - 1 Banner of Kinship
     - 1 Birthing Boughs
     - 1 Buster Sword
     - 1 Chivalric Alliance
@@ -46,14 +47,15 @@ main:
     - 1 Coin of Mastery
     - 1 Court of Grace
     - 1 Folk Hero
+    - 1 Gathering Stone
     - 1 Herald's Horn
     - 1 Lightning Greaves
     - 1 Luminarch Ascension
     - 1 Maskwood Nexus
+    - 1 Mithril Coat
     - 1 Moonsilver Spear
     - 1 Patchwork Banner
     - 1 Resurrection Orb
-    - 1 Sol Ring
     - 1 Swiftfoot Boots
     - 1 The Arkenstone // Seek the Heart
     - 1 The Book of Exalted Deeds
@@ -63,19 +65,15 @@ main:
     - 1 Vanquisher's Banner
   Spells:
     - 1 Brave the Elements
-    - 1 Cleansing Nova
     - 1 Clever Concealment
     - 1 Contraband Livestock
     - 1 Daydream
-    - 1 Defy Death
     - 1 Everybody Lives!
     - 1 Everything Comes to Dust
     - 1 Flawless Maneuver
-    - 1 Ondu Inversion // Ondu Skyruins
     - 1 Path to Exile
     - 1 Requisition Raid
     - 1 Sanctify
-    - 1 Sejiri Shelter // Sejiri Glacier
     - 1 Starnheim Unleashed
     - 1 Swords to Plowshares
     - 1 Teferi's Protection
@@ -86,7 +84,6 @@ main:
     - 1 Avishkar Raceway
     - 1 Bonders' Enclave
     - 1 Cavern of Souls
-    - 1 Deserted Temple
     - 1 Drannith Ruins
     - 1 Hidden Hideout
     - 1 Horizon of Progress
@@ -108,7 +105,9 @@ main:
     - 1 Eiganjo Castle
     - 1 Eiganjo, Seat of the Empire
     - 1 Minas Tirith
-    - 4 Plains
+    - 1 Ondu Inversion // Ondu Skyruins
+    - 5 Plains
+    - 1 Sejiri Shelter // Sejiri Glacier
     - 1 Windbrisk Heights
 maybe:
   - 1 Elspeth Resplendent
@@ -167,9 +166,9 @@ maybe:
     - 1 Commander's Sphere
     - 1 Conqueror's Flail
     - 1 Cosmos Elixir
-    - 1 Cosmos Elixir
     - 1 Dawn of a New Age
     - 1 Dawn of Hope
+    - 1 Door of Destinies
     - 1 Everflowing Chalice
     - 1 Halo Fountain
     - 1 Heirloom Epic
@@ -180,9 +179,11 @@ maybe:
     - 1 Leyline of Hope
     - 1 Mind Stone
     - 1 Paradise Plume
+    - 1 Parhelion II
     - 1 Pristine Talisman
     - 1 Rally the Ranks
     - 1 Sigarda's Splendor
+    - 1 Sol Ring
     - 1 Soul Foundry
     - 1 Stormbeacon Blade
     - 1 Strength-Testing Hammer
@@ -201,8 +202,10 @@ maybe:
     - 1 Angel's Grace
     - 1 Ascend from Avernus
     - 1 Calamity's Wake
+    - 1 Cleansing Nova
     - 1 Dawn's Truce
     - 1 Decree of Justice
+    - 1 Defy Death
     - 1 Destroy Evil
     - 1 Dismantling Wave
     - 1 Divine Resilience
@@ -229,6 +232,7 @@ maybe:
     - 1 Vanquish the Horde
     - 1 Winds of Abandon
   Lands:
+    - 1 Deserted Temple
     - 1 Fountainport
     - 1 Geier Reach Sanitarium
     - 1 Mikokoro, Center of the Sea
