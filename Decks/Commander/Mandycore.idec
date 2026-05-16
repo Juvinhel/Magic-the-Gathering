@@ -12,10 +12,12 @@ main:
     - 1 Bronze Guardian
     - 1 Cryptothrall
     - 1 Cyberdrive Awakener
+    - 1 Cyberman Patrol
     - 1 Cybermat
     - 1 Emry, Lurker of the Loch
     - 1 Esper Sentinel
     - 1 Etherium Sculptor
+    - 1 Ethersworn Sphinx
     - 1 Foundry Inspector
     - 1 Fugitive Droid
     - 1 Gingerbrute
@@ -26,18 +28,17 @@ main:
     - 1 Kappa Cannoneer
     - 1 Master of Etherium
     - 1 Nesting Bot
+    - 1 Network Disruptor
     - 1 Phyrexian Metamorph
     - 1 Research Thief
+    - 1 Silver Raven
     - 1 Slick Imitator
-    - 1 Spark Double
     - 1 Spellskite
     - 1 Steel Overseer
-    - 1 Stridehangar Automaton
     - 1 Thought Monitor
     - 1 Thran Spider
     - 1 Urza, Lord High Artificer
     - 1 Vnwxt, Verbose Host
-    - 1 Voyager Quickwelder
   Planeswalker & Battles:
     - 1 Tezzeret, Cruel Captain
   Artifacts & Enchantments:
@@ -66,7 +67,6 @@ main:
     - 1 Worldwalker Helm
   Sorceries & Instants:
     - 1 An Offer You Can't Refuse
-    - 1 Counterspell
     - 1 Fierce Guardianship
     - 1 Flawless Maneuver
     - 1 Force of Will
@@ -117,10 +117,14 @@ maybe:
     - 1 Giggling Skitterspike
     - 1 K-9, Mark I
     - 1 Riptide Gearhulk
+    - 1 Spark Double
+    - 1 Stridehangar Automaton
+    - 1 Voyager Quickwelder
   Artifacts & Enchantments:
     - 1 Aether Syphon
     - 1 Repair and Recharge
     - 1 Slagstone Refinery
     - 1 Unwinding Clock
   Sorceries & Instants:
+    - 1 Counterspell
   Lands:
