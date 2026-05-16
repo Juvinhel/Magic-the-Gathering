@@ -36,20 +36,20 @@ main:
     - 1 Spellskite
     - 1 Steel Overseer
     - 1 Thought Monitor
-    - 1 Thran Spider
     - 1 Urza, Lord High Artificer
     - 1 Vnwxt, Verbose Host
   Planeswalker & Battles:
     - 1 Tezzeret, Cruel Captain
   Artifacts & Enchantments:
     - 1 Adaptive Omnitool
+    - 1 Artificer Class
     - 1 Coin of Mastery
-    - 1 Copy Artifact
     - 1 Idol of Oblivion
     - 1 Insight Engine
     - 1 Lightning Greaves
     - 1 Machinist's Arsenal
-    - 1 Mirrormade
+    - 1 Mechanized Production
+    - 1 Mirage Mockery
     - 1 Mystic Forge
     - 1 Nettlecyst
     - 1 Perilous Snare
@@ -119,9 +119,12 @@ maybe:
     - 1 Riptide Gearhulk
     - 1 Spark Double
     - 1 Stridehangar Automaton
+    - 1 Thran Spider
     - 1 Voyager Quickwelder
   Artifacts & Enchantments:
     - 1 Aether Syphon
+    - 1 Copy Artifact
+    - 1 Mirrormade
     - 1 Repair and Recharge
     - 1 Slagstone Refinery
     - 1 Unwinding Clock
