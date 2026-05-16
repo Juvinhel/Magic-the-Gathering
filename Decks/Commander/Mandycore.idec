@@ -114,12 +114,10 @@ maybe:
   Creatures:
     - 1 Buzz Bots
     - 1 Clockwork Droid
-    - 1 Clockwork Droid
     - 1 Diversion Unit
     - 1 Geology Enthusiast
     - 1 Giggling Skitterspike
     - 1 Hope of Ghirapur
-    - 1 K-9, Mark I
     - 1 K-9, Mark I
     - 1 Malcator's Watcher
     - 1 Monoskelion
@@ -143,4 +141,6 @@ maybe:
   Sorceries & Instants:
     - 1 Counterspell
   Lands:
+    - 1 Mishra's Factory
     - 1 Nykthos, Shrine to Nyx
+    - 1 The Mycosynth Gardens
