@@ -28,6 +28,7 @@ main:
     - 1 Master of Etherium
     - 1 Nesting Bot
     - 1 Network Disruptor
+    - 1 Oaken Siren
     - 1 Phyrexian Metamorph
     - 1 Research Thief
     - 1 Silver Raven
@@ -49,12 +50,12 @@ main:
     - 1 Lightning Greaves
     - 1 Machinist's Arsenal
     - 1 Mechanized Production
-    - 1 Mirage Mockery
     - 1 Mystic Forge
     - 1 Nettlecyst
     - 1 Perilous Snare
     - 1 Racers' Scoreboard
     - 1 Sculpting Steel
+    - 1 Simulacrum Synthesizer
     - 1 Sol Ring
     - 1 Sonic Screwdriver
     - 1 Swiftfoot Boots
@@ -74,7 +75,6 @@ main:
     - 1 Path to Exile
     - 1 Swords to Plowshares
     - 1 Thoughtcast
-    - 1 Urza's Command
     - 1 Voyage Home
   Lands:
     - 1 Abstergo Entertainment
@@ -122,7 +122,6 @@ maybe:
     - 1 Malcator's Watcher
     - 1 Monoskelion
     - 1 Myr Retriever
-    - 1 Oaken Siren
     - 1 Perilous Myr
     - 1 Riptide Gearhulk
     - 1 Spark Double
@@ -140,6 +139,7 @@ maybe:
     - 1 Unwinding Clock
   Sorceries & Instants:
     - 1 Counterspell
+    - 1 Mirage Mockery
   Lands:
     - 1 Mishra's Factory
     - 1 Nykthos, Shrine to Nyx
