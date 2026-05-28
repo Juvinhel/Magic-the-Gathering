@@ -7,6 +7,7 @@ tags:
   - Lifegain
   - Counters
   - Flying
+  - Tokens
 main:
   - 1 Giada, Font of Hope
   Creatures:
@@ -21,6 +22,7 @@ main:
     - 1 Exalted Sunborn
     - 1 Exemplar of Light
     - 1 Firemane Commando
+    - 1 Gisela, the Broken Blade
     - 1 Herald of War
     - 1 Lightstall Inquisitor
     - 1 Lyra Dawnbringer
@@ -47,27 +49,26 @@ main:
     - 1 Coin of Mastery
     - 1 Court of Grace
     - 1 Folk Hero
-    - 1 Gathering Stone
-    - 1 Herald's Horn
     - 1 Lightning Greaves
     - 1 Luminarch Ascension
     - 1 Maskwood Nexus
     - 1 Mithril Coat
     - 1 Moonsilver Spear
     - 1 Patchwork Banner
+    - 1 Renewed Solidarity
     - 1 Resurrection Orb
+    - 1 Sigarda's Splendor
+    - 1 Soul Foundry
     - 1 Swiftfoot Boots
     - 1 The Arkenstone // Seek the Heart
     - 1 The Book of Exalted Deeds
     - 1 The One Ring
     - 1 The Wind Crystal
-    - 1 Urza's Incubator
-    - 1 Vanquisher's Banner
+    - 1 Well of Lost Dreams
   Spells:
     - 1 Brave the Elements
     - 1 Clever Concealment
     - 1 Contraband Livestock
-    - 1 Daydream
     - 1 Everybody Lives!
     - 1 Everything Comes to Dust
     - 1 Flawless Maneuver
@@ -170,8 +171,10 @@ maybe:
     - 1 Dawn of Hope
     - 1 Door of Destinies
     - 1 Everflowing Chalice
+    - 1 Gathering Stone
     - 1 Halo Fountain
     - 1 Heirloom Epic
+    - 1 Herald's Horn
     - 1 Heraldic Banner
     - 1 Idol of Oblivion
     - 1 Illuminated Folio
@@ -193,6 +196,7 @@ maybe:
     - 1 The Immortal Sun
     - 1 Throne of Eldraine
     - 1 Urza's Incubator
+    - 1 Vanquisher's Banner
     - 1 Wedding Ring
     - 1 Well of Lost Dreams
   Spells:
@@ -231,11 +235,11 @@ maybe:
     - 1 Unbreakable Formation
     - 1 Vanquish the Horde
     - 1 Winds of Abandon
+    - 1 Winnowing
   Lands:
     - 1 Deserted Temple
     - 1 Fountainport
     - 1 Geier Reach Sanitarium
-    - 1 Mikokoro, Center of the Sea
     - 1 Mikokoro, Center of the Sea
     - 1 Nykthos, Shrine to Nyx
     - 1 Radiant Fountain
