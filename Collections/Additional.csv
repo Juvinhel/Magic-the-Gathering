@@ -28,8 +28,10 @@ Ashnod's Altar,6ED,en,1
 "Aurelia, the Warleader",MUL,de,1
 Battle Angels of Tyr,CLB,en,1
 Benalish Commander,TSR,en,1
+Big Mother Mouser,TMC,en,1
 Biting-Palm Ninja,NEO,de,1
 Blade Historian,STX,de,1
+Blinkmoth Nexus,DST,en,1
 Bloodforged Battle-Axe,MOC,de,1
 Bonders' Enclave,M3C,en,1
 Boon-Bringer Valkyrie,MOM,en,1
@@ -52,6 +54,7 @@ Clever Concealment,FIC,de,1
 Clifftop Retreat,ISD,en,1
 Cloud Key,TSR,de,1
 Cloudsteel Kirin,NEO,de,4
+Coin of Mastery,TMC,en,1
 Commit // Memory,LCC,en,1
 Conqueror's Flail,FIC,de,1
 Consign // Oblivion,HOU,en,1
@@ -65,6 +68,9 @@ Debtors' Knell,C21,de,1
 Defy Death,AVR,en,1
 Deserted Beach,INR,de,1
 Desolate Mire,OTC,de,1
+Does Machines,TMT,en,1
+"Donatello, Mutant Mechanic",TMT,en,1
+Dreamtide Whale,MH3,en,1
 Eclipsed Realms,ECL,en,1
 Eiganjo Castle,CHK,de,1
 "Eiganjo, Seat of the Empire",NEO,de,1
@@ -84,10 +90,12 @@ Fabled Passage,M21,en,1
 Faerie Dreamthief,WOE,en,1
 Faerie Seer,J25,de,1
 Fallen Shinobi,NCC,en,1
+Felidar Retreat,FDN,en,1
 Fell the Profane // Fell Mire,MH3,en,1
 Fetid Heath,OTC,de,1
 Fierce Guardianship,CMM,de,1
 Finale of Glory,CLU,en,1
+Fire Nation Salvagers,TLE,en,1
 Firemane Commando,MOC,de,1
 Flawless Maneuver,CMM,en,1
 Flooded Strand,MH3,de,1
@@ -100,14 +108,17 @@ Gathering Stone,ECL,en,1
 Giant's Amulet,KHM,en,1
 Glacial Fortress,BLC,en,1
 Graypelt Refuge,C19,en,1
+Hall of Tagsin,BRO,en,1
 Hallowed Fountain,RTR,de,1
 Halo Fountain,SNC,en,1
+Haywire Mite,DSC,en,1
 Hengegate Pathway // Mistgate Pathway,KHM,ja,1
 Herald of Eternal Dawn,FDN,en,1
 Herald of the Host,CMM,de,1
 Herald of War,MIC,en,1
 Herald's Horn,M3C,en,1
 Heroes Remembered,PLC,de,1
+Hour of Revelation,ZNC,de,1
 Idyllic Grange,ELD,de,1
 Impostor Syndrome,SPM,en,1
 Ingenious Infiltrator,MH1,en,1
@@ -116,13 +127,17 @@ Ingenious Prodigy,WOE,en,1
 Interdisciplinary Mascot,MOM,en,1
 Invasion of Dominaria // Serra Faithkeeper,MOM,de,1
 Inventors' Fair,KLD,en,1
+"Irma, Part-Time Mutant",TMC,en,1
 Isolated Chapel,DRC,de,1
+"Joshua, Phoenix's Dominant // Phoenix, Warden of Fire",FIN,en,1
 Jwar Isle Refuge,ZNC,de,1
 Kabira Takedown // Kabira Plateau,ZNR,de,1
 "Kaito, Bane of Nightmares",DSK,de,1
+"Karai, Future of the Foot",TMT,en,1
 Kazandu Refuge,C19,en,1
 Kor Haven,NEM,de,1
 Kozilek's Unsealing,MH3,en,1
+Leader's Talent,TMT,en,1
 Leyline of Hope,DSK,en,1
 Lonely Arroyo,OTJ,de,4
 Luminarch Ascension,A25,en,1
@@ -133,28 +148,37 @@ Make a Stand,CMR,en,1
 March from the Tomb,BFZ,de,1
 Mariposa Military Base,PIP,en,1
 Martial Coup,BLC,en,1
+"Matzalantli, the Great Door // The Core",LCI,de,1
 Metropolis Reformer,MAT,en,1
 "Minas Morgul, Dark Fortress",LTC,en,1
 Minas Tirith,LTR,en,1
 Mist-Syndicate Naga,MH1,en,1
 Moon-Circuit Hacker,NEO,en,1
 Mothdust Changeling,MMA,en,1
+Murderous Cut,KTK,en,1
 Mutavault,EOS,en,1
 "Nahiri, the Lithomancer",CMM,en,1
+Nanogene Conversion,WHO,de,1
 "Nashi, Moon Sage's Scion",OTC,en,1
 Natural Order,MB2,en,1
 Needleverge Pathway // Pillarverge Pathway,ZNR,de,1
 Neurok Stealthsuit,5DN,de,1
+Ninja Teen,TMT,de,1
 Ninja's Blades,FIN,en,1
 Oketra's Monument,DMC,en,1
 Ornithopter of Paradise,J25,de,1
+"Ozolith, the Shattered Spire",MOM,en,1
 Patron of the Valiant,CMR,en,1
 Pearl Medallion,MH3,en,1
 Pemmin's Aura,SCG,en,1
+"Plargg, Dean of Chaos // Augusta, Dean of Order",STX,en,1
 Plateau,2ED,en,1
 Ponder,WHO,en,1
 Prava of the Steel Legion,ONC,en,1
 Pristine Talisman,C21,en,1
+Professional Face-Breaker,M3C,en,1
+"Raph & Leo, Sibling Rivals",TMT,en,1
+"Raphael, the Nightwatcher",TMT,en,1
 Ravnica at War,WAR,de,1
 Razorgrass Ambush // Razorgrass Field,MH3,en,1
 Reflections of Littjara,TDC,en,1
@@ -164,13 +188,17 @@ Resplendent Angel,LCI,en,1
 Resplendent Marshal,KHM,de,1
 Righteous Valkyrie,KHM,en,1
 "Rin and Seri, Inseparable",M21,de,1
+Ring of Evos Isle,M13,de,1
+Ripples of Undeath,MH3,en,1
 Rivendell,LTR,en,1
 Riverglide Pathway // Lavaglide Pathway,ZNR,en,1
 Riveteers Ascendancy,SNC,en,1
 Roaming Throne,LCI,en,1
 Rogue Class,AFR,en,1
+"Rosa, Resolute White Mage",FIN,de,1
 Sacred Foundry,EOE,de,1
 Sakashima's Student,PCA,en,1
+"Sally Pride, Lioness Leader",TMT,en,1
 Sanctify,VOW,de,1
 "Satoru, the Infiltrator",OTJ,en,1
 Savannah,3ED,en,1
@@ -189,12 +217,14 @@ Serra the Benevolent,MH1,en,1
 Serra's Guardian,M20,en,1
 Shadow of Mortality,SNC,de,1
 Shadowy Backstreet,MKM,de,1
+"Shark Shredder, Killer Clone",TMT,en,1
 Shattered Angel,MOC,en,1
 Shroudstomper,DSK,en,1
 Sigarda's Splendor,MID,en,1
 Sigarda's Vanguard,MIC,en,1
 Silence,M14,en,1
 Silent-Blade Oni,OTC,de,1
+Silverskin Armor,MBS,en,1
 Siren Stormtamer,LCC,en,1
 Skullsnatcher,PCA,de,1
 Skycloud Expanse,NCC,de,1
@@ -213,27 +243,38 @@ Sunderflock,ECL,en,1
 Sundown Pass,INR,de,1
 "Syr Konrad, the Grim",DSC,de,1
 Tainted Field,CMM,de,1
+Tale of Katara and Toph,TLE,en,1
+Talon Gates of Madara,M3C,en,1
 Temple of Silence,DRC,de,1
 Temporal Mastery,INR,en,1
 Temporal Trespass,ACR,en,1
+Terra Eternal,WWK,en,1
+Teval's Judgment,TDC,en,1
 The Book of Exalted Deeds,AFR,en,1
+The Cloning of Shredder,TMT,en,1
 The Ozolith,IKO,en,1
 The Soul Stone,SPM,de,1
+The Stasis Coffin,BRO,en,1
 The Wind Crystal,FIN,de,1
 Thousand-Faced Shadow,NEO,en,1
 Three Tree City,BLB,de,1
 Throat Slitter,PCA,en,1
+"Toph, Earthbending Master",TLE,en,1
 Tormented Soul,PCA,en,1
 Treasure,TSOS,en,2
 Treasure Cruise,TDC,de,1
 Triton Shorestalker,OTC,en,1
 Tundra,3ED,en,1
+Turtle Lair,PMEI,en,1
 Twinning Staff,NCC,de,1
+"Uthros, Titanic Godcore",EOE,de,1
 Valkyrie Harbinger,KHM,de,1
 Vanquisher's Banner,LCC,de,1
 Verdant Catacombs,SLU,en,1
 Vesuva,M3C,en,1
 Veteran Armorsmith,DDO,de,1
+Walking Ballista,FIC,en,1
+Weather Maker,TMT,en,1
 Wedding Ring,WHO,en,1
 Windswept Heath,KTK,de,1
 Wingcrafter,MM3,en,1
