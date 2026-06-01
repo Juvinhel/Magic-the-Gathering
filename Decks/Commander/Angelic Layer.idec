@@ -25,6 +25,7 @@ main:
     - 1 Gisela, the Broken Blade
     - 1 Haliya, Guided by Light
     - 1 Herald of War
+    - 1 Legion Angel
     - 1 Lightstall Inquisitor
     - 1 Lyra Dawnbringer
     - 1 Mirror Entity
@@ -40,7 +41,6 @@ main:
   Planeswalker & Battles:
     - 1 Invasion of Dominaria // Serra Faithkeeper
   Artifacts & Enchantments:
-    - 1 Aetheric Amplifier
     - 1 Angelic Accord
     - 1 Banner of Kinship
     - 1 Birthing Boughs
@@ -65,6 +65,7 @@ main:
     - 1 The Book of Exalted Deeds
     - 1 The One Ring
     - 1 The Wind Crystal
+    - 1 White Lotus Tile
   Spells:
     - 1 Clever Concealment
     - 1 Contraband Livestock
@@ -74,7 +75,6 @@ main:
     - 1 Galadriel's Dismissal
     - 1 Path to Exile
     - 1 Requisition Raid
-    - 1 Sanctify
     - 1 Starnheim Unleashed
     - 1 Swords to Plowshares
     - 1 Teferi's Protection
@@ -110,6 +110,8 @@ main:
     - 5 Plains
     - 1 Sejiri Shelter // Sejiri Glacier
     - 1 Windbrisk Heights
+side:
+  - 1 Legion Angel
 maybe:
   - 1 Elspeth Resplendent
   Creatures:
@@ -161,6 +163,7 @@ maybe:
     - 1 Victory's Herald
     - 1 Wojek Investigator
   Artifacts & Enchantments:
+    - 1 Aetheric Amplifier
     - 1 Always Watching
     - 1 Angelic Renewal
     - 1 Caretaker's Talent
@@ -230,6 +233,7 @@ maybe:
     - 1 Razorgrass Ambush // Razorgrass Field
     - 1 Rebuff the Wicked
     - 1 Restoration Magic
+    - 1 Sanctify
     - 1 Silence
     - 1 Split Up
     - 1 Stroke of Midnight
