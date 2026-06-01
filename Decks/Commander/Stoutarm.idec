@@ -51,6 +51,7 @@ main:
     - 1 Excalibur II
     - 1 Leyline of Hope
     - 1 Lightning Greaves
+    - 1 Mithril Coat
     - 1 Pristine Talisman
     - 1 Resurrection Orb
     - 1 Sonic Screwdriver
@@ -103,18 +104,32 @@ main:
     - 1 Sunhome, Fortress of the Legion
     - 1 Wind-Scarred Crag
     - 1 Mines of Moria
-    - 4 Mountain
+    - 3 Mountain
     - 1 Shinka, the Bloodsoaked Keep
     - 1 Shivan Gorge
 maybe:
   Creatures:
+    - 1 Attended Healer
+    - 1 Cat Collector
     - 1 Kirol, Attentive First-Year
+    - 1 Leonardo, Cutting Edge
     - 1 Lightning, Army of One
+    - 1 Patron of the Kitsune
     - 1 Suture Priest
+    - 1 Twinblade Paladin
   Artifacts & Enchantments:
+    - 1 Angel's Feather
     - 1 Chalice of Life // Chalice of Death
+    - 1 Cradle of Vitality
+    - 1 Dragon's Claw
+    - 1 Field-Tested Frying Pan
     - 1 Legion's Landing // Adanto, the First Fort
+    - 1 Light of Promise
     - 1 Paradise Plume
+    - 1 Searing Meditation
     - 1 Sol Ring
+    - 1 Spirit Loop
+    - 1 Sun Droplet
+    - 1 Whispersilk Cloak
   Spells:
   Lands:
