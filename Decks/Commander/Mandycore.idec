@@ -79,13 +79,13 @@ main:
   Lands:
     - 1 Abstergo Entertainment
     - 1 Amonkhet Raceway
+    - 1 Ancient Tomb
     - 1 Avishkar Raceway
     - 1 Bonders' Enclave
     - 1 Command Tower
     - 1 Darksteel Citadel
     - 1 Flooded Strand
     - 1 Inventors' Fair
-    - 1 Mishra's Workshop
     - 1 Muraganda Raceway
     - 1 Plaza of Heroes
     - 1 Rogue's Passage
@@ -115,15 +115,19 @@ maybe:
     - 1 Buzz Bots
     - 1 Clockwork Droid
     - 1 Diversion Unit
+    - 1 Dutiful Replicator
     - 1 Geology Enthusiast
     - 1 Giggling Skitterspike
     - 1 Hope of Ghirapur
     - 1 K-9, Mark I
     - 1 Malcator's Watcher
+    - 1 Mechan Assembler
     - 1 Monoskelion
     - 1 Myr Retriever
     - 1 Perilous Myr
+    - 1 Platoon Dispenser
     - 1 Riptide Gearhulk
+    - 1 Sharding Sphinx
     - 1 Spark Double
     - 1 Stridehangar Automaton
     - 1 Swooping Lookout
@@ -132,11 +136,22 @@ maybe:
     - 1 Walking Sarcophagus
   Artifacts & Enchantments:
     - 1 Aether Syphon
+    - 1 Agility Bobblehead
+    - 1 Charisma Bobblehead
     - 1 Copy Artifact
+    - 1 Endurance Bobblehead
+    - 1 Horn of Valhalla // Ysgard's Call
+    - 1 Intelligence Bobblehead
+    - 1 Luck Bobblehead
     - 1 Mirrormade
+    - 1 Perception Bobblehead
     - 1 Repair and Recharge
+    - 1 Retrofitter Foundry
     - 1 Slagstone Refinery
+    - 1 Strength Bobblehead
+    - 1 Transmogrifying Wand
     - 1 Unwinding Clock
+    - 1 Wedding Ring
   Sorceries & Instants:
     - 1 Counterspell
     - 1 Mirage Mockery
