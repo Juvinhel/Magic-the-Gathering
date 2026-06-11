@@ -27,11 +27,11 @@ main:
     - 1 Kappa Cannoneer
     - 1 Master of Etherium
     - 1 Nesting Bot
-    - 1 Network Disruptor
     - 1 Oaken Siren
     - 1 Phyrexian Metamorph
     - 1 Research Thief
     - 1 Silver Raven
+    - 1 Siren Stormtamer
     - 1 Slick Imitator
     - 1 Spellskite
     - 1 Steel Overseer
@@ -113,6 +113,7 @@ main:
 maybe:
   Creatures:
     - 1 Buzz Bots
+    - 1 City Pigeon
     - 1 Clockwork Droid
     - 1 Diversion Unit
     - 1 Dutiful Replicator
@@ -122,15 +123,19 @@ maybe:
     - 1 K-9, Mark I
     - 1 Malcator's Watcher
     - 1 Mechan Assembler
+    - 1 Merfolk Windrobber
     - 1 Monoskelion
     - 1 Myr Retriever
+    - 1 Network Disruptor
     - 1 Perilous Myr
     - 1 Platoon Dispenser
     - 1 Riptide Gearhulk
     - 1 Sharding Sphinx
     - 1 Spark Double
+    - 1 Spectral Sailor
     - 1 Stridehangar Automaton
     - 1 Swooping Lookout
+    - 1 The Reality Chip
     - 1 Thran Spider
     - 1 Voyager Quickwelder
     - 1 Walking Sarcophagus
