@@ -1,30 +1,42 @@
 Name,Set code,Language,Quantity
 Abandoned Air Temple,TLA,en,4
 Absolver Thrull,GPT,en,1
+Abstergo Entertainment,ACR,en,1
+Academy Ruins,2XM,en,1
 Access Tunnel,TDC,en,1
 Accursed Marauder,MH3,en,1
+Adaptive Omnitool,DRC,en,1
+Aetherflux Reservoir,KLD,en,1
 Aetheric Amplifier,DRC,en,2
+Alhammarret's Archive,C21,en,1
 All Will Be One,ONE,en,1
-Ancient Tomb,UMA,en,1
+Amonkhet Raceway,DFT,en,1
+Ancient Tomb,UMA,en,2
 Angelfire Ignition,INR,en,2
+Angelic Sell-Sword,OTC,en,1
 "Animar, Soul of Elements",2X2,en,1
 Animate Dead,EMA,en,1
 Annie Joins Up,OTJ,en,2
 Arcbound Mouser,MH2,en,2
 Arcbound Ravager,MMA,en,1
+Archway of Innovation,MH3,en,1
 Arid Mesa,MH2,en,4
+Artificer Class,CLB,en,1
 "Arwen, Weaver of Hope",LTC,en,1
 "Ashaya, Soul of the Wild",DSC,en,1
 "Ashling, Rekindled // Ashling, Rimebound",ECL,en,1
 Ashnod's Altar,CMM,en,2
 Aura of Dominion,CHK,en,1
+"Avacyn, Angel of Hope",CMM,en,1
 "Avatar Kyoshi, Earthbender",TLE,en,2
 "Ayara, First of Locthwain",ELD,en,1
 Ba Sing Se,TLA,en,1
 Badlands,3ED,en,1
+Banner of Kinship,FDN,en,1
 Basking Broodscale,MH3,en,1
 "Big Apple, 3 a.m.",TMC,en,1
 Big Mother Mouser,TMC,en,3
+Birthing Boughs,MH1,en,1
 Blightstep Pathway // Searstep Pathway,KHM,en,1
 Blinkmoth Nexus,2XM,en,1
 Blitzball Stadium,FIC,en,1
@@ -54,6 +66,7 @@ Cavalier of Gales,M20,en,1
 Cavern of Souls,LCI,en,2
 Cephalid Facetaker,NCC,en,1
 Champion of the Path,ECL,en,2
+Chivalric Alliance,MOC,en,1
 Chromatic Lantern,M3C,en,1
 Clever Concealment,FIC,en,1
 Clock of Omens,M13,en,2
@@ -85,12 +98,15 @@ Dreamtide Whale,MH3,en,1
 Dryad of the Ilysian Grove,M3C,en,1
 Earthshape,TLE,en,2
 Eclipsed Realms,ECL,en,1
+"Eiganjo, Seat of the Empire",NEO,en,1
 Enlightened Tutor,DMR,en,1
 Esper Sentinel,H2R,en,1
+Ethersworn Sphinx,MH2,en,1
 "Evendo, Waking Haven",EOE,en,1
 Everything Comes to Dust,WHO,en,1
 Evolution Sage,LCC,en,1
 Evolutionary Leap,NCC,en,1
+Excalibur II,FIN,en,1
 Expansion Algorithm,SOC,en,1
 Expedition Map,M3C,en,1
 Fabled Passage,EOC,en,1
@@ -101,17 +117,22 @@ Field of the Dead,M20,en,1
 Fierce Guardianship,CMM,en,3
 Fire Nation Salvagers,TLE,en,1
 Flamekin Harbinger,HOP,en,1
+Flawless Maneuver,CMM,en,1
 Flooded Strand,MH3,en,4
 Force of Will,DMR,en,1
 Forgotten Ancient,MOC,en,1
 Fountainport,BLB,en,1
 Fractal Harness,C21,en,1
 Freed from the Real,A25,en,1
+Fugitive Droid,TMT,en,1
 Gaea's Cradle,USG,en,1
+Galadriel's Dismissal,LTC,en,1
 Gathering Stone,ECL,en,1
 Gavony Township,MOC,en,1
 Giant's Amulet,KHM,en,2
+Gingerbrute,WOE,en,1
 Glasspool Mimic // Glasspool Shore,ZNR,en,1
+Gold-Forged Thopteryx,MAT,en,1
 Goldvein Hydra,OTJ,en,1
 Grave Researcher // Reanimate,SOS,en,1
 Great Divide Guide,TLA,en,1
@@ -125,8 +146,10 @@ Hengegate Pathway // Mistgate Pathway,PKHM,en,1
 Herald's Horn,M3C,en,1
 Herd Heirloom,TDM,en,1
 Hidden Grotto,BLB,en,1
+Hidden Hideout,TMC,en,1
 Hour of Revelation,ZNC,en,2
 Idol of False Gods,MH3,en,1
+Illustrious Wanderglyph,LCC,en,1
 Inherited Envelope,LTR,en,1
 Inkmoth Nexus,MBS,en,1
 Interdisciplinary Mascot,MOM,en,1
@@ -144,14 +167,17 @@ Kozilek's Unsealing,MH3,en,1
 Lair of the Hydra,M3C,en,1
 Leader's Talent,TMT,en,1
 Leech Gauntlet,NEO,en,1
+Legion Angel,ZNR,en,4
 Levitating Statue,BRO,en,1
 Lightning Greaves,DRC,en,2
 Lightning Greaves,DSC,en,1
 Lightning Greaves,TDC,en,2
 Lion Sash,NEO,en,1
 "Lumra, Bellow of the Woods",BLB,en,2
+Machinist's Arsenal,FIN,en,1
 Mariposa Military Base,PIP,en,1
 Marsh Flats,MH2,en,2
+Maskwood Nexus,DRC,en,1
 Master of the Wild Hunt,A25,en,1
 "Matzalantli, the Great Door // The Core",LCI,en,1
 Metallic Mimic,INR,en,1
@@ -161,8 +187,11 @@ Metallic Mimic,INR,en,1
 "Minas Morgul, Dark Fortress",LTC,en,1
 Mirage Mirror,M3C,en,1
 Mirrex,ONE,en,1
+Mirror Entity,OTC,en,1
 Misdirection,DDT,en,1
 Misty Rainforest,MH2,en,1
+Mithril Coat,LTR,en,1
+Moonsilver Spear,AFC,en,1
 "Moraug, Fury of Akoum",EOC,en,1
 Morphic Pool,CLB,en,1
 Mossborn Hydra,FDN,en,1
@@ -171,16 +200,21 @@ Muraganda Raceway,DFT,en,1
 Murderous Cut,KTK,en,1
 Mutavault,TECL,en,1
 Mycosynth Lattice,BBD,en,2
+Mystic Forge,M3C,en,1
 Mystic Gate,M3C,en,1
 Mystical Tutor,DMR,en,1
 Nanogene Conversion,WHO,en,1
 Narset Transcendent,DTK,en,1
 Needleverge Pathway // Pillarverge Pathway,ZNR,en,2
+Nesting Bot,DFT,en,1
 Nesting Grounds,MH3,en,2
+Nettlecyst,MKC,en,1
 Ninja Teen,TMT,en,1
 Nulldrifter,MH3,en,2
 "Nykthos, Shrine to Nyx",THS,en,1
+Oaken Siren,LCI,en,1
 "Obuun, Mul Daya Ancestor",ZNC,en,1
+Ondu Inversion // Ondu Skyruins,ZNR,en,1
 Organic Extinction,EOC,en,1
 Ornithopter of Paradise,DRC,en,2
 "Otawara, Soaring City",NEO,en,2
@@ -205,6 +239,7 @@ Professional Face-Breaker,M3C,en,1
 Prologue to Phyresis,ONE,en,1
 Propagator Drone,MH3,en,1
 Psychic Paper,WHO,en,1
+Racers' Scoreboard,DFT,en,1
 Raffine's Tower,SNC,en,1
 Ral Zarek,RVR,en,1
 "Raph & Leo, Sibling Rivals",TMT,en,1
@@ -215,8 +250,10 @@ Reflections of Littjara,TDC,en,1
 Relic of Sauron,LTC,en,2
 "Renata, Called to the Hunt",THB,en,1
 Renewed Solidarity,DRC,en,1
+Research Thief,NEC,en,1
 Restless Bivouac,WOE,en,2
 Restless Prairie,LCI,en,1
+Resurrection Orb,40K,en,1
 Rhystic Study,PCY,en,1
 Ring of Evos Isle,M13,en,1
 Ripples of Undeath,MH3,en,1
@@ -250,7 +287,9 @@ Shifting Woodland,MH3,en,1
 "Shizo, Death's Storehouse",DMC,en,2
 Shroudstomper,DSK,en,1
 Silkguard,NEC,en,1
+Silver Raven,AFR,en,1
 Silverskin Armor,MBS,en,1
+Simulacrum Synthesizer,BIG,en,1
 Sink into Stupor // Soporific Springs,MH3,en,1
 Sister Hospitaller,40K,en,1
 Sneak Attack,DMR,en,1
@@ -264,6 +303,7 @@ Spark Double,RVR,en,2
 Spectator Seating,CMM,en,1
 Spellskite,CLB,en,2
 Springheart Nantuko,MH3,en,1
+Staff of Compleation,TDC,en,1
 Steam Vents,RVR,en,2
 Stomping Ground,EOE,en,2
 Strixhaven Stadium,STX,en,3
@@ -276,11 +316,13 @@ Swords to Plowshares,EOC,en,1
 Swords to Plowshares,SLD,en,2
 Sylvan Safekeeper,MH3,en,1
 Synth Infiltrator,PIP,en,1
+Tablet of the Guilds,RTR,en,1
 Taiga,3ED,en,2
 "Takenuma, Abandoned Mire",NEO,en,2
 Tale of Katara and Toph,TLE,en,1
 Talon Gates of Madara,M3C,en,5
 "Teferi, Who Slows the Sunset",MID,en,1
+Teferi's Protection,2X2,en,1
 Temple Garden,ECL,en,2
 Terra Eternal,WWK,en,2
 Terrasymbiosis,EOE,en,1
@@ -288,6 +330,7 @@ Teval's Judgment,TDC,en,1
 Tezzeret the Seeker,MM2,en,1
 "Tezzeret, Artifice Master",M19,en,1
 The Aetherspark,DFT,en,2
+The Arkenstone // Seek the Heart,HOB,en,1
 The Black Gate,LTC,en,1
 "The Boulder, Ready to Rumble",TLA,en,1
 The Cloning of Shredder,TMT,en,1
@@ -301,6 +344,7 @@ The Soul Stone,SPM,en,3
 The Stasis Coffin,BRO,en,2
 The World Tree,KHM,en,1
 Thespian's Stage,M3C,en,2
+Thousand Moons Smithy // Barracks of the Thousand,LCI,en,1
 Three Tree City,BLB,en,2
 Tireless Provisioner,BLC,en,1
 "Tokka & Rahzar, Unsupervised",TMC,en,1
@@ -329,15 +373,19 @@ Vesuva,M3C,en,1
 Vesuva,TSR,en,9
 "Vito, Thorn of the Dusk Rose",M21,en,1
 Vivid Meadow,NCC,en,1
+"Vnwxt, Verbose Host",DFT,en,1
 Volcanic Island,3ED,en,2
 Walking Ballista,2XM,en,1
 War Room,MKC,en,2
 Watery Grave,EOE,en,1
 Weather Maker,TMT,en,4
+White Lotus Tile,TLA,en,1
+Windbrisk Heights,TDC,en,1
 Windswept Heath,MH3,en,2
 Witch Enchanter // Witch-Blessed Meadow,MH3,en,1
 Witch's Clinic,DSC,en,1
 Wooded Foothills,MH3,en,2
+Worldwalker Helm,BIG,en,1
 Xander's Lounge,SNC,en,1
 Yavimaya Bloomsage // Channel,SOC,en,1
 "Yavimaya, Cradle of Growth",M3C,en,1
