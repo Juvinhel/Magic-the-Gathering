@@ -2,6 +2,7 @@ Name,Set code,Language,Quantity
 Abandoned Air Temple,TLA,en,4
 Absolver Thrull,GPT,en,1
 Abstergo Entertainment,ACR,en,1
+"Abundant Countryside ",ECC,en,1
 Academy Ruins,2XM,en,1
 Access Tunnel,TDC,en,1
 Accursed Marauder,MH3,en,1
@@ -12,7 +13,7 @@ Aetheric Amplifier,DRC,en,2
 Alhammarret's Archive,C21,en,1
 All Will Be One,ONE,en,1
 Amonkhet Raceway,DFT,en,2
-Ancient Tomb,UMA,en,2
+Ancient Tomb,UMA,en,3
 Angelfire Ignition,INR,en,2
 Angelic Accord,IMA,en,1
 Angelic Sell-Sword,OTC,en,1
@@ -61,8 +62,10 @@ Breeding Pool,EOE,en,1
 Brightcap Badger // Fungus Frolic,BLC,en,1
 Brightclimb Pathway // Grimclimb Pathway,ZNR,en,1
 Brighthearth Banneret,MOR,en,1
+"Brisela, Voice of Nightmares ",INR,en,1
 "Bristly Bill, Spine Sower",OTJ,en,2
 Brotherhood Regalia,ACR,en,1
+"Bruna, the Fading Light",INR,en,1
 "Bumi, Eclectic Earthbender",TLE,en,2
 "Bumi, Unleashed",TLA,en,1
 Buster Sword,FIN,en,1
@@ -80,7 +83,7 @@ Chromatic Lantern,M3C,en,1
 Cleric Class,AFR,en,1
 Clever Concealment,FIC,en,1
 Clock of Omens,M13,en,2
-Coin of Mastery,TMC,en,2
+Coin of Mastery,TMC,en,3
 Conduit Pylons,OTJ,en,1
 Conqueror's Flail,2X2,en,1
 Constant Mists,STH,en,1
@@ -146,6 +149,7 @@ Generous Gift,MSC,en,1
 Giant's Amulet,KHM,en,2
 Gingerbrute,WOE,en,1
 Glasspool Mimic // Glasspool Shore,ZNR,en,1
+Glorious Enforcer,MH2,en,1
 Gold-Forged Thopteryx,MAT,en,1
 Goldvein Hydra,OTJ,en,1
 Grave Researcher // Reanimate,SOS,en,1
@@ -185,7 +189,7 @@ Kalonian Hydra,BLC,en,1
 Kappa Cannoneer,EOC,en,1
 "Karai, Future of the Foot",TMT,en,1
 Karmic Guide,VOC,en,1
-Karn's Bastion,EOC,en,2
+Karn's Bastion,EOC,en,3
 Kindred Discovery,LCC,en,1
 Kozilek's Unsealing,MH3,en,1
 Lair of the Hydra,M3C,en,1
@@ -223,7 +227,7 @@ Moonsilver Spear,AFC,en,1
 Morphic Pool,CLB,en,1
 Mossborn Hydra,FDN,en,1
 Mox Amber,DOM,en,2
-Muraganda Raceway,DFT,en,1
+Muraganda Raceway,DFT,en,2
 Murderous Cut,KTK,en,1
 Mutavault,TECL,en,1
 Mycosynth Lattice,BBD,en,2
@@ -237,13 +241,14 @@ Nesting Bot,DFT,en,1
 Nesting Grounds,MH3,en,2
 Nettlecyst,MKC,en,1
 Ninja Teen,TMT,en,1
+Norn's Choirmaster,ONC,en,1
 Nulldrifter,MH3,en,2
 "Nykthos, Shrine to Nyx",THS,en,1
 Oaken Siren,LCI,en,1
 "Obuun, Mul Daya Ancestor",ZNC,en,1
 Ocelot Pride,MH3,en,1
 Ondu Inversion // Ondu Skyruins,ZNR,en,1
-Organic Extinction,EOC,en,1
+Organic Extinction,EOC,en,2
 Ornithopter of Paradise,DRC,en,2
 "Otawara, Soaring City",NEO,en,2
 Ouroboroid,EOE,en,1
@@ -296,7 +301,7 @@ Riverglide Pathway // Lavaglide Pathway,ZNR,en,2
 Riveteers Ascendancy,SNC,en,1
 Roaming Throne,LCI,en,5
 Rockalanche,TLA,en,1
-Rogue's Passage,FIC,en,1
+Rogue's Passage,FIC,en,2
 "Rosa, Resolute White Mage",FIN,en,1
 Rottenmouth Viper,BLB,en,1
 Rumbleweed,OTC,en,1
@@ -332,7 +337,7 @@ Sister Hospitaller,40K,en,1
 Slayers' Stronghold,MKC,en,1
 Sneak Attack,DMR,en,1
 Solitude,H2R,en,1
-Sonic Screwdriver,WHO,en,2
+Sonic Screwdriver,WHO,en,4
 "Sothera, the Supervoid",EOE,en,1
 Soul Foundry,C19,en,2
 Soul's Attendant,ROE,en,1
@@ -351,7 +356,7 @@ Summon: Knights of Round,FIN,en,1
 Sunderflock,ECL,en,1
 Sundial of the Infinite,M12,en,1
 "Susur Secundi, Void Altar",EOE,en,1
-Swiftfoot Boots,TDC,en,2
+Swiftfoot Boots,TDC,en,4
 Swords to Plowshares,EOC,en,1
 Swords to Plowshares,SLD,en,2
 Sylvan Safekeeper,MH3,en,1
@@ -386,7 +391,7 @@ The Soul Stone,SPM,en,3
 The Stasis Coffin,BRO,en,2
 The Wind Crystal,FIN,en,1
 The World Tree,KHM,en,1
-Thespian's Stage,M3C,en,2
+Thespian's Stage,M3C,en,3
 Thousand Moons Smithy // Barracks of the Thousand,LCI,en,1
 Three Tree City,BLB,en,2
 Tireless Provisioner,BLC,en,1
@@ -418,12 +423,13 @@ Vault of the Archangel,TDC,en,1
 Verdant Catacombs,MH2,en,4
 Vesuva,M3C,en,1
 Vesuva,TSR,en,9
+Victory's Herald,CM2,en,1
 "Vito, Thorn of the Dusk Rose",M21,en,1
 Vivid Meadow,NCC,en,1
 "Vnwxt, Verbose Host",DFT,en,1
 Volcanic Island,3ED,en,2
 Walking Ballista,2XM,en,1
-War Room,MKC,en,3
+War Room,MKC,en,4
 Watery Grave,EOE,en,1
 Wear // Tear,MOC,en,1
 Weather Maker,TMT,en,4
