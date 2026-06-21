@@ -1,0 +1,113 @@
+name: Evertreasure
+description: Treasures and sacrifice. {B}{R}
+commanders: 
+  - Evereth, Viceroy of Plunder
+tags: 
+  - Treasure
+  - Sacrifice
+main:
+  - 1 Evereth, Viceroy of Plunder
+  Creatures:
+    - 1 Academy Manufactor
+    - 1 Bitterbloom Bearer
+    - 1 Blood Artist
+    - 1 Bloodghast
+    - 1 Cavern-Hoard Dragon
+    - 1 Decadent Dragon // Expensive Taste
+    - 1 Enduring Tenacity
+    - 1 Fain, the Broker
+    - 1 Generous Plunderer
+    - 1 Grave Researcher // Reanimate
+    - 1 Impulsive Pilferer
+    - 1 Jadar, Ghoulcaller of Nephalia
+    - 1 Juri, Master of the Revue
+    - 1 Knuckles the Echidna
+    - 1 Lagomos, Hand of Hatred
+    - 1 Loyal Apprentice
+    - 1 Mahadi, Emporium Master
+    - 1 Marionette Apprentice
+    - 1 Morbid Opportunist
+    - 1 Nine-Lives Familiar
+    - 1 Ophiomancer
+    - 1 Orcish Bowmasters
+    - 1 Pitiless Plunderer
+    - 1 Professional Face-Breaker
+    - 1 Rev, Tithe Extractor
+    - 1 Scuzzback Scrounger
+    - 1 Smaug the Magnificent
+    - 1 Timeline Culler
+    - 1 Vito, Thorn of the Dusk Rose
+    - 1 Xorn
+  Artifacts & Enchantments:
+    - 1 Animation Module
+    - 1 Beamtown Beatstick
+    - 1 Black Market Connections
+    - 1 Blade of the Bloodchief
+    - 1 Bolas's Citadel
+    - 1 Coin of Mastery
+    - 1 Curse of Opulence
+    - 1 Descent into Avernus
+    - 1 Diamond Pick-Axe
+    - 1 Goldvein Pick
+    - 1 Guild Artisan
+    - 1 Ichor Wellspring
+    - 1 Idol of Oblivion
+    - 1 Infantry Shield
+    - 1 Lightning Greaves
+    - 1 Nuka-Cola Vending Machine
+    - 1 Obsessive Pursuit
+    - 1 Oni-Cult Anvil
+    - 1 Prized Statue
+    - 1 Sonic Screwdriver
+    - 1 Sticky Fingers
+    - 1 Swiftfoot Boots
+    - 1 Tarrian's Soulcleaver
+    - 1 The Reaver Cleaver
+    - 1 The Soul Stone
+    - 1 Urabrask's Forge
+    - 1 Whispersilk Cloak
+  Sorceries & Instants:
+    - 1 Big Score
+    - 1 Bulk Up
+    - 1 Chandra's Ignition
+    - 1 Deadly Rollick
+    - 1 Deflecting Swat
+    - 1 Fake Your Own Death
+    - 1 Seize the Spoils
+  Lands:
+    - 1 Bloodstained Mire
+    - 1 Bonders' Enclave
+    - 1 Command Tower
+    - 1 Field of the Dead
+    - 1 Fountainport
+    - 1 High Market
+    - 1 Plaza of Heroes
+    - 1 Rogue's Passage
+    - 1 Talon Gates of Madara
+    - 1 Urborg, Tomb of Yawgmoth
+    - 1 War Room
+    - 1 Witch's Clinic
+    - 1 Barad-dûr
+    - 1 Castle Locthwain
+    - 1 Fell the Profane // Fell Mire
+    - 1 Malakir Rebirth // Malakir Mire
+    - 1 Phyrexian Tower
+    - 1 Shizo, Death's Storehouse
+    - 4 Swamp
+    - 1 Takenuma, Abandoned Mire
+    - 1 Vault of Whispers
+    - 1 Badlands
+    - 1 Blightstep Pathway // Searstep Pathway
+    - 1 Blood Crypt
+    - 1 Haunted Ridge
+    - 1 Luxury Suite
+    - 1 Great Furnace
+    - 1 Kher Keep
+    - 1 Mines of Moria
+    - 3 Mountain
+maybe:
+  Creatures:
+    - 1 Mayhem Devil
+  Artifacts & Enchantments:
+  Sorceries & Instants:
+  Lands:
