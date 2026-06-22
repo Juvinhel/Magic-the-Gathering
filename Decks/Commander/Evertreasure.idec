@@ -10,15 +10,15 @@ main:
   Creatures:
     - 1 Academy Manufactor
     - 1 Bitterbloom Bearer
-    - 1 Blood Artist
     - 1 Bloodghast
     - 1 Cavern-Hoard Dragon
     - 1 Decadent Dragon // Expensive Taste
     - 1 Enduring Tenacity
     - 1 Fain, the Broker
     - 1 Generous Plunderer
-    - 1 Grave Researcher // Reanimate
+    - 1 Grim Hireling
     - 1 Impulsive Pilferer
+    - 1 J. Jonah Jameson
     - 1 Jadar, Ghoulcaller of Nephalia
     - 1 Juri, Master of the Revue
     - 1 Knuckles the Echidna
@@ -35,14 +35,13 @@ main:
     - 1 Rev, Tithe Extractor
     - 1 Scuzzback Scrounger
     - 1 Smaug the Magnificent
-    - 1 Timeline Culler
+    - 1 Stark Industries Executive
     - 1 Vito, Thorn of the Dusk Rose
     - 1 Xorn
   Artifacts & Enchantments:
     - 1 Animation Module
     - 1 Beamtown Beatstick
     - 1 Black Market Connections
-    - 1 Blade of the Bloodchief
     - 1 Bolas's Citadel
     - 1 Coin of Mastery
     - 1 Curse of Opulence
@@ -54,6 +53,7 @@ main:
     - 1 Idol of Oblivion
     - 1 Infantry Shield
     - 1 Lightning Greaves
+    - 1 Mithril Coat
     - 1 Nuka-Cola Vending Machine
     - 1 Obsessive Pursuit
     - 1 Oni-Cult Anvil
@@ -64,7 +64,6 @@ main:
     - 1 Tarrian's Soulcleaver
     - 1 The Reaver Cleaver
     - 1 The Soul Stone
-    - 1 Urabrask's Forge
     - 1 Whispersilk Cloak
   Sorceries & Instants:
     - 1 Big Score
@@ -74,6 +73,7 @@ main:
     - 1 Deflecting Swat
     - 1 Fake Your Own Death
     - 1 Seize the Spoils
+    - 1 Seize the Spotlight
   Lands:
     - 1 Bloodstained Mire
     - 1 Bonders' Enclave
@@ -107,7 +107,62 @@ main:
     - 3 Mountain
 maybe:
   Creatures:
+    - 1 Baeloth Barrityl, Entertainer
+    - 1 Blood Artist
+    - 1 Bloodthirsty Conqueror
+    - 1 Bonehoard Dracosaur
+    - 1 Charming Scoundrel
+    - 1 Defiant Bloodlord
+    - 1 Forsworn Paladin
+    - 1 Goldlust Triad
+    - 1 Goldspan Dragon
+    - 1 Gonti, Night Minister
+    - 1 Grave Researcher // Reanimate
+    - 1 Greedy Freebooter
+    - 1 Impulsive Pilferer
+    - 1 Locke, Treasure Hunter
+    - 1 Luke Cage, Hero for Hire
     - 1 Mayhem Devil
+    - 1 Pain Distributor
+    - 1 Puppet Master, String Puller
+    - 1 Riveteers Requisitioner
+    - 1 Shambling Ghast
+    - 1 Timeline Culler
+    - 1 Treasure Dredger
   Artifacts & Enchantments:
+    - 1 Agent of the Shadow Thieves
+    - 1 Beamtown Beatstick
+    - 1 Blade of the Bloodchief
+    - 1 Collector's Vault
+    - 1 Daily Bugle Newspaper
+    - 1 Dreadhorde Invasion
+    - 1 Exquisite Blood
+    - 1 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+    - 1 Glass-Cast Heart
+    - 1 Noble's Purse
+    - 1 Oni-Cult Anvil
+    - 1 Prized Statue
+    - 1 Prying Blade
+    - 1 Sanguine Bond
+    - 1 Shiny Impetus
+    - 1 Spiteful Banditry
+    - 1 Sword of Wealth and Power
+    - 1 The Meathook Massacre
+    - 1 There and Back Again
+    - 1 Treasure Map // Treasure Cove
+    - 1 Urabrask's Forge
   Sorceries & Instants:
+    - 1 Blood Money
+    - 1 Crossover Collaboration
+    - 1 Deadly Derision
+    - 1 Furnace Reins
+    - 1 Grim Bounty
+    - 1 Hit the Mother Lode
+    - 1 Inspired Tinkering
+    - 1 Involuntary Employment
+    - 1 Megaton's Fate
+    - 1 Reckless Ransacking
+    - 1 Smashing Success
+    - 1 Strike It Rich
+    - 1 Sudden Breakthrough
   Lands:
