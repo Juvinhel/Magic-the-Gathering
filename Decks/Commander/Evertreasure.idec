@@ -9,12 +9,13 @@ main:
   - 1 Evereth, Viceroy of Plunder
   Creatures:
     - 1 Academy Manufactor
+    - 1 Anticausal Vestige
     - 1 Bitterbloom Bearer
     - 1 Bloodghast
+    - 1 Bloodthirsty Conqueror
     - 1 Cavern-Hoard Dragon
     - 1 Decadent Dragon // Expensive Taste
     - 1 Enduring Tenacity
-    - 1 Fain, the Broker
     - 1 Generous Plunderer
     - 1 Grim Hireling
     - 1 Impulsive Pilferer
@@ -24,13 +25,11 @@ main:
     - 1 Knuckles the Echidna
     - 1 Lagomos, Hand of Hatred
     - 1 Loyal Apprentice
-    - 1 Mahadi, Emporium Master
-    - 1 Marionette Apprentice
+    - 1 Luke Cage, Hero for Hire
     - 1 Morbid Opportunist
     - 1 Nine-Lives Familiar
     - 1 Ophiomancer
     - 1 Orcish Bowmasters
-    - 1 Pitiless Plunderer
     - 1 Professional Face-Breaker
     - 1 Rev, Tithe Extractor
     - 1 Scuzzback Scrounger
@@ -43,8 +42,8 @@ main:
     - 1 Beamtown Beatstick
     - 1 Black Market Connections
     - 1 Bolas's Citadel
+    - 1 Buster Sword
     - 1 Coin of Mastery
-    - 1 Curse of Opulence
     - 1 Descent into Avernus
     - 1 Diamond Pick-Axe
     - 1 Goldvein Pick
@@ -58,6 +57,7 @@ main:
     - 1 Obsessive Pursuit
     - 1 Oni-Cult Anvil
     - 1 Prized Statue
+    - 1 Sanguine Bond
     - 1 Sonic Screwdriver
     - 1 Sticky Fingers
     - 1 Swiftfoot Boots
@@ -109,10 +109,10 @@ maybe:
   Creatures:
     - 1 Baeloth Barrityl, Entertainer
     - 1 Blood Artist
-    - 1 Bloodthirsty Conqueror
     - 1 Bonehoard Dracosaur
     - 1 Charming Scoundrel
     - 1 Defiant Bloodlord
+    - 1 Fain, the Broker
     - 1 Forsworn Paladin
     - 1 Goldlust Triad
     - 1 Goldspan Dragon
@@ -121,9 +121,11 @@ maybe:
     - 1 Greedy Freebooter
     - 1 Impulsive Pilferer
     - 1 Locke, Treasure Hunter
-    - 1 Luke Cage, Hero for Hire
+    - 1 Mahadi, Emporium Master
+    - 1 Marionette Apprentice
     - 1 Mayhem Devil
     - 1 Pain Distributor
+    - 1 Pitiless Plunderer
     - 1 Puppet Master, String Puller
     - 1 Riveteers Requisitioner
     - 1 Shambling Ghast
@@ -134,6 +136,7 @@ maybe:
     - 1 Beamtown Beatstick
     - 1 Blade of the Bloodchief
     - 1 Collector's Vault
+    - 1 Curse of Opulence
     - 1 Daily Bugle Newspaper
     - 1 Dreadhorde Invasion
     - 1 Exquisite Blood
@@ -143,7 +146,6 @@ maybe:
     - 1 Oni-Cult Anvil
     - 1 Prized Statue
     - 1 Prying Blade
-    - 1 Sanguine Bond
     - 1 Shiny Impetus
     - 1 Spiteful Banditry
     - 1 Sword of Wealth and Power
