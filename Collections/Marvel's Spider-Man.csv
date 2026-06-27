@@ -8,7 +8,7 @@ Aunt May,SPM,de,2
 Bagel and Schmear,SPM,de,5
 "Beetle, Legacy Criminal",SPM,de,5
 "Black Cat, Cunning Thief",SPM,de,1
-"Carnage, Crimson Chaos",SPM,de,1
+"Carnage, Crimson Chaos",OM1,de,1
 "Chameleon, Master of Disguise",SPM,de,2
 City Pigeon,SPM,de,4
 Common Crook,SPM,de,4
@@ -95,8 +95,7 @@ Scorpion's Sting,SPM,de,4
 Scout the City,SPM,de,4
 Secret Identity,SPM,de,1
 Selfless Police Captain,SPM,de,4
-Shock,MAR,de,1
-Shock,SPM,de,3
+Shock,SPM,de,4
 "Shocker, Unshakable",SPM,de,2
 "Shriek, Treblemaker",SPM,de,3
 "Silk, Web Weaver",SPM,de,2
@@ -122,7 +121,7 @@ Spider-Man Noir,SPM,de,2
 Spider-Mobile,SPM,de,2
 "Spider-Rex, Daring Dino",SPM,de,3
 Spider-Sense,SPM,de,1
-"Spider-Slayer, Hatred Honed",OM1,de,1
+"Spider-Slayer, Hatred Honed",SPM,de,1
 Spider-Suit,SPM,de,2
 Spider-UK,SPM,de,2
 "Spider-Woman, Stunning Savior",SPM,de,1

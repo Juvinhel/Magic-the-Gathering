@@ -230,15 +230,15 @@ Scour for Scrap,EOE,de,2
 Scout for Survivors,EOE,de,1
 Scrounge for Eternity,EOE,de,1
 Seam Rip,EOE,de,2
-Seat of the Synod,EOC,de,1
+Seat of the Synod,C18,de,1
 Secluded Starforge,EOE,de,1
-Secluded Steppe,EOC,de,1
+Secluded Steppe,MKC,de,1
 Seedship Agrarian,EOE,de,2
 Seedship Impact,EOE,de,3
 Selfcraft Mechan,EOE,de,2
 Shattered Wings,EOE,de,3
 Shivan Reef,TDC,de,1
-Silverbluff Bridge,EOC,de,1
+Silverbluff Bridge,MH2,de,1
 Sinister Cryologist,EOE,de,4
 Skycloud Expanse,TDC,de,1
 Skystinger,EOE,de,3
@@ -249,7 +249,7 @@ Solar Array,EOC,de,1
 Soul-Guide Lantern,FDN,de,1
 Space-Time Anomaly,EOE,de,3
 Specimen Freighter,EOE,de,1
-Spire of Industry,EOC,de,1
+Spire of Industry,DRC,de,1
 Squire's Lightblade,EOE,de,4
 Starbreach Whale,EOE,de,2
 Starfield Vocalist,EOE,de,1
@@ -258,7 +258,7 @@ Starport Security,EOE,de,3
 Station Monitor,EOE,de,1
 Steel Overseer,C21,de,1
 Steelswarm Operator,EOE,de,2
-Sulfur Falls,YEOE,de,1
+Sulfur Falls,TDC,de,1
 Sunstar Chaplain,EOE,de,1
 Sunstar Expansionist,EOE,de,3
 Sunstar Lightsmith,EOE,de,1
@@ -276,8 +276,8 @@ Systems Override,EOE,de,1
 Tapestry Warden,EOE,de,1
 "Tekuthal, Inquiry Dominus",ONE,de,1
 Temple of Enlightenment,TDC,de,1
-Temple of Epiphany,TDC,de,1
-Temple of Triumph,TDC,de,1
+Temple of Epiphany,EOC,de,1
+Temple of Triumph,EOC,de,1
 Temporal Intervention,EOE,de,3
 Terminal Velocity,EOE,de,1
 Terrapact Intimidator,EOE,de,1
