@@ -13,7 +13,6 @@ main:
     - 1 Avenger of Zendikar
     - 1 Bramble Familiar // Fetch Quest
     - 1 Brighthearth Banneret
-    - 1 Cavalier of Thorns
     - 1 Champion of the Path
     - 1 Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight
     - 1 Endurance
@@ -28,7 +27,6 @@ main:
     - 1 Lamentation
     - 1 Lumra, Bellow of the Woods
     - 1 Maelstrom Wanderer
-    - 1 Mass of Mysteries
     - 1 Muldrotha, the Gravetide
     - 1 Mulldrifter
     - 1 Nulldrifter
@@ -36,6 +34,8 @@ main:
     - 1 Omnath, Locus of the Roil
     - 1 Omni-Changeling
     - 1 Risen Reef
+    - 1 Roaming Throne
+    - 1 Rottenmouth Viper
     - 1 Rumbleweed
     - 1 Shinestriker
     - 1 Shroudstomper
@@ -52,6 +52,7 @@ main:
     - 1 Annie Joins Up
     - 1 Ashnod's Altar
     - 1 Cloud Key
+    - 1 Elemental Bond
     - 1 Evolutionary Leap
     - 1 Garruk's Uprising
     - 1 Gathering Stone
@@ -62,11 +63,10 @@ main:
     - 1 Kozilek's Unsealing
     - 1 Lightning Greaves
     - 1 Panharmonicon
-    - 1 Patchwork Banner
     - 1 Reflections of Littjara
     - 1 Renewed Solidarity
-    - 1 Riveteers Ascendancy
     - 1 Swiftfoot Boots
+    - 1 The Great Henge
     - 1 The Soul Stone
     - 1 Urza's Incubator
   Spells:
@@ -75,9 +75,9 @@ main:
     - 1 Fierce Guardianship
     - 1 Haunting Voyage
   Lands:
-    - 1 Abundant Countryside
     - 1 Ancient Tomb
     - 1 Bloodstained Mire
+    - 1 Bonders' Enclave
     - 1 Cavern of Souls
     - 1 Command Tower
     - 1 Eclipsed Realms
@@ -86,17 +86,13 @@ main:
     - 1 Misty Rainforest
     - 1 Path of Ancestry
     - 1 Plaza of Heroes
-    - 1 Primal Beyond
     - 1 Scalding Tarn
-    - 1 Secluded Courtyard
+    - 1 Talon Gates of Madara
     - 1 Three Tree City
-    - 1 Unclaimed Territory
     - 1 Verdant Catacombs
     - 1 Windswept Heath
     - 1 Wooded Foothills
-    - 1 Talon Gates of Madara
     - 1 Tundra
-    - 1 The World Tree
     - 1 Scrubland
     - 1 Plateau
     - 1 Savannah
@@ -104,23 +100,26 @@ main:
     - 1 Underground Sea
     - 1 Volcanic Island
     - 1 Tropical Island
+    - 1 Susur Secundi, Void Altar
     - 1 Badlands
     - 1 Bayou
-    - 1 Mountain
+    - 2 Mountain
     - 1 Taiga
     - 1 Boseiju, Who Endures
+    - 1 Evendo, Waking Haven
     - 1 Forest
-side:
-  - 1 Kaheera, the Orphanguard
+    - 1 Gaea's Cradle
 maybe:
   Creatures:
     - 1 Aethersnipe
     - 1 Bane of Progress
     - 1 Belonging
     - 1 Beza, the Bounding Spring
+    - 1 Bloom Tender
     - 1 Cavalier of Dawn
     - 1 Cavalier of Flame
     - 1 Cavalier of Gales
+    - 1 Cavalier of Thorns
     - 1 Deceit
     - 1 Eclipsed Flamekin
     - 1 Emptiness
@@ -130,14 +129,17 @@ maybe:
     - 1 Horde of Notions
     - 1 Incandescent Soulstoke
     - 1 Jegantha, the Wellspring
+    - 1 Kaheera, the Orphanguard
+    - 1 Mass of Mysteries
     - 1 Nyxbloom Ancient
+    - 1 Ojer Taq, Deepest Foundation // Temple of Civilization
     - 1 Realmwalker
-    - 1 Rottenmouth Viper
     - 1 Shimmercreep
+    - 1 Shriekmaw
     - 1 Subtlety
+    - 1 Temur Battlecrier
     - 1 Vibrance
     - 1 Wistfulness
-    - 1 Shriekmaw
   Artifacts & Enchantments:
     - 1 Ancient Cornucopia
     - 1 Anointed Procession
@@ -155,7 +157,6 @@ maybe:
     - 1 Damping Matrix
     - 1 Dawn-Blessed Pennant
     - 1 Descendants' Fury
-    - 1 Elemental Bond
     - 1 Etchings of the Chosen
     - 1 Evolutionary Leap
     - 1 Eye of Ojer Taq // Apex Observatory
@@ -168,6 +169,7 @@ maybe:
     - 1 Muster the Departed
     - 1 Obsessive Pursuit
     - 1 Parallel Lives
+    - 1 Patchwork Banner
     - 1 Phyrexian Altar
     - 1 Progenitor's Icon
     - 1 Promise of Aclazotz // Foul Rebirth
@@ -177,9 +179,11 @@ maybe:
     - 1 Relic of Legends
     - 1 Relic of Sauron
     - 1 Riveteers Ascendancy
+    - 1 Riveteers Ascendancy
     - 1 Scavenger's Talent
     - 1 Semblance Anvil
     - 1 Shivan Harvest
+    - 1 Skullclamp
     - 1 Sneak Attack
     - 1 Sothera, the Supervoid
     - 1 Spirit Bonds
@@ -198,7 +202,21 @@ maybe:
     - 1 Reality Shift
     - 1 Swords to Plowshares
   Lands:
+    - 1 Abundant Countryside
     - 1 Ancient Ziggurat
+    - 1 Baxter Building
     - 1 Crystal Grotto
+    - 1 Diamond City
+    - 1 Primal Beyond
     - 1 Reflecting Pool
+    - 1 Secluded Courtyard
+    - 1 Temple of the False God
+    - 1 Unclaimed Territory
+    - 1 Minas Tirith
+    - 1 The World Tree
+    - 1 Glasspool Mimic // Glasspool Shore
     - 1 Barad-dûr
+    - 1 Fell the Profane // Fell Mire
+    - 1 Midgar, City of Mako // Reactor Raid
+    - 1 Phyrexian Tower
+    - 1 Revitalizing Repast // Old-Growth Grove
