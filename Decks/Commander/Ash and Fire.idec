@@ -3,8 +3,10 @@ description: Elementals. {W}{U}{B}{R}{G}
 commanders: 
   - Ashling, the Limitless
 tags: 
+  - Tribal
   - Elementals
   - Tokens
+  - Evoke
 main:
   - 1 Ashling, the Limitless
   Creatures:
