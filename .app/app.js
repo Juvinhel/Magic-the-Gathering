@@ -5288,7 +5288,7 @@ var UI;
                     return; // nothing changed
                 this.refreshDropDownOptions();
                 this.refreshDropDownSelection();
-                this.dropDown.placement = "below"; // this.detached ? "outside" : "below";
+                this.dropDown.placement = "below";
                 this.dropDown.open = newOpen;
             }
             refreshDropDownOptions() {
@@ -5328,7 +5328,7 @@ var UI;
             }
             buildCheckedOptionElement(option, index) {
                 return (UI.Generator.Hyperscript("li", { "index-attribute": index, onclick: (e) => {
-                        this.checkedIndexes = this.checkedIndexes.filter(x => x == index);
+                        this.checkedIndexes = this.checkedIndexes.filter(x => x != index);
                     }, title: option.title },
                     UI.Generator.Hyperscript("span", null, option.title),
                     UI.Generator.Hyperscript("color-icon", { src: "img/icons/close.svg" })));
@@ -8883,7 +8883,7 @@ var API;
     }
     API.isSection = isSection;
     function getColoridentity(deck) {
-        if (!deck.commanders)
+        if (!deck.commanders || !deck.commanders.length)
             return ["B", "G", "R", "U", "W"];
         const entries = getEntries(deck).filter(x => deck.commanders.includes(x.name));
         return entries.mapMany(x => x.colorIdentity).distinct().orderBy(x => x);
@@ -8924,6 +8924,28 @@ var API;
         return collapsedEntries;
     }
     API.collapse = collapse;
+})(API || (API = {}));
+var API;
+(function (API) {
+    function sortColors(colors) {
+        return colors.sort((c1, c2) => {
+            const i1 = colorToNumber(c1);
+            const i2 = colorToNumber(c2);
+            return i1 - i2;
+        });
+    }
+    API.sortColors = sortColors;
+    function colorToNumber(s) {
+        switch (s.toLowerCase()) {
+            case "w": return 1;
+            case "u": return 2;
+            case "b": return 3;
+            case "r": return 4;
+            case "g": return 5;
+            case "c": return 6;
+            default: return 1000;
+        }
+    }
 })(API || (API = {}));
 var API;
 (function (API) {
@@ -9826,11 +9848,15 @@ var API;
 })(API || (API = {}));
 class App {
     static async Start() {
-        await API.init();
-        App.config = await Data.loadConfig();
+        [this.config, , this.symbols] = await Promise.all([
+            Data.loadConfig(),
+            API.init(),
+            API.symbology()
+        ]);
         document.querySelector("main").append(new Views.ShelfElement());
     }
     static config;
+    static symbols;
 }
 var Data;
 (function (Data) {
@@ -9842,6 +9868,30 @@ var Data;
 })(Data || (Data = {}));
 var Views;
 (function (Views) {
+    class DeckElement extends HTMLElement {
+        constructor(url, deck) {
+            super();
+            this.url = url;
+            this.deck = deck;
+            this.append(...this.build());
+        }
+        url;
+        deck;
+        build() {
+            return [
+                UI.Generator.Hyperscript("div", null,
+                    UI.Generator.Hyperscript("h1", null, this.deck.name))
+            ];
+        }
+        root;
+        async connectedCallback() {
+        }
+    }
+    Views.DeckElement = DeckElement;
+    customElements.define("my-deck", DeckElement);
+})(Views || (Views = {}));
+var Views;
+(function (Views) {
     class ShelfElement extends HTMLElement {
         constructor() {
             super();
@@ -9850,12 +9900,32 @@ var Views;
         }
         folderListElement;
         fileListElement;
+        colorFilterElement;
+        tagFilterElement;
         build() {
             return [
-                UI.Generator.Hyperscript("h1", null, "Shelf"),
-                UI.Generator.Hyperscript("div", null,
+                UI.Generator.Hyperscript("div", { class: "header" },
                     this.folderListElement = UI.Generator.Hyperscript("div", { class: "folder-list" }),
-                    this.fileListElement = UI.Generator.Hyperscript("div", { class: "file-list" }))
+                    UI.Generator.Hyperscript("div", { class: "filter" },
+                        UI.Generator.Hyperscript("span", null, "Filters:"),
+                        this.colorFilterElement = UI.Generator.Hyperscript("div", { class: "color-filter" },
+                            UI.Generator.Hyperscript("span", { onclick: this.tagClicked, tag: "W" },
+                                UI.Generator.Hyperscript("i", { class: "symbol", style: "background-image: url(" + App.symbols.first(x => x.code.equals("W", false)).icon + ")" }),
+                                UI.Generator.Hyperscript("span", null, "White")),
+                            UI.Generator.Hyperscript("span", { onclick: this.tagClicked, tag: "U" },
+                                UI.Generator.Hyperscript("i", { class: "symbol", style: "background-image: url(" + App.symbols.first(x => x.code.equals("U", false)).icon + ")" }),
+                                UI.Generator.Hyperscript("span", null, "Blue")),
+                            UI.Generator.Hyperscript("span", { onclick: this.tagClicked, tag: "B" },
+                                UI.Generator.Hyperscript("i", { class: "symbol", style: "background-image: url(" + App.symbols.first(x => x.code.equals("B", false)).icon + ")" }),
+                                UI.Generator.Hyperscript("span", null, "Black")),
+                            UI.Generator.Hyperscript("span", { onclick: this.tagClicked, tag: "R" },
+                                UI.Generator.Hyperscript("i", { class: "symbol", style: "background-image: url(" + App.symbols.first(x => x.code.equals("R", false)).icon + ")" }),
+                                UI.Generator.Hyperscript("span", null, "Red")),
+                            UI.Generator.Hyperscript("span", { onclick: this.tagClicked, tag: "G" },
+                                UI.Generator.Hyperscript("i", { class: "symbol", style: "background-image: url(" + App.symbols.first(x => x.code.equals("G", false)).icon + ")" }),
+                                UI.Generator.Hyperscript("span", null, "Green"))),
+                        this.tagFilterElement = UI.Generator.Hyperscript("multi-select", { class: "tag-filter", onchange: this.tagChange }))),
+                this.fileListElement = UI.Generator.Hyperscript("div", { class: "file-list" })
             ];
         }
         root;
@@ -9868,13 +9938,16 @@ var Views;
             url = new URL(url, location.toString()).toString().trimChar(["/"]);
             this.folderListElement.clearChildren();
             this.fileListElement.clearChildren();
+            for (const filerElement of this.colorFilterElement.children)
+                filerElement.setAttribute("state", null);
+            this.tagFilterElement.options = [];
             const partialPath = url.substring(this.root.length).trimChar(["/"]);
             const depth = partialPath ? partialPath.split("/").length : 0;
-            console.log("p", url, partialPath, depth);
             if (depth > 0)
                 this.folderListElement.append(this.buildFolder("~", this.root));
             if (depth > 1)
                 this.folderListElement.append(this.buildFolder("..", url.splitLast("/")[0]));
+            const tags = [];
             for (let href of (await DirectoryListing.scan(url)).orderBy(x => x)) {
                 if (href.endsWith("/")) { // is folder
                     href = href.trimRight("/");
@@ -9889,57 +9962,69 @@ var Views;
                     if (this.deckExtensions.includes(extension.toLowerCase()))
                         try {
                             const deck = await API.File.loadDeck(text, extension, false);
+                            if (deck.tags)
+                                for (const tag of deck.tags)
+                                    if (!tags.includes(tag))
+                                        tags.push(tag);
                             const tile = this.buildDeck(href, deck);
                             this.fileListElement.append(tile);
                         }
-                        catch { /* file might be malformed */ }
+                        catch (error) {
+                            console.error("Error Loading Deck!", href, error);
+                        }
                     else if (this.collectionsExtensions.includes(extension.toLowerCase()))
                         try {
                             this.fileListElement.append(this.buildCollection(href));
                         }
-                        catch { /* file might be malformed */ }
+                        catch (error) {
+                            console.error("Error Loading Collection!", href, error);
+                        }
                 }
             }
+            this.tagFilterElement.options = tags.sort().map(t => ({ title: t, value: t }));
             await this.lazyLoad([...this.querySelectorAll("a.deck")]);
         }
         async lazyLoad(tiles) {
             if (!tiles || tiles.length == 0)
                 return;
-            const cards = await API.getCards(tiles.map(t => {
-                let deck = t["deck"];
-                let card = deck.commanders?.first();
-                if (!card)
-                    card = API.collapse(deck)?.[0]?.name;
-                if (!card)
-                    card = "Plains";
-                return { name: card };
-            }));
+            const commanderIDs = tiles.map(x => x["deck"]).filter(d => API.getEntries(d).length > 0).mapMany(d => d.commanders ?? [API.getEntries(d).first().name]).map(n => ({ name: n }));
+            const allCommanders = await API.getCards(commanderIDs);
             for (let i = 0; i < tiles.length; ++i) {
                 const tile = tiles[i];
-                const card = cards[i];
+                const deck = tile["deck"];
+                const commanders = allCommanders.splice(0, deck.commanders?.length ?? 1);
                 const img = tile.querySelector("img");
-                img.src = card.imgCrop;
+                img.src = commanders[0].imgCrop;
+                if (deck.commanders && deck.commanders.length) {
+                    const colours = tile.querySelector(".colours");
+                    const colors = API.sortColors(commanders.mapMany(x => x.colorIdentity).distinct());
+                    colours.innerHTML = Views.parseSymbolText(colors.map(x => "{" + x + "}").join(""));
+                    tile["colors"] = colors;
+                }
+                else
+                    tile["colors"] = "";
             }
         }
         buildFolder(title, url) {
-            return UI.Generator.Hyperscript("a", { class: "folder", title: title, ondblclick: () => this.loadFolder(url) },
+            return UI.Generator.Hyperscript("a", { class: "folder", title: title, onclick: () => this.loadFolder(url) },
                 UI.Generator.Hyperscript("img", { src: "img/icons/folder.svg" }),
                 UI.Generator.Hyperscript("span", null, title));
         }
         buildDeck(url, deck) {
             const fileName = url.splitLast("/")[1];
             const name = decodeURIComponent(fileName.splitLast(".")[0]);
-            return UI.Generator.Hyperscript("a", { class: "deck", deck: deck, url: url, title: deck.name ?? name, onrightclick: this.showContextMenu.bind(this), ondblclick: async () => {
-                    //TODO:
+            return UI.Generator.Hyperscript("a", { class: "deck", deck: deck, url: url, title: deck.name ?? name, onrightclick: this.showContextMenu.bind(this), onclick: async () => {
+                    await UI.Dialog.show(new Views.DeckElement(url, deck), { title: deck.name, allowClose: true, mode: "fill" });
                 } },
                 UI.Generator.Hyperscript("img", null),
-                UI.Generator.Hyperscript("span", null, deck.name ?? name));
+                UI.Generator.Hyperscript("h3", null, deck.name ?? name),
+                UI.Generator.Hyperscript("tag-list", { tags: deck.tags }),
+                UI.Generator.Hyperscript("span", { class: "colours" }));
         }
         buildCollection(url) {
             const fileName = url.splitLast("/")[1];
             const name = decodeURIComponent(fileName.splitLast(".")[0]);
             return UI.Generator.Hyperscript("a", { class: "collection", url: url, title: name, ondblclick: async () => {
-                    //TODO:
                 } },
                 UI.Generator.Hyperscript("img", { src: "img/icons/binder.svg" }),
                 UI.Generator.Hyperscript("span", null, name));
@@ -9954,8 +10039,59 @@ var Views;
                 UI.Generator.Hyperscript("color-icon", { src: "img/icons/clipboard.svg" }),
                 UI.Generator.Hyperscript("span", null, "Copy TXT")));
         }
+        tagClicked = function (event) {
+            const commongTagSpan = event.currentTarget;
+            this.toggleTag(event.currentTarget, commongTagSpan.textContent);
+        }.bind(this);
+        toggleTag(span, tag) {
+            const state = span.getAttribute("state");
+            switch (state) {
+                case "active":
+                    span.setAttribute("state", null);
+                    break;
+                default:
+                    span.setAttribute("state", "active");
+                    break;
+            }
+            ;
+            this.doFilter();
+        }
+        tagChange = function (event) {
+            this.doFilter();
+        }.bind(this);
+        doFilter() {
+            const colors = [...this.colorFilterElement.querySelectorAll("[state='active']")].map(x => x.getAttribute("tag"));
+            const tags = this.tagFilterElement.checkedOptions.map(x => x.value);
+            for (const deckElement of this.fileListElement.querySelectorAll(".deck")) {
+                const deckColors = deckElement["colors"];
+                const deckTags = deckElement["deck"]?.tags ?? [];
+                const colorsOk = colors.length == 0 || colors.every(x => deckColors.includes(x));
+                const tagsOk = tags.length == 0 || tags.every(x => deckTags.includes(x));
+                deckElement.style.display = (colorsOk && tagsOk) ? "" : "none";
+            }
+        }
     }
     Views.ShelfElement = ShelfElement;
     customElements.define("my-shelf", ShelfElement);
+})(Views || (Views = {}));
+var Views;
+(function (Views) {
+    function parseSymbolText(text) {
+        if (!text)
+            return "";
+        return text.replaceAll(/(\{.*?\})|(\[.*?\])/, (value) => {
+            const type = value[0] == "{" ? "symbol" : "card";
+            const code = value.substring(1, value.length - 1).trim();
+            if (type == "symbol") {
+                const symbol = App.symbols.first(x => x.code.equals(code, false));
+                return `<i class="symbol" style="background-image: url('${symbol.icon}')">${value}</i>`;
+            }
+            else {
+                //TODO:
+                return `<a href="#">${code}</a>`;
+            }
+        });
+    }
+    Views.parseSymbolText = parseSymbolText;
 })(Views || (Views = {}));
 //# sourceMappingURL=app.js.map

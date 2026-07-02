@@ -938,11 +938,11 @@ drop-down {
   width: max-content;
   min-width: anchor-size(width);
   height: max-content;
+  max-height: 100vh;
   margin: auto;
   margin-top: 0;
   padding: 0.25em;
   overflow: hidden;
-  overflow-y: auto;
   border: none;
   border-radius: var(--corner-radius);
   background: var(--background-color);
@@ -951,7 +951,6 @@ drop-down {
 drop-down:not([open]) {
   display: none !important;
   height: 0 !important;
-  overflow: hidden !important;
 }
 drop-down[placement="above"] {
   bottom: anchor(top);
@@ -3021,6 +3020,7 @@ multi-select {
   display: grid;
   grid-template-rows: min-content max-content;
   grid-template-columns: minmax(100%, max-content);
+  max-height: calc(100vh - 0.5em);
   overflow-x: hidden;
   overflow-y: auto;
 }
@@ -5523,46 +5523,7 @@ aside {
   --highlight-color: #edcffd;
   --footer-color: #111;
 }
-my-shelf {
-  display: grid;
-  grid-template-rows: auto 1fr;
-  grid-template-columns: 1fr;
-  height: 100%;
-  gap: 0.25em;
-}
-my-shelf > h1 {
-  font-size: 1.5em;
-  text-align: center;
-}
-my-shelf > div {
-  display: grid;
-  grid-template-rows: max-content max-content;
-  grid-template-columns: 1fr;
-  grid-row: 2;
-  grid-column: 1;
-  height: calc(100% - 0.5em);
-  padding: 0.25em;
-  overflow-x: hidden;
-  overflow-y: auto;
-  gap: 0.25em;
-}
-my-shelf > div > .folder-list {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  width: 100%;
-  height: max-content;
-  gap: 0.5em;
-}
-my-shelf > div > .file-list {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  width: 100%;
-  height: max-content;
-  gap: 0.5em;
-}
-my-shelf .folder {
+.collection {
   display: grid;
   grid-template-rows: 1fr max-content;
   grid-template-columns: 1fr;
@@ -5571,14 +5532,14 @@ my-shelf .folder {
   width: 12em;
   border-radius: var(--corner-radius);
 }
-my-shelf .folder > img {
+.collection > img {
   grid-row: 1;
   grid-column: 1;
   height: 100%;
   padding: 0.125em;
   overflow: hidden;
 }
-my-shelf .folder > span {
+.collection > span {
   display: -webkit-box;
   grid-row: 2;
   grid-column: 1;
@@ -5591,36 +5552,69 @@ my-shelf .folder > span {
   max-width: 100%;
   text-align: center;
 }
-my-shelf .folder:hover {
+.collection:hover {
   background-color: var(--highlight-color);
 }
-my-shelf .folder:hover > span {
+.collection:hover > span {
   color: var(--inverted-foreground-color);
 }
-my-shelf .deck {
+.color-filter {
   display: grid;
-  grid-template-rows: 1fr max-content;
+  grid-template-rows: 1fr;
+  grid-auto-columns: 1fr;
+  grid-auto-flow: column;
+  gap: 0.25em;
+}
+.color-filter > * {
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: max-content 1fr;
+  grid-auto-flow: column;
+  align-items: center;
+  justify-items: center;
+  padding: 0.125em 0.25em;
+  border-radius: var(--corner-radius);
+  background-color: var(--background-color);
+  color: var(--foreground-color);
+  cursor: pointer;
+  user-select: none;
+}
+.color-filter > * > span {
+  align-self: end;
+}
+.color-filter > *[state="active"] {
+  background-color: var(--ok-color);
+}
+.color-filter > *:hover {
+  background-color: var(--highlight-color);
+}
+.deck {
+  display: grid;
   grid-template-columns: 1fr;
+  grid-auto-rows: max-content;
   width: 12em;
+  padding: 0.5em;
+  gap: 0.25em;
   border-radius: 0.5em;
   background-color: var(--footer-color);
 }
-my-shelf .deck > img {
+.deck > img {
   display: block;
   grid-row: 1;
   grid-column: 1;
   aspect-ratio: 10 / 7;
-  width: 100%;
+  width: calc(100% + 1em);
+  margin: -0.5em;
   object-fit: cover;
   object-position: top center;
   border-top-right-radius: 0.5em;
   border-top-left-radius: 0.5em;
   mask-image: linear-gradient(to bottom, #000000, #000000 65%, rgba(0, 0, 0, 0));
 }
-my-shelf .deck > img:not([src]) {
+.deck > img:not([src]) {
   visibility: hidden;
 }
-my-shelf .deck > span {
+.deck > h3 {
   display: -webkit-box;
   grid-row: 2;
   grid-column: 1;
@@ -5634,7 +5628,16 @@ my-shelf .deck > span {
   font-size: 1.5em;
   text-align: center;
 }
-my-shelf .collection {
+.deck > .colours {
+  grid-row: 3;
+  grid-column: 1;
+}
+.deck > tag-list {
+  grid-row: 4;
+  grid-column: 1;
+  pointer-events: none;
+}
+.folder {
   display: grid;
   grid-template-rows: 1fr max-content;
   grid-template-columns: 1fr;
@@ -5643,14 +5646,14 @@ my-shelf .collection {
   width: 12em;
   border-radius: var(--corner-radius);
 }
-my-shelf .collection > img {
+.folder > img {
   grid-row: 1;
   grid-column: 1;
   height: 100%;
   padding: 0.125em;
   overflow: hidden;
 }
-my-shelf .collection > span {
+.folder > span {
   display: -webkit-box;
   grid-row: 2;
   grid-column: 1;
@@ -5663,10 +5666,66 @@ my-shelf .collection > span {
   max-width: 100%;
   text-align: center;
 }
-my-shelf .collection:hover {
+.folder:hover {
   background-color: var(--highlight-color);
 }
-my-shelf .collection:hover > span {
+.folder:hover > span {
   color: var(--inverted-foreground-color);
+}
+my-shelf {
+  display: grid;
+  grid-template-rows: max-content 1fr;
+  grid-template-columns: 1fr;
+  height: calc(100% - 0.25em);
+  padding: 0 0.25em 0.25em 0.25em;
+  overflow-y: auto;
+}
+my-shelf > .header {
+  display: grid;
+  z-index: 1000;
+  position: sticky;
+  top: 0;
+  grid-template-rows: max-content max-content;
+  grid-template-columns: 1fr;
+  padding: 0.25em 0;
+  gap: 0.25em;
+  background-color: var(--page-background-color);
+}
+my-shelf > .header > .folder-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 100%;
+  height: max-content;
+  gap: 0.5em;
+}
+my-shelf > .header > .filter {
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-auto-columns: max-content;
+  grid-auto-flow: column;
+  gap: 0.25em;
+}
+my-shelf > .header > .filter > span {
+  align-self: center;
+}
+my-shelf > .file-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  width: calc(100% - 0.5em);
+  height: max-content;
+  padding: 0.25em;
+  gap: 0.5em;
+}
+.symbol {
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  padding: 0 0.075em;
+  background-repeat: no-repeat;
+  color: transparent !important;
+  font-size: 0.75em;
+  vertical-align: middle;
 }
 /*# sourceMappingURL=app.css.map */
