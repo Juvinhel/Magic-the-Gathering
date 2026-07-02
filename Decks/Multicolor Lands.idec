@@ -1,9 +1,5 @@
 name: Multicolor Lands
-tags: 
-  - Counters
-  - Reanimator
-  - Lifegain
-  - Sacrifice
+description: Collection of multicolor Lands.
 main:
   Tri Cycle Lands:
     - 1 Raffine's Tower
