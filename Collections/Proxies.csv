@@ -10,6 +10,7 @@ Accursed Marauder,MH3,en,1
 Adaptive Omnitool,DRC,en,1
 Aetherflux Reservoir,KLD,en,1
 Aetheric Amplifier,DRC,en,2
+Akroma's Memorial,TSR,en,1
 Alhammarret's Archive,C21,en,1
 All Will Be One,ONE,en,1
 Amonkhet Raceway,DFT,en,2
@@ -24,9 +25,10 @@ Arcbound Mouser,MH2,en,2
 Arcbound Ravager,MMA,en,1
 Archangel of Thune,2XM,en,1
 Archway of Innovation,MH3,en,1
-Arid Mesa,MH2,en,4
+Arid Mesa,MH2,en,5
 Artificer Class,CLB,en,1
 "Arwen, Weaver of Hope",LTC,en,1
+Asceticism,SOM,en,1
 "Ashaya, Soul of the Wild",DSC,en,1
 "Ashling, Rekindled // Ashling, Rimebound",ECL,en,1
 Ashnod's Altar,CMM,en,2
@@ -51,7 +53,7 @@ Bloodspore Thrinax,CMM,en,1
 Bloodstained Mire,MH3,en,2
 Bonder's Ornament,CMM,en,1
 Bonders' Enclave,FIC,en,1
-Bonders' Enclave,M3C,en,2
+Bonders' Enclave,M3C,en,3
 Boros Charm,OTC,en,1
 "Boseiju, Who Endures",NEO,en,2
 Bramble Familiar // Fetch Quest,WOE,en,2
@@ -83,6 +85,7 @@ Chromatic Lantern,M3C,en,1
 Cleric Class,AFR,en,1
 Clever Concealment,FIC,en,1
 Clock of Omens,M13,en,2
+Coat of Arms,DDS,en,1
 Coin of Mastery,TMC,en,3
 Conduit Pylons,OTJ,en,1
 Conqueror's Flail,2X2,en,1
@@ -114,11 +117,12 @@ Dryad of the Ilysian Grove,M3C,en,1
 Earthshape,TLE,en,2
 Eclipsed Realms,ECL,en,1
 "Eiganjo, Seat of the Empire",NEO,en,1
+Elemental Bond,TDC,en,1
 Enlightened Tutor,DMR,en,1
 Esper Sentinel,H2R,en,3
 Ethersworn Sphinx,MH2,en,1
-"Evendo, Waking Haven",EOE,en,1
-Everything Comes to Dust,WHO,en,1
+"Evendo, Waking Haven",EOE,en,2
+Everything Comes to Dust,WHO,en,2
 Evolution Sage,LCC,en,1
 Evolutionary Leap,NCC,en,1
 Excalibur II,FIN,en,1
@@ -141,7 +145,7 @@ Fountainport,BLB,en,1
 Fractal Harness,C21,en,1
 Freed from the Real,A25,en,1
 Fugitive Droid,TMT,en,1
-Gaea's Cradle,USG,en,1
+Gaea's Cradle,USG,en,2
 Galadriel's Dismissal,LTC,en,1
 Gathering Stone,ECL,en,1
 Gavony Township,MOC,en,1
@@ -191,6 +195,7 @@ Kappa Cannoneer,EOC,en,1
 Karmic Guide,VOC,en,1
 Karn's Bastion,EOC,en,3
 Kindred Discovery,LCC,en,1
+Kindred Dominance,MSC,en,1
 Kozilek's Unsealing,MH3,en,1
 Lair of the Hydra,M3C,en,1
 Leader's Talent,TMT,en,1
@@ -205,7 +210,7 @@ Lion Sash,NEO,en,1
 Machinist's Arsenal,FIN,en,1
 "Mangara, the Diplomat",TDC,en,1
 Mariposa Military Base,PIP,en,1
-Marsh Flats,MH2,en,2
+Marsh Flats,MH2,en,3
 Maskwood Nexus,DRC,en,1
 Master of the Wild Hunt,A25,en,1
 "Matzalantli, the Great Door // The Core",LCI,en,1
@@ -265,7 +270,7 @@ Phyrexian Tower,MH3,en,1
 "Plargg, Dean of Chaos // Augusta, Dean of Order",STX,en,1
 Plateau,3ED,en,4
 Plaza of Heroes,DMU,en,3
-Polluted Delta,MH3,en,2
+Polluted Delta,MH3,en,3
 Power Depot,MH2,en,1
 Primeval Protector,NEC,en,1
 Professional Face-Breaker,M3C,en,1
@@ -299,11 +304,12 @@ Ripples of Undeath,MH3,en,1
 "Rishkar, Peema Renegade",BLC,en,1
 Riverglide Pathway // Lavaglide Pathway,ZNR,en,2
 Riveteers Ascendancy,SNC,en,1
-Roaming Throne,LCI,en,5
+Roaming Throne,LCI,en,6
 Rockalanche,TLA,en,1
+Rogue's Passage,FDN,en,1
 Rogue's Passage,FIC,en,2
 "Rosa, Resolute White Mage",FIN,en,1
-Rottenmouth Viper,BLB,en,1
+Rottenmouth Viper,BLB,en,2
 Rumbleweed,OTC,en,1
 Sacred Foundry,EOE,en,2
 "Saheeli, Filigree Master",BRO,en,1
@@ -337,6 +343,7 @@ Sister Hospitaller,40K,en,1
 Slayers' Stronghold,MKC,en,1
 Sneak Attack,DMR,en,1
 Solitude,H2R,en,1
+Song of the Dryads,CMM,en,1
 Sonic Screwdriver,WHO,en,4
 "Sothera, the Supervoid",EOE,en,1
 Soul Foundry,C19,en,2
@@ -355,7 +362,7 @@ Strixhaven Stadium,STX,en,3
 Summon: Knights of Round,FIN,en,1
 Sunderflock,ECL,en,1
 Sundial of the Infinite,M12,en,1
-"Susur Secundi, Void Altar",EOE,en,1
+"Susur Secundi, Void Altar",EOE,en,2
 Swiftfoot Boots,TDC,en,4
 Swords to Plowshares,EOC,en,1
 Swords to Plowshares,SLD,en,2
@@ -381,7 +388,7 @@ The Black Gate,LTC,en,1
 The Cloning of Shredder,TMT,en,1
 The Destined White Mage,FIC,en,1
 The Gaffer,LTC,en,1
-The Great Henge,CMM,en,1
+The Great Henge,CMM,en,2
 The Immortal Sun,CMM,en,1
 The One Ring,LTR,en,3
 The Ozolith,IKO,en,1
