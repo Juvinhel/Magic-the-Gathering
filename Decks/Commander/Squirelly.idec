@@ -17,49 +17,48 @@ main:
     - 1 Chomping Changeling
     - 1 Circle of Dreams Druid
     - 1 Citanul Hierophants
+    - 1 Crashing Drawbridge
     - 1 Craterhoof Behemoth
     - 1 Curious Forager
     - 1 Deep Forest Hermit
     - 1 Enduring Vitality
     - 1 Essence Warden
     - 1 Jaheira, Friend of the Forest
-    - 1 Liege of the Hollows
     - 1 Masked Vandal
     - 1 Metallic Mimic
     - 1 Mutable Explorer
     - 1 Nut Collector
     - 1 Nyxbloom Ancient
-    - 1 Ohran Frostfang
     - 1 Prosperous Innkeeper
     - 1 Scurry of Squirrels
     - 1 Spider-Ham, Peter Porker
     - 1 Squirrel Mob
     - 1 Squirrel Sovereign
+    - 1 Supportive Parents
     - 1 Thornvault Forager
     - 1 Tippy-Toe, Terrific Partner
     - 1 Toski, Bearer of Secrets
   Artifacts & Enchantments:
+    - 1 Akroma's Memorial
     - 1 Asceticism
-    - 1 Ashnod's Altar
     - 1 Banner of Kinship
     - 1 Beastmaster Ascension
-    - 1 Caged Sun
     - 1 Chitterspitter
     - 1 Coat of Arms
+    - 1 Concordant Crossroads
     - 1 Cryptolith Rite
-    - 1 Door of Destinies
     - 1 Doubling Season
     - 1 Earthcraft
     - 1 Elven Chorus
     - 1 Firdoch Core
     - 1 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun
+    - 1 Heirloom Epic
     - 1 Idol of Oblivion
     - 1 Lightning Greaves
     - 1 Maskwood Nexus
     - 1 Parallel Lives
     - 1 Patchwork Banner
     - 1 Phyrexian Altar
-    - 1 Primal Vigor
     - 1 Skullclamp
     - 1 Song of the Dryads
     - 1 Springleaf Parade
@@ -69,6 +68,7 @@ main:
     - 1 Sword of the Squeak
     - 1 Sylvan Anthem
     - 1 Sylvan Library
+    - 1 Thousand-Year Elixir
     - 1 Tribute to the World Tree
     - 1 White Lotus Tile
   Sorceries & Instants:
@@ -111,13 +111,20 @@ maybe:
     - 1 Bloodroot Apothecary
     - 1 Caller of the Hunt
     - 1 Deranged Hermit
+    - 1 Liege of the Hollows
+    - 1 Ohran Frostfang
     - 1 Peregrin Took
     - 1 Scurry Oak
+    - 1 Ulvenwald Oddity // Ulvenwald Behemoth
   Planeswalker:
     - 1 Nissa, Who Shakes the World
   Artifacts & Enchantments:
     - 1 Acorn Catapult
     - 1 Animal Friend
+    - 1 Caged Sun
+    - 1 Door of Destinies
     - 1 Heraldic Banner
+    - 1 Primal Vigor
   Sorceries & Instants:
+    - 1 Benefactor's Draught
   Lands:
