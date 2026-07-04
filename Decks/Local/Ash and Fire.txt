@@ -1,28 +1,27 @@
 1 Ashling, the Limitless
 
-1 Abundant Countryside
 1 Ancient Tomb
 1 Animar, Soul of Elements
 1 Annie Joins Up
-1 Ashling, Rekindled // Ashling, Rimebound
+1 Arid Mesa
 1 Ashnod's Altar
 1 Avenger of Zendikar
 1 Badlands
 1 Bayou
 1 Bloodstained Mire
+1 Bonders' Enclave
 1 Boseiju, Who Endures
-1 Bramble Familiar // Fetch Quest
 1 Brighthearth Banneret
-1 Cavalier of Thorns
-1 Cavern of Souls
 1 Champion of the Path
 1 Cloud Key
 1 Command Tower
 1 Deadly Rollick
 1 Deflecting Swat
-1 Eclipsed Realms
 1 Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight
+1 Elemental Bond
 1 Endurance
+1 Evendo, Waking Haven
+1 Everything Comes to Dust
 1 Evolutionary Leap
 1 Exotic Orchard
 1 Fierce Guardianship
@@ -31,6 +30,7 @@
 1 Forest
 1 Foundation Breaker
 1 Fury
+1 Gaea's Cradle
 1 Garruk's Uprising
 1 Gathering Stone
 1 Giant's Amulet
@@ -44,14 +44,14 @@
 1 Island
 1 Jubilation
 1 Kindred Discovery
+1 Kindred Dominance
 1 Kozilek's Unsealing
 1 Lamentation
 1 Lightning Greaves
 1 Lumra, Bellow of the Woods
 1 Maelstrom Wanderer
-1 Mass of Mysteries
-1 Misty Rainforest
-1 Mountain
+1 Marsh Flats
+2 Mountain
 1 Muldrotha, the Gravetide
 1 Mulldrifter
 1 Nulldrifter
@@ -59,38 +59,37 @@
 1 Omnath, Locus of the Roil
 1 Omni-Changeling
 1 Panharmonicon
-1 Patchwork Banner
 1 Path of Ancestry
 1 Plateau
 1 Plaza of Heroes
-1 Primal Beyond
+1 Polluted Delta
 1 Reflections of Littjara
 1 Renewed Solidarity
 1 Risen Reef
-1 Riveteers Ascendancy
+1 Roaming Throne
+1 Rottenmouth Viper
 1 Rumbleweed
 1 Savannah
 1 Scalding Tarn
 1 Scrubland
-1 Secluded Courtyard
 1 Shinestriker
 1 Shroudstomper
 1 Smokebraider
 1 Solitude
 1 Subterfuge
 1 Sunderflock
+1 Susur Secundi, Void Altar
 1 Swiftfoot Boots
 1 Taiga
 1 Talon Gates of Madara
+1 The Great Henge
 1 The Soul Stone
-1 The World Tree
 1 Three Tree City
 1 Titan of Industry
 1 Tropical Island
 1 Tundra
 1 Twinflame Travelers
 1 Tyrant of Discord
-1 Unclaimed Territory
 1 Underground Sea
 1 Urza's Incubator
 1 Verdant Catacombs
@@ -99,6 +98,3 @@
 1 Windswept Heath
 1 Wooded Foothills
 1 Yarok, the Desecrated
-
-Sideboard
-1 Kaheera, the Orphanguard
