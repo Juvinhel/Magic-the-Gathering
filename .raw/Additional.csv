@@ -46,7 +46,6 @@ Blade Historian,STX,Strixhaven: School of Mages,165,normal,rare,1,58249,a46d64ec
 Luminous Broodmoth,BLC,Bloomburrow Commander,144,normal,mythic,1,96460,c5a4b212-bc60-4a58-b5f6-4012a3158785,de,16.06.2025
 Selfless Spirit,TDC,Tarkir: Dragonstorm Commander,129,normal,rare,1,104998,da85f3fb-e7d6-494a-ad3a-2ef35917f574,de,16.06.2025
 "Syr Konrad, the Grim",DSC,Duskmourn: House of Horror Commander,158,normal,uncommon,1,99128,443a4eac-f972-4027-aed4-552d4edc2ce1,de,16.06.2025
-"Braids, Arisen Nightmare",DSC,Duskmourn: House of Horror Commander,133,normal,rare,1,99272,9f8937d6-a1a0-4930-968f-29fa611528e5,de,16.06.2025
 Luminarch Ascension,A25,Masters 25,23,normal,rare,1,2693,b3770d86-4496-4c06-aab1-2917cfec100e,en,16.08.2025
 Folk Hero,CLB,Commander Legends: Battle for Baldur's Gate,650,foil,mythic,1,69622,a8b3aae8-fc36-45ed-84ed-efb8f543cada,en,16.08.2025
 "Emeria, the Sky Ruin",C14,Commander 2014,293,normal,rare,1,12563,bb89c14b-028a-4bef-ae94-703198ef0376,en,16.08.2025
@@ -126,7 +125,7 @@ Exemplar of Light,FDN,Foundations,11,normal,rare,1,100832,920c8fc5-fdd2-446a-a67
 Battle Angels of Tyr,CLB,Commander Legends: Battle for Baldur's Gate,9,normal,mythic,1,69006,4c91dbf4-94fa-45d0-b8ed-a778b11d789b,en,12.09.2025
 Silence,M14,Magic 2014,35,normal,rare,1,16016,1c2b13b1-31f0-4676-88a7-53f3a190e9a2,en,12.09.2025
 Seraph of the Masses,MOC,March of the Machine Commander,205,normal,uncommon,1,81732,6bc2ee43-7f99-46d5-b3da-7258d83ab2c4,en,12.09.2025
-Mariposa Military Base,PIP,Fallout,151,normal,rare,1,92712,cd7be9d4-f9fa-44a3-9902-7e9e226ccf56,en,12.09.2025
+,,,,,,,,,,
 "Sephara, Sky's Blade",CMM,Commander Masters,54,normal,rare,1,84489,729ee848-6c27-4202-b2bc-605f45209468,en,12.09.2025
 Archangel of Thune,2XM,Double Masters,5,normal,mythic,1,51824,15c34447-b0f4-4fcc-b557-23c92850b31b,en,12.09.2025
 Everything Comes to Dust,WHO,Doctor Who,19,normal,rare,1,88103,fb4b912c-07d4-42a1-8f3b-d5f34cca087f,de,12.09.2025
@@ -158,7 +157,6 @@ Strixhaven Stadium,FCA,Final Fantasy: Through the Ages,63,normal,uncommon,1,1063
 Mutavault,EOS,Edge of Eternities: Stellar Sights,28,normal,mythic,1,106770,b13486fe-e5c7-47bf-abe7-d252fd4db459,en,17.10.2025
 Smoke Shroud,MH1,Modern Horizons,69,normal,common,1,44865,e07c876e-ae1c-4b54-8d8a-9f3fd76ca64c,en,17.10.2025
 Brotherhood Regalia,ACR,Assassin's Creed,71,normal,uncommon,1,95426,8a6439a6-288d-427e-b14b-a99e8ef8c5cd,en,17.10.2025
-Counterspell,DSC,Duskmourn: House of Horror Commander,114,normal,uncommon,1,99147,4f616706-ec97-4923-bb1e-11a69fbaa1f8,en,17.10.2025
 Impostor Syndrome,SPM,Marvel's Spider-Man,34,normal,mythic,1,108479,08da9f92-0e25-4f39-aaa4-d8974af81a41,en,17.10.2025
 "Yuriko, the Tiger's Shadow",CMM,Commander Masters,364,normal,rare,1,85102,fe9be3e0-076c-4703-9750-2a6b0a178bc9,en,17.10.2025
 Ingenious Prodigy,WOE,Wilds of Eldraine,56,normal,rare,1,85734,cf224968-b676-40dd-83c1-a9ee2ceba574,en,17.10.2025
@@ -196,7 +194,6 @@ Spellskite,CLB,Commander Legends: Battle for Baldur's Gate,873,normal,rare,1,695
 Steam Vents,GRN,Guilds of Ravnica,257,normal,rare,1,226,b8ebe3cf-7143-453a-b0ef-2f5bdaac3185,de,22.12.2025
 Hallowed Fountain,RTR,Return to Ravnica,241,normal,rare,1,17181,af7091c9-5f98-4078-a42b-c9e057346d9b,de,22.12.2025
 Needleverge Pathway // Pillarverge Pathway,ZNR,Zendikar Rising,263,normal,rare,1,54582,6559047e-6ede-4815-a3a0-389062094f9d,de,22.12.2025
-Sacred Foundry,EOE,Edge of Eternities,256,normal,rare,1,106767,8b4e2642-3c87-4708-b9b4-2e7f7359ac7d,de,22.12.2025
 All Will Be One,ONE,Phyrexia: All Will Be One,118,normal,mythic,1,78611,6d75e1f4-bd63-428e-8e6e-131594b3ba44,de,22.12.2025
 The Soul Stone,SPM,Marvel's Spider-Man,66,normal,mythic,1,107904,1982f910-a9bd-4e94-a187-84381b22aacc,de,22.12.2025
 Hengegate Pathway // Mistgate Pathway,KHM,Kaldheim,260,normal,rare,1,56950,7ef37cb3-d803-47d7-8a01-9c803aa2eadc,ja,05.01.2025
@@ -228,7 +225,6 @@ Brighthearth Banneret,MOR,Morningtide,88,normal,common,1,24937,cb44df5b-6c89-46a
 Gathering Stone,ECL,Lorwyn Eclipsed,257,normal,uncommon,1,110547,81dfbfe1-143a-4637-b683-a34cfc51993d,en,04.05.2026
 Kozilek's Unsealing,MH3,Modern Horizons 3,65,normal,uncommon,1,94659,e6b44ffe-db9e-4db5-9806-098411c9ece0,en,04.05.2026
 Interdisciplinary Mascot,MOM,March of the Machine,326,normal,rare,1,81005,0eecdd9a-6c3f-43ee-8d9c-e3466bd7bf5e,en,04.05.2026
-Elemental,TSOS,Secrets of Strixhaven Tokens,2,normal,common,1,112617,57b98846-85e3-47c7-a903-29953d0b0e8a,en,04.05.2026
 Champion of the Path,ECL,Lorwyn Eclipsed,130,normal,rare,1,110854,e369cd31-3e22-47eb-bf6a-00d823651710,en,04.05.2026
 Sunderflock,ECL,Lorwyn Eclipsed,74,normal,rare,1,110642,e5b6221e-cb22-45e4-bb98-2b960afc614c,en,04.05.2026
 Giant's Amulet,KHM,Kaldheim,59,normal,uncommon,1,57035,ab8b1ec2-9303-4722-8644-b3bc1a5c387f,en,04.05.2026
