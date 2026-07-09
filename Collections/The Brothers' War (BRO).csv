@@ -6,9 +6,9 @@ Ambush Paratrooper,BRO,de,1
 Ancient Den,BRC,de,1
 Angel of the Ruins,BLC,de,1
 Arcane Sanctum,DRC,de,1
-Arcane Signet,M3C,de,2
+Arcane Signet,BRC,de,2
 "Armix, Filigree Thrasher",CMR,de,1
-Ash Barrens,DRC,de,2
+Ash Barrens,BRC,de,2
 Ashnod the Uncaring,BRC,de,1
 Ashnod's Harvester,BRO,de,1
 Ashnod's Intervention,BRO,de,1
@@ -19,7 +19,7 @@ Azorius Signet,DSC,de,1
 Baleful Strix,OTC,de,1
 Battlefield Butcher,BRO,de,1
 Bedevil,DMC,de,1
-Bident of Thassa,BLC,de,1
+Bident of Thassa,BRC,de,1
 Blasphemous Act,DRC,de,1
 Blast-Furnace Hellkite,BRC,de,1
 Bojuka Bog,DSC,de,1
@@ -30,7 +30,7 @@ Bronze Guardian,C21,de,1
 Buried Ruin,ONC,de,1
 Carrion Locust,BRO,de,1
 Chaos Warp,DSC,de,1
-Chief of the Foundry,BRC,de,1
+Chief of the Foundry,2XM,de,1
 Chromatic Star,2XM,de,1
 Chrome Courier,MH2,de,1
 Citanul Stalwart,BRO,de,1
@@ -39,23 +39,23 @@ Command Tower,M3C,de,2
 Commander's Sphere,DRC,de,1
 Construct,TBRO,de,2
 Construct,TCMM,de,2
-Copy,TBRC,de,4
+Copy,TBLC,de,4
 Cradle Clearcutter,BRO,de,1
-Cranial Plating,BRC,de,1
+Cranial Plating,2XM,de,1
 Crumbling Necropolis,LCC,de,1
-Curate,MKC,de,1
+Curate,BRO,de,1
 Cursed Mirror,MH3,de,1
 Darksteel Citadel,C21,de,1
 Darksteel Juggernaut,C18,de,1
 Darkwater Catacombs,OTC,de,1
 Deadly Riposte,FDN,de,1
-Despark,BRC,de,1
+Despark,DRC,de,1
 Digsite Engineer,C21,de,1
 Dimir Aqueduct,DSC,de,2
 Dimir Signet,CLU,de,2
-Disenchant,BRO,de,1
+Disenchant,FDN,de,1
 Draconic Destiny,BRO,de,1
-Dreamstone Hedron,M3C,de,1
+Dreamstone Hedron,BRC,de,1
 Dredging Claw,BRO,de,1
 Drossforge Bridge,MH2,de,1
 Dwarven Forge-Chanter,BRO,de,1
@@ -94,7 +94,7 @@ Gix's Caress,BRO,de,1
 Gixian Skullflayer,BRO,de,1
 Glint Raker,BRC,de,1
 Goat,TBLC,de,1
-Goblin Firebomb,FDN,de,1
+Goblin Firebomb,BRO,de,1
 Goldmire Bridge,MOC,de,1
 Great Furnace,BRC,de,1
 "Gwenna, Eyes of Gaea",BRO,de,1
@@ -121,7 +121,7 @@ Loran's Escape,BRO,de,1
 Machine God's Effigy,BRC,de,1
 March of Progress,BRC,de,1
 Marionette Master,AFC,de,1
-Master of Etherium,MOC,de,1
+Master of Etherium,BRC,de,1
 Master Transmuter,2XM,de,1
 Metalwork Colossus,CMM,de,1
 Mightstone's Animation,BRO,de,1
@@ -147,8 +147,8 @@ Nihil Spellbomb,A25,de,1
 Noxious Gearhulk,DSC,de,1
 Oblivion Stone,M3C,de,1
 One with the Machine,DRC,de,1
-Oni-Cult Anvil,NEO,de,1
-Ornithopter,DMR,de,1
+Oni-Cult Anvil,BRC,de,1
+Ornithopter,BRR,de,1
 Orzhov Basilica,DRC,de,1
 Orzhov Signet,DSC,de,1
 Overwhelming Remorse,BRO,de,1
@@ -184,9 +184,9 @@ Seat of the Synod,BRC,de,2
 Servo,TCMM,de,6
 Servo Schematic,AER,de,1
 Shadowblood Ridge,DSC,de,1
-Sharding Sphinx,MOC,de,1
+Sharding Sphinx,BRC,de,1
 Sharuum the Hegemon,2XM,de,1
-Shimmer Dragon,MKC,de,1
+Shimmer Dragon,BRC,de,1
 Shoot Down,BRO,de,1
 Sigil of Valor,ORI,de,1
 "Silas Renn, Seeker Adept",BRC,de,1
@@ -229,8 +229,8 @@ The Mightstone and Weakstone,BRO,de,1
 The Stasis Coffin,BRO,en,1
 Third Path Savant,BRO,de,1
 Thirst for Knowledge,BRC,de,1
-Thopter,TBRC,de,1
-Thopter,TBRO,de,3
+Thopter,TBRC,de,3
+Thopter,TMH3,de,1
 Thopter Shop,BRC,de,1
 Thopter Spy Network,DRC,de,1
 Thought Monitor,MKC,de,1
@@ -248,13 +248,13 @@ Trading Post,CM2,de,1
 Transmogrant's Crown,BRO,de,1
 "Traxos, Scourge of Kroog",BRC,de,1
 Trench Stalker,BRO,de,1
-Unbreakable Formation,RVR,de,1
+Unbreakable Formation,BRC,de,1
 Unleash Shell,BRO,de,1
 "Urza, Chief Artificer",BRC,de,1
 "Urza, Powerstone Prodigy",BRO,de,1
 "Urza, Prince of Kroog",BRO,de,2
 Urza's Rebuff,BRO,de,1
-Urza's Ruinous Blast,CMM,de,1
+Urza's Ruinous Blast,BRC,de,1
 Vault of Whispers,BRC,de,2
 Vedalken Humiliator,MOC,de,1
 Vindicate,BRC,de,1
