@@ -2,6 +2,7 @@ Name,Set code,Language,Quantity
 Alien Angel,TWHO,de,4
 Arcane Signet,DRC,de,1
 "Ashad, the Lone Cyberman",WHO,de,1
+"Ashad, the Lone Cyberman",WHO,en,1
 Auton Soldier,WHO,de,1
 Blasphemous Act,DRC,de,1
 Blink,WHO,de,1
@@ -23,6 +24,7 @@ Cybermen Squadron,WHO,de,1
 Cybership,WHO,de,1
 Dalek,TWHO,de,5
 Dalek Drone,WHO,de,1
+Dalek Drone,WHO,en,2
 Dalek Squadron,WHO,de,1
 Darkwater Catacombs,OTC,de,1
 "Davros, Dalek Creator",WHO,de,1
@@ -54,6 +56,7 @@ Mark of the Rani,TWHO,de,3
 Midnight Crusader Shuttle,WHO,de,1
 Mind Stone,DSC,de,1
 Missy,WHO,de,1
+Nanogene Conversion,WHO,de,1
 Ominous Cemetery,WHO,de,1
 Path of Ancestry,DRC,de,1
 Propaganda,M3C,de,1
@@ -63,21 +66,21 @@ Renegade Silent,WHO,de,1
 River of Tears,MKC,de,1
 Shadowblood Ridge,DSC,de,1
 Shipwreck Marsh,INR,de,1
-Smoldering Marsh,DSC,de,1
-Snuff Out,GVL,de,1
-Sol Ring,DRC,de,1
-Solemn Simulacrum,DRC,de,1
+Smoldering Marsh,WHO,de,1
+Snuff Out,WHO,de,1
+Sol Ring,WHO,de,1
+Solemn Simulacrum,WHO,de,1
 Sontaran General,WHO,de,1
-Stormcarved Coast,INR,de,1
-Sunken Hollow,DRC,de,1
+Stormcarved Coast,WHO,de,1
+Sunken Hollow,WHO,de,1
 Sycorax Commander,WHO,de,1
-Talisman of Dominance,DRC,de,1
-Talisman of Indulgence,DSC,de,1
-Temple of Deceit,DRC,de,1
-Temple of Epiphany,DRC,de,1
-Temple of Malice,FDN,de,1
-Temple of the False God,DSC,de,1
-Terramorphic Expanse,DRC,de,1
+Talisman of Dominance,WHO,de,1
+Talisman of Indulgence,WHO,de,1
+Temple of Deceit,WHO,de,1
+Temple of Epiphany,WHO,de,1
+Temple of Malice,WHO,de,1
+Temple of the False God,WHO,de,1
+Terramorphic Expanse,WHO,de,1
 "The Beast, Deathless Prince",WHO,de,1
 The Cyber-Controller,WHO,de,1
 The Dalek Emperor,WHO,de,1

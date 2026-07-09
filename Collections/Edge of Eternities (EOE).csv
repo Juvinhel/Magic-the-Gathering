@@ -48,11 +48,11 @@ Consult the Star Charts,EOE,de,1
 Coretapper,2XM,de,1
 Cryogen Relic,EOE,de,3
 Cryoshatter,EOE,de,3
-Crystalline Crawler,CM2,de,1
+Crystalline Crawler,EOC,de,1
 Cut Propulsion,EOE,de,1
 Cyberdrive Awakener,NEC,de,1
 Dark Endurance,EOE,de,4
-Darksteel Reactor,DST,de,1
+Darksteel Reactor,EOC,de,1
 Dauntless Scrapbot,EOE,de,1
 Dawnstrike Vanguard,EOE,de,2
 Debris Field Crusher,EOE,de,1
@@ -78,7 +78,7 @@ Edge Rover,EOE,de,1
 Eldrazi Temple,EOS,de,1
 Embrace Oblivion,EOE,de,4
 Emergency Eject,EOE,de,1
-Empowered Autogenerator,C19,de,1
+Empowered Autogenerator,EOC,de,1
 "Emry, Lurker of the Loch",NEC,de,1
 Endless Sands,EOS,de,1
 Enthusiastic Mechanaut,NEO,de,1
@@ -124,7 +124,7 @@ Gravpack Monoist,EOE,de,5
 Great Furnace,C21,de,1
 "Haliya, Ascendant Cadet",EOE,de,1
 "Haliya, Guided by Light",EOE,de,1
-Hangarback Walker,CMM,de,1
+Hangarback Walker,EOC,de,1
 Harmonious Grovestrider,EOE,de,1
 Honor,EOE,de,2
 Honored Knight-Captain,EOE,de,1
@@ -146,7 +146,7 @@ Interceptor Mechan,EOE,de,1
 Intrepid Tenderfoot,EOE,de,3
 Invasive Maneuvers,EOE,de,2
 Irrigated Farmland,TDC,de,1
-"Jhoira, Weatherlight Captain",2XM,de,1
+"Jhoira, Weatherlight Captain",EOC,de,1
 Kappa Cannoneer,MH3,de,1
 Karn's Bastion,RVR,de,1
 Kav Landseeker,EOE,de,4
@@ -156,6 +156,7 @@ Kavaron Turbodrone,EOE,de,3
 "Kilo, Apogee Mind",EOC,de,1
 Knight Luminary,EOE,de,3
 Lander,TEOE,de,23
+Lander,TEOE,en,1
 Larval Scoutlander,EOE,de,1
 Lashwhip Predator,EOE,de,3
 Lightstall Inquisitor,EOE,de,1
@@ -219,11 +220,13 @@ Resourceful Defense,NCC,de,1
 Rig for War,EOE,de,3
 Ripples of Potential,LCC,de,1
 Robot,TEOE,de,24
+Robot,TEOE,en,1
 Roving Actuator,EOE,de,1
 Rugged Prairie,TDC,de,1
 Ruinous Rampage,EOE,de,2
 Rust Harvester,EOE,de,1
 Rustvale Bridge,MH2,de,1
+Sacred Foundry,EOE,de,1
 "Sami, Ship's Engineer",EOE,de,1
 Sami's Curiosity,EOE,de,3
 Scour for Scrap,EOE,de,2
@@ -308,7 +311,7 @@ Virulent Silencer,EOE,de,1
 Virus Beetle,EOE,de,3
 Voidforged Titan,EOE,de,2
 Vote Out,EOE,de,2
-Wake the Past,C21,de,1
+Wake the Past,EOC,de,1
 Warmaker Gunship,EOE,de,1
 Watery Grave,EOE,de,1
 Weapons Manufacturing,EOE,de,1

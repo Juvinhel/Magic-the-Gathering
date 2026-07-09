@@ -43,7 +43,7 @@ Chromatic Lantern,M3C,de,1
 Cinder Strike,ECL,de,1
 Collective Inferno,ECL,de,2
 Command Tower,ECC,de,1
-Copy,TDSK,de,6
+Copy,TECC,de,6
 Creakwood Safewright,ECL,de,2
 Cream of the Crop,MOR,de,1
 Crib Swap,ECL,de,1
@@ -64,8 +64,8 @@ Eclipsed Kithkin,ECL,de,1
 Eclipsed Merrow,ECL,de,3
 "Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight",ECL,de,1
 Elder Auntie,ECL,de,4
-Elemental,T2XM,de,2
 Elemental,TBLC,de,3
+Elemental,TECC,de,2
 Elemental,TEOC,de,3
 Elemental Spectacle,ECC,de,1
 Elf,TECL,de,2
@@ -157,17 +157,18 @@ Nightmare Sower,ECL,de,1
 Omni-Changeling,ECL,de,1
 Opal Palace,CMM,de,1
 Opulent Palace,TDM,de,1
+"Ozolith, the Shattered Spire",MOM,en,1
 Path of Ancestry,TDC,de,1
 Path to Exile,OTC,de,1
 Personify,ECL,de,1
-Plant,TTDC,de,2
+Plant,TECC,de,2
 Prideful Feastling,ECL,de,1
 Primal Beyond,MOR,de,1
 Prismatic Undercurrents,ECL,de,1
 Pyrrhic Strike,ECL,de,2
 Raging Ravine,BLC,de,1
 Rain-Slicked Copse,ECC,de,1
-Reality Shift,ECC,de,1
+Reality Shift,TDC,de,1
 Realmwalker,LCC,de,1
 Reckless Ransacking,ECL,de,2
 Reluctant Dounguard,ECL,de,1
@@ -196,7 +197,7 @@ Shimmercreep,ECL,de,1
 Shimmerwilds Growth,ECL,de,1
 Shinestriker,ECL,de,1
 Shore Lurker,ECL,de,3
-Shriekmaw,ECC,de,1
+Shriekmaw,MKC,de,1
 Silvergill Mentor,ECL,de,1
 Silvergill Peddler,ECL,de,1
 Sizzling Changeling,ECL,de,1
